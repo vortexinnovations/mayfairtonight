@@ -50,22 +50,31 @@ export default function RootLayout({
         <main className="pb-20 md:pb-0">{children}</main>
         <Footer />
 
-        {/* LocalBusiness Schema */}
+        {/* WebSite Schema */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
               "@context": "https://schema.org",
-              "@type": "LocalBusiness",
+              "@type": "WebSite",
               name: "Mayfair Tonight",
-              description:
-                "Your insider guide to what's happening tonight at Mayfair's best nightclubs. Table bookings, events, and recommendations.",
               url: "https://mayfairtonight.com",
-              areaServed: {
-                "@type": "City",
-                name: "London",
+              description: "The insider guide to Mayfair nightlife. Club comparisons, guestlist guides, dress codes, and nightlife planning for Mayfair, London.",
+              publisher: {
+                "@type": "Organization",
+                name: "Mayfair Tonight",
+                url: "https://mayfairtonight.com",
+                areaServed: {
+                  "@type": "Place",
+                  name: "Mayfair, London",
+                  address: {
+                    "@type": "PostalAddress",
+                    addressLocality: "Mayfair",
+                    addressRegion: "London",
+                    addressCountry: "GB",
+                  },
+                },
               },
-              serviceType: "Nightclub Table Booking & Nightlife Guide",
             }),
           }}
         />

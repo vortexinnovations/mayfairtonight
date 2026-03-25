@@ -198,10 +198,49 @@ export default async function ClubPage({
           </>
         )}
 
-        {/* Related clubs — always show open clubs */}
+        {/* Explore Mayfair Guides */}
+        {!isClosed && (
+          <section className="mb-8">
+            <h2 className="text-lg font-semibold text-white mb-3">
+              Explore Mayfair Nightlife Guides
+            </h2>
+            <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
+              {club.musicPolicy.some((m) => ["Hip-Hop", "RnB"].includes(m)) && (
+                <Link href="/best-hip-hop-clubs-in-mayfair" className="bg-dark-card border border-dark-border rounded-lg p-3 hover:border-gold/30 transition-colors">
+                  <p className="text-sm font-medium text-white">Best Hip-Hop Clubs</p>
+                  <p className="text-xs text-dark-muted mt-0.5">Mayfair ranked guide</p>
+                </Link>
+              )}
+              {club.musicPolicy.some((m) => ["House", "Deep House", "Tech House"].includes(m)) && (
+                <Link href="/mayfair-clubs-by-music-style" className="bg-dark-card border border-dark-border rounded-lg p-3 hover:border-gold/30 transition-colors">
+                  <p className="text-sm font-medium text-white">Clubs by Music Style</p>
+                  <p className="text-xs text-dark-muted mt-0.5">Find your sound</p>
+                </Link>
+              )}
+              <Link href="/mayfair-club-dress-code" className="bg-dark-card border border-dark-border rounded-lg p-3 hover:border-gold/30 transition-colors">
+                <p className="text-sm font-medium text-white">Dress Code Guide</p>
+                <p className="text-xs text-dark-muted mt-0.5">What to wear to {club.name}</p>
+              </Link>
+              <Link href="/mayfair-club-entry-rules" className="bg-dark-card border border-dark-border rounded-lg p-3 hover:border-gold/30 transition-colors">
+                <p className="text-sm font-medium text-white">Entry Rules</p>
+                <p className="text-xs text-dark-muted mt-0.5">Door policy &amp; tips</p>
+              </Link>
+              <Link href="/best-clubs-for-groups-in-mayfair" className="bg-dark-card border border-dark-border rounded-lg p-3 hover:border-gold/30 transition-colors">
+                <p className="text-sm font-medium text-white">Best for Groups</p>
+                <p className="text-xs text-dark-muted mt-0.5">Group night planning</p>
+              </Link>
+              <Link href="/mayfair-night-out-itinerary" className="bg-dark-card border border-dark-border rounded-lg p-3 hover:border-gold/30 transition-colors">
+                <p className="text-sm font-medium text-white">Night Out Itinerary</p>
+                <p className="text-xs text-dark-muted mt-0.5">Plan your evening</p>
+              </Link>
+            </div>
+          </section>
+        )}
+
+        {/* Related clubs */}
         <section className="mb-8">
           <h2 className="text-lg font-semibold text-white mb-3">
-            {isClosed ? "Open Clubs in Mayfair" : `Similar Clubs in ${club.area}`}
+            {isClosed ? "Open Clubs in Mayfair" : "Similar Clubs Nearby"}
           </h2>
           <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
             {openClubs

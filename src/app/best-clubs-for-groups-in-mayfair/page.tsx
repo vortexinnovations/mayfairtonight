@@ -695,6 +695,30 @@ export default function BestClubsForGroupsPage() {
         }}
       />
 
+      {/* ItemList Schema */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "ItemList",
+            name: "Best Mayfair Clubs for Groups",
+            itemListElement: groupRecommendations
+              .flatMap((group) => group.clubs)
+              .filter(
+                (club, index, self) =>
+                  self.findIndex((c) => c.slug === club.slug) === index
+              )
+              .map((club, index) => ({
+                "@type": "ListItem",
+                position: index + 1,
+                name: club.name,
+                url: `https://mayfairtonight.com/clubs/${club.slug}`,
+              })),
+          }),
+        }}
+      />
+
       <StickyBookingBar />
     </>
   );

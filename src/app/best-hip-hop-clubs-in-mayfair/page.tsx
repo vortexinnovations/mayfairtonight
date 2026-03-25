@@ -606,6 +606,24 @@ export default function BestHipHopClubsPage() {
         }}
       />
 
+      {/* ItemList Schema */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "ItemList",
+            name: "Best Hip-Hop & RnB Clubs in Mayfair — Ranked for 2026",
+            itemListElement: hipHopClubs.map((club) => ({
+              "@type": "ListItem",
+              position: club.rank,
+              name: club.name,
+              url: `https://mayfairtonight.com/clubs/${club.slug}`,
+            })),
+          }),
+        }}
+      />
+
       <StickyBookingBar />
     </>
   );

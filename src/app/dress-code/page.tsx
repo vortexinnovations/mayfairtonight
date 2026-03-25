@@ -5,14 +5,14 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 
 export const metadata: Metadata = {
-  title: "Mayfair Club Dress Code Guide — What to Wear at London Nightclubs",
+  title: "London Nightclub Dress Code — What to Wear Going Out",
   description:
-    "The complete dress code guide for Mayfair nightclubs. What to wear for men and women, what gets you turned away, and specific dress codes for every club. Don't get caught at the door.",
+    "What to wear to London nightclubs in 2026. General dress code rules for men and women, what gets you turned away, and how to dress for any club night. Practical, no-nonsense guide.",
   alternates: { canonical: "https://mayfairtonight.com/dress-code" },
   openGraph: {
-    title: "Mayfair Club Dress Code Guide — What to Wear",
+    title: "London Nightclub Dress Code Guide",
     description:
-      "Everything you need to know about dressing for Mayfair's nightclubs. Specific dress codes for every venue, tips for men and women.",
+      "The practical guide to dressing for London nightclubs. What works, what doesn't, and tips for men and women.",
     url: "https://mayfairtonight.com/dress-code",
   },
 };

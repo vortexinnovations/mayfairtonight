@@ -620,6 +620,24 @@ export default function BestClubsForTablesPage() {
         }}
       />
 
+      {/* ItemList Schema */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "ItemList",
+            name: "Best Mayfair Clubs for Table Bookings",
+            itemListElement: tableClubs.map((club) => ({
+              "@type": "ListItem",
+              position: club.rank,
+              name: club.name,
+              url: `https://mayfairtonight.com/clubs/${club.slug}`,
+            })),
+          }),
+        }}
+      />
+
       <StickyBookingBar />
     </>
   );

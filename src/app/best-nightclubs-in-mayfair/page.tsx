@@ -266,10 +266,13 @@ export default function BestNightclubsPage() {
           Best Nightclubs in Mayfair —{" "}
           <span className="text-gold">Ranked for 2026</span>
         </h1>
+        <p className="text-dark-muted text-xs mb-3">
+          Last updated: March 2026 · Covering Mayfair, St James&apos;s &amp; central London
+        </p>
         <p className="text-gray-300 text-lg mb-4 max-w-3xl">
           An honest, opinionated ranking of every nightclub worth going to in
-          Mayfair. No sponsored placements. No paid features. Just genuine picks
-          from people who go out in Mayfair every week.
+          Mayfair — from Berkeley Square to Piccadilly, Hanover Square to Dover Street. No sponsored placements. No paid features. Just genuine picks
+          from people who are out in Mayfair every week.
         </p>
         <p className="text-dark-muted text-sm mb-8">
           Want the full breakdown of every venue?{" "}
@@ -578,6 +581,24 @@ export default function BestNightclubsPage() {
                 item: "https://mayfairtonight.com/best-nightclubs-in-mayfair",
               },
             ],
+          }),
+        }}
+      />
+
+      {/* ItemList Schema */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "ItemList",
+            name: "Best Nightclubs in Mayfair — Ranked for 2026",
+            itemListElement: rankedClubs.map((club) => ({
+              "@type": "ListItem",
+              position: club.rank,
+              name: club.name,
+              url: `https://mayfairtonight.com/clubs/${club.slug}`,
+            })),
           }),
         }}
       />

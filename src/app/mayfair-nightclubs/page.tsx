@@ -131,11 +131,14 @@ export default function MayfairNightclubsPage() {
         <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">
           Mayfair Nightclubs — <span className="text-gold">The Complete Guide</span>
         </h1>
+        <p className="text-dark-muted text-xs mb-3">
+          Last updated: March 2026 · Covers Berkeley Square, Hanover Square, Dover Street &amp; surrounding Mayfair
+        </p>
         <p className="text-gray-300 text-lg mb-4 max-w-3xl">
-          Every nightclub worth knowing about in Mayfair, London. This is the
-          only guide you need — who plays what, which nights to go, what to
-          wear, and how to get on the guestlist. Written by people who go out in
-          Mayfair every week.
+          Every nightclub worth knowing about in Mayfair, London — from the exclusive tables of
+          Hanover Square to the theatrical clubs near Piccadilly, and the late-night bars around
+          Dover Street and Berkeley Square. Who plays what, which nights to go, what to
+          wear, and how to get on the guestlist.
         </p>
         <p className="text-dark-muted text-sm mb-8">
           Looking for what&apos;s on tonight specifically?{" "}
@@ -374,30 +377,87 @@ export default function MayfairNightclubsPage() {
           </div>
         </section>
 
-        {/* Related content */}
+        {/* Compare & Choose */}
         <section className="mb-8">
           <h2 className="text-xl font-semibold text-white mb-4">
-            More Mayfair Nightlife Guides
+            Compare Mayfair Clubs
           </h2>
+          <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
+            <Link href="/best-hip-hop-clubs-in-mayfair" className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors">
+              <p className="font-medium text-white">Hip-Hop Clubs</p>
+              <p className="text-xs text-dark-muted mt-1">Ranked Mayfair guide</p>
+            </Link>
+            <Link href="/best-celebrity-clubs-in-mayfair" className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors">
+              <p className="font-medium text-white">Celebrity Clubs</p>
+              <p className="text-xs text-dark-muted mt-1">Where the A-list goes</p>
+            </Link>
+            <Link href="/mayfair-clubs-by-music-style" className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors">
+              <p className="font-medium text-white">By Music Style</p>
+              <p className="text-xs text-dark-muted mt-1">Find your sound</p>
+            </Link>
+            <Link href="/best-clubs-for-groups-in-mayfair" className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors">
+              <p className="font-medium text-white">Best for Groups</p>
+              <p className="text-xs text-dark-muted mt-1">Crew night planning</p>
+            </Link>
+            <Link href="/best-clubs-for-tables-in-mayfair" className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors">
+              <p className="font-medium text-white">Best for Tables</p>
+              <p className="text-xs text-dark-muted mt-1">Table experience compared</p>
+            </Link>
+            <Link href="/girls-guestlist-clubs-mayfair" className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors">
+              <p className="font-medium text-white">Girls&apos; Night</p>
+              <p className="text-xs text-dark-muted mt-1">Guestlist &amp; planning</p>
+            </Link>
+          </div>
+        </section>
+
+        {/* Plan & Prepare */}
+        <section className="mb-8">
+          <h2 className="text-xl font-semibold text-white mb-4">
+            Plan Your Night
+          </h2>
+          <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
+            <Link href="/best-nightclubs-in-mayfair" className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors">
+              <p className="font-medium text-white">Best Clubs Ranked</p>
+              <p className="text-xs text-dark-muted mt-1">Our honest picks for 2026</p>
+            </Link>
+            <Link href="/mayfair-nightlife-guide" className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors">
+              <p className="font-medium text-white">Nightlife Guide</p>
+              <p className="text-xs text-dark-muted mt-1">Everything before going out</p>
+            </Link>
+            <Link href="/mayfair-night-out-itinerary" className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors">
+              <p className="font-medium text-white">Night Out Itinerary</p>
+              <p className="text-xs text-dark-muted mt-1">5 curated evening plans</p>
+            </Link>
+            <Link href="/mayfair-club-dress-code" className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors">
+              <p className="font-medium text-white">Dress Code</p>
+              <p className="text-xs text-dark-muted mt-1">What to wear per venue</p>
+            </Link>
+            <Link href="/mayfair-club-entry-rules" className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors">
+              <p className="font-medium text-white">Entry Rules</p>
+              <p className="text-xs text-dark-muted mt-1">Door policies &amp; tips</p>
+            </Link>
+            <Link href="/mayfair-club-guestlist-guide" className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors">
+              <p className="font-medium text-white">Guestlist Guide</p>
+              <p className="text-xs text-dark-muted mt-1">How to get on the list</p>
+            </Link>
+            <Link href="/where-to-go-out-in-mayfair" className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors">
+              <p className="font-medium text-white">Where to Go Out</p>
+              <p className="text-xs text-dark-muted mt-1">Decision guide by vibe</p>
+            </Link>
+            <Link href="/mayfair-vip-nightlife" className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors">
+              <p className="font-medium text-white">VIP Guide</p>
+              <p className="text-xs text-dark-muted mt-1">Exclusivity tiers explained</p>
+            </Link>
+            <Link href="/best-areas-around-hanover-square-and-berkeley-square-for-nightlife" className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors">
+              <p className="font-medium text-white">Nightlife Areas</p>
+              <p className="text-xs text-dark-muted mt-1">Hanover Sq, Berkeley Sq &amp; more</p>
+            </Link>
+          </div>
+        </section>
+
+        {/* Original related content - keeping the link that was here */}
+        <section className="mb-8 hidden">
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
-            <Link
-              href="/best-nightclubs-in-mayfair"
-              className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors"
-            >
-              <p className="font-medium text-white">Best Nightclubs in Mayfair</p>
-              <p className="text-xs text-dark-muted mt-1">
-                Our ranked picks for the best clubs right now
-              </p>
-            </Link>
-            <Link
-              href="/mayfair-nightlife-guide"
-              className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors"
-            >
-              <p className="font-medium text-white">Mayfair Nightlife Guide</p>
-              <p className="text-xs text-dark-muted mt-1">
-                Everything you need to know before going out
-              </p>
-            </Link>
             <Link
               href="/where-to-go-tonight"
               className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors"

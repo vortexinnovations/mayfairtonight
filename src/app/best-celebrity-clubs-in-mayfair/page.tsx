@@ -538,6 +538,24 @@ export default function BestCelebrityClubsPage() {
         }}
       />
 
+      {/* ItemList Schema */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "ItemList",
+            name: "Celebrity Clubs in Mayfair — Where the A-List Goes",
+            itemListElement: celebrityClubs.map((club) => ({
+              "@type": "ListItem",
+              position: club.rank,
+              name: club.name,
+              url: `https://mayfairtonight.com/clubs/${club.slug}`,
+            })),
+          }),
+        }}
+      />
+
       <StickyBookingBar />
     </>
   );

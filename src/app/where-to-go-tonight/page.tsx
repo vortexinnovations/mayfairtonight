@@ -4,16 +4,16 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 
 export const metadata: Metadata = {
-  title: "Where Should I Go Tonight? — Best Clubs in Mayfair London",
+  title: "Where Should I Go Tonight? — Quick Picks by Vibe",
   description:
-    "Not sure where to go tonight in London? Our insider guide breaks it down by vibe — hip-hop, house music, live entertainment, intimate bars. Find your perfect night out in Mayfair.",
+    "It's tonight and you need a plan. Pick your vibe — hip-hop, house, shows, cocktails — and we'll tell you exactly which Mayfair club to go to right now.",
   alternates: {
     canonical: "https://mayfairtonight.com/where-to-go-tonight",
   },
   openGraph: {
-    title: "Where Should I Go Tonight? — Best Clubs in Mayfair",
+    title: "Where Should I Go Tonight? — Instant Club Picks",
     description:
-      "Not sure where to go? We break down Mayfair's best clubs by vibe so you can find the perfect night out in seconds.",
+      "Pick a vibe, get a club. The fastest way to decide where to go out tonight in Mayfair.",
     url: "https://mayfairtonight.com/where-to-go-tonight",
   },
 };

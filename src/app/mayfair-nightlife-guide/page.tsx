@@ -69,11 +69,14 @@ export default function MayfairNightlifeGuidePage() {
           Mayfair Nightlife Guide —{" "}
           <span className="text-gold">The Insider&apos;s Handbook</span>
         </h1>
+        <p className="text-dark-muted text-xs mb-3">
+          Last updated: March 2026 · Covers Mayfair, Berkeley Square, Hanover Square, Dover Street, St James&apos;s
+        </p>
         <p className="text-gray-300 text-lg mb-4 max-w-3xl">
-          Everything you need to know before going out in Mayfair. This is the
-          guide we wish someone had given us the first time — where to go, what
-          to wear, how to get in, and what to expect. Written by people who go
-          out in Mayfair every week.
+          Everything you need to know before going out in Mayfair. From the exclusive
+          clubs around Hanover Square to the cocktail bars of Dover Street and the
+          showclubs near Piccadilly — where to go, what to wear, how to get in,
+          and what to expect.
         </p>
         <p className="text-dark-muted text-sm mb-8">
           Want to know what&apos;s on tonight?{" "}

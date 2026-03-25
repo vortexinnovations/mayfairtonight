@@ -1,13 +1,14 @@
 import { Metadata } from "next";
+import Link from "next/link";
 import { getOpenClubs } from "@/data/clubs";
 import ClubCard from "@/components/ClubCard";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 
 export const metadata: Metadata = {
-  title: "Mayfair Nightclubs — The Complete Guide to London's Best Clubs",
+  title: "All Clubs We Cover — Full Venue Directory",
   description:
-    "Every top nightclub in Mayfair and London — Tape London, Cirque Le Soir, Funky Buddha, The Box, and more. Opening times, music, dress code, and instant table bookings.",
+    "Browse every nightclub we cover across Mayfair and central London. Quick access to opening nights, music policy, dress code, and booking info for each venue.",
   alternates: { canonical: "https://mayfairtonight.com/clubs" },
 };
 
@@ -18,11 +19,11 @@ export default function ClubsPage() {
         <div className="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4 mb-8">
           <div>
             <h1 className="text-3xl sm:text-4xl font-bold text-white">
-              Mayfair <span className="text-gold">Nightclubs</span>
+              All <span className="text-gold">Clubs</span>
             </h1>
             <p className="text-dark-muted mt-2">
-              The complete guide to London&apos;s best clubs — insider info, music
-              policy, and instant table bookings.
+              Every venue we cover — browse the full directory. For our ranked guide, see{" "}
+              <Link href="/best-nightclubs-in-mayfair" className="text-gold hover:text-gold-light">best nightclubs in Mayfair</Link>.
             </p>
           </div>
           <div className="hidden md:block">
