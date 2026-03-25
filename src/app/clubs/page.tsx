@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import { clubs } from "@/data/clubs";
+import { getOpenClubs } from "@/data/clubs";
 import ClubCard from "@/components/ClubCard";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
@@ -7,7 +7,7 @@ import StickyBookingBar from "@/components/StickyBookingBar";
 export const metadata: Metadata = {
   title: "Mayfair Nightclubs — The Complete Guide to London's Best Clubs",
   description:
-    "Every top nightclub in Mayfair and London — Tape London, Cirque Le Soir, Libertine, Ministry of Sound, and more. Opening times, music, dress code, and instant table bookings.",
+    "Every top nightclub in Mayfair and London — Tape London, Cirque Le Soir, Funky Buddha, The Box, and more. Opening times, music, dress code, and instant table bookings.",
   alternates: { canonical: "https://mayfairtonight.com/clubs" },
 };
 
@@ -31,7 +31,7 @@ export default function ClubsPage() {
         </div>
 
         <div className="space-y-4">
-          {clubs.map((club) => (
+          {getOpenClubs().map((club) => (
             <ClubCard
               key={club.slug}
               slug={club.slug}

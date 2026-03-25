@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 import Link from "next/link";
-import { clubs } from "@/data/clubs";
+import { getOpenClubs } from "@/data/clubs";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 
@@ -41,12 +41,12 @@ const faqs = [
   {
     question: "Which Mayfair club has the strictest dress code?",
     answer:
-      "Tape London has the strictest door in Mayfair. It's a members club with an invite-only policy most nights, and the dress code reflects that — think designer labels and serious style. Maddox and Lio Club also enforce strict smart dress codes given their restaurant-to-club formats.",
+      "Tape London has the strictest door in Mayfair. It's a members club with an invite-only policy most nights, and the dress code reflects that — think designer labels and serious style. Maddox and Selene London also enforce strict smart dress codes given their refined venues.",
   },
   {
-    question: "Do I need to dress up for Ministry of Sound?",
+    question: "Does BEAT London have a strict dress code?",
     answer:
-      "Ministry of Sound has a more relaxed dress code compared to Mayfair clubs. It's a music-first venue where comfort matters — you'll be dancing for hours. Casual and comfortable is fine. No formal dress code is enforced.",
+      "BEAT London is more relaxed than most Mayfair venues. It's a music-first club where the focus is on the sound system and the party. Smart casual works — no sportswear, but smart trainers with a sharp outfit are usually fine.",
   },
 ];
 
@@ -177,7 +177,7 @@ export default function DressCodePage() {
             Dress Code by Club
           </h2>
           <div className="space-y-3">
-            {clubs.map((club) => (
+            {getOpenClubs().map((club) => (
               <div
                 key={club.slug}
                 className="bg-dark-card border border-dark-border rounded-lg p-4"

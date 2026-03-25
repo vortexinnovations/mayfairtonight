@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import ClubCard from "@/components/ClubCard";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
-import { clubs } from "@/data/clubs";
+import { clubs, getOpenClubs } from "@/data/clubs";
 import eventsData from "@/data/events.json";
 import { getTodayString, getDayOfWeek, formatDate } from "@/lib/utils";
 import Link from "next/link";
@@ -29,7 +29,8 @@ export default function HomePage() {
   const tonightEvents = eventsData.filter((e) => e.date === today);
 
   // Get clubs open tonight based on day of week
-  const clubsOpenTonight = clubs.filter((c) =>
+  const openClubs = getOpenClubs();
+  const clubsOpenTonight = openClubs.filter((c) =>
     c.openNights.map((n) => n.toLowerCase()).includes(dayOfWeek.toLowerCase())
   );
 
@@ -193,7 +194,7 @@ export default function HomePage() {
             >
               <p className="font-semibold text-white">{night}</p>
               <p className="text-xs text-dark-muted mt-1">
-                {clubs.filter((c) =>
+                {openClubs.filter((c) =>
                   c.openNights.map((n) => n.toLowerCase()).includes(night.toLowerCase())
                 ).length}{" "}
                 clubs open
@@ -213,7 +214,7 @@ export default function HomePage() {
             Mayfair Tonight is your real-time guide to what&apos;s happening at
             London&apos;s most exclusive nightclubs. We cover every major venue in
             Mayfair and beyond — from members-only clubs like Tape London to
-            entertainment powerhouses like Cirque Le Soir and The London Reign.
+            entertainment powerhouses like Cirque Le Soir and Reign London.
           </p>
           <p>
             Whether you&apos;re looking for hip-hop, house music, live

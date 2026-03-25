@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { clubs, getClubBySlug } from "@/data/clubs";
+import { clubs, getClubBySlug, getOpenClubs } from "@/data/clubs";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 import Link from "next/link";
@@ -18,9 +18,15 @@ export async function generateMetadata({
   const club = getClubBySlug(slug);
   if (!club) return {};
 
+  const isClosed = club.status === "closed";
+
   return {
-    title: `${club.name} Tonight — What's On, Events & Table Bookings`,
-    description: `${club.name} in ${club.area} — ${club.tagline}. Open ${club.openNights.join(", ")}. ${club.musicPolicy.join(", ")} music. Tables from ${club.tableMinimum}. Book instantly via WhatsApp.`,
+    title: isClosed
+      ? `${club.name} — Permanently Closed | Alternatives & Updates`
+      : `${club.name} Tonight — What's On, Events & Table Bookings`,
+    description: isClosed
+      ? `${club.name} has permanently closed. Find the best alternative clubs in Mayfair and London. Updated guide with similar venues.`
+      : `${club.name} in ${club.area} — ${club.tagline}. Open ${club.openNights.join(", ")}. ${club.musicPolicy.join(", ")} music. Tables from ${club.tableMinimum}. Book instantly via WhatsApp.`,
     alternates: { canonical: `https://mayfairtonight.com/clubs/${club.slug}` },
     openGraph: {
       title: `${club.name} Tonight — Events, Music & Bookings`,
@@ -39,6 +45,9 @@ export default async function ClubPage({
   const club = getClubBySlug(slug);
   if (!club) notFound();
 
+  const isClosed = club.status === "closed";
+  const openClubs = getOpenClubs();
+
   return (
     <>
       <article className="max-w-4xl mx-auto px-4 pt-8">
@@ -56,39 +65,63 @@ export default async function ClubPage({
             <h1 className="text-3xl sm:text-4xl font-bold text-white">
               {club.name}
             </h1>
-            <p className="text-gold text-lg mt-1">{club.tagline}</p>
+            {isClosed ? (
+              <p className="text-red-400 text-lg font-semibold mt-1">Permanently Closed</p>
+            ) : (
+              <p className="text-gold text-lg mt-1">{club.tagline}</p>
+            )}
             <p className="text-dark-muted mt-1">{club.location}</p>
           </div>
-          <div className="shrink-0">
-            <WhatsAppCTA variant="club" clubName={club.name} size="md" />
-          </div>
+          {!isClosed && (
+            <div className="shrink-0">
+              <WhatsAppCTA variant="club" clubName={club.name} size="md" />
+            </div>
+          )}
         </div>
 
-        {/* Quick info cards */}
-        <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-8">
-          <div className="bg-dark-card border border-dark-border rounded-lg p-3">
-            <p className="text-xs text-dark-muted">Music</p>
-            <p className="text-sm font-medium text-white mt-0.5">
-              {club.musicPolicy.join(", ")}
-            </p>
+        {/* Closed venue banner */}
+        {isClosed && club.closedMessage && (
+          <div className="bg-red-950/30 border border-red-800/40 rounded-xl p-6 mb-8">
+            <h2 className="text-lg font-semibold text-red-400 mb-2">
+              {club.name} Has Permanently Closed
+            </h2>
+            <p className="text-gray-300 leading-relaxed">{club.closedMessage}</p>
+            <div className="mt-4">
+              <WhatsAppCTA size="md" />
+              <p className="text-dark-muted text-sm mt-2">
+                Message us and we&apos;ll recommend the best alternative for your night.
+              </p>
+            </div>
           </div>
-          <div className="bg-dark-card border border-dark-border rounded-lg p-3">
-            <p className="text-xs text-dark-muted">Opens</p>
-            <p className="text-sm font-medium text-white mt-0.5">
-              {club.openingTime} — {club.closingTime}
-            </p>
+        )}
+
+        {/* Quick info cards — only for open venues */}
+        {!isClosed && (
+          <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-8">
+            <div className="bg-dark-card border border-dark-border rounded-lg p-3">
+              <p className="text-xs text-dark-muted">Music</p>
+              <p className="text-sm font-medium text-white mt-0.5">
+                {club.musicPolicy.join(", ")}
+              </p>
+            </div>
+            <div className="bg-dark-card border border-dark-border rounded-lg p-3">
+              <p className="text-xs text-dark-muted">Opens</p>
+              <p className="text-sm font-medium text-white mt-0.5">
+                {club.openingTime} — {club.closingTime}
+              </p>
+            </div>
+            <div className="bg-dark-card border border-dark-border rounded-lg p-3">
+              <p className="text-xs text-dark-muted">Tables from</p>
+              <p className="text-sm font-medium text-gold mt-0.5">
+                {club.tableMinimum}
+              </p>
+            </div>
+            <div className="bg-dark-card border border-dark-border rounded-lg p-3">
+              <p className="text-xs text-dark-muted">Vibe</p>
+              <p className="text-sm font-medium text-white mt-0.5">{club.vibe}</p>
+            </div>
           </div>
-          <div className="bg-dark-card border border-dark-border rounded-lg p-3">
-            <p className="text-xs text-dark-muted">Tables from</p>
-            <p className="text-sm font-medium text-gold mt-0.5">
-              {club.tableMinimum}
-            </p>
-          </div>
-          <div className="bg-dark-card border border-dark-border rounded-lg p-3">
-            <p className="text-xs text-dark-muted">Vibe</p>
-            <p className="text-sm font-medium text-white mt-0.5">{club.vibe}</p>
-          </div>
-        </div>
+        )}
 
         {/* Main content */}
         <section className="mb-8">
@@ -98,76 +131,80 @@ export default async function ClubPage({
           <p className="text-gray-300 leading-relaxed">{club.description}</p>
         </section>
 
-        <section className="mb-8">
-          <h2 className="text-xl font-semibold text-white mb-3">
-            What to Expect
-          </h2>
-          <p className="text-gray-300 leading-relaxed">{club.whatToExpect}</p>
-        </section>
+        {!isClosed && (
+          <>
+            <section className="mb-8">
+              <h2 className="text-xl font-semibold text-white mb-3">
+                What to Expect
+              </h2>
+              <p className="text-gray-300 leading-relaxed">{club.whatToExpect}</p>
+            </section>
 
-        <section className="mb-8">
-          <h2 className="text-xl font-semibold text-white mb-3">
-            Opening Nights
-          </h2>
-          <div className="flex flex-wrap gap-2">
-            {club.openNights.map((night) => (
+            <section className="mb-8">
+              <h2 className="text-xl font-semibold text-white mb-3">
+                Opening Nights
+              </h2>
+              <div className="flex flex-wrap gap-2">
+                {club.openNights.map((night) => (
+                  <Link
+                    key={night}
+                    href={`/nights/${night.toLowerCase()}`}
+                    className="bg-dark-card border border-dark-border rounded-lg px-4 py-2 text-sm text-white hover:border-gold/30 transition-colors"
+                  >
+                    {night}
+                  </Link>
+                ))}
+              </div>
+              <p className="text-dark-muted text-sm mt-2">
+                {club.openingTime} — {club.closingTime}
+              </p>
+            </section>
+
+            <section className="mb-8">
+              <h2 className="text-xl font-semibold text-white mb-3">Dress Code</h2>
+              <p className="text-gray-300 leading-relaxed">{club.dressCode}</p>
+              <p className="text-dark-muted text-sm mt-2">{club.dressCodeNotes}</p>
               <Link
-                key={night}
-                href={`/nights/${night.toLowerCase()}`}
-                className="bg-dark-card border border-dark-border rounded-lg px-4 py-2 text-sm text-white hover:border-gold/30 transition-colors"
+                href="/dress-code"
+                className="text-gold text-sm hover:text-gold-light mt-2 inline-block"
               >
-                {night}
+                Full Mayfair dress code guide →
               </Link>
-            ))}
-          </div>
-          <p className="text-dark-muted text-sm mt-2">
-            {club.openingTime} — {club.closingTime}
-          </p>
-        </section>
+            </section>
 
-        <section className="mb-8">
-          <h2 className="text-xl font-semibold text-white mb-3">Dress Code</h2>
-          <p className="text-gray-300 leading-relaxed">{club.dressCode}</p>
-          <p className="text-dark-muted text-sm mt-2">{club.dressCodeNotes}</p>
-          <Link
-            href="/dress-code"
-            className="text-gold text-sm hover:text-gold-light mt-2 inline-block"
-          >
-            Full Mayfair dress code guide →
-          </Link>
-        </section>
+            <section className="mb-8">
+              <h2 className="text-xl font-semibold text-white mb-3">Insider Tip</h2>
+              <div className="bg-dark-card border-l-2 border-gold p-4 rounded-r-lg">
+                <p className="text-gray-300 italic">{club.insiderTip}</p>
+              </div>
+            </section>
 
-        <section className="mb-8">
-          <h2 className="text-xl font-semibold text-white mb-3">Insider Tip</h2>
-          <div className="bg-dark-card border-l-2 border-gold p-4 rounded-r-lg">
-            <p className="text-gray-300 italic">{club.insiderTip}</p>
-          </div>
-        </section>
+            <section className="mb-8">
+              <h2 className="text-xl font-semibold text-white mb-3">Best For</h2>
+              <p className="text-gray-300">{club.bestFor}</p>
+            </section>
 
-        <section className="mb-8">
-          <h2 className="text-xl font-semibold text-white mb-3">Best For</h2>
-          <p className="text-gray-300">{club.bestFor}</p>
-        </section>
+            {/* CTA block */}
+            <div className="bg-dark-card border border-gold/30 rounded-xl p-6 text-center mb-8">
+              <h2 className="text-xl font-semibold text-white mb-2">
+                Book a Table at {club.name}
+              </h2>
+              <p className="text-dark-muted mb-4">
+                Tables from {club.tableMinimum}. Message us on WhatsApp and we&apos;ll
+                sort everything out.
+              </p>
+              <WhatsAppCTA variant="club" clubName={club.name} size="lg" />
+            </div>
+          </>
+        )}
 
-        {/* CTA block */}
-        <div className="bg-dark-card border border-gold/30 rounded-xl p-6 text-center mb-8">
-          <h2 className="text-xl font-semibold text-white mb-2">
-            Book a Table at {club.name}
-          </h2>
-          <p className="text-dark-muted mb-4">
-            Tables from {club.tableMinimum}. Message us on WhatsApp and we&apos;ll
-            sort everything out.
-          </p>
-          <WhatsAppCTA variant="club" clubName={club.name} size="lg" />
-        </div>
-
-        {/* Related clubs */}
+        {/* Related clubs — always show open clubs */}
         <section className="mb-8">
           <h2 className="text-lg font-semibold text-white mb-3">
-            Similar Clubs in {club.area}
+            {isClosed ? "Open Clubs in Mayfair" : `Similar Clubs in ${club.area}`}
           </h2>
           <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
-            {clubs
+            {openClubs
               .filter((c) => c.slug !== club.slug)
               .slice(0, 6)
               .map((c) => (
@@ -188,28 +225,43 @@ export default async function ClubPage({
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
-            "@context": "https://schema.org",
-            "@type": "NightClub",
-            name: club.name,
-            description: club.description,
-            address: {
-              "@type": "PostalAddress",
-              streetAddress: club.location,
-              addressLocality: "London",
-              addressCountry: "GB",
-            },
-            openingHours: club.openNights.map(
-              (night) =>
-                `${night.substring(0, 2)} ${club.openingTime}-${club.closingTime}`
-            ),
-            priceRange: `Tables from ${club.tableMinimum}`,
-            servesCuisine: club.musicPolicy.join(", "),
-          }),
+          __html: JSON.stringify(
+            isClosed
+              ? {
+                  "@context": "https://schema.org",
+                  "@type": "NightClub",
+                  name: club.name,
+                  description: `${club.name} has permanently closed.`,
+                  address: {
+                    "@type": "PostalAddress",
+                    streetAddress: club.location,
+                    addressLocality: "London",
+                    addressCountry: "GB",
+                  },
+                }
+              : {
+                  "@context": "https://schema.org",
+                  "@type": "NightClub",
+                  name: club.name,
+                  description: club.description,
+                  address: {
+                    "@type": "PostalAddress",
+                    streetAddress: club.location,
+                    addressLocality: "London",
+                    addressCountry: "GB",
+                  },
+                  openingHours: club.openNights.map(
+                    (night) =>
+                      `${night.substring(0, 2)} ${club.openingTime}-${club.closingTime}`
+                  ),
+                  priceRange: `Tables from ${club.tableMinimum}`,
+                  servesCuisine: club.musicPolicy.join(", "),
+                }
+          ),
         }}
       />
 
-      <StickyBookingBar variant="club" clubName={club.name} />
+      {!isClosed && <StickyBookingBar variant="club" clubName={club.name} />}
     </>
   );
 }

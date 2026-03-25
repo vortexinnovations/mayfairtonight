@@ -27,11 +27,11 @@ Tables from £1,500. Open Wednesday to Saturday. This is hip-hop for people who 
 
 [TABU](/clubs/tabu-london) plays hip-hop and RnB but the vibe is different. The Japanese underground theme creates a darker, moodier atmosphere. The crowd is fashion-forward and the music matches — you'll hear more underground selections alongside the hits. Thursday nights are particularly good.
 
-### Libertine — The Party Room
+### Funky Buddha — The Mayfair Classic
 
-[Libertine](/clubs/libertine) is where hip-hop meets high energy. The dance floor is always packed, the sound system is serious, and the DJs know how to build a night. It's more party-oriented than Tape or TABU — bigger room, bigger crowd, bigger energy.
+[Funky Buddha](/clubs/funky-buddha) has been a Mayfair hip-hop staple for years, and it still hits. The room is intimate enough to feel exclusive but the energy is pure party. DJs here know how to read the crowd — expect quality hip-hop and RnB all night with no filler.
 
-If you want to dance rather than sit, Libertine is the pick.
+If you want a proper hip-hop night with real Mayfair heritage, Funky Buddha is the pick.
 
 ### BEAT London — The Sound System
 
@@ -51,7 +51,7 @@ If you want to dance rather than sit, Libertine is the pick.
 |------|------|-----------|-------------|
 | Tape London | Exclusive, intimate | Friday/Saturday | £1,500 |
 | TABU London | Moody, fashion-forward | Thursday | £1,000 |
-| Libertine | High energy, party | Saturday | £1,000 |
+| Funky Buddha | Classic Mayfair hip-hop | Saturday | £1,000 |
 | BEAT London | Music-first, dancing | Friday/Saturday | £1,000 |
 | Cirque Le Soir | Entertainment + hip-hop | Saturday | £1,000 |
 | Cuckoo Club | Versatile, sociable | Friday/Saturday | £1,000 |

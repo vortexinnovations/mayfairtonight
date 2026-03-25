@@ -47,22 +47,21 @@ This is less of a factor if you have a table booked. A booking overrides most ot
 
 - **[Cirque Le Soir](/clubs/cirque-le-soir)** — Selective on weekends. Book a table or guestlist for the best chance.
 - **[TABU London](/clubs/tabu-london)** — Fashion-conscious door. Dress well and you'll be fine.
-- **[The London Reign](/clubs/the-london-reign)** — Smart dress code enforced. Bookings get priority.
+- **[Reign London](/clubs/reign-london)** — Smart dress code enforced. Bookings get priority. Dinner reservations are a strong route in.
 - **[Maddox](/clubs/maddox)** — Restaurant standard at the door. Dress for dinner.
-- **[Lio Club London](/clubs/lio-london)** — Dinner reservations are the way in. The club follows the restaurant.
 
 ### More Accessible
 
-- **[Libertine](/clubs/libertine)** — Firm but fair. Dress smart and you'll get in, especially with a guestlist.
+- **[Funky Buddha](/clubs/funky-buddha)** — Firm but fair. Dress smart and you'll get in, especially with a guestlist.
 - **[Cuckoo Club](/clubs/cuckoo-club)** — One of the more accessible Mayfair clubs. Guestlist recommended on weekends.
 - **[BEAT London](/clubs/beat-london)** — More relaxed door than most. Music-first venue.
-- **[Luxx Club London](/clubs/luxx-club)** — Accessible with smart dress. Guestlist recommended.
+- **[The Box](/clubs/the-box-london)** — More exclusive than most on this tier. Table bookings or guestlist strongly recommended.
 - **[Dear Darling](/clubs/dear-darling)** — Cocktail bar door — smart dress is enough.
 - **[Scotch of St James](/clubs/scotch-of-st-james)** — Elegant crowd but reasonable door.
 
-### Different Rules Entirely
+### Worth Knowing
 
-- **[Ministry of Sound](/clubs/ministry-of-sound)** — Ticket-based entry for most events. Buy a ticket, show up, you're in. No dress code drama.
+- **[Selene London](/clubs/selene-london)** — Newer venue with a welcoming but curated door. Smart dress and a guestlist will see you through.
 
 ## What Time to Arrive
 

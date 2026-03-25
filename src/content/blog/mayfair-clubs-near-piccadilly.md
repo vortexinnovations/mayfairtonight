@@ -17,9 +17,9 @@ Here's what's close and what's worth your time.
 
 ## Within 5 Minutes of Piccadilly Circus
 
-### The London Reign
+### Reign London
 
-[The London Reign](/clubs/the-london-reign) is on Piccadilly itself. You could literally walk from Piccadilly Circus station to the door in two minutes. It's the most convenient option — and it happens to be one of the most spectacular clubs in London. Aerial shows, live entertainment, and a grand venue.
+[Reign London](/clubs/reign-london) is on Piccadilly itself. You could literally walk from Piccadilly Circus station to the door in two minutes. It's the most convenient option — and it happens to be one of the most spectacular clubs in London. Aerial shows, live entertainment, and a grand venue.
 
 **Open:** Thursday, Friday, Saturday from 22:00.
 
@@ -37,9 +37,9 @@ Here's what's close and what's worth your time.
 
 ## Within 10 Minutes
 
-### Libertine
+### Funky Buddha
 
-[Libertine](/clubs/libertine) is a short walk into Mayfair. Futuristic design, serious sound system, and one of the most consistently packed dance floors in the area. If you want high energy and a proper party, Libertine delivers.
+[Funky Buddha](/clubs/funky-buddha) is a short walk into Mayfair. A legendary name in London nightlife, with a loyal crowd and an atmosphere that blends glamour with genuine fun. If you want a proper party with pedigree, Funky Buddha delivers.
 
 **Open:** Wednesday to Saturday from 22:30.
 
@@ -74,10 +74,10 @@ Here's how we'd plan it:
 1. Dinner or show in the West End
 2. Walk towards Piccadilly
 3. Choose your venue based on what you want:
-   - **Entertainment and shows:** The London Reign (right on Piccadilly)
+   - **Entertainment and shows:** Reign London (right on Piccadilly)
    - **Quick party stop:** Cuckoo Club (Swallow Street, 2 minutes)
    - **Cocktails first:** Dear Darling (5 minutes into Mayfair)
-   - **Serious clubbing:** Libertine or TABU (10 minutes into Mayfair)
+   - **Serious clubbing:** Funky Buddha or TABU (10 minutes into Mayfair)
    - **House music after dinner:** Maddox (10 minutes)
 
 ## Planning Your Night

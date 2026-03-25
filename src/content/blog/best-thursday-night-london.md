@@ -47,13 +47,13 @@ Thursday at Tape is more intimate than the weekend. The room is smaller, the cro
 
 TABU's Thursday night is one of the best in the area. The fashion crowd comes out, the music is on point, and the Japanese underground atmosphere is at its moodiest and best.
 
-### For a Party: [Libertine](/clubs/libertine)
+### For a Party: [Funky Buddha](/clubs/funky-buddha)
 
-Libertine brings serious energy on Thursdays. The dance floor gets going early and doesn't stop. If you want a proper party without waiting for the weekend, this is it.
+Funky Buddha is a Mayfair institution that knows how to deliver a Thursday night. The crowd skews stylish, the music hits hard, and the dance floor has a loose, celebratory energy that makes midweek feel like the weekend.
 
-### For a Show: [The London Reign](/clubs/the-london-reign)
+### For a Show: [Reign London](/clubs/reign-london)
 
-Thursday at The London Reign is slightly more intimate than Saturday but the production value is identical. Aerial acts, live performances, and a grand atmosphere.
+Thursday at Reign London is slightly more intimate than Saturday but the production value is identical. Aerial acts, live performances, and a grand atmosphere.
 
 ### For History: [Scotch of St James](/clubs/scotch-of-st-james)
 

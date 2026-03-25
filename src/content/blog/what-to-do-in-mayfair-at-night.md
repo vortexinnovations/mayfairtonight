@@ -29,7 +29,7 @@ If you want dinner and nightlife in one evening, there are two approaches:
 
 ### The Integrated Option
 
-[Maddox](/clubs/maddox) and [Lio Club London](/clubs/lio-london) both offer dinner-to-dance under one roof. At Maddox, you eat Italian upstairs and dance to house music downstairs. At Lio, dinner comes with live performances between courses before the room transforms into a nightclub.
+[Maddox](/clubs/maddox) and [Reign London](/clubs/reign-london) both offer dinner-to-dance under one roof. At Maddox, you eat Italian upstairs and dance to house music downstairs. At Reign London, the grand venue pairs dining with aerial acts and live performances before the room shifts into full nightclub mode.
 
 Read our full [dinner and clubbing guide](/blog/dinner-and-clubbing-mayfair) for the details.
 
@@ -43,22 +43,22 @@ This is what Mayfair is famous for after dark. The clubs here are world-class â€
 
 ### By Music
 
-- **Hip-hop and RnB:** [Tape London](/clubs/tape-london), [TABU](/clubs/tabu-london), [Libertine](/clubs/libertine), [BEAT London](/clubs/beat-london)
+- **Hip-hop and RnB:** [Tape London](/clubs/tape-london), [TABU](/clubs/tabu-london), [Funky Buddha](/clubs/funky-buddha), [BEAT London](/clubs/beat-london)
 - **House music:** [Maddox](/clubs/maddox), [Cuckoo Club](/clubs/cuckoo-club) (downstairs)
-- **Mixed/commercial:** [Luxx Club](/clubs/luxx-club), [Scotch of St James](/clubs/scotch-of-st-james)
+- **Mixed/commercial:** [The Box](/clubs/the-box-london), [Scotch of St James](/clubs/scotch-of-st-james)
 
 ### By Experience
 
-- **Entertainment and shows:** [Cirque Le Soir](/clubs/cirque-le-soir), [The London Reign](/clubs/the-london-reign)
+- **Entertainment and shows:** [Cirque Le Soir](/clubs/cirque-le-soir), [Reign London](/clubs/reign-london)
 - **Exclusive and intimate:** [Tape London](/clubs/tape-london), [Scotch of St James](/clubs/scotch-of-st-james)
-- **High energy party:** [Libertine](/clubs/libertine), [BEAT London](/clubs/beat-london)
-- **Visual spectacle:** [Luxx Club](/clubs/luxx-club)
+- **High energy party:** [Funky Buddha](/clubs/funky-buddha), [BEAT London](/clubs/beat-london)
+- **Visual spectacle:** [The Box](/clubs/the-box-london)
 
 Check our [full club rankings](/blog/best-clubs-in-mayfair) or [where to go tonight guide](/where-to-go-tonight) for detailed recommendations.
 
 ## The All-Night Option
 
-Most Mayfair clubs close between 3:00 and 3:30am. If you want to go later, [Ministry of Sound](/clubs/ministry-of-sound) in South London runs until 6am on Fridays and Saturdays. It's a 15-minute cab from Mayfair and the experience is worth the trip â€” multiple rooms, world-class sound, and a crowd that dances until sunrise.
+Most Mayfair clubs close between 3:00 and 3:30am. If you want to stretch the night, [Selene London](/clubs/selene-london) keeps the energy going with late-night house sets in a sleek, low-lit space. The crowd is tuned in and the vibe stays locked until the very end.
 
 ## Planning Your Evening
 
@@ -66,11 +66,11 @@ Here's how a great Mayfair night typically flows:
 
 | Time | Activity |
 |------|----------|
-| 8:00-9:00pm | Dinner (restaurant or Maddox/Lio) |
+| 8:00-9:00pm | Dinner (restaurant or Maddox/Reign London) |
 | 9:00-10:30pm | Cocktails (Dear Darling or hotel bars) |
 | 10:30-11:00pm | Arrive at club |
 | 11:00pm-3:00am | Dancing, drinks, bottle service |
-| 3:00am+ | Late-night food or Ministry of Sound |
+| 3:00am+ | Late-night food or Selene London |
 
 ## What to Wear
 

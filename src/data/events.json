@@ -21,8 +21,8 @@
   },
   {
     "date": "2026-03-27",
-    "clubSlug": "the-london-reign",
-    "clubName": "The London Reign",
+    "clubSlug": "reign-london",
+    "clubName": "Reign London",
     "eventName": "Reign Supreme",
     "specialGuest": "",
     "musicGenre": "Commercial & House",
@@ -41,23 +41,13 @@
   },
   {
     "date": "2026-03-27",
-    "clubSlug": "libertine",
-    "clubName": "Libertine",
-    "eventName": "Libertine Fridays",
+    "clubSlug": "funky-buddha",
+    "clubName": "Funky Buddha",
+    "eventName": "Funky Fridays",
     "specialGuest": "",
-    "musicGenre": "Hip-Hop & RnB",
-    "openingTime": "22:30",
-    "description": "One of Mayfair's biggest Friday nights — futuristic vibes and a packed dance floor."
-  },
-  {
-    "date": "2026-03-27",
-    "clubSlug": "luxx-club",
-    "clubName": "Luxx Club London",
-    "eventName": "Luxx Light Show",
-    "specialGuest": "",
-    "musicGenre": "Open Format & Hip-Hop",
-    "openingTime": "22:30",
-    "description": "Immersive LED experience with premium sound — Mayfair's most visual night out."
+    "musicGenre": "Hip-Hop, RnB & Funky House",
+    "openingTime": "22:00",
+    "description": "Berkeley Street's legendary venue delivers one of Mayfair's most electric Friday nights."
   },
   {
     "date": "2026-03-27",
@@ -111,23 +101,33 @@
   },
   {
     "date": "2026-03-27",
-    "clubSlug": "ministry-of-sound",
-    "clubName": "Ministry of Sound",
-    "eventName": "Ministry Sessions",
+    "clubSlug": "the-box-london",
+    "clubName": "The Box",
+    "eventName": "The Box Fridays",
     "specialGuest": "",
-    "musicGenre": "House & Techno",
-    "openingTime": "23:00",
-    "description": "London's iconic super club. Multiple rooms, world-class sound, dancing until sunrise."
+    "musicGenre": "Commercial & Hip-Hop",
+    "openingTime": "22:30",
+    "description": "London's most provocative theatre-nightclub. Burlesque, avant-garde performance, and a packed dance floor."
   },
   {
     "date": "2026-03-27",
-    "clubSlug": "lio-london",
-    "clubName": "Lio Club London",
-    "eventName": "Lio Fridays",
+    "clubSlug": "luna-club-london",
+    "clubName": "Luna Club London",
+    "eventName": "Luna Fridays",
     "specialGuest": "",
-    "musicGenre": "Commercial & House",
-    "openingTime": "20:00",
-    "description": "Dinner, live entertainment, then full nightclub mode. The most complete night out in Mayfair."
+    "musicGenre": "Hip-Hop & Open Format",
+    "openingTime": "22:00",
+    "description": "Celestial vibes and premium bottle service at Mayfair's freshest venue."
+  },
+  {
+    "date": "2026-03-27",
+    "clubSlug": "selene-london",
+    "clubName": "Selene London",
+    "eventName": "Selene Fridays",
+    "specialGuest": "",
+    "musicGenre": "House & Deep House",
+    "openingTime": "21:30",
+    "description": "Refined elegance meets quality house music. Cocktails, atmosphere, and a sophisticated crowd."
   },
   {
     "date": "2026-03-28",
@@ -151,13 +151,13 @@
   },
   {
     "date": "2026-03-28",
-    "clubSlug": "the-london-reign",
-    "clubName": "The London Reign",
+    "clubSlug": "reign-london",
+    "clubName": "Reign London",
     "eventName": "Saturday Spectacular",
     "specialGuest": "",
     "musicGenre": "Commercial & House",
     "openingTime": "22:00",
-    "description": "The London Reign's biggest night — expect the full show with aerial acts and live entertainment."
+    "description": "Reign's biggest night — expect the full show with aerial acts and live entertainment."
   },
   {
     "date": "2026-03-28",
@@ -171,23 +171,13 @@
   },
   {
     "date": "2026-03-28",
-    "clubSlug": "libertine",
-    "clubName": "Libertine",
-    "eventName": "Libertine Saturdays",
+    "clubSlug": "funky-buddha",
+    "clubName": "Funky Buddha",
+    "eventName": "Saturday at Buddha",
     "specialGuest": "",
-    "musicGenre": "Hip-Hop & RnB",
-    "openingTime": "22:30",
-    "description": "Libertine's legendary Saturday — the dance floor is packed, the energy is unmatched."
-  },
-  {
-    "date": "2026-03-28",
-    "clubSlug": "luxx-club",
-    "clubName": "Luxx Club London",
-    "eventName": "Saturday Light Show",
-    "specialGuest": "",
-    "musicGenre": "Open Format & Hip-Hop",
-    "openingTime": "22:30",
-    "description": "LED walls, immersive visuals, and premium sound. Luxx's Saturday is a full sensory experience."
+    "musicGenre": "Hip-Hop, RnB & Funky House",
+    "openingTime": "22:00",
+    "description": "Mayfair's legendary Saturday night. The dance floor is packed, the music is on point, the energy is unmatched."
   },
   {
     "date": "2026-03-28",
@@ -217,7 +207,7 @@
     "specialGuest": "",
     "musicGenre": "House & Hip-Hop",
     "openingTime": "22:00",
-    "description": "Mayfair's most versatile venue turns it up to 11 on Saturdays. Two floors, zero excuses."
+    "description": "Mayfair's most versatile venue turns it up on Saturdays. Two floors, zero excuses."
   },
   {
     "date": "2026-03-28",
@@ -241,32 +231,32 @@
   },
   {
     "date": "2026-03-28",
-    "clubSlug": "ministry-of-sound",
-    "clubName": "Ministry of Sound",
-    "eventName": "Saturday Sessions",
+    "clubSlug": "the-box-london",
+    "clubName": "The Box",
+    "eventName": "Saturday at The Box",
     "specialGuest": "",
-    "musicGenre": "House, Techno & Electronic",
-    "openingTime": "23:00",
-    "description": "The biggest night at London's most iconic club. Multiple rooms, dancing until 6am."
+    "musicGenre": "Commercial & Hip-Hop",
+    "openingTime": "22:30",
+    "description": "The most provocative Saturday night in London. Theatrical performances that push every boundary."
   },
   {
     "date": "2026-03-28",
-    "clubSlug": "lio-london",
-    "clubName": "Lio Club London",
-    "eventName": "Lio Saturday",
+    "clubSlug": "luna-club-london",
+    "clubName": "Luna Club London",
+    "eventName": "Luna Saturdays",
     "specialGuest": "",
-    "musicGenre": "Commercial & House",
-    "openingTime": "20:00",
-    "description": "Saturday is Lio's showpiece — dinner, live performances, and a nightclub that goes until late."
+    "musicGenre": "Hip-Hop & Open Format",
+    "openingTime": "22:00",
+    "description": "Mayfair's freshest Saturday night. Premium venue, atmospheric design, stylish crowd."
   },
   {
-    "date": "2026-03-29",
-    "clubSlug": "ministry-of-sound",
-    "clubName": "Ministry of Sound",
-    "eventName": "Sunday Sessions",
+    "date": "2026-03-28",
+    "clubSlug": "selene-london",
+    "clubName": "Selene London",
+    "eventName": "Selene Saturdays",
     "specialGuest": "",
-    "musicGenre": "House & Electronic",
-    "openingTime": "23:00",
-    "description": "For those who aren't ready for the weekend to end. Ministry's Sunday keeps the party going."
+    "musicGenre": "House & Commercial",
+    "openingTime": "21:30",
+    "description": "Elegant Saturday evenings with refined house music and a sophisticated Mayfair crowd."
   }
 ]

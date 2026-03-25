@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { clubs } from "@/data/clubs";
+import { getOpenClubs } from "@/data/clubs";
 
 export default function Footer() {
   return (
@@ -68,7 +68,7 @@ export default function Footer() {
           <div>
             <h3 className="text-sm font-semibold text-white mb-3">Clubs</h3>
             <ul className="space-y-2">
-              {clubs.slice(0, 7).map((club) => (
+              {getOpenClubs().slice(0, 7).map((club) => (
                 <li key={club.slug}>
                   <Link
                     href={`/clubs/${club.slug}`}

@@ -22,13 +22,13 @@ Mayfair has around a dozen serious nightclubs, each with a different personality
 
 **For exclusivity:** [Tape London](/clubs/tape-london) — the most exclusive room in Mayfair. Members club, A-list crowd, tables from £1,500.
 
-**For entertainment:** [Cirque Le Soir](/clubs/cirque-le-soir) and [The London Reign](/clubs/the-london-reign) — fire breathers, aerial acts, live performers.
+**For entertainment:** [Cirque Le Soir](/clubs/cirque-le-soir) and [Reign London](/clubs/reign-london) — fire breathers, aerial acts, live performers.
 
-**For hip-hop:** [TABU](/clubs/tabu-london), [Libertine](/clubs/libertine), [BEAT London](/clubs/beat-london) — each with a different flavour.
+**For hip-hop:** [TABU](/clubs/tabu-london), [Funky Buddha](/clubs/funky-buddha), [BEAT London](/clubs/beat-london) — each with a different flavour.
 
-**For house music:** [Maddox](/clubs/maddox) and [Ministry of Sound](/clubs/ministry-of-sound) — quality house in very different settings.
+**For house music:** [Maddox](/clubs/maddox) and [Selene London](/clubs/selene-london) — quality house in refined, intimate settings.
 
-**For dinner and dancing:** [Maddox](/clubs/maddox) and [Lio Club London](/clubs/lio-london) — restaurant-to-club transitions done properly.
+**For dinner and dancing:** [Maddox](/clubs/maddox) and [Reign London](/clubs/reign-london) — restaurant-to-club transitions done properly.
 
 **For cocktails and late nights:** [Dear Darling](/clubs/dear-darling) — opulent bar that goes late.
 
@@ -48,7 +48,7 @@ Every night of the week has a different character. Here's the summary:
 
 **[Saturday](/nights/saturday):** The pinnacle. Maximum energy, maximum production, maximum crowds. Book ahead — everything sells out.
 
-**[Sunday](/nights/sunday):** Wind-down. Most Mayfair clubs closed. [Ministry of Sound](/clubs/ministry-of-sound) runs legendary Sunday sessions.
+**[Sunday](/nights/sunday):** Wind-down. Most Mayfair clubs closed. A few late-night bars stay open for those who aren't ready to call it.
 
 Our recommendation: if it's your first time, go on a **Thursday**. You get the full experience with slightly less intensity than the weekend.
 
@@ -93,7 +93,7 @@ Skip the hassle. [Message us on WhatsApp](/contact) with your date, group size, 
 
 7. **If you want house music, go to Maddox.** It's the best house music room in Mayfair, and the Italian restaurant upstairs is genuinely excellent.
 
-8. **Ministry of Sound is worth the trip to South London.** If you're a music person, nothing in Mayfair matches it for pure clubbing.
+8. **Try Selene London for a different house music experience.** It's a sleek newcomer with a serious sound system and a crowd that actually cares about the music.
 
 ## Still Need Help?
 

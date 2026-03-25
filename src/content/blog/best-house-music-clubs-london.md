@@ -15,13 +15,13 @@ Most Mayfair clubs lean hip-hop. But if four-to-the-floor is your thing, you've 
 
 ## The Best House Music Clubs
 
-### Ministry of Sound — The Untouchable One
+### Selene London — The Refined House Room
 
-[Ministry of Sound](/clubs/ministry-of-sound) isn't in Mayfair — it's in Elephant & Castle — but no house music list is complete without it. The main room (The Box) has one of the best sound systems on the planet. The lineups are world-class. And it goes until 6am.
+[Selene London](/clubs/selene-london) has quickly established itself as one of London's most compelling house music destinations. The venue is beautifully designed — think warm lighting, elegant interiors, and a sound system that does the music justice. The programming leans deep house and melodic tech house, with DJs who understand the genre inside out.
 
-If you want a proper house music experience, nothing in London matches Ministry. Multiple rooms mean you can explore different sub-genres throughout the night — deep house in one room, techno in another, classic house in a third.
+The crowd is discerning, the atmosphere is sophisticated, and the whole experience feels intentional rather than accidental. This is house music for people who care about the details.
 
-Open Friday and Saturday. No formal dress code. This is about the music.
+Open Thursday to Saturday. Smart dress code applies.
 
 ### Maddox — Mayfair's House Music Room
 
@@ -50,14 +50,14 @@ Best for people who want house music as atmosphere rather than a main event.
 Not all house music is the same, and each venue leans differently:
 
 - **Maddox** plays proper deep house and tech house — warm basslines, smooth grooves, quality selections
-- **Ministry of Sound** covers the full spectrum depending on the room and the night — from deep house to hard techno
+- **Selene London** leans melodic and deep — warm, sophisticated house selections with real attention to programming
 - **Cuckoo Club** downstairs is deeper and more underground
 - **Dear Darling** keeps it on the lounge/deep house end
 
 ## If House Music Is Everything
 
-If the music is your top priority above all else, go to Ministry of Sound. Nothing in London matches the sound system, the lineups, or the experience of dancing in The Box until sunrise.
+If the music is your top priority above all else, Selene London delivers a refined, well-programmed house music experience with a sound system that lets you feel every beat. The atmosphere is sophisticated and the crowd gets it.
 
-If you want house music in a premium Mayfair setting, Maddox is the answer. Dinner first, dancing after.
+If you want house music paired with an excellent dinner, Maddox is the answer. Italian fine dining first, dancing after.
 
 Check [what's on tonight](/) or [message us on WhatsApp](/contact) and tell us you want house music — we'll point you to the right room.

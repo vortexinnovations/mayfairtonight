@@ -56,9 +56,9 @@ It's not cheap. But the experience justifies it — these are some of the best n
 
 Not every Mayfair club is right for your first time. Here's where we'd send you:
 
-### [Libertine](/clubs/libertine) — If You Want a Party
+### [Funky Buddha](/clubs/funky-buddha) — If You Want a Party
 
-Futuristic venue, packed dance floor, and consistently great energy. It's the most accessible of the big Mayfair clubs — the door is firm but fair, and the crowd is fun and sociable.
+One of Mayfair's most iconic venues, with a packed dance floor and electric energy every weekend. The door is welcoming to well-dressed first-timers, the crowd is fun and sociable, and the DJs keep the hip-hop and RnB flowing all night.
 
 ### [Cuckoo Club](/clubs/cuckoo-club) — If You Want Options
 

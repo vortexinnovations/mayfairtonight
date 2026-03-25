@@ -31,19 +31,19 @@ After dinner, you walk downstairs into one of Mayfair's best house music rooms. 
 
 **Best for:** Couples, date nights, and groups who want sophistication.
 
-### Lio Club London — The Ibiza Experience
+### Selene London — Elegant Dining into Sophisticated Nightlife
 
-[Lio Club London](/clubs/lio-london) takes dinner-to-dance further than anyone else. This isn't just a restaurant with a club downstairs — it's a single experience that evolves through the evening.
+[Selene London](/clubs/selene-london) offers a beautifully curated evening that pairs refined dining with one of London's most atmospheric club spaces. The restaurant sets the tone — elegant, considered, and genuinely good food.
 
-You sit down to a multi-course dinner. Between courses, performers take the floor — live singers, dancers, acrobats. As the evening progresses, the performances intensify. By midnight, the dining tables have been cleared and the room has transformed into a full nightclub.
+When the plates are cleared and the music builds, the venue shifts into a sophisticated nightclub with deep house and melodic selections. The crowd stays, the energy evolves, and the transition feels effortless.
 
-**The food:** Gourmet cuisine. Multi-course set menus with international influence.
+**The food:** Modern European with attention to detail. Well-executed and more than just a preamble to the club.
 
-**The music:** Commercial and house, building throughout the evening.
+**The music:** Deep house and melodic house. Warm, sophisticated, and well-programmed.
 
-**The transition:** This is the standout feature. The transition isn't abrupt — it builds. The energy escalates course by course, performance by performance, until suddenly you're in a nightclub and you barely noticed the shift.
+**The transition:** Smooth and organic. The evening builds gradually — by the time the club is in full swing, you've been eased into it naturally.
 
-**Best for:** Special occasions, groups who want the full experience, and anyone who wants something genuinely different.
+**Best for:** Couples, stylish groups, and anyone who wants a refined dinner-to-dance experience without the theatrics.
 
 ## How to Plan a Dinner-to-Dance Evening
 
@@ -54,11 +54,11 @@ You sit down to a multi-course dinner. Between courses, performers take the floo
 3. Head downstairs around 10:30-11:00pm
 4. The club runs until 3:00am
 
-### At Lio Club London
+### At Selene London
 
-1. Book for 8:00pm (the show starts with dinner)
-2. Dinner and performances run until approximately 11:00pm
-3. The room transitions into nightclub mode
+1. Book a dinner reservation for 8:00-8:30pm
+2. Enjoy dinner in the restaurant (allow 1.5-2 hours)
+3. The venue transitions into club mode around 10:30-11:00pm
 4. The club runs until 3:00am
 
 ## The Alternative: Two-Venue Move

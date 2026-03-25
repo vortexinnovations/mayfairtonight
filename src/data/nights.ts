@@ -55,7 +55,7 @@ export const nights: NightInfo[] = [
     vibe: "Midweek buzz, sociable, less crowded than weekends",
     bestFor: "Midweek party people, sociable groups, those who want big-club energy without weekend crowds",
     recommendation:
-      "Wednesday is brilliant in Mayfair. Libertine and Cuckoo Club both deliver proper party energy midweek. If you want something wilder, Cirque Le Soir's Wednesday is one of their best nights. For a more sophisticated evening, start at Maddox for dinner and stay for the house music.",
+      "Wednesday is brilliant in Mayfair. Funky Buddha and Cuckoo Club both deliver proper party energy midweek. If you want something wilder, Cirque Le Soir's Wednesday is one of their best nights. For a more sophisticated evening, start at Maddox for dinner and stay for the house music. The Box also opens its doors on Wednesdays for those who want something edgier.",
   },
   {
     slug: "thursday",
@@ -70,7 +70,7 @@ export const nights: NightInfo[] = [
     vibe: "High energy, the weekend starts here, buzzing",
     bestFor: "Everyone — Thursday is the most versatile night in Mayfair",
     recommendation:
-      "Thursday is the sweet spot. TABU and Tape London offer exclusive, intimate experiences. The London Reign and Scotch deliver two very different but equally brilliant evenings. For pure party energy, Libertine and Cuckoo Club rarely disappoint on a Thursday.",
+      "Thursday is the sweet spot. TABU and Tape London offer exclusive, intimate experiences. Reign London and Scotch deliver two very different but equally brilliant evenings. For pure party energy, Funky Buddha and Cuckoo Club rarely disappoint on a Thursday. Luna Club and Selene are excellent newer options too.",
   },
   {
     slug: "friday",
@@ -85,7 +85,7 @@ export const nights: NightInfo[] = [
     vibe: "Peak nightlife, electric, packed, celebratory",
     bestFor: "Anyone who wants the full London Friday night experience",
     recommendation:
-      "Friday is when you go big. Tape London for exclusivity. Cirque Le Soir for entertainment. Libertine or Luxx for pure party energy. If you want something more refined, Maddox's dinner-to-dance offering is perfect for a Friday. Ministry of Sound if you want to dance until sunrise.",
+      "Friday is when you go big. Tape London for exclusivity. Cirque Le Soir for entertainment. Funky Buddha or BEAT London for pure party energy. If you want something more refined, Maddox's dinner-to-dance offering is perfect for a Friday. The Box for something provocative and unforgettable. Reign London for world-class shows.",
   },
   {
     slug: "saturday",
@@ -100,7 +100,7 @@ export const nights: NightInfo[] = [
     vibe: "Peak, sold-out energy, legendary, the big one",
     bestFor: "The main event — this is the night everyone is out",
     recommendation:
-      "Saturday is about going all-in. Tape London is the pinnacle of exclusivity. The London Reign and Lio deliver spectacular shows. For raw party energy, Libertine, BEAT, and Luxx are all brilliant. Cirque Le Soir's Saturday is the wildest night in London. And Ministry of Sound goes until 6am for the true night owls.",
+      "Saturday is about going all-in. Tape London is the pinnacle of exclusivity. Reign London delivers spectacular shows with aerial acts. For raw party energy, Funky Buddha, BEAT, and Luna Club are all brilliant. Cirque Le Soir's Saturday is the wildest night in London. The Box pushes boundaries. And Selene offers refined elegance for those who want something more sophisticated.",
   },
   {
     slug: "sunday",
@@ -111,11 +111,11 @@ export const nights: NightInfo[] = [
       "Which clubs are open on Sunday in London? The weekend isn't over yet — here's where to extend your Saturday night into Sunday.",
     h1: "Sunday Night in Mayfair",
     intro:
-      "Sunday in Mayfair is for those who refuse to let the weekend end. Most of the big Mayfair clubs are closed, but the night isn't over. Ministry of Sound often runs Sunday sessions, and a handful of bars and late-night venues stay open for the after-party crowd. Sunday is about extending the weekend, not starting a new one.",
+      "Sunday in Mayfair is for those who refuse to let the weekend end. Most of the big Mayfair clubs are closed, but the night isn't over. A handful of bars and late-night venues stay open for the after-party crowd. Sunday is about extending the weekend, not starting a new one.",
     vibe: "After-party, extended weekend, wind-down or keep going",
     bestFor: "Night owls, after-party seekers, those extending a big Saturday",
     recommendation:
-      "Sunday options in Mayfair are limited. Ministry of Sound is your best bet for a proper club experience — their Sunday sessions are legendary in the electronic music world. In Mayfair itself, check for special events and late-night bar options.",
+      "Sunday options in Mayfair are limited. Check for special events at the clubs — some run occasional Sunday sessions. In Mayfair itself, late-night bars like Dear Darling are your safest bet for extending the weekend.",
   },
 ];
 

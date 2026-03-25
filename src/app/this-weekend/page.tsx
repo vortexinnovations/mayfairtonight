@@ -3,7 +3,7 @@ import Link from "next/link";
 import ClubCard from "@/components/ClubCard";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
-import { clubs } from "@/data/clubs";
+import { clubs, getOpenClubs } from "@/data/clubs";
 import eventsData from "@/data/events.json";
 import { getWeekendDates, formatDate } from "@/lib/utils";
 
@@ -54,7 +54,7 @@ export default function WeekendPage() {
 
         {weekendDays.map(({ date, day, slug }) => {
           const dayEvents = eventsData.filter((e) => e.date === date);
-          const dayClubs = clubs.filter((c) =>
+          const dayClubs = getOpenClubs().filter((c) =>
             c.openNights.map((n) => n.toLowerCase()).includes(day.toLowerCase())
           );
 

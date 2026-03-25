@@ -33,17 +33,17 @@ We go out in Mayfair every week. We know which clubs deliver and which ones coas
 
 **The catch:** It can feel overwhelming if you just want a chill night. This is full throttle.
 
-### 3. The London Reign — Vegas Production, Mayfair Location
+### 3. Reign London — Vegas Production, Mayfair Location
 
-[The London Reign](/clubs/the-london-reign) has the best production value of any club in Mayfair. Aerial acrobats, live singers, choreographed performances — it's like watching a Vegas show while you party. The venue itself is grand and the energy builds through the night.
+[Reign London](/clubs/reign-london) has the best production value of any club in Mayfair. Aerial acrobats, live singers, choreographed performances — it's like watching a Vegas show while you party. The venue itself is grand and the energy builds through the night.
 
 **Best for:** Special occasions. If you want your night to feel like an event, this is the one.
 
-### 4. Libertine — The Reliable Big Night
+### 4. Funky Buddha — The Mayfair Legend
 
-[Libertine](/clubs/libertine) is the club that rarely disappoints. The venue is futuristic, the sound system hits, and the dance floor is always packed by midnight on weekends. It's not the most exclusive or the most unique, but it consistently delivers a great night.
+[Funky Buddha](/clubs/funky-buddha) is one of Mayfair's most storied venues, and it still pulls. The room is intimate but the energy is big — packed dance floors, quality DJs, and a crowd that's there for a proper night out. It walks the line between exclusive and accessible better than almost anywhere.
 
-**Best for:** Groups who want guaranteed high energy without the ultra-exclusive price tag of Tape.
+**Best for:** Groups who want guaranteed high energy and a genuine Mayfair atmosphere without the ultra-exclusive price tag of Tape.
 
 ### 5. TABU London — The Cool One
 
@@ -57,17 +57,17 @@ We go out in Mayfair every week. We know which clubs deliver and which ones coas
 
 **Best for:** Couples and groups who want dinner and dancing under one roof.
 
-### 7. Lio Club London — The Full Experience
+### 7. The Box — The Boundary-Pushing One
 
-[Lio](/clubs/lio-london) does dinner, entertainment, and nightclub in one seamless evening. The Ibiza-born concept translates brilliantly to Mayfair — multi-course dinner with performances between courses, then the room transforms into a club.
+[The Box](/clubs/the-box-london) is not for the faint-hearted. London's most provocative nightclub delivers theatrical performances that push every boundary imaginable. The shows are daring, the crowd is fashion-forward, and the energy is unlike anything else in the city.
 
-**Best for:** Special occasions where you want the complete package.
+**Best for:** Adventurous groups who want a night they'll be talking about for weeks.
 
-### 8. Luxx Club London — The Visual Spectacle
+### 8. Luna Club London — The Sleek New Arrival
 
-[Luxx](/clubs/luxx-club) is built around its LED walls and immersive lighting. The visual experience rivals a festival stage, packed into a Mayfair venue. The music is open format with a hip-hop lean.
+[Luna Club London](/clubs/luna-club-london) brings a fresh, refined energy to Mayfair nightlife. The design is sleek and modern, the lighting is atmospheric, and the music policy leans open format with quality hip-hop and commercial selections. It's already earned a loyal following.
 
-**Best for:** Those who want a visually impressive night out.
+**Best for:** Those who want a polished night out at one of Mayfair's newest venues.
 
 ### 9. Scotch of St James — The History
 
@@ -93,11 +93,11 @@ We go out in Mayfair every week. We know which clubs deliver and which ones coas
 
 **Best for:** Music-first people who want to dance, not pose.
 
-### 13. Ministry of Sound — The Institution
+### 13. Selene London — The Elegant Newcomer
 
-[Ministry of Sound](/clubs/ministry-of-sound) isn't in Mayfair — it's in South London — but it's on the list because nothing else in London matches it for pure clubbing. Multiple rooms, world-class sound, dancing until 6am.
+[Selene London](/clubs/selene-london) is the refined new addition to the London club scene. The venue is beautifully designed with an emphasis on atmosphere and sophistication. The music spans house and commercial, and the crowd skews stylish and discerning.
 
-**Best for:** Serious music lovers who want a marathon clubbing experience.
+**Best for:** People who want an elegant night out with a more curated crowd.
 
 ## How to Choose
 

@@ -27,11 +27,11 @@ Don't be that group. Book ahead.
 
 Mayfair has every type of night. Before you book, know what your group actually wants:
 
-- **Big party energy?** [Libertine](/clubs/libertine), [Luxx Club](/clubs/luxx-club), or [BEAT London](/clubs/beat-london)
+- **Big party energy?** [Funky Buddha](/clubs/funky-buddha), [The Box](/clubs/the-box-london), or [BEAT London](/clubs/beat-london)
 - **Exclusivity?** [Tape London](/clubs/tape-london) — the most exclusive room in Mayfair
-- **Entertainment and shows?** [Cirque Le Soir](/clubs/cirque-le-soir) or [The London Reign](/clubs/the-london-reign)
-- **House music?** [Maddox](/clubs/maddox) or [Ministry of Sound](/clubs/ministry-of-sound)
-- **Dinner and dancing?** [Maddox](/clubs/maddox) or [Lio Club London](/clubs/lio-london)
+- **Entertainment and shows?** [Cirque Le Soir](/clubs/cirque-le-soir) or [Reign London](/clubs/reign-london)
+- **House music?** [Maddox](/clubs/maddox) or [Selene London](/clubs/selene-london)
+- **Dinner and dancing?** [Maddox](/clubs/maddox) or [Reign London](/clubs/reign-london)
 - **Cool and moody?** [TABU London](/clubs/tabu-london)
 - **Not sure?** Check our [Where Should I Go Tonight](/where-to-go-tonight) guide
 
@@ -47,13 +47,13 @@ Read our [dress code guide](/dress-code). Every club on this list enforces a dre
 
 ### Step 4: Plan Your Timing
 
-- **8:00-9:00pm** — Dinner if you're doing dinner-to-dance (Maddox, Lio)
+- **8:00-9:00pm** — Dinner if you're doing dinner-to-dance (Maddox, Reign London)
 - **10:00-10:30pm** — Leave for the club
 - **10:30-11:30pm** — Arrive. This is the sweet spot. Early enough to get in smoothly, late enough that the venue is warming up.
 - **Midnight-2:00am** — Peak energy. The dance floor is full, the music is at its best, the night is hitting its stride.
 - **2:30-3:30am** — Last drinks, last dances. Most clubs close at 3:00-3:30am.
 
-If you're heading to [Ministry of Sound](/clubs/ministry-of-sound), shift everything later — doors open at 11pm and it runs until 6am.
+If you're heading to [Selene London](/clubs/selene-london), their late-night sets run deep — arrive after midnight and ride the wave until close.
 
 ## The Best Saturday Night by Vibe
 
@@ -67,15 +67,15 @@ If you're heading to [Ministry of Sound](/clubs/ministry-of-sound), shift everyt
 
 ### For a Show
 
-[The London Reign](/clubs/the-london-reign) turns the production up to maximum on Saturdays. Aerial acts, live vocals, and a grand venue at full capacity. It's Las Vegas in Mayfair.
+[Reign London](/clubs/reign-london) turns the production up to maximum on Saturdays. Aerial acts, live vocals, and a grand venue at full capacity. It's Las Vegas in Mayfair.
 
 ### For Pure Party
 
-[Libertine](/clubs/libertine) on Saturday is legendary. The dance floor is packed, the sound system is massive, and the energy never drops. This is where you go when you want to dance until they turn the lights on.
+[Funky Buddha](/clubs/funky-buddha) on Saturday is the real deal. A Mayfair icon with a packed dance floor, killer tunes, and an atmosphere that runs hot all night. This is where you go when you want to dance until they turn the lights on.
 
-### For All-Night Dancing
+### For Something Different
 
-[Ministry of Sound](/clubs/ministry-of-sound) runs until 6am. Multiple rooms, world-class sound, and a crowd that's there for the music. If you want a marathon, this is the only real option.
+[The Box](/clubs/the-box-london) is theatrical, provocative, and utterly unique. The performances are boundary-pushing, the crowd is eclectic, and no two nights are the same. If you want a Saturday that you'll actually remember for the right reasons, this is it.
 
 ## Saturday Night Checklist
 

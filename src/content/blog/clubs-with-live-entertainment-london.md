@@ -29,9 +29,9 @@ If you want your night out to feel like an event, these are the clubs to know.
 
 **Tables from:** £1,000. [Book on WhatsApp](/contact).
 
-## The London Reign — The Showclub
+## Reign London — The Showclub
 
-[The London Reign](/clubs/the-london-reign) has the highest production value of any nightclub in London. This is a showclub — the performances are choreographed, rehearsed, and performed to a standard that would hold up in any theatre.
+[Reign London](/clubs/reign-london) has the highest production value of any nightclub in London. This is a showclub — the performances are choreographed, rehearsed, and performed to a standard that would hold up in any theatre.
 
 **What you'll see:** Aerial acrobats performing on silks above the dance floor. Live vocalists. Choreographed dance numbers. Fire acts. The shows happen throughout the night between DJ sets, and the transitions are seamless.
 
@@ -43,17 +43,17 @@ If you want your night out to feel like an event, these are the clubs to know.
 
 **Tables from:** £1,000. Book tables near the stage for the best view. [Book on WhatsApp](/contact).
 
-## Lio Club London — Dinner, Show, Nightclub
+## The Box — Theatre of the Unexpected
 
-[Lio Club London](/clubs/lio-london) does something none of the other venues on this list do: it combines dinner, live entertainment, and nightclub into a single, seamless evening.
+[The Box](/clubs/the-box-london) is London's most provocative entertainment nightclub. Born in New York, this venue delivers theatrical performances that are daring, boundary-pushing, and utterly unforgettable. It's not for everyone — and that's entirely the point.
 
-**What you'll see:** Lio starts as a restaurant. Between courses, performers take the floor — singers, dancers, acrobats. As dinner winds down, the tables get cleared and the room transforms into a full nightclub. The transition from dining to clubbing is what makes Lio unique.
+**What you'll see:** Burlesque, avant-garde performance art, cabaret, and acts that defy easy description. The shows are deliberately provocative and designed to shock, thrill, and entertain in equal measure. Performers command the room with raw energy.
 
-**The music:** Commercial and house, building through the evening.
+**The music:** Hip-hop, RnB, and eclectic selections. The DJs keep the party moving between performances.
 
-**The vibe:** Glamorous and Ibiza-influenced (Lio originated in Ibiza). The dinner crowd stays for the party, which means the atmosphere builds organically rather than hitting you all at once.
+**The vibe:** Dark, theatrical, and fiercely creative. The crowd is fashion-industry heavy, and the atmosphere feels like stepping into an underground speakeasy with a stage.
 
-**Best night:** Saturday. But genuinely excellent any night they're open.
+**Best night:** Friday and Saturday for the full production.
 
 **Tables from:** £1,000. [Book on WhatsApp](/contact).
 
@@ -62,14 +62,14 @@ If you want your night out to feel like an event, these are the clubs to know.
 | Club | Entertainment Style | Music | Start Time | Intensity |
 |------|-------------------|-------|-----------|-----------|
 | Cirque Le Soir | Circus performers roaming | Hip-Hop & RnB | 22:30 | Full throttle |
-| The London Reign | Choreographed shows & aerial | Commercial & House | 22:00 | Grand & glamorous |
-| Lio Club London | Dinner show into nightclub | Commercial & House | 20:00 | Builds through the night |
+| Reign London | Choreographed shows & aerial | Commercial & House | 22:00 | Grand & glamorous |
+| The Box | Provocative theatre & cabaret | Hip-Hop & Eclectic | 22:00 | Dark & daring |
 
 ## Which One?
 
 - **Cirque Le Soir** if you want wild, unpredictable, in-your-face entertainment.
-- **The London Reign** if you want a polished, Vegas-quality show.
-- **Lio Club London** if you want the full experience — dinner, show, and nightclub in one evening.
+- **Reign London** if you want a polished, Vegas-quality show.
+- **The Box** if you want provocative, boundary-pushing theatre mixed with nightlife.
 
 All three are excellent for special occasions, group nights, and anyone who wants more from their night out than just music and drinks.
 
