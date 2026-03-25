@@ -202,6 +202,29 @@ export default function HomePage() {
             </Link>
           ))}
         </div>
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 mt-4">
+          <Link
+            href="/mayfair-nightclubs"
+            className="bg-dark-card border border-dark-border rounded-lg p-4 text-center hover:border-gold/30 transition-colors"
+          >
+            <p className="font-semibold text-white">Mayfair Nightclubs</p>
+            <p className="text-xs text-dark-muted mt-1">Full venue guide</p>
+          </Link>
+          <Link
+            href="/best-nightclubs-in-mayfair"
+            className="bg-dark-card border border-dark-border rounded-lg p-4 text-center hover:border-gold/30 transition-colors"
+          >
+            <p className="font-semibold text-white">Best Nightclubs</p>
+            <p className="text-xs text-dark-muted mt-1">Top-rated clubs ranked</p>
+          </Link>
+          <Link
+            href="/mayfair-nightlife-guide"
+            className="bg-dark-card border border-dark-border rounded-lg p-4 text-center hover:border-gold/30 transition-colors"
+          >
+            <p className="font-semibold text-white">Nightlife Guide</p>
+            <p className="text-xs text-dark-muted mt-1">Everything you need to know</p>
+          </Link>
+        </div>
       </section>
 
       {/* SEO content */}
@@ -213,14 +236,33 @@ export default function HomePage() {
           <p>
             Mayfair Tonight is your real-time guide to what&apos;s happening at
             London&apos;s most exclusive nightclubs. We cover every major venue in
-            Mayfair and beyond — from members-only clubs like Tape London to
+            our{" "}
+            <Link href="/mayfair-nightclubs" className="text-gold hover:text-gold-light">
+              Mayfair nightclubs guide
+            </Link>
+            {" "}— from members-only clubs like Tape London to
             entertainment powerhouses like Cirque Le Soir and Reign London.
           </p>
           <p>
             Whether you&apos;re looking for hip-hop, house music, live
-            entertainment, or an intimate cocktail bar, we&apos;ll tell you
-            exactly where to go tonight, what to expect, and how to book a table in
-            seconds via WhatsApp.
+            entertainment, or an intimate cocktail bar, our{" "}
+            <Link href="/mayfair-nightlife-guide" className="text-gold hover:text-gold-light">
+              Mayfair nightlife guide
+            </Link>
+            {" "}will help you find exactly where to go tonight. Need a VIP table?{" "}
+            <a
+              href="https://londonbottleservice.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-gold hover:text-gold-light"
+            >
+              Book bottle service and table reservations
+            </a>
+            {" "}to guarantee your spot at the{" "}
+            <Link href="/best-nightclubs-in-mayfair" className="text-gold hover:text-gold-light">
+              best nightclubs in Mayfair
+            </Link>
+            .
           </p>
           <p>
             Updated daily with tonight&apos;s events, guest DJs, and special

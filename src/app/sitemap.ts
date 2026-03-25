@@ -38,6 +38,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "monthly" as const,
       priority: 0.7,
     },
+    {
+      url: `${baseUrl}/mayfair-nightclubs`,
+      changeFrequency: "weekly" as const,
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/best-nightclubs-in-mayfair`,
+      changeFrequency: "weekly" as const,
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/mayfair-nightlife-guide`,
+      changeFrequency: "monthly" as const,
+      priority: 0.9,
+    },
   ];
 
   const clubPages = clubs.map((club) => ({

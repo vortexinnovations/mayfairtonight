@@ -182,7 +182,10 @@ export default function WhereToGoPage() {
         <p className="text-gray-300 text-lg mb-8 max-w-2xl">
           Pick your vibe. We&apos;ll tell you exactly where to go, what to expect,
           and how to book. No fluff — just honest recommendations from people
-          who go out in Mayfair every week.
+          who go out in Mayfair every week. For a broader overview, see our{" "}
+          <Link href="/mayfair-nightlife-guide" className="text-gold hover:text-gold-light underline">
+            Mayfair nightlife guide
+          </Link>.
         </p>
 
         <div className="space-y-10">
@@ -226,6 +229,23 @@ export default function WhereToGoPage() {
           ))}
         </div>
 
+        {/* VIP table booking tip */}
+        <div className="bg-dark-card border-l-2 border-gold p-4 rounded-r-lg mt-10">
+          <p className="text-gray-300 text-sm">
+            <strong className="text-white">Planning a VIP night?</strong> If you want a table or bottle
+            service at any of these clubs, check availability at{" "}
+            <a
+              href="https://londonbottleservice.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-gold hover:text-gold-light underline"
+            >
+              London Bottle Service
+            </a>{" "}
+            — they handle bookings across Mayfair.
+          </p>
+        </div>
+
         {/* Still not sure CTA */}
         <div className="bg-dark-card border border-gold/30 rounded-xl p-6 text-center mt-10 mb-8">
           <h2 className="text-xl font-semibold text-white mb-2">
@@ -238,12 +258,30 @@ export default function WhereToGoPage() {
           <WhatsAppCTA size="lg" />
         </div>
 
-        {/* Internal links */}
+        {/* Related Guides */}
         <section className="mb-8">
           <h2 className="text-lg font-semibold text-white mb-3">
-            More Ways to Decide
+            Related Guides
           </h2>
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+            <Link
+              href="/mayfair-nightclubs"
+              className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors"
+            >
+              <p className="font-medium text-white">Mayfair Nightclubs</p>
+              <p className="text-xs text-dark-muted mt-1">
+                The complete directory of every club in the area
+              </p>
+            </Link>
+            <Link
+              href="/best-nightclubs-in-mayfair"
+              className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors"
+            >
+              <p className="font-medium text-white">Best Nightclubs in Mayfair</p>
+              <p className="text-xs text-dark-muted mt-1">
+                Our ranked picks for the top venues right now
+              </p>
+            </Link>
             <Link
               href="/"
               className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors"
@@ -251,15 +289,6 @@ export default function WhereToGoPage() {
               <p className="font-medium text-white">What&apos;s on tonight</p>
               <p className="text-xs text-dark-muted mt-1">
                 See which clubs are open right now
-              </p>
-            </Link>
-            <Link
-              href="/this-weekend"
-              className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors"
-            >
-              <p className="font-medium text-white">This weekend</p>
-              <p className="text-xs text-dark-muted mt-1">
-                Plan your Friday, Saturday, or Sunday
               </p>
             </Link>
             <Link

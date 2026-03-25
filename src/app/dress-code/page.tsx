@@ -66,7 +66,14 @@ export default function DressCodePage() {
         <p className="text-gray-300 text-lg mb-8 max-w-2xl">
           What to wear, what to avoid, and what each club expects. Read this
           before you leave the house — getting turned away at the door is the
-          fastest way to ruin a night out.
+          fastest way to ruin a night out. Need to pick a venue first? Browse our{" "}
+          <Link href="/mayfair-nightclubs" className="text-gold hover:text-gold-light underline">
+            Mayfair nightclubs directory
+          </Link>{" "}
+          or read the full{" "}
+          <Link href="/mayfair-nightlife-guide" className="text-gold hover:text-gold-light underline">
+            Mayfair nightlife guide
+          </Link>.
         </p>
 
         {/* The golden rule */}
@@ -173,9 +180,25 @@ export default function DressCodePage() {
 
         {/* Dress code by club */}
         <section className="mb-8">
-          <h2 className="text-2xl font-semibold text-white mb-4">
+          <h2 className="text-2xl font-semibold text-white mb-2">
             Dress Code by Club
           </h2>
+          <p className="text-dark-muted text-sm mb-4">
+            Every venue listed below is covered in our{" "}
+            <Link href="/best-nightclubs-in-mayfair" className="text-gold hover:text-gold-light underline">
+              best nightclubs in Mayfair
+            </Link>{" "}
+            guide. If you&apos;re booking a VIP table or bottle service, check availability at{" "}
+            <a
+              href="https://londonbottleservice.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-gold hover:text-gold-light underline"
+            >
+              London Bottle Service
+            </a>{" "}
+            — dress standards are even higher for table bookings.
+          </p>
           <div className="space-y-3">
             {getOpenClubs().map((club) => (
               <div
@@ -231,6 +254,51 @@ export default function DressCodePage() {
                 </div>
               </details>
             ))}
+          </div>
+        </section>
+
+        {/* Related Guides */}
+        <section className="mb-8">
+          <h2 className="text-lg font-semibold text-white mb-3">
+            Related Guides
+          </h2>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+            <Link
+              href="/mayfair-nightclubs"
+              className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors"
+            >
+              <p className="font-medium text-white">Mayfair Nightclubs</p>
+              <p className="text-xs text-dark-muted mt-1">
+                The complete directory of every club in the area
+              </p>
+            </Link>
+            <Link
+              href="/best-nightclubs-in-mayfair"
+              className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors"
+            >
+              <p className="font-medium text-white">Best Nightclubs in Mayfair</p>
+              <p className="text-xs text-dark-muted mt-1">
+                Our ranked picks for the top venues right now
+              </p>
+            </Link>
+            <Link
+              href="/mayfair-nightlife-guide"
+              className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors"
+            >
+              <p className="font-medium text-white">Mayfair Nightlife Guide</p>
+              <p className="text-xs text-dark-muted mt-1">
+                Everything you need to know about going out in Mayfair
+              </p>
+            </Link>
+            <Link
+              href="/where-to-go-tonight"
+              className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors"
+            >
+              <p className="font-medium text-white">Where to Go Tonight</p>
+              <p className="text-xs text-dark-muted mt-1">
+                Pick your vibe and find the right club
+              </p>
+            </Link>
           </div>
         </section>
 

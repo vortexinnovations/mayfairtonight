@@ -17,7 +17,7 @@ export default function Footer() {
           </div>
 
           <div>
-            <h3 className="text-sm font-semibold text-white mb-3">Tonight</h3>
+            <h3 className="text-sm font-semibold text-white mb-3">Explore</h3>
             <ul className="space-y-2">
               <li>
                 <Link href="/" className="text-sm text-dark-muted hover:text-gold transition-colors">
@@ -27,6 +27,21 @@ export default function Footer() {
               <li>
                 <Link href="/this-weekend" className="text-sm text-dark-muted hover:text-gold transition-colors">
                   This Weekend
+                </Link>
+              </li>
+              <li>
+                <Link href="/mayfair-nightclubs" className="text-sm text-dark-muted hover:text-gold transition-colors">
+                  Mayfair Nightclubs
+                </Link>
+              </li>
+              <li>
+                <Link href="/best-nightclubs-in-mayfair" className="text-sm text-dark-muted hover:text-gold transition-colors">
+                  Best Nightclubs
+                </Link>
+              </li>
+              <li>
+                <Link href="/mayfair-nightlife-guide" className="text-sm text-dark-muted hover:text-gold transition-colors">
+                  Nightlife Guide
                 </Link>
               </li>
               <li>
