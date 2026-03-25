@@ -16,6 +16,21 @@ body {
   color: #f0f0f0;
 }
 
+/* Gold links in body content need underline for accessibility (not just color) */
+article a[class*="text-gold"],
+main p a[class*="text-gold"],
+main li a[class*="text-gold"] {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-thickness: 1px;
+  text-decoration-color: rgba(201, 168, 76, 0.4);
+}
+article a[class*="text-gold"]:hover,
+main p a[class*="text-gold"]:hover,
+main li a[class*="text-gold"]:hover {
+  text-decoration-color: rgba(224, 192, 104, 0.8);
+}
+
 /* Smooth scrolling */
 html {
   scroll-behavior: smooth;
