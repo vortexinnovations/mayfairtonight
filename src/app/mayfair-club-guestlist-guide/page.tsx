@@ -4,12 +4,12 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 
 export const metadata: Metadata = {
-  title: "Mayfair Club Guestlist Guide — How to Get On the List",
+  title: "Mayfair Club Guestlist Guide — Get On the List",
   description:
     "Everything you need to know about getting on the guestlist at Mayfair nightclubs. How it works, which venues offer it, arrival times, and insider tips from promoters who manage the lists.",
   alternates: { canonical: "https://mayfairtonight.com/mayfair-club-guestlist-guide" },
   openGraph: {
-    title: "Mayfair Club Guestlist Guide — How to Get On the List",
+    title: "Mayfair Club Guestlist Guide — Get On the List",
     description: "Step-by-step guide to getting on the guestlist at every Mayfair club. Venue-by-venue breakdown, tips, and what to expect.",
     url: "https://mayfairtonight.com/mayfair-club-guestlist-guide",
   },

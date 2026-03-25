@@ -1,6 +1,6 @@
 ---
 title: "Best Hip-Hop Clubs in London — Where to Hear Quality RnB and Hip-Hop Tonight"
-metaTitle: "Best Hip-Hop Clubs London 2026 — RnB Nights & Venues | Mayfair Tonight"
+metaTitle: "Best Hip-Hop & RnB Clubs in London 2026"
 metaDescription: "The best hip-hop and RnB clubs in London right now. From exclusive Mayfair rooms to high-energy dance floors — where to hear quality hip-hop tonight."
 date: "2026-03-15"
 excerpt: "London's hip-hop scene is spread across Mayfair, Soho, and beyond. Here's where the music is best, the sound systems deliver, and the crowd actually knows the words."

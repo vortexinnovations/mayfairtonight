@@ -1,6 +1,6 @@
 ---
 title: "Funky Buddha London — What to Expect & How to Get In"
-metaTitle: "Funky Buddha London — What to Expect & How to Get In | Mayfair Tonight"
+metaTitle: "Funky Buddha London — What to Expect"
 metaDescription: "The insider guide to Funky Buddha Mayfair. What it's really like, who goes, how to get in, and what makes it one of London's most legendary nightclubs."
 date: "2026-03-25"
 excerpt: "Funky Buddha has been a Mayfair staple for years. Here's what it's actually like inside, who goes, what to wear, and how to make sure you get through the door."

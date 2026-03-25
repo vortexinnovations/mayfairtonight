@@ -10,6 +10,12 @@ export const metadata: Metadata = {
   description:
     "Browse every nightclub we cover across Mayfair and central London. Quick access to opening nights, music policy, dress code, and booking info for each venue.",
   alternates: { canonical: "https://mayfairtonight.com/clubs" },
+  openGraph: {
+    title: "All Clubs We Cover — Full Venue Directory",
+    description:
+      "Browse every nightclub we cover across Mayfair and central London. Opening nights, music policy, dress code, and booking info for each venue.",
+    url: "https://mayfairtonight.com/clubs",
+  },
 };
 
 export default function ClubsPage() {

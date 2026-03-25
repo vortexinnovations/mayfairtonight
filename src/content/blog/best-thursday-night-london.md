@@ -1,6 +1,6 @@
 ---
 title: "Why Thursday Is the Best Night Out in London — And Where to Go"
-metaTitle: "Best Thursday Night Out London 2026 — Clubs & Parties | Mayfair Tonight"
+metaTitle: "Best Thursday Night Out London 2026"
 metaDescription: "Thursday is the best night to go out in London and here's why. The clubs, the crowd, and the energy — plus where to go this Thursday."
 date: "2026-03-05"
 excerpt: "Ask anyone who goes out in Mayfair regularly and they'll tell you the same thing: Thursday nights often beat the weekend. Here's why — and where to go."

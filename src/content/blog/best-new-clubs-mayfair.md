@@ -1,6 +1,6 @@
 ---
 title: "Best New Clubs in Mayfair — Where to Go in 2026"
-metaTitle: "Best New Clubs in Mayfair 2026 — Where to Go Tonight | Mayfair Tonight"
+metaTitle: "Best New Clubs in Mayfair 2026"
 metaDescription: "The newest and most exciting nightclubs in Mayfair right now. From Luna Club to Selene, plus how the established venues are keeping up in 2026."
 date: "2026-03-25"
 excerpt: "Mayfair's nightlife scene has fresh blood. Here are the newest clubs worth your time in 2026, plus the established venues that refuse to be outshone."

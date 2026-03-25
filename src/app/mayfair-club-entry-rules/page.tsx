@@ -4,7 +4,7 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 
 export const metadata: Metadata = {
-  title: "Mayfair Club Entry Rules — How to Get Into Every Venue",
+  title: "Mayfair Club Entry Rules — Door Guide 2026",
   description:
     "The complete guide to Mayfair nightclub entry rules. Door policies, ID requirements, group ratios, arrival times, and what gets you turned away. Insider tips from someone who knows every door.",
   alternates: { canonical: "https://mayfairtonight.com/mayfair-club-entry-rules" },

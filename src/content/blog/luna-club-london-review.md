@@ -1,6 +1,6 @@
 ---
 title: "Luna Club London — Mayfair's Newest Premium Nightclub"
-metaTitle: "Luna Club London — Mayfair's Newest Premium Nightclub | Mayfair Tonight"
+metaTitle: "Luna Club London — Mayfair's Newest Club"
 metaDescription: "Everything you need to know about Luna Club London. The design, the music, the crowd, and why this new Mayfair venue is already turning heads."
 date: "2026-03-25"
 excerpt: "Luna Club London is already making waves in Mayfair. Here's the full breakdown — what it looks like, what it sounds like, and whether it lives up to the hype."

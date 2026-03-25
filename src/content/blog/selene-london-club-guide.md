@@ -1,6 +1,6 @@
 ---
 title: "Selene London — Refined Elegance in Mayfair"
-metaTitle: "Selene London — Refined Elegance in Mayfair | Mayfair Tonight"
+metaTitle: "Selene London — Refined Elegance in Mayfair"
 metaDescription: "The insider guide to Selene London. Greek goddess-inspired interiors, a serious cocktail programme, and one of Mayfair's most elegant new nightlife experiences."
 date: "2026-03-25"
 excerpt: "Selene London brings a different energy to Mayfair nightlife. Elegant, refined, and effortlessly sophisticated — here's everything you need to know."

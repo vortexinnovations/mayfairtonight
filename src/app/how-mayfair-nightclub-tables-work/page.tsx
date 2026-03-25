@@ -4,12 +4,12 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 
 export const metadata: Metadata = {
-  title: "How Mayfair Nightclub Tables Work — The Complete Guide",
+  title: "How Mayfair Nightclub Tables Work — Full Guide",
   description:
     "Everything you need to know about booking a table at a Mayfair nightclub. Minimum spends, bottle service, what you get, and what to expect at London's most exclusive venues.",
   alternates: { canonical: "https://mayfairtonight.com/how-mayfair-nightclub-tables-work" },
   openGraph: {
-    title: "How Mayfair Nightclub Tables Work — The Complete Guide",
+    title: "How Mayfair Nightclub Tables Work — Full Guide",
     description: "Minimum spends, bottle service, the VIP experience — an honest breakdown of how table bookings work at every top Mayfair club.",
     url: "https://mayfairtonight.com/how-mayfair-nightclub-tables-work",
   },

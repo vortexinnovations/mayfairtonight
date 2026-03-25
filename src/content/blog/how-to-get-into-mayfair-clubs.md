@@ -1,6 +1,6 @@
 ---
 title: "How to Get Into Mayfair Clubs — Door Policy, Guestlists, and What Actually Works"
-metaTitle: "How to Get Into Mayfair Clubs — Door Policy & Tips | Mayfair Tonight"
+metaTitle: "How to Get Into Mayfair Clubs — Door Tips"
 metaDescription: "Honest guide to getting into Mayfair's exclusive nightclubs. Door policies, guestlists, table bookings, and what actually works at the door — from people who do this every week."
 date: "2026-03-10"
 excerpt: "Getting into Mayfair clubs isn't complicated — but it does require some planning. Here's exactly how to make sure you're walking through the door, not standing outside it."

@@ -5,7 +5,7 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 
 export const metadata: Metadata = {
-  title: "Mayfair Nightclubs — The Complete Guide to Every Club in Mayfair",
+  title: "Mayfair Nightclubs — Complete Club Guide 2026",
   description:
     "The definitive guide to every nightclub in Mayfair, London. Opening nights, music policy, dress code, crowd, vibe, and how to get on the guestlist. Updated weekly.",
   alternates: { canonical: "https://mayfairtonight.com/mayfair-nightclubs" },

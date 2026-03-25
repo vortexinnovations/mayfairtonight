@@ -1,6 +1,6 @@
 ---
 title: "Reign London — The Best Live Entertainment Club in Mayfair"
-metaTitle: "Reign London — The Best Live Entertainment Club in Mayfair | Mayfair Tonight"
+metaTitle: "Reign London — Best Entertainment Club"
 metaDescription: "Inside Reign London's showclub experience. Aerial acts, live singers, Vegas-level production — and how it compares to other entertainment venues in London."
 date: "2026-03-25"
 excerpt: "Reign London doesn't just play music — it puts on a show. Here's what the showclub experience is really like, and why it's Mayfair's best entertainment venue."

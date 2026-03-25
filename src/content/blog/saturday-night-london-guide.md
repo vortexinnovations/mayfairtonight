@@ -1,6 +1,6 @@
 ---
 title: "Saturday Night in London — The Complete Guide to Getting It Right"
-metaTitle: "Saturday Night London Guide — Best Clubs & Planning Tips | Mayfair Tonight"
+metaTitle: "Saturday Night London — Best Clubs & Tips"
 metaDescription: "How to plan the perfect Saturday night in London. Which clubs to book, when to arrive, what to wear, and how to avoid the common mistakes. The insider guide."
 date: "2026-02-25"
 excerpt: "Saturday in London is the biggest night of the week. Here's how to make sure yours doesn't end up standing in a queue outside a club you can't get into."

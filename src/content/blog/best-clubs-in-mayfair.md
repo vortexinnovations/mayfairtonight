@@ -1,6 +1,6 @@
 ---
 title: "The 13 Best Clubs in Mayfair — Ranked by People Who Actually Go"
-metaTitle: "Best Clubs in Mayfair 2026 — Ranked & Reviewed | Mayfair Tonight"
+metaTitle: "Best Clubs in Mayfair 2026 — Ranked & Reviewed"
 metaDescription: "The definitive ranking of Mayfair's best nightclubs in 2026. Honest reviews from people who go out every week — not a press release in sight."
 date: "2026-03-20"
 excerpt: "We go out in Mayfair every week. Here's our honest ranking of the best clubs in the area — what's genuinely worth your time, your money, and your Saturday night."

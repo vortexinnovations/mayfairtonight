@@ -4,12 +4,12 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 
 export const metadata: Metadata = {
-  title: "Mayfair Night Out Itinerary — Plan the Perfect Evening",
+  title: "Mayfair Night Out Itinerary — Plan Your Evening",
   description:
     "Five ready-made Mayfair night out itineraries — from hip-hop to sophisticated supper clubs. Timelines, venue recommendations, dress codes, and booking tips for the perfect evening in London's most exclusive neighbourhood.",
   alternates: { canonical: "https://mayfairtonight.com/mayfair-night-out-itinerary" },
   openGraph: {
-    title: "Mayfair Night Out Itinerary — Plan the Perfect Evening",
+    title: "Mayfair Night Out Itinerary — Plan Your Evening",
     description: "Five curated itineraries for a night out in Mayfair. Hip-hop, entertainment, sophisticated, group, and date night routes with timelines and tips.",
     url: "https://mayfairtonight.com/mayfair-night-out-itinerary",
   },

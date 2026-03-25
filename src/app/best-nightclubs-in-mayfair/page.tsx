@@ -4,8 +4,7 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 
 export const metadata: Metadata = {
-  title:
-    "Best Nightclubs in Mayfair — Ranked by Someone Who Actually Goes Out",
+  title: "Best Nightclubs in Mayfair — Honest Rankings",
   description:
     "The best nightclubs in Mayfair, London — ranked and reviewed. From exclusive members clubs to theatrical showclubs. Honest, insider picks for 2026.",
   alternates: {

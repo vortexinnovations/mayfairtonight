@@ -1,6 +1,6 @@
 ---
 title: "The Complete Mayfair Nightlife Guide — Everything You Need to Know in 2026"
-metaTitle: "Mayfair Nightlife Guide 2026 — Complete Insider Guide | Mayfair Tonight"
+metaTitle: "Mayfair Nightlife Guide 2026 — Insider Guide"
 metaDescription: "The complete 2026 guide to Mayfair nightlife. Every club, every night, dress codes, prices, music, and insider tips — from people who go out in Mayfair every week."
 date: "2026-03-22"
 updated: "2026-03-22"

@@ -1,6 +1,6 @@
 ---
 title: "The Box London — Inside London's Most Provocative Nightclub"
-metaTitle: "The Box London — Inside London's Most Provocative Nightclub | Mayfair Tonight"
+metaTitle: "The Box London — Most Provocative Nightclub"
 metaDescription: "What The Box London is really like. The performances, the crowd, what to wear, and how to get a table at London's most boundary-pushing nightclub."
 date: "2026-03-25"
 excerpt: "The Box isn't for everyone. That's the point. Here's what to actually expect from London's most provocative nightclub — the shows, the crowd, and how to get in."

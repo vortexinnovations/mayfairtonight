@@ -1,6 +1,6 @@
 ---
 title: "Best House Music Clubs in London — From Deep House to Tech House"
-metaTitle: "Best House Music Clubs London 2026 — Deep House & Tech House Venues | Mayfair Tonight"
+metaTitle: "Best House Music Clubs in London 2026"
 metaDescription: "Where to find quality house music in London tonight. From Mayfair's sophisticated rooms to South London's super clubs — the best venues for house, deep house, and tech house."
 date: "2026-03-12"
 excerpt: "Mayfair isn't known for house music — but the venues that play it do it properly. Here's where to find four-to-the-floor in London tonight."
