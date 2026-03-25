@@ -1,0 +1,272 @@
+[
+  {
+    "date": "2026-03-27",
+    "clubSlug": "tape-london",
+    "clubName": "Tape London",
+    "eventName": "Friday Sessions",
+    "specialGuest": "",
+    "musicGenre": "Hip-Hop & RnB",
+    "openingTime": "22:00",
+    "description": "Tape's legendary Friday night — Mayfair's most exclusive room, world-class DJs, A-list crowd."
+  },
+  {
+    "date": "2026-03-27",
+    "clubSlug": "cirque-le-soir",
+    "clubName": "Cirque Le Soir",
+    "eventName": "The Greatest Show",
+    "specialGuest": "",
+    "musicGenre": "Hip-Hop & RnB",
+    "openingTime": "22:30",
+    "description": "Fire breathers, contortionists, and world-class performers — Cirque's signature Friday madness."
+  },
+  {
+    "date": "2026-03-27",
+    "clubSlug": "the-london-reign",
+    "clubName": "The London Reign",
+    "eventName": "Reign Supreme",
+    "specialGuest": "",
+    "musicGenre": "Commercial & House",
+    "openingTime": "22:00",
+    "description": "Aerial acts, live vocals, and the most extravagant production in Mayfair."
+  },
+  {
+    "date": "2026-03-27",
+    "clubSlug": "tabu-london",
+    "clubName": "TABU London",
+    "eventName": "Underground Fridays",
+    "specialGuest": "",
+    "musicGenre": "Hip-Hop & RnB",
+    "openingTime": "22:00",
+    "description": "Dark, moody, and fashion-forward. TABU's Friday night brings the underground to Mayfair."
+  },
+  {
+    "date": "2026-03-27",
+    "clubSlug": "libertine",
+    "clubName": "Libertine",
+    "eventName": "Libertine Fridays",
+    "specialGuest": "",
+    "musicGenre": "Hip-Hop & RnB",
+    "openingTime": "22:30",
+    "description": "One of Mayfair's biggest Friday nights — futuristic vibes and a packed dance floor."
+  },
+  {
+    "date": "2026-03-27",
+    "clubSlug": "luxx-club",
+    "clubName": "Luxx Club London",
+    "eventName": "Luxx Light Show",
+    "specialGuest": "",
+    "musicGenre": "Open Format & Hip-Hop",
+    "openingTime": "22:30",
+    "description": "Immersive LED experience with premium sound — Mayfair's most visual night out."
+  },
+  {
+    "date": "2026-03-27",
+    "clubSlug": "maddox",
+    "clubName": "Maddox",
+    "eventName": "House Sessions",
+    "specialGuest": "",
+    "musicGenre": "House & Deep House",
+    "openingTime": "22:00",
+    "description": "Dinner, drinks, and deep house. Maddox transitions from Italian fine dining to proper house music."
+  },
+  {
+    "date": "2026-03-27",
+    "clubSlug": "scotch-of-st-james",
+    "clubName": "Scotch of St James",
+    "eventName": "Friday at Scotch",
+    "specialGuest": "",
+    "musicGenre": "Mixed",
+    "openingTime": "22:00",
+    "description": "Mayfair history meets modern nightlife. One of London's most storied venues."
+  },
+  {
+    "date": "2026-03-27",
+    "clubSlug": "cuckoo-club",
+    "clubName": "Cuckoo Club",
+    "eventName": "Cuckoo Fridays",
+    "specialGuest": "",
+    "musicGenre": "House & Hip-Hop",
+    "openingTime": "22:00",
+    "description": "Two floors, two vibes. House downstairs, hip-hop up. Pick your poison."
+  },
+  {
+    "date": "2026-03-27",
+    "clubSlug": "dear-darling",
+    "clubName": "Dear Darling",
+    "eventName": "Friday Soirée",
+    "specialGuest": "",
+    "musicGenre": "House & Lounge",
+    "openingTime": "21:00",
+    "description": "Chandeliers, velvet booths, and cocktails that justify every penny. Mayfair opulence at its finest."
+  },
+  {
+    "date": "2026-03-27",
+    "clubSlug": "beat-london",
+    "clubName": "BEAT London",
+    "eventName": "BEAT Fridays",
+    "specialGuest": "",
+    "musicGenre": "Hip-Hop & RnB",
+    "openingTime": "22:00",
+    "description": "All about the music. BEAT's sound system is the star — proper nightclub energy."
+  },
+  {
+    "date": "2026-03-27",
+    "clubSlug": "ministry-of-sound",
+    "clubName": "Ministry of Sound",
+    "eventName": "Ministry Sessions",
+    "specialGuest": "",
+    "musicGenre": "House & Techno",
+    "openingTime": "23:00",
+    "description": "London's iconic super club. Multiple rooms, world-class sound, dancing until sunrise."
+  },
+  {
+    "date": "2026-03-27",
+    "clubSlug": "lio-london",
+    "clubName": "Lio Club London",
+    "eventName": "Lio Fridays",
+    "specialGuest": "",
+    "musicGenre": "Commercial & House",
+    "openingTime": "20:00",
+    "description": "Dinner, live entertainment, then full nightclub mode. The most complete night out in Mayfair."
+  },
+  {
+    "date": "2026-03-28",
+    "clubSlug": "tape-london",
+    "clubName": "Tape London",
+    "eventName": "Saturday at Tape",
+    "specialGuest": "",
+    "musicGenre": "Hip-Hop & RnB",
+    "openingTime": "22:00",
+    "description": "The biggest night at Mayfair's most exclusive venue. Book early — tables sell out."
+  },
+  {
+    "date": "2026-03-28",
+    "clubSlug": "cirque-le-soir",
+    "clubName": "Cirque Le Soir",
+    "eventName": "Saturday Circus",
+    "specialGuest": "",
+    "musicGenre": "Hip-Hop & RnB",
+    "openingTime": "22:30",
+    "description": "The wildest Saturday night in London. Full circus performance with world-class DJs."
+  },
+  {
+    "date": "2026-03-28",
+    "clubSlug": "the-london-reign",
+    "clubName": "The London Reign",
+    "eventName": "Saturday Spectacular",
+    "specialGuest": "",
+    "musicGenre": "Commercial & House",
+    "openingTime": "22:00",
+    "description": "The London Reign's biggest night — expect the full show with aerial acts and live entertainment."
+  },
+  {
+    "date": "2026-03-28",
+    "clubSlug": "tabu-london",
+    "clubName": "TABU London",
+    "eventName": "TABU Saturdays",
+    "specialGuest": "",
+    "musicGenre": "Hip-Hop & RnB",
+    "openingTime": "22:00",
+    "description": "Mayfair's coolest Saturday night. Japanese underground aesthetics, quality hip-hop, fashion crowd."
+  },
+  {
+    "date": "2026-03-28",
+    "clubSlug": "libertine",
+    "clubName": "Libertine",
+    "eventName": "Libertine Saturdays",
+    "specialGuest": "",
+    "musicGenre": "Hip-Hop & RnB",
+    "openingTime": "22:30",
+    "description": "Libertine's legendary Saturday — the dance floor is packed, the energy is unmatched."
+  },
+  {
+    "date": "2026-03-28",
+    "clubSlug": "luxx-club",
+    "clubName": "Luxx Club London",
+    "eventName": "Saturday Light Show",
+    "specialGuest": "",
+    "musicGenre": "Open Format & Hip-Hop",
+    "openingTime": "22:30",
+    "description": "LED walls, immersive visuals, and premium sound. Luxx's Saturday is a full sensory experience."
+  },
+  {
+    "date": "2026-03-28",
+    "clubSlug": "maddox",
+    "clubName": "Maddox",
+    "eventName": "Maddox Saturday",
+    "specialGuest": "",
+    "musicGenre": "House & Deep House",
+    "openingTime": "22:00",
+    "description": "From Italian dining to deep house on the dance floor — Saturday is Maddox at its best."
+  },
+  {
+    "date": "2026-03-28",
+    "clubSlug": "scotch-of-st-james",
+    "clubName": "Scotch of St James",
+    "eventName": "Saturday at Scotch",
+    "specialGuest": "",
+    "musicGenre": "Mixed",
+    "openingTime": "22:00",
+    "description": "History, elegance, and a proper Saturday night in one of Mayfair's most storied rooms."
+  },
+  {
+    "date": "2026-03-28",
+    "clubSlug": "cuckoo-club",
+    "clubName": "Cuckoo Club",
+    "eventName": "Cuckoo Saturdays",
+    "specialGuest": "",
+    "musicGenre": "House & Hip-Hop",
+    "openingTime": "22:00",
+    "description": "Mayfair's most versatile venue turns it up to 11 on Saturdays. Two floors, zero excuses."
+  },
+  {
+    "date": "2026-03-28",
+    "clubSlug": "dear-darling",
+    "clubName": "Dear Darling",
+    "eventName": "Saturday Night",
+    "specialGuest": "",
+    "musicGenre": "House & Lounge",
+    "openingTime": "21:00",
+    "description": "Opulent cocktails and late-night energy. Dear Darling's Saturday is Mayfair sophistication."
+  },
+  {
+    "date": "2026-03-28",
+    "clubSlug": "beat-london",
+    "clubName": "BEAT London",
+    "eventName": "BEAT Saturdays",
+    "specialGuest": "",
+    "musicGenre": "Hip-Hop & Commercial",
+    "openingTime": "22:00",
+    "description": "The sound system does the talking. BEAT's Saturday is a proper nightclub experience."
+  },
+  {
+    "date": "2026-03-28",
+    "clubSlug": "ministry-of-sound",
+    "clubName": "Ministry of Sound",
+    "eventName": "Saturday Sessions",
+    "specialGuest": "",
+    "musicGenre": "House, Techno & Electronic",
+    "openingTime": "23:00",
+    "description": "The biggest night at London's most iconic club. Multiple rooms, dancing until 6am."
+  },
+  {
+    "date": "2026-03-28",
+    "clubSlug": "lio-london",
+    "clubName": "Lio Club London",
+    "eventName": "Lio Saturday",
+    "specialGuest": "",
+    "musicGenre": "Commercial & House",
+    "openingTime": "20:00",
+    "description": "Saturday is Lio's showpiece — dinner, live performances, and a nightclub that goes until late."
+  },
+  {
+    "date": "2026-03-29",
+    "clubSlug": "ministry-of-sound",
+    "clubName": "Ministry of Sound",
+    "eventName": "Sunday Sessions",
+    "specialGuest": "",
+    "musicGenre": "House & Electronic",
+    "openingTime": "23:00",
+    "description": "For those who aren't ready for the weekend to end. Ministry's Sunday keeps the party going."
+  }
+]
