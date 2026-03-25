@@ -38,6 +38,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "monthly" as const,
       priority: 0.7,
     },
+    // Hub pages
     {
       url: `${baseUrl}/mayfair-nightclubs`,
       changeFrequency: "weekly" as const,
@@ -52,6 +53,78 @@ export default function sitemap(): MetadataRoute.Sitemap {
       url: `${baseUrl}/mayfair-nightlife-guide`,
       changeFrequency: "monthly" as const,
       priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/where-to-go-out-in-mayfair`,
+      changeFrequency: "monthly" as const,
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/mayfair-club-dress-code`,
+      changeFrequency: "monthly" as const,
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/mayfair-vip-nightlife`,
+      changeFrequency: "monthly" as const,
+      priority: 0.8,
+    },
+    // Comparison pages
+    {
+      url: `${baseUrl}/best-hip-hop-clubs-in-mayfair`,
+      changeFrequency: "monthly" as const,
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/best-celebrity-clubs-in-mayfair`,
+      changeFrequency: "monthly" as const,
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/best-clubs-for-groups-in-mayfair`,
+      changeFrequency: "monthly" as const,
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/best-clubs-for-tables-in-mayfair`,
+      changeFrequency: "monthly" as const,
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/girls-guestlist-clubs-mayfair`,
+      changeFrequency: "monthly" as const,
+      priority: 0.8,
+    },
+    {
+      url: `${baseUrl}/mayfair-clubs-by-music-style`,
+      changeFrequency: "monthly" as const,
+      priority: 0.8,
+    },
+    // Support pages
+    {
+      url: `${baseUrl}/mayfair-club-entry-rules`,
+      changeFrequency: "monthly" as const,
+      priority: 0.7,
+    },
+    {
+      url: `${baseUrl}/mayfair-club-guestlist-guide`,
+      changeFrequency: "monthly" as const,
+      priority: 0.7,
+    },
+    {
+      url: `${baseUrl}/how-mayfair-nightclub-tables-work`,
+      changeFrequency: "monthly" as const,
+      priority: 0.7,
+    },
+    {
+      url: `${baseUrl}/mayfair-night-out-itinerary`,
+      changeFrequency: "monthly" as const,
+      priority: 0.7,
+    },
+    {
+      url: `${baseUrl}/best-areas-around-hanover-square-and-berkeley-square-for-nightlife`,
+      changeFrequency: "monthly" as const,
+      priority: 0.7,
     },
   ];
 
