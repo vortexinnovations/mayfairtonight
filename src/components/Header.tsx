@@ -8,6 +8,7 @@ const navLinks = [
   { href: "/this-weekend", label: "This Weekend" },
   { href: "/where-to-go-tonight", label: "Where To Go" },
   { href: "/clubs", label: "Clubs" },
+  { href: "/blog", label: "Blog" },
   { href: "/dress-code", label: "Dress Code" },
   { href: "/contact", label: "Book Now" },
 ];

@@ -39,6 +39,11 @@ export default function Footer() {
                   Dress Code Guide
                 </Link>
               </li>
+              <li>
+                <Link href="/blog" className="text-sm text-dark-muted hover:text-gold transition-colors">
+                  Blog
+                </Link>
+              </li>
             </ul>
           </div>
 
