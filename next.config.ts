@@ -1,10 +1,5 @@
 import type { NextConfig } from "next";
 
-const nextConfig: NextConfig = {
-  experimental: {
-    optimizeCss: true,
-    cssChunking: "strict",
-  },
-};
+const nextConfig: NextConfig = {};
 
 export default nextConfig;
