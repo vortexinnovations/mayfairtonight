@@ -3,6 +3,8 @@ import Link from "next/link";
 import { getOpenClubs } from "@/data/clubs";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
+import HeroImage from "@/components/HeroImage";
+import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title: "London Nightclub Dress Code — What to Wear Going Out",
@@ -53,7 +55,7 @@ const faqs = [
 export default function DressCodePage() {
   return (
     <>
-      <article className="max-w-4xl mx-auto px-4 pt-8">
+      <HeroImage src={heroImages.dressCode} alt="Mayfair club dress code">
         <nav className="text-sm text-dark-muted mb-4">
           <Link href="/" className="hover:text-gold">Tonight</Link>
           {" / "}
@@ -63,10 +65,16 @@ export default function DressCodePage() {
         <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">
           Mayfair Club <span className="text-gold">Dress Code</span> Guide
         </h1>
-        <p className="text-gray-300 text-lg mb-8 max-w-2xl">
+        <p className="text-gray-300 text-lg max-w-2xl">
           What to wear, what to avoid, and what each club expects. Read this
           before you leave the house — getting turned away at the door is the
-          fastest way to ruin a night out. Need to pick a venue first? Browse our{" "}
+          fastest way to ruin a night out.
+        </p>
+      </HeroImage>
+
+      <article className="max-w-4xl mx-auto px-4 pt-8">
+        <p className="text-gray-300 text-lg mb-8 max-w-2xl">
+          Need to pick a venue first? Browse our{" "}
           <Link href="/mayfair-nightclubs" className="text-gold hover:text-gold-light underline">
             Mayfair nightclubs directory
           </Link>{" "}

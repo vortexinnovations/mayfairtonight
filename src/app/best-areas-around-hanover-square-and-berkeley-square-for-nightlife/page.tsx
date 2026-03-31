@@ -2,6 +2,8 @@ import { Metadata } from "next";
 import Link from "next/link";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
+import HeroImage from "@/components/HeroImage";
+import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title: "Mayfair Nightlife by Area — Where to Go",
@@ -26,7 +28,7 @@ const faqs = [
 export default function NightlifeAreasPage() {
   return (
     <>
-      <article className="max-w-4xl mx-auto px-4 pt-8">
+      <HeroImage src={heroImages.areasGuide} alt="Mayfair nightlife areas guide">
         <nav className="text-sm text-dark-muted mb-4">
           <Link href="/" className="hover:text-gold">Tonight</Link>{" / "}
           <Link href="/mayfair-nightlife-guide" className="hover:text-gold">Mayfair Nightlife Guide</Link>{" / "}
@@ -36,9 +38,12 @@ export default function NightlifeAreasPage() {
         <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">
           Mayfair Nightlife by Area — <span className="text-gold">Hanover Square, Berkeley Square &amp; Beyond</span>
         </h1>
-        <p className="text-gray-300 text-lg mb-4 max-w-3xl">
-          Mayfair&apos;s nightclubs aren&apos;t scattered randomly — they cluster in distinct pockets, each with its own character. Understanding the geography helps you plan a smarter night: less time in taxis, more time inside the venues that matter. This guide maps out every nightlife area, the clubs within it, and the walking routes that connect them.
+        <p className="text-gray-300 text-lg max-w-3xl">
+          Mayfair&apos;s nightclubs aren&apos;t scattered randomly — they cluster in distinct pockets, each with its own character. Understanding the geography helps you plan a smarter night.
         </p>
+      </HeroImage>
+
+      <article className="max-w-4xl mx-auto px-4 pt-8">
         <p className="text-dark-muted text-sm mb-8">
           Looking for a full club-by-club breakdown? See <Link href="/mayfair-nightclubs" className="text-gold hover:text-gold-light">all Mayfair nightclubs</Link>. For night-by-night planning, read our <Link href="/mayfair-night-out-itinerary" className="text-gold hover:text-gold-light">itinerary guide</Link>.
         </p>

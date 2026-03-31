@@ -2,6 +2,8 @@ import { Metadata } from "next";
 import Link from "next/link";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
+import HeroImage from "@/components/HeroImage";
+import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title: "Where Should I Go Tonight? — Quick Picks by Vibe",
@@ -169,7 +171,7 @@ const recommendations: Recommendation[] = [
 export default function WhereToGoPage() {
   return (
     <>
-      <article className="max-w-4xl mx-auto px-4 pt-8">
+      <HeroImage src={heroImages.whereToGoTonight} alt="Where to go tonight in Mayfair">
         <nav className="text-sm text-dark-muted mb-4">
           <Link href="/" className="hover:text-gold">Tonight</Link>
           {" / "}
@@ -179,10 +181,15 @@ export default function WhereToGoPage() {
         <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">
           Where Should I Go <span className="text-gold">Tonight?</span>
         </h1>
-        <p className="text-gray-300 text-lg mb-8 max-w-2xl">
+        <p className="text-gray-300 text-lg mb-0 max-w-2xl">
           Pick your vibe. We&apos;ll tell you exactly where to go, what to expect,
-          and how to book. No fluff — just honest recommendations from people
-          who go out in Mayfair every week. For a broader overview, see our{" "}
+          and how to book. No fluff — just honest recommendations.
+        </p>
+      </HeroImage>
+
+      <article className="max-w-4xl mx-auto px-4 pt-8">
+        <p className="text-dark-muted text-sm mb-8">
+          For a broader overview, see our{" "}
           <Link href="/mayfair-nightlife-guide" className="text-gold hover:text-gold-light underline">
             Mayfair nightlife guide
           </Link>.

@@ -2,6 +2,8 @@ import { Metadata } from "next";
 import Link from "next/link";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
+import HeroImage from "@/components/HeroImage";
+import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title: "Mayfair Club Guestlist Guide — Get On the List",
@@ -27,7 +29,7 @@ const faqs = [
 export default function GuestlistGuidePage() {
   return (
     <>
-      <article className="max-w-4xl mx-auto px-4 pt-8">
+      <HeroImage src={heroImages.guestlistGuide} alt="Mayfair club guestlist guide">
         <nav className="text-sm text-dark-muted mb-4">
           <Link href="/" className="hover:text-gold">Tonight</Link>{" / "}
           <Link href="/mayfair-nightclubs" className="hover:text-gold">Mayfair Nightclubs</Link>{" / "}
@@ -37,9 +39,12 @@ export default function GuestlistGuidePage() {
         <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">
           Mayfair Club Guestlist Guide — <span className="text-gold">How to Get On the List</span>
         </h1>
-        <p className="text-gray-300 text-lg mb-4 max-w-3xl">
-          The guestlist is how most people get into Mayfair clubs without booking a table. It&apos;s free, it&apos;s simple, and it works — if you know the rules. This guide breaks down exactly how guestlists operate at every major Mayfair venue, what to expect, and how to make sure your name actually means something at the door.
+        <p className="text-gray-300 text-lg max-w-3xl">
+          The guestlist is how most people get into Mayfair clubs without booking a table. It&apos;s free, it&apos;s simple, and it works — if you know the rules.
         </p>
+      </HeroImage>
+
+      <article className="max-w-4xl mx-auto px-4 pt-8">
         <p className="text-dark-muted text-sm mb-8">
           Already know you want a table? Read <Link href="/how-mayfair-nightclub-tables-work" className="text-gold hover:text-gold-light">how Mayfair tables work</Link>. For door policies, see our <Link href="/mayfair-club-entry-rules" className="text-gold hover:text-gold-light">entry rules guide</Link>.
         </p>

@@ -2,6 +2,8 @@ import { Metadata } from "next";
 import Link from "next/link";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
+import HeroImage from "@/components/HeroImage";
+import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title:
@@ -161,8 +163,7 @@ const faqs = [
 export default function BestHipHopClubsPage() {
   return (
     <>
-      <article className="max-w-4xl mx-auto px-4 pt-8">
-        {/* Breadcrumb */}
+      <HeroImage src={heroImages.hipHopClubs} alt="Hip-hop clubs in Mayfair">
         <nav className="text-sm text-dark-muted mb-4">
           <Link href="/" className="hover:text-gold">
             Tonight
@@ -179,13 +180,14 @@ export default function BestHipHopClubsPage() {
           Best Hip-Hop & RnB Clubs in Mayfair —{" "}
           <span className="text-gold">Ranked for 2026</span>
         </h1>
-        <p className="text-gray-300 text-lg mb-4 max-w-3xl">
+        <p className="text-gray-300 text-lg max-w-3xl">
           Mayfair does hip-hop differently. No sticky floors. No average DJs.
           These are clubs where the music is curated, the crowd matches the
-          energy, and the sound systems actually do the bass justice. Here are
-          the best hip-hop and RnB clubs in Mayfair, ranked by people who
-          genuinely care about the music.
+          energy, and the sound systems actually do the bass justice.
         </p>
+      </HeroImage>
+
+      <article className="max-w-4xl mx-auto px-4 pt-8">
         <p className="text-dark-muted text-sm mb-8">
           Looking for the full venue breakdown?{" "}
           <Link

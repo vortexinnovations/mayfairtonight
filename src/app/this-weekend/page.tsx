@@ -3,6 +3,8 @@ import Link from "next/link";
 import ClubCard from "@/components/ClubCard";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
+import HeroImage from "@/components/HeroImage";
+import { heroImages } from "@/data/images";
 import { clubs, getOpenClubs } from "@/data/clubs";
 import eventsData from "@/data/events.json";
 import { getWeekendDates, formatDate } from "@/lib/utils";
@@ -31,26 +33,22 @@ export default function WeekendPage() {
 
   return (
     <>
-      <article className="max-w-6xl mx-auto px-4 pt-8">
+      <HeroImage src={heroImages.thisWeekend} alt="This weekend in Mayfair">
         <nav className="text-sm text-dark-muted mb-4">
           <Link href="/" className="hover:text-gold">Tonight</Link>
           {" / "}
           <span className="text-gray-300">This Weekend</span>
         </nav>
 
-        <div className="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4 mb-8">
-          <div>
-            <h1 className="text-3xl sm:text-4xl font-bold text-white">
-              This Weekend in <span className="text-gold">Mayfair</span>
-            </h1>
-            <p className="text-dark-muted mt-2">
-              {formatDate(weekend.friday)} — {formatDate(weekend.sunday)}
-            </p>
-          </div>
-          <div className="hidden md:block">
-            <WhatsAppCTA size="md" />
-          </div>
-        </div>
+        <h1 className="text-3xl sm:text-4xl font-bold text-white mb-2">
+          This Weekend in <span className="text-gold">Mayfair</span>
+        </h1>
+        <p className="text-dark-muted">
+          {formatDate(weekend.friday)} — {formatDate(weekend.sunday)}
+        </p>
+      </HeroImage>
+
+      <article className="max-w-6xl mx-auto px-4 pt-8">
 
         {weekendDays.map(({ date, day, slug }) => {
           const dayEvents = eventsData.filter((e) => e.date === date);

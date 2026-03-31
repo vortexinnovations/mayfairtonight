@@ -2,6 +2,8 @@ import { Metadata } from "next";
 import Link from "next/link";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
+import HeroImage from "@/components/HeroImage";
+import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title: "Where to Go Out in Mayfair — Your Night, Sorted",
@@ -54,8 +56,7 @@ const faqs = [
 export default function WhereToGoOutPage() {
   return (
     <>
-      <article className="max-w-4xl mx-auto px-4 pt-8">
-        {/* Breadcrumb */}
+      <HeroImage src={heroImages.whereToGoOut} alt="Where to go out in Mayfair">
         <nav className="text-sm text-dark-muted mb-4">
           <Link href="/" className="hover:text-gold">
             Tonight
@@ -68,13 +69,14 @@ export default function WhereToGoOutPage() {
           Where to Go Out in Mayfair —{" "}
           <span className="text-gold">Your Night, Sorted</span>
         </h1>
-        <p className="text-gray-300 text-lg mb-4 max-w-3xl">
+        <p className="text-gray-300 text-lg mb-0 max-w-3xl">
           Thirteen clubs. One square mile. Too many options. This guide cuts
-          through the noise. Tell us what kind of night you want and we will
-          point you to the right door. No filler, no sponsored picks — just
-          honest insider recommendations from people who are out in Mayfair
-          every week.
+          through the noise — honest insider recommendations from people who
+          are out in Mayfair every week.
         </p>
+      </HeroImage>
+
+      <article className="max-w-4xl mx-auto px-4 pt-8">
         <p className="text-dark-muted text-sm mb-8">
           Already know what you want and need it tonight?{" "}
           <a

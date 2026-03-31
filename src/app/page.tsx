@@ -1,11 +1,14 @@
 import { Metadata } from "next";
+import Image from "next/image";
 import ClubCard from "@/components/ClubCard";
+import HeroImage from "@/components/HeroImage";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 import { clubs, getOpenClubs } from "@/data/clubs";
 import eventsData from "@/data/events.json";
 import { getTodayString, getDayOfWeek, formatDate } from "@/lib/utils";
 import Link from "next/link";
+import { heroImages, clubImages, sectionImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title: "What's On Tonight in Mayfair — Clubs Open Tonight London",
@@ -38,8 +41,8 @@ export default function HomePage() {
 
   return (
     <>
-      <section className="max-w-6xl mx-auto px-4 pt-8 pb-4">
-        <div className="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4 mb-8">
+      <HeroImage src={heroImages.homepage} alt="Mayfair nightclub atmosphere">
+        <div className="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4 mb-6">
           <div>
             <h1 className="text-3xl sm:text-4xl font-bold text-white">
               What&apos;s On <span className="text-gold">Tonight</span>
@@ -54,14 +57,14 @@ export default function HomePage() {
         </div>
 
         {/* Quick stats */}
-        <div className="flex flex-wrap gap-3 mb-8">
-          <div className="bg-dark-card border border-dark-border rounded-lg px-4 py-2">
+        <div className="flex flex-wrap gap-3">
+          <div className="bg-dark-card/80 backdrop-blur border border-dark-border rounded-lg px-4 py-2">
             <span className="text-gold font-bold text-lg">{clubsOpenTonight.length}</span>
             <span className="text-dark-muted text-sm ml-2">clubs open tonight</span>
           </div>
           <Link
             href={`/nights/${dayOfWeek.toLowerCase()}`}
-            className="bg-dark-card border border-dark-border rounded-lg px-4 py-2 hover:border-gold/30 transition-colors"
+            className="bg-dark-card/80 backdrop-blur border border-dark-border rounded-lg px-4 py-2 hover:border-gold/30 transition-colors"
           >
             <span className="text-sm text-gray-300">
               Every {dayOfWeek} in Mayfair →
@@ -69,12 +72,12 @@ export default function HomePage() {
           </Link>
           <Link
             href="/where-to-go-tonight"
-            className="bg-dark-card border border-dark-border rounded-lg px-4 py-2 hover:border-gold/30 transition-colors"
+            className="bg-dark-card/80 backdrop-blur border border-dark-border rounded-lg px-4 py-2 hover:border-gold/30 transition-colors"
           >
             <span className="text-sm text-gray-300">Help me choose →</span>
           </Link>
         </div>
-      </section>
+      </HeroImage>
 
       {/* Tonight's listings */}
       <section className="max-w-6xl mx-auto px-4">
@@ -82,38 +85,62 @@ export default function HomePage() {
           {hasEvents ? "Tonight's Events" : `Open Tonight — ${dayOfWeek}`}
         </h2>
 
-        <div className="space-y-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
           {hasEvents
             ? tonightEvents.map((event) => {
                 const club = clubs.find((c) => c.slug === event.clubSlug);
                 if (!club) return null;
                 return (
+                  <div key={event.clubSlug} className="group">
+                    <Link href={`/clubs/${club.slug}`} className="block">
+                      <div className="relative aspect-[3/2] overflow-hidden rounded-t-xl">
+                        <Image
+                          src={clubImages[event.clubSlug || ""]?.card || sectionImages.crowdEnergy}
+                          alt={`${club.name} nightclub Mayfair`}
+                          fill
+                          className="object-cover group-hover:scale-105 transition-transform duration-500"
+                          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                        />
+                      </div>
+                    </Link>
+                    <ClubCard
+                      slug={club.slug}
+                      name={club.name}
+                      tagline={club.tagline}
+                      musicPolicy={club.musicPolicy}
+                      openingTime={event.openingTime}
+                      area={club.area}
+                      tableMinimum={club.tableMinimum}
+                      eventName={event.eventName}
+                      eventDescription={event.description}
+                      specialGuest={event.specialGuest || undefined}
+                    />
+                  </div>
+                );
+              })
+            : clubsOpenTonight.map((club) => (
+                <div key={club.slug} className="group">
+                  <Link href={`/clubs/${club.slug}`} className="block">
+                    <div className="relative aspect-[3/2] overflow-hidden rounded-t-xl">
+                      <Image
+                        src={clubImages[club.slug]?.card || sectionImages.crowdEnergy}
+                        alt={`${club.name} nightclub Mayfair`}
+                        fill
+                        className="object-cover group-hover:scale-105 transition-transform duration-500"
+                        sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                      />
+                    </div>
+                  </Link>
                   <ClubCard
-                    key={event.clubSlug}
                     slug={club.slug}
                     name={club.name}
                     tagline={club.tagline}
                     musicPolicy={club.musicPolicy}
-                    openingTime={event.openingTime}
+                    openingTime={club.openingTime}
                     area={club.area}
                     tableMinimum={club.tableMinimum}
-                    eventName={event.eventName}
-                    eventDescription={event.description}
-                    specialGuest={event.specialGuest || undefined}
                   />
-                );
-              })
-            : clubsOpenTonight.map((club) => (
-                <ClubCard
-                  key={club.slug}
-                  slug={club.slug}
-                  name={club.name}
-                  tagline={club.tagline}
-                  musicPolicy={club.musicPolicy}
-                  openingTime={club.openingTime}
-                  area={club.area}
-                  tableMinimum={club.tableMinimum}
-                />
+                </div>
               ))}
         </div>
 
@@ -272,6 +299,28 @@ export default function HomePage() {
             </Link>
             .
           </p>
+        </div>
+      </section>
+
+      {/* Booking CTA with background image */}
+      <section className="relative mt-12 py-16 overflow-hidden">
+        <Image
+          src={sectionImages.ctaBooking}
+          alt="VIP table service at Mayfair nightclub"
+          fill
+          className="object-cover"
+          sizes="100vw"
+        />
+        <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-black/70 to-black/80" />
+        <div className="relative z-10 max-w-4xl mx-auto px-4 text-center">
+          <h2 className="text-2xl sm:text-3xl font-bold text-white mb-3">
+            Book Your Table Tonight
+          </h2>
+          <p className="text-gray-300 mb-6 max-w-2xl mx-auto">
+            Skip the queue and guarantee your spot at Mayfair&apos;s best clubs.
+            VIP tables, bottle service, and guestlist — all arranged via WhatsApp.
+          </p>
+          <WhatsAppCTA size="lg" />
         </div>
       </section>
 

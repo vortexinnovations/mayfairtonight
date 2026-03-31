@@ -2,6 +2,8 @@ import { Metadata } from "next";
 import Link from "next/link";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
+import HeroImage from "@/components/HeroImage";
+import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title:
@@ -174,8 +176,7 @@ const faqs = [
 export default function BestClubsForGroupsPage() {
   return (
     <>
-      <article className="max-w-4xl mx-auto px-4 pt-8">
-        {/* Breadcrumb */}
+      <HeroImage src={heroImages.groupsGuide} alt="Group nights out in Mayfair">
         <nav className="text-sm text-dark-muted mb-4">
           <Link href="/" className="hover:text-gold">
             Tonight
@@ -192,13 +193,15 @@ export default function BestClubsForGroupsPage() {
           Best Mayfair Clubs for Groups —{" "}
           <span className="text-gold">Where to Take Your Crew</span>
         </h1>
-        <p className="text-gray-300 text-lg mb-4 max-w-3xl">
+        <p className="text-gray-300 text-lg max-w-3xl">
           Taking a group to Mayfair requires a different strategy than going
           solo or as a couple. You need a venue that handles numbers, keeps
           everyone happy, and does not turn into a logistical nightmare at the
-          door. Here are the best Mayfair clubs for every type of group, with
-          honest advice on costs, guestlists, and what actually works.
+          door.
         </p>
+      </HeroImage>
+
+      <article className="max-w-4xl mx-auto px-4 pt-8">
         <p className="text-dark-muted text-sm mb-8">
           Need the full club directory?{" "}
           <Link

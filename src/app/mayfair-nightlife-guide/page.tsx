@@ -2,6 +2,8 @@ import { Metadata } from "next";
 import Link from "next/link";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
+import HeroImage from "@/components/HeroImage";
+import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title: "Mayfair Nightlife Guide — The Insider Handbook",
@@ -54,8 +56,7 @@ const faqs = [
 export default function MayfairNightlifeGuidePage() {
   return (
     <>
-      <article className="max-w-4xl mx-auto px-4 pt-8">
-        {/* Breadcrumb */}
+      <HeroImage src={heroImages.nightlifeGuide} alt="Mayfair nightlife guide">
         <nav className="text-sm text-dark-muted mb-4">
           <Link href="/" className="hover:text-gold">
             Tonight
@@ -71,12 +72,15 @@ export default function MayfairNightlifeGuidePage() {
         <p className="text-dark-muted text-xs mb-3">
           Last updated: March 2026 · Covers Mayfair, Berkeley Square, Hanover Square, Dover Street, St James&apos;s
         </p>
-        <p className="text-gray-300 text-lg mb-4 max-w-3xl">
+        <p className="text-gray-300 text-lg mb-0 max-w-3xl">
           Everything you need to know before going out in Mayfair. From the exclusive
           clubs around Hanover Square to the cocktail bars of Dover Street and the
           showclubs near Piccadilly — where to go, what to wear, how to get in,
           and what to expect.
         </p>
+      </HeroImage>
+
+      <article className="max-w-4xl mx-auto px-4 pt-8">
         <p className="text-dark-muted text-sm mb-8">
           Want to know what&apos;s on tonight?{" "}
           <a

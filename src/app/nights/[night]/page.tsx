@@ -5,6 +5,8 @@ import { getClubsByNight, clubs } from "@/data/clubs";
 import ClubCard from "@/components/ClubCard";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
+import HeroImage from "@/components/HeroImage";
+import { nightImages } from "@/data/images";
 import Link from "next/link";
 
 export async function generateStaticParams() {
@@ -47,23 +49,25 @@ export default async function NightPage({
 
   return (
     <>
-      <article className="max-w-6xl mx-auto px-4 pt-8">
-        {/* Breadcrumb */}
+      <HeroImage
+        src={nightImages[nightInfo.slug] || "/gallery/images/DSC_6808.jpg"}
+        alt={`${nightInfo.day} night in Mayfair`}
+      >
         <nav className="text-sm text-dark-muted mb-4">
           <Link href="/" className="hover:text-gold">Tonight</Link>
           {" / "}
           <span className="text-gray-300">{nightInfo.day} Night</span>
         </nav>
+        <h1 className="text-3xl sm:text-4xl font-bold text-white">
+          {nightInfo.h1}
+        </h1>
+        <p className="text-dark-muted mt-2">
+          {openClubs.length} clubs open · {nightInfo.vibe}
+        </p>
+      </HeroImage>
 
-        <div className="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4 mb-6">
-          <div>
-            <h1 className="text-3xl sm:text-4xl font-bold text-white">
-              {nightInfo.h1}
-            </h1>
-            <p className="text-dark-muted mt-2">
-              {openClubs.length} clubs open · {nightInfo.vibe}
-            </p>
-          </div>
+      <article className="max-w-6xl mx-auto px-4 pt-8">
+        <div className="flex justify-end mb-6">
           <div className="hidden md:block">
             <WhatsAppCTA variant="night" night={nightInfo.day} size="md" />
           </div>

@@ -1,6 +1,9 @@
 import { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import { getAllPosts, getAllCategories } from "@/lib/blog";
+import { blogImages, heroImages } from "@/data/images";
+import HeroImage from "@/components/HeroImage";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 
@@ -26,6 +29,16 @@ export default function BlogIndex() {
 
   return (
     <>
+      <HeroImage src={heroImages.blog} alt="Mayfair nightlife blog">
+        <h1 className="text-3xl sm:text-4xl font-bold text-white">
+          Mayfair Nightlife <span className="text-gold">Blog</span>
+        </h1>
+        <p className="text-dark-muted mt-2">
+          Insider tips, club guides, and everything you need to know before
+          going out in Mayfair.
+        </p>
+      </HeroImage>
+
       <article className="max-w-6xl mx-auto px-4 pt-8">
         <nav className="text-sm text-dark-muted mb-4">
           <Link href="/" className="hover:text-gold">
@@ -36,16 +49,7 @@ export default function BlogIndex() {
         </nav>
 
         <div className="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4 mb-8">
-          <div>
-            <h1 className="text-3xl sm:text-4xl font-bold text-white">
-              Mayfair Nightlife <span className="text-gold">Blog</span>
-            </h1>
-            <p className="text-dark-muted mt-2">
-              Insider tips, club guides, and everything you need to know before
-              going out in Mayfair.
-            </p>
-          </div>
-          <div className="hidden md:block">
+          <div className="hidden md:block ml-auto">
             <WhatsAppCTA size="md" />
           </div>
         </div>
@@ -69,8 +73,18 @@ export default function BlogIndex() {
         {featuredPost && (
           <Link
             href={`/blog/${featuredPost.slug}`}
-            className="block bg-dark-card border border-dark-border rounded-xl p-6 mb-8 hover:border-gold/30 transition-colors group"
+            className="block bg-dark-card border border-dark-border rounded-xl overflow-hidden mb-8 hover:border-gold/30 transition-colors group"
           >
+            <div className="relative aspect-[3/2] overflow-hidden">
+              <Image
+                src={blogImages[featuredPost.slug]?.featured || heroImages.blog}
+                alt={featuredPost.title}
+                fill
+                className="object-cover group-hover:scale-105 transition-transform duration-500"
+                sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+              />
+            </div>
+            <div className="p-6">
             <div className="flex items-center gap-3 mb-3">
               <span className="bg-gold/10 text-gold text-xs font-medium px-2.5 py-0.5 rounded">
                 Latest
@@ -101,6 +115,7 @@ export default function BlogIndex() {
               </span>
               <span className="text-gold">Read more →</span>
             </div>
+            </div>
           </Link>
         )}
 
@@ -110,8 +125,18 @@ export default function BlogIndex() {
             <Link
               key={post.slug}
               href={`/blog/${post.slug}`}
-              className="bg-dark-card border border-dark-border rounded-xl p-5 hover:border-gold/30 transition-colors group"
+              className="bg-dark-card border border-dark-border rounded-xl overflow-hidden hover:border-gold/30 transition-colors group"
             >
+              <div className="relative aspect-[3/2] overflow-hidden rounded-t-xl">
+                <Image
+                  src={blogImages[post.slug]?.featured || heroImages.blog}
+                  alt={post.title}
+                  fill
+                  className="object-cover group-hover:scale-105 transition-transform duration-500"
+                  sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                />
+              </div>
+              <div className="p-5">
               <div className="flex items-center gap-3 mb-2">
                 <span className="text-xs text-dark-muted">{post.category}</span>
                 <span className="text-xs text-dark-muted">
@@ -136,6 +161,7 @@ export default function BlogIndex() {
                   )}
                 </span>
                 <span className="text-sm text-gold">Read →</span>
+              </div>
               </div>
             </Link>
           ))}

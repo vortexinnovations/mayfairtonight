@@ -1,6 +1,8 @@
 import { Metadata } from "next";
 import Link from "next/link";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
+import HeroImage from "@/components/HeroImage";
+import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title: "Book a Table — WhatsApp Table Bookings for Mayfair Clubs",
@@ -17,7 +19,8 @@ export const metadata: Metadata = {
 
 export default function ContactPage() {
   return (
-    <article className="max-w-3xl mx-auto px-4 pt-8">
+    <>
+    <HeroImage src={heroImages.contact} alt="Book a table at Mayfair nightclubs">
       <nav className="text-sm text-dark-muted mb-4">
         <Link href="/" className="hover:text-gold">Tonight</Link>
         {" / "}
@@ -27,11 +30,13 @@ export default function ContactPage() {
       <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">
         Book a <span className="text-gold">Table</span>
       </h1>
-      <p className="text-gray-300 text-lg mb-8 max-w-xl">
+      <p className="text-gray-300 text-lg max-w-xl">
         No forms. No waiting. Message us on WhatsApp and we&apos;ll sort your
         night out within minutes. It&apos;s that simple.
       </p>
+    </HeroImage>
 
+    <article className="max-w-3xl mx-auto px-4 pt-8">
       {/* Main CTA */}
       <div className="bg-dark-card border border-gold/30 rounded-xl p-8 text-center mb-10">
         <div className="mb-6">
@@ -168,5 +173,6 @@ export default function ContactPage() {
         </div>
       </section>
     </article>
+    </>
   );
 }

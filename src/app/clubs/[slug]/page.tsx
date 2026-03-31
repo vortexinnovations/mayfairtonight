@@ -1,7 +1,10 @@
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
+import Image from "next/image";
 import { clubs, getClubBySlug, getOpenClubs } from "@/data/clubs";
+import { clubImages } from "@/data/images";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
+import HeroImage from "@/components/HeroImage";
 import StickyBookingBar from "@/components/StickyBookingBar";
 import Link from "next/link";
 
@@ -47,11 +50,19 @@ export default async function ClubPage({
 
   const isClosed = club.status === "closed";
   const openClubs = getOpenClubs();
+  const images = clubImages[club.slug];
 
   return (
     <>
-      <article className="max-w-4xl mx-auto px-4 pt-8">
-        {/* Breadcrumb */}
+      <HeroImage
+        src={images?.hero || "/gallery/images/fe4414_93e24e4e03f64f3bb0fb3cd00d5a7b6e.jpg"}
+        alt={`${club.name} nightclub interior`}
+        overlay={
+          isClosed
+            ? "bg-gradient-to-t from-black via-black/80 to-black/60"
+            : undefined
+        }
+      >
         <nav className="text-sm text-dark-muted mb-4">
           <Link href="/" className="hover:text-gold">Tonight</Link>
           {" / "}
@@ -59,8 +70,7 @@ export default async function ClubPage({
           {" / "}
           <span className="text-gray-300">{club.name}</span>
         </nav>
-
-        <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-4 mb-6">
+        <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-4">
           <div>
             <h1 className="text-3xl sm:text-4xl font-bold text-white">
               {club.name}
@@ -78,6 +88,9 @@ export default async function ClubPage({
             </div>
           )}
         </div>
+      </HeroImage>
+
+      <article className="max-w-4xl mx-auto px-4 pt-8">
 
         {/* Closed venue banner */}
         {isClosed && club.closedMessage && (
@@ -129,6 +142,18 @@ export default async function ClubPage({
             About {club.name}
           </h2>
           <p className="text-gray-300 leading-relaxed">{club.description}</p>
+
+          {images?.interior && (
+            <div className="relative aspect-video overflow-hidden rounded-xl mt-6">
+              <Image
+                src={images.interior}
+                alt={`Inside ${club.name}`}
+                fill
+                className="object-cover"
+                sizes="(max-width: 768px) 100vw, 768px"
+              />
+            </div>
+          )}
         </section>
 
         {!isClosed && (

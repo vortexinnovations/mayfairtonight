@@ -2,6 +2,8 @@ import { Metadata } from "next";
 import Link from "next/link";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
+import HeroImage from "@/components/HeroImage";
+import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title:
@@ -314,8 +316,7 @@ const faqs = [
 export default function MayfairDressCodePage() {
   return (
     <>
-      <article className="max-w-4xl mx-auto px-4 pt-8">
-        {/* Breadcrumb */}
+      <HeroImage src={heroImages.mayfairDressCode} alt="Mayfair club dress code guide">
         <nav className="text-sm text-dark-muted mb-4">
           <Link href="/" className="hover:text-gold">
             Tonight
@@ -328,12 +329,15 @@ export default function MayfairDressCodePage() {
           Mayfair Club Dress Code —{" "}
           <span className="text-gold">What to Wear to Every Venue</span>
         </h1>
-        <p className="text-gray-300 text-lg mb-4 max-w-3xl">
+        <p className="text-gray-300 text-lg max-w-3xl">
           Getting turned away at the door is the worst start to a night out.
           This guide covers the dress code at every Mayfair nightclub — what
           works, what gets you refused, and the insider tips that make the
-          difference. Written by people who stand at these doors every week.
+          difference.
         </p>
+      </HeroImage>
+
+      <article className="max-w-4xl mx-auto px-4 pt-8">
         <p className="text-dark-muted text-sm mb-8">
           For the general London nightclub dress code, see our{" "}
           <Link

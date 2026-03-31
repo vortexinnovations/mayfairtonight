@@ -2,6 +2,8 @@ import { Metadata } from "next";
 import Link from "next/link";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
+import HeroImage from "@/components/HeroImage";
+import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title: "Best Nightclubs in Mayfair — Honest Rankings",
@@ -251,8 +253,7 @@ const faqs = [
 export default function BestNightclubsPage() {
   return (
     <>
-      <article className="max-w-4xl mx-auto px-4 pt-8">
-        {/* Breadcrumb */}
+      <HeroImage src={heroImages.bestNightclubs} alt="Best nightclubs in Mayfair">
         <nav className="text-sm text-dark-muted mb-4">
           <Link href="/" className="hover:text-gold">
             Tonight
@@ -268,11 +269,14 @@ export default function BestNightclubsPage() {
         <p className="text-dark-muted text-xs mb-3">
           Last updated: March 2026 · Covering Mayfair, St James&apos;s &amp; central London
         </p>
-        <p className="text-gray-300 text-lg mb-4 max-w-3xl">
+        <p className="text-gray-300 text-lg mb-0 max-w-3xl">
           An honest, opinionated ranking of every nightclub worth going to in
-          Mayfair — from Berkeley Square to Piccadilly, Hanover Square to Dover Street. No sponsored placements. No paid features. Just genuine picks
+          Mayfair. No sponsored placements. No paid features. Just genuine picks
           from people who are out in Mayfair every week.
         </p>
+      </HeroImage>
+
+      <article className="max-w-4xl mx-auto px-4 pt-8">
         <p className="text-dark-muted text-sm mb-8">
           Want the full breakdown of every venue?{" "}
           <Link

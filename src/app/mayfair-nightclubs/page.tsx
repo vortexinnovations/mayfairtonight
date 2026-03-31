@@ -3,6 +3,8 @@ import Link from "next/link";
 import { getOpenClubs } from "@/data/clubs";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
+import HeroImage from "@/components/HeroImage";
+import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title: "Mayfair Nightclubs — Complete Club Guide 2026",
@@ -118,8 +120,7 @@ export default function MayfairNightclubsPage() {
 
   return (
     <>
-      <article className="max-w-4xl mx-auto px-4 pt-8">
-        {/* Breadcrumb */}
+      <HeroImage src={heroImages.mayfairNightclubs} alt="Mayfair nightclubs guide">
         <nav className="text-sm text-dark-muted mb-4">
           <Link href="/" className="hover:text-gold">
             Tonight
@@ -134,12 +135,14 @@ export default function MayfairNightclubsPage() {
         <p className="text-dark-muted text-xs mb-3">
           Last updated: March 2026 · Covers Berkeley Square, Hanover Square, Dover Street &amp; surrounding Mayfair
         </p>
-        <p className="text-gray-300 text-lg mb-4 max-w-3xl">
+        <p className="text-gray-300 text-lg mb-0 max-w-3xl">
           Every nightclub worth knowing about in Mayfair, London — from the exclusive tables of
           Hanover Square to the theatrical clubs near Piccadilly, and the late-night bars around
-          Dover Street and Berkeley Square. Who plays what, which nights to go, what to
-          wear, and how to get on the guestlist.
+          Dover Street and Berkeley Square.
         </p>
+      </HeroImage>
+
+      <article className="max-w-4xl mx-auto px-4 pt-8">
         <p className="text-dark-muted text-sm mb-8">
           Looking for what&apos;s on tonight specifically?{" "}
           <a

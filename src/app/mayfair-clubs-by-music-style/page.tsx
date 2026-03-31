@@ -2,6 +2,8 @@ import { Metadata } from "next";
 import Link from "next/link";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
+import HeroImage from "@/components/HeroImage";
+import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title:
@@ -240,8 +242,7 @@ const faqs = [
 export default function MayfairClubsByMusicPage() {
   return (
     <>
-      <article className="max-w-4xl mx-auto px-4 pt-8">
-        {/* Breadcrumb */}
+      <HeroImage src={heroImages.musicStyle} alt="Mayfair clubs by music style">
         <nav className="text-sm text-dark-muted mb-4">
           <Link href="/" className="hover:text-gold">
             Tonight
@@ -254,11 +255,14 @@ export default function MayfairClubsByMusicPage() {
           Mayfair Clubs by Music Style —{" "}
           <span className="text-gold">Find Your Sound</span>
         </h1>
-        <p className="text-gray-300 text-lg mb-4 max-w-3xl">
+        <p className="text-gray-300 text-lg max-w-3xl">
           The wrong music ruins a night out. The right music makes it. Every
           Mayfair club has a distinct sound — this guide matches you to the
           venue that plays what you actually want to hear.
         </p>
+      </HeroImage>
+
+      <article className="max-w-4xl mx-auto px-4 pt-8">
         <p className="text-dark-muted text-sm mb-8">
           Want the full club rankings?{" "}
           <Link

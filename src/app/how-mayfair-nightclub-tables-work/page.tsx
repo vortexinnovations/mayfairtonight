@@ -2,6 +2,8 @@ import { Metadata } from "next";
 import Link from "next/link";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
+import HeroImage from "@/components/HeroImage";
+import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title: "How Mayfair Nightclub Tables Work — Full Guide",
@@ -26,7 +28,7 @@ const faqs = [
 export default function TablesGuidePage() {
   return (
     <>
-      <article className="max-w-4xl mx-auto px-4 pt-8">
+      <HeroImage src={heroImages.tablesWork} alt="How Mayfair nightclub tables work">
         <nav className="text-sm text-dark-muted mb-4">
           <Link href="/" className="hover:text-gold">Tonight</Link>{" / "}
           <Link href="/mayfair-nightclubs" className="hover:text-gold">Mayfair Nightclubs</Link>{" / "}
@@ -36,9 +38,12 @@ export default function TablesGuidePage() {
         <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">
           How Mayfair Nightclub Tables Work — <span className="text-gold">The Complete Guide</span>
         </h1>
-        <p className="text-gray-300 text-lg mb-4 max-w-3xl">
-          A table at a Mayfair club isn&apos;t just a seat — it&apos;s guaranteed entry, your own space, bottle service, and a completely different night out. But how does it actually work? What&apos;s a minimum spend? What do you get? This guide explains everything so there are no surprises.
+        <p className="text-gray-300 text-lg max-w-3xl">
+          A table at a Mayfair club isn&apos;t just a seat — it&apos;s guaranteed entry, your own space, bottle service, and a completely different night out. This guide explains everything.
         </p>
+      </HeroImage>
+
+      <article className="max-w-4xl mx-auto px-4 pt-8">
         <p className="text-dark-muted text-sm mb-8">
           Prefer guestlist? Read our <Link href="/mayfair-club-guestlist-guide" className="text-gold hover:text-gold-light">guestlist guide</Link>. For door policies, see <Link href="/mayfair-club-entry-rules" className="text-gold hover:text-gold-light">entry rules</Link>.
         </p>

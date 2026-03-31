@@ -2,6 +2,8 @@ import { Metadata } from "next";
 import Link from "next/link";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
+import HeroImage from "@/components/HeroImage";
+import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title: "Mayfair Club Entry Rules — Door Guide 2026",
@@ -27,7 +29,7 @@ const faqs = [
 export default function EntryRulesPage() {
   return (
     <>
-      <article className="max-w-4xl mx-auto px-4 pt-8">
+      <HeroImage src={heroImages.entryRules} alt="Mayfair club entry rules">
         <nav className="text-sm text-dark-muted mb-4">
           <Link href="/" className="hover:text-gold">Tonight</Link>{" / "}
           <Link href="/mayfair-nightclubs" className="hover:text-gold">Mayfair Nightclubs</Link>{" / "}
@@ -37,9 +39,12 @@ export default function EntryRulesPage() {
         <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">
           Mayfair Club Entry Rules — <span className="text-gold">How to Get Past Every Door</span>
         </h1>
-        <p className="text-gray-300 text-lg mb-4 max-w-3xl">
-          Mayfair doors are the toughest in London. The wrong shoes, the wrong attitude, or simply not being on a list can end your night before it starts. This guide covers exactly what every venue expects — so you walk in, not walk away.
+        <p className="text-gray-300 text-lg max-w-3xl">
+          Mayfair doors are the toughest in London. The wrong shoes, the wrong attitude, or simply not being on a list can end your night before it starts. This guide covers exactly what every venue expects.
         </p>
+      </HeroImage>
+
+      <article className="max-w-4xl mx-auto px-4 pt-8">
         <p className="text-dark-muted text-sm mb-8">
           For dress code specifics, see our <Link href="/mayfair-club-dress-code" className="text-gold hover:text-gold-light">Mayfair dress code guide</Link>. For guestlist booking, read the <Link href="/mayfair-club-guestlist-guide" className="text-gold hover:text-gold-light">guestlist guide</Link>.
         </p>

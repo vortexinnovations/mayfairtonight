@@ -2,6 +2,8 @@ import { Metadata } from "next";
 import Link from "next/link";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
+import HeroImage from "@/components/HeroImage";
+import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title: "Mayfair Night Out Itinerary — Plan Your Evening",
@@ -26,7 +28,7 @@ const faqs = [
 export default function ItineraryPage() {
   return (
     <>
-      <article className="max-w-4xl mx-auto px-4 pt-8">
+      <HeroImage src={heroImages.itinerary} alt="Mayfair night out itinerary">
         <nav className="text-sm text-dark-muted mb-4">
           <Link href="/" className="hover:text-gold">Tonight</Link>{" / "}
           <Link href="/mayfair-nightlife-guide" className="hover:text-gold">Mayfair Nightlife Guide</Link>{" / "}
@@ -36,9 +38,12 @@ export default function ItineraryPage() {
         <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">
           Mayfair Night Out Itinerary — <span className="text-gold">Plan the Perfect Evening</span>
         </h1>
-        <p className="text-gray-300 text-lg mb-4 max-w-3xl">
-          Mayfair after dark is a world of its own — cocktail bars hidden behind unmarked doors, restaurants that turn into clubs, and dance floors that don&apos;t peak until 1am. Whether you want hip-hop, theatrics, a date night, or a group celebration, these five itineraries will guide your evening from first drink to last dance.
+        <p className="text-gray-300 text-lg max-w-3xl">
+          Mayfair after dark is a world of its own — cocktail bars hidden behind unmarked doors, restaurants that turn into clubs, and dance floors that don&apos;t peak until 1am. Five itineraries to guide your evening from first drink to last dance.
         </p>
+      </HeroImage>
+
+      <article className="max-w-4xl mx-auto px-4 pt-8">
         <p className="text-dark-muted text-sm mb-8">
           Need to get on the guestlist first? <Link href="/mayfair-club-guestlist-guide" className="text-gold hover:text-gold-light">Read the guestlist guide</Link>. For what to wear, see the <Link href="/mayfair-club-dress-code" className="text-gold hover:text-gold-light">dress code guide</Link>.
         </p>

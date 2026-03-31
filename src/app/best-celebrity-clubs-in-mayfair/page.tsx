@@ -2,6 +2,8 @@ import { Metadata } from "next";
 import Link from "next/link";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
+import HeroImage from "@/components/HeroImage";
+import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title:
@@ -139,8 +141,7 @@ const faqs = [
 export default function BestCelebrityClubsPage() {
   return (
     <>
-      <article className="max-w-4xl mx-auto px-4 pt-8">
-        {/* Breadcrumb */}
+      <HeroImage src={heroImages.celebrityClubs} alt="Celebrity clubs in Mayfair">
         <nav className="text-sm text-dark-muted mb-4">
           <Link href="/" className="hover:text-gold">
             Tonight
@@ -157,13 +158,14 @@ export default function BestCelebrityClubsPage() {
           Celebrity Clubs in Mayfair —{" "}
           <span className="text-gold">Where the A-List Goes</span>
         </h1>
-        <p className="text-gray-300 text-lg mb-4 max-w-3xl">
+        <p className="text-gray-300 text-lg max-w-3xl">
           This is not a gossip page. This is a guide to which Mayfair clubs
           attract the most exclusive crowds, why they choose those venues, and
-          how you can experience the same rooms. These clubs earn their
-          reputation through privacy, service, and atmosphere — not by chasing
-          headlines.
+          how you can experience the same rooms.
         </p>
+      </HeroImage>
+
+      <article className="max-w-4xl mx-auto px-4 pt-8">
         <p className="text-dark-muted text-sm mb-8">
           Want to see all Mayfair clubs ranked?{" "}
           <Link

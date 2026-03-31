@@ -1,7 +1,9 @@
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import Image from "next/image";
 import { getAllSlugs, getPostWithHtml, getAllPosts } from "@/lib/blog";
+import { blogImages } from "@/data/images";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 
@@ -43,6 +45,7 @@ export default async function BlogPost({
   const post = await getPostWithHtml(slug);
   if (!post) notFound();
 
+  const images = blogImages[slug];
   const allPosts = getAllPosts();
   const relatedPosts = allPosts
     .filter((p) => p.slug !== post.slug)
@@ -83,6 +86,18 @@ export default async function BlogPost({
           <h1 className="text-3xl sm:text-4xl font-bold text-white leading-tight mb-3">
             {post.title}
           </h1>
+          {images?.featured && (
+            <div className="relative aspect-video overflow-hidden rounded-xl mb-4">
+              <Image
+                src={images.featured}
+                alt={post.title}
+                fill
+                className="object-cover"
+                sizes="(max-width: 768px) 100vw, 768px"
+                priority
+              />
+            </div>
+          )}
           <p className="text-lg text-gray-400">{post.excerpt}</p>
           <div className="flex items-center gap-4 mt-4 text-sm text-dark-muted">
             <time dateTime={post.date}>

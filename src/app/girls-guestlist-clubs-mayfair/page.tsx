@@ -2,6 +2,8 @@ import { Metadata } from "next";
 import Link from "next/link";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
+import HeroImage from "@/components/HeroImage";
+import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title:
@@ -161,8 +163,7 @@ const faqs = [
 export default function GirlsGuestlistPage() {
   return (
     <>
-      <article className="max-w-4xl mx-auto px-4 pt-8">
-        {/* Breadcrumb */}
+      <HeroImage src={heroImages.girlsGuestlist} alt="Girls night out in Mayfair">
         <nav className="text-sm text-dark-muted mb-4">
           <Link href="/" className="hover:text-gold">
             Tonight
@@ -175,12 +176,14 @@ export default function GirlsGuestlistPage() {
           Girls&apos; Night Mayfair —{" "}
           <span className="text-gold">Best Clubs & Guestlist Guide</span>
         </h1>
-        <p className="text-gray-300 text-lg mb-4 max-w-3xl">
+        <p className="text-gray-300 text-lg max-w-3xl">
           Planning a girls&apos; night in Mayfair? Some clubs are built for
           it. Others make all-female groups an afterthought. This is the
-          honest guide to the venues that actually deliver — with guestlist
-          tips, dress code advice, and everything you need to plan the night.
+          honest guide to the venues that actually deliver.
         </p>
+      </HeroImage>
+
+      <article className="max-w-4xl mx-auto px-4 pt-8">
         <p className="text-dark-muted text-sm mb-8">
           Need the full venue rundown?{" "}
           <Link

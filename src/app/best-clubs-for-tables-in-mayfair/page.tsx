@@ -2,6 +2,8 @@ import { Metadata } from "next";
 import Link from "next/link";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
+import HeroImage from "@/components/HeroImage";
+import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title:
@@ -216,8 +218,7 @@ const faqs = [
 export default function BestClubsForTablesPage() {
   return (
     <>
-      <article className="max-w-4xl mx-auto px-4 pt-8">
-        {/* Breadcrumb */}
+      <HeroImage src={heroImages.tablesGuide} alt="Table bookings at Mayfair clubs">
         <nav className="text-sm text-dark-muted mb-4">
           <Link href="/" className="hover:text-gold">
             Tonight
@@ -230,12 +231,15 @@ export default function BestClubsForTablesPage() {
           Best Mayfair Clubs for{" "}
           <span className="text-gold">Table Bookings</span>
         </h1>
-        <p className="text-gray-300 text-lg mb-4 max-w-3xl">
+        <p className="text-gray-300 text-lg max-w-3xl">
           Not all tables are created equal. Some Mayfair clubs are built for
           bottle service. Others just have a roped-off corner. This is the
           honest breakdown of where to book — ranked by the quality of the
           table experience itself.
         </p>
+      </HeroImage>
+
+      <article className="max-w-4xl mx-auto px-4 pt-8">
         <p className="text-dark-muted text-sm mb-8">
           Need the full venue rundown?{" "}
           <Link
