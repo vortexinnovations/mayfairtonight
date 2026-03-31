@@ -53,7 +53,7 @@ export default function ClubsPage() {
             >
               <div className="relative aspect-[3/2] overflow-hidden rounded-t-xl">
                 <Image
-                  src={clubImages[club.slug]?.card || "/gallery/images/fe4414_93e24e4e03f64f3bb0fb3cd00d5a7b6e.jpg"}
+                  src={clubImages[club.slug]?.card || "/gallery/images/fe4414_1949bb37981e48da989264fa0d381f0b.jpg"}
                   alt={`${club.name} nightclub`}
                   fill
                   className="object-cover group-hover:scale-105 transition-transform duration-500"

@@ -7,18 +7,18 @@ const IMG = (filename: string) => `/gallery/images/${filename}`;
 // ── HERO IMAGES (wide shots, atmospheric, dramatic) ─────────
 
 export const heroImages = {
-  homepage: IMG("fe4414_93e24e4e03f64f3bb0fb3cd00d5a7b6e.jpg"),
-  clubs: IMG("fe4414_7a38c1b3eae34dd594f47f4a28459f24.jpg"),
-  thisWeekend: IMG("fe4414_4d8a0c6b70db4b0fa4a099d868a10ec7.jpg"),
-  whereToGo: IMG("fe4414_8b0f94e1bb7b4f939b3adea1e900b5e0.jpg"),
-  whereToGoTonight: IMG("fe4414_6a5f8ac7f9c74b61a7f2f7abca2e4bcb.jpg"),
-  dressCode: IMG("fe4414_3e8f57b99db74bf29fee5d1698e18e3a.jpg"),
-  mayfairDressCode: IMG("fe4414_59be0fb0c8ef41c5821ba460e5ab0f5e.jpg"),
-  mayfairNightclubs: IMG("fe4414_2bb3d5c8ae8942f5a66f8f0ab1a2b8d0.jpg"),
-  bestNightclubs: IMG("fe4414_91f3d57a83584b02bc5b32b9f4c2e820.jpg"),
-  nightlifeGuide: IMG("fe4414_1e3e50e1a3a344b09b3dde9a7d3e6d3c.jpg"),
+  homepage: IMG("fe4414_153a500be2f04c34a8e909c741511d23.jpg"),
+  clubs: IMG("fe4414_15f9a848e20f46e0830878cdc02ef314.jpg"),
+  thisWeekend: IMG("fe4414_16a4f9f6906b41aa8f20b18ac3899475.jpg"),
+  whereToGo: IMG("fe4414_1700d1cd0c8f417493e5e7a301dbcfa7.jpg"),
+  whereToGoTonight: IMG("fe4414_1713518fc385447b9c0c5f2c485428a0.jpg"),
+  dressCode: IMG("fe4414_1726ac3dd44f4c1387da5f489b5cab86.jpg"),
+  mayfairDressCode: IMG("fe4414_178615124386417ba6d6a0921305e0b9.jpg"),
+  mayfairNightclubs: IMG("fe4414_17b5d83792d8412abf2893e2cdd81941.jpg"),
+  bestNightclubs: IMG("fe4414_17bbb73e0d7f46828a7212e9b95e2db3.jpg"),
+  nightlifeGuide: IMG("fe4414_18e8a41be77f47299e26e115913fd8de.jpg"),
   vipNightlife: IMG("NL_TAPE_CLEAN_1229_639.jpg"),
-  contact: IMG("fe4414_5f8e4d3a2c6b49a1b2f0d5e8c7a9b3d1.jpg"),
+  contact: IMG("fe4414_190cd2eca32340478a002a02a2f8051a.jpg"),
   blog: IMG("fe4414_0da5b1d362b845eda0fd7208e737c37f.jpg"),
   hipHopClubs: IMG("fe4414_072d223d158244a6815f1ed7b01e900b.jpg"),
   celebrityClubs: IMG("TapeSaturdayNYE311222-130.jpg"),
@@ -125,7 +125,7 @@ export const clubImages: Record<string, { hero: string; card: string; interior: 
 export const blogImages: Record<string, { featured: string; inline: string[] }> = {
   "best-clubs-in-mayfair": {
     featured: IMG("Tape-3.jpg"),
-    inline: [IMG("fe4414_1e3e50e1a3a344b09b3dde9a7d3e6d3c.jpg"), IMG("Tape-156.jpg")],
+    inline: [IMG("fe4414_18e8a41be77f47299e26e115913fd8de.jpg"), IMG("Tape-156.jpg")],
   },
   "best-hip-hop-clubs-london": {
     featured: IMG("fe4414_0ef6e0b0e0ca483d9699b51a08cb4f4f.jpg"),
@@ -140,20 +140,20 @@ export const blogImages: Record<string, { featured: string; inline: string[] }> 
     inline: [IMG("fe4414_1075cb5077704dcfbe926cec4270ba09.jpg")],
   },
   "best-thursday-night-london": {
-    featured: IMG("fe4414_2bb3d5c8ae8942f5a66f8f0ab1a2b8d0.jpg"),
+    featured: IMG("fe4414_17b5d83792d8412abf2893e2cdd81941.jpg"),
     inline: [IMG("TapeTuesday170924-248.jpg")],
   },
   "clubs-with-live-entertainment-london": {
-    featured: IMG("fe4414_91f3d57a83584b02bc5b32b9f4c2e820.jpg"),
-    inline: [IMG("fe4414_93e24e4e03f64f3bb0fb3cd00d5a7b6e.jpg")],
+    featured: IMG("fe4414_17bbb73e0d7f46828a7212e9b95e2db3.jpg"),
+    inline: [IMG("fe4414_1949bb37981e48da989264fa0d381f0b.jpg")],
   },
   "dinner-and-clubbing-mayfair": {
-    featured: IMG("fe4414_4d8a0c6b70db4b0fa4a099d868a10ec7.jpg"),
-    inline: [IMG("fe4414_59be0fb0c8ef41c5821ba460e5ab0f5e.jpg")],
+    featured: IMG("fe4414_19701f5d944c4c07aeb3c13dcedcc5cc.jpg"),
+    inline: [IMG("fe4414_178615124386417ba6d6a0921305e0b9.jpg")],
   },
   "first-time-clubbing-mayfair": {
-    featured: IMG("fe4414_3e8f57b99db74bf29fee5d1698e18e3a.jpg"),
-    inline: [IMG("fe4414_5f8e4d3a2c6b49a1b2f0d5e8c7a9b3d1.jpg")],
+    featured: IMG("fe4414_1726ac3dd44f4c1387da5f489b5cab86.jpg"),
+    inline: [IMG("fe4414_190cd2eca32340478a002a02a2f8051a.jpg")],
   },
   "funky-buddha-london-guide": {
     featured: IMG("DSC_6749.jpg"),
@@ -164,11 +164,11 @@ export const blogImages: Record<string, { featured: string; inline: string[] }> 
     inline: [IMG("Tape-36.jpg")],
   },
   "luna-club-london-review": {
-    featured: IMG("fe4414_6a5f8ac7f9c74b61a7f2f7abca2e4bcb.jpg"),
-    inline: [IMG("fe4414_7a38c1b3eae34dd594f47f4a28459f24.jpg")],
+    featured: IMG("fe4414_1713518fc385447b9c0c5f2c485428a0.jpg"),
+    inline: [IMG("fe4414_1bbe011379224fa08212fe7f2841d580.jpg")],
   },
   "mayfair-clubs-near-piccadilly": {
-    featured: IMG("fe4414_8b0f94e1bb7b4f939b3adea1e900b5e0.jpg"),
+    featured: IMG("fe4414_1c2dca3e10424af1967250305d218af3.jpg"),
     inline: [IMG("DSC_6848.jpg")],
   },
   "mayfair-nightlife-guide": {
@@ -253,7 +253,7 @@ export const sectionImages = {
   neonLights: IMG("DSC_7013.jpg"),
   entrance: IMG("DSC_7019.jpg"),
   champagne: IMG("Tape-17.jpg"),
-  performer: IMG("fe4414_93e24e4e03f64f3bb0fb3cd00d5a7b6e.jpg"),
+  performer: IMG("fe4414_1949bb37981e48da989264fa0d381f0b.jpg"),
 };
 
 // ── NIGHT-SPECIFIC IMAGES ───────────────────────────────────

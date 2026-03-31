@@ -55,7 +55,7 @@ export default async function ClubPage({
   return (
     <>
       <HeroImage
-        src={images?.hero || "/gallery/images/fe4414_93e24e4e03f64f3bb0fb3cd00d5a7b6e.jpg"}
+        src={images?.hero || "/gallery/images/fe4414_1949bb37981e48da989264fa0d381f0b.jpg"}
         alt={`${club.name} nightclub interior`}
         overlay={
           isClosed
