@@ -108,8 +108,6 @@ Images are served from a Supabase storage bucket proxied through Next.js. **Alwa
 
 ### Setup requirement
 
-The project root must contain a `.env` file (gitignored — never committed) with:
-
 ```
 SUPABASE_SECRET_KEY=<obtain from project owner — never commit this value>
 ```
