@@ -109,12 +109,8 @@ Images are served from a Supabase storage bucket proxied through Next.js. **Alwa
 ### Setup requirement
 
 ```
-SUPABASE_SECRET_KEY=<obtain from project owner — never commit this value>
-```
 
 ### Fetching available images
-
-Run this Node.js command from the project root to get all bucket filenames. It reads the key from `.env` at runtime — no hardcoded credentials:
 
 ```bash
 ```
@@ -126,8 +122,6 @@ If you cannot read it, try:
 ```bash
 gh api repos/vortexinnovations/blog-scheduler-tracker/contents/images.json --jq '.content' | base64 -d
 ```
-
-This returns all image filenames. No Supabase API key or .env file is needed.
 
 This returns a JSON array of filenames.
 
