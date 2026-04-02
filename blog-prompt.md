@@ -119,31 +119,17 @@ SUPABASE_SECRET_KEY=<obtain from project owner — never commit this value>
 Run this Node.js command from the project root to get all bucket filenames. It reads the key from `.env` at runtime — no hardcoded credentials:
 
 ```bash
-node -e "
-const fs = require('fs');
-const env = Object.fromEntries(fs.readFileSync('.env','utf8').trim().split('\n').map(l=>l.split('=')).map(([k,...v])=>[k,v.join('=')]));
-const https = require('https');
-const url = 'https://hgsgysaxiraaezeneshr.supabase.co/storage/v1/object/list/gallery';
-const options = {
-  method: 'POST',
-  headers: {
-    'apikey': env.SUPABASE_SECRET_KEY,
-    'Authorization': 'Bearer ' + env.SUPABASE_SECRET_KEY,
-    'Content-Type': 'application/json',
-  },
-};
-const req = https.request(url, options, (res) => {
-  let body = '';
-  res.on('data', (c) => body += c);
-  res.on('end', () => {
-    const files = JSON.parse(body);
-    console.log(JSON.stringify(files.map(f => f.name)));
-  });
-});
-req.write(JSON.stringify({ prefix: '', limit: 1000, offset: 0 }));
-req.end();
-"
 ```
+Fetch the list of available images from the tracker repo (all sites share the same image pool):
+
+Read `images.json` from the `vortexinnovations/blog-scheduler-tracker` repo. It contains a JSON array of all available image filenames from the shared Supabase gallery bucket (917+ images).
+
+If you cannot read it, try:
+```bash
+gh api repos/vortexinnovations/blog-scheduler-tracker/contents/images.json --jq '.content' | base64 -d
+```
+
+This returns all image filenames. No Supabase API key or .env file is needed.
 
 This returns a JSON array of filenames.
 
