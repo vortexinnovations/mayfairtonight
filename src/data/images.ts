@@ -236,6 +236,10 @@ export const blogImages: Record<string, { featured: string; inline: string[] }> 
     featured: IMG("fe4414_0f46af13e668485caa3ba59af386f370.jpg"),
     inline: [IMG("fe4414_10bd0c1bef6d4bac952c91a416f7d807.jpg")],
   },
+  "mahiki-london-guide": {
+    featured: IMG("DSC_7021.jpg"),
+    inline: [IMG("DSC_7034.jpg")],
+  },
 };
 
 // ── SECTION / ATMOSPHERIC IMAGES ────────────────────────────
