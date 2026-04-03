@@ -196,6 +196,10 @@ export const blogImages: Record<string, { featured: string; inline: string[] }> 
     inline: [IMG("DSC_6920.jpg"), IMG("DSC_6930.jpg")],
   },
   // New blog posts
+  "sunday-night-clubs-london": {
+    featured: IMG("TapeSunday201024-54.jpg"),
+    inline: [IMG("Tape-14.jpg")],
+  },
   "scotch-of-st-james-guide": {
     featured: IMG("fe4414_12832d40673b426d9faf3d07656aad64.jpg"),
     inline: [IMG("fe4414_0023ee263fca4fe9806bc09d74113eaa.jpg")],
