@@ -6,7 +6,7 @@ import ClubCard from "@/components/ClubCard";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 import HeroImage from "@/components/HeroImage";
-import { nightImages } from "@/data/images";
+import { nightImages, clubImages } from "@/data/images";
 import Link from "next/link";
 
 export async function generateStaticParams() {
@@ -115,6 +115,7 @@ export default async function NightPage({
                   openingTime={club.openingTime}
                   area={club.area}
                   tableMinimum={club.tableMinimum}
+                  imageSrc={clubImages[club.slug]?.card}
                 />
               ))}
             </div>
