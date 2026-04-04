@@ -58,7 +58,7 @@ export const clubs: Club[] = [
     dressCode: "Smart casual. No sportswear, no shorts. Smart jeans are fine with the right shoes.",
     dressCodeNotes: "The door is firm but fair. Look put-together and you'll be fine.",
     tableMinimum: "£1,000",
-    openNights: ["Monday", "Friday", "Saturday"],
+    openNights: ["Monday", "Wednesday", "Friday", "Saturday"],
     openingTime: "22:30",
     closingTime: "03:30",
     vibe: "Wild, theatrical, high-energy",

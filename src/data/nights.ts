@@ -55,7 +55,7 @@ export const nights: NightInfo[] = [
     vibe: "Midweek buzz, sociable, less crowded than weekends",
     bestFor: "Midweek party people, sociable groups, those who want big-club energy without weekend crowds",
     recommendation:
-      "Wednesday is brilliant in Mayfair. TABU opens on Wednesdays for a dark, fashion-forward vibe. Selene is a refined choice for house music and cocktails. Cuckoo Club does its signature two-floor party from midweek. The Box opens for something edgier and more theatrical. Note: Funky Buddha and Cirque Le Soir don't open on Wednesdays — they save those nights for the weekend.",
+      "Wednesday is brilliant in Mayfair. Cirque Le Soir runs its full circus-nightclub experience on Wednesdays — one of the best midweek nights in London. TABU opens for a dark, fashion-forward vibe. Selene is a refined choice for house music and cocktails. Cuckoo Club does its signature two-floor party. The Box opens for something edgier and theatrical. Note: Funky Buddha doesn't open on Wednesdays.",
   },
   {
     slug: "thursday",
