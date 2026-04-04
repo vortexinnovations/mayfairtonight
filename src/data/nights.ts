@@ -21,11 +21,11 @@ export const nights: NightInfo[] = [
       "Find out which clubs are open on Monday night in Mayfair and London. Quiet start to the week — here's where the industry crowd goes.",
     h1: "Monday Night in Mayfair",
     intro:
-      "Monday in Mayfair is quiet — and that's not a bad thing. Most of the big clubs are closed, but a handful of bars and late-night spots stay open for the industry crowd and those who don't follow a 9-to-5. If you're out on a Monday, you're either in the know or looking for somewhere low-key to wind down.",
-    vibe: "Low-key, industry crowd, intimate",
-    bestFor: "Industry workers, people who want a quiet drink with late-night potential",
+      "Monday in Mayfair has more going on than most people realise. Cirque Le Soir opens its doors on Mondays, which means you can get a full nightclub experience with circus performers, hip-hop, and a proper party atmosphere — even at the start of the week. The crowd on a Monday tends to be smaller and more intimate, which is often a better experience than the weekend rush.",
+    vibe: "Intimate, theatrical, surprisingly lively",
+    bestFor: "Those who want a real nightclub experience without the weekend crowds",
     recommendation:
-      "Monday is slim pickings for full nightclub experiences in Mayfair. Your best bet is starting at a late-night cocktail bar like Dear Darling — or heading to East London where Monday nights have more energy.",
+      "Cirque Le Soir is your best option on a Monday — full circus performers, hip-hop and RnB, and a genuinely great atmosphere. Book a table to guarantee entry. It's one of London's most underrated Monday nights.",
   },
   {
     slug: "tuesday",
@@ -36,11 +36,11 @@ export const nights: NightInfo[] = [
       "Which clubs are open on Tuesday in Mayfair? The midweek scene is building — here's where early-week party people head.",
     h1: "Tuesday Night in Mayfair",
     intro:
-      "Tuesday in Mayfair is still early in the week, but the first signs of midweek nightlife start to appear. A few venues open their doors for private events and members' nights. If you're out on a Tuesday, you're part of a smaller crowd — which can be a good thing.",
-    vibe: "Early midweek, members' nights, small crowds",
-    bestFor: "Those who want an early-week night out without the weekend crowds",
+      "Tuesday in Mayfair punches well above the midweek average. Both Tape London and Reign London open on Tuesdays, giving you access to two of Mayfair's most impressive venues with smaller, more intimate crowds than the weekend. Tuesday at Tape in particular is one of the most exclusive nights of the week — easier to get in, but still delivering the full Tape experience.",
+    vibe: "Exclusive, intimate, midweek energy",
+    bestFor: "Those who want Tape or Reign without the weekend chaos",
     recommendation:
-      "Tuesday is still quiet in Mayfair. Check for private events and members' nights at venues like Tape London. For a guaranteed good time on a Tuesday, consider cocktail bars or hotel lounges in the area.",
+      "Tuesday is better than you think. Tape London is the standout — exclusive, intimate, and easier to access than a Friday or Saturday. Reign London also opens Tuesdays with the full showclub experience. Both venues offer table booking, and Tuesday crowds tend to be more sociable.",
   },
   {
     slug: "wednesday",
@@ -55,7 +55,7 @@ export const nights: NightInfo[] = [
     vibe: "Midweek buzz, sociable, less crowded than weekends",
     bestFor: "Midweek party people, sociable groups, those who want big-club energy without weekend crowds",
     recommendation:
-      "Wednesday is brilliant in Mayfair. Funky Buddha and Cuckoo Club both deliver proper party energy midweek. If you want something wilder, Cirque Le Soir's Wednesday is one of their best nights. For a more sophisticated evening, start at Maddox for dinner and stay for the house music. The Box also opens its doors on Wednesdays for those who want something edgier.",
+      "Wednesday is brilliant in Mayfair. TABU opens on Wednesdays for a dark, fashion-forward vibe. Selene is a refined choice for house music and cocktails. Cuckoo Club does its signature two-floor party from midweek. The Box opens for something edgier and more theatrical. Note: Funky Buddha and Cirque Le Soir don't open on Wednesdays — they save those nights for the weekend.",
   },
   {
     slug: "thursday",
@@ -70,7 +70,7 @@ export const nights: NightInfo[] = [
     vibe: "High energy, the weekend starts here, buzzing",
     bestFor: "Everyone — Thursday is the most versatile night in Mayfair",
     recommendation:
-      "Thursday is the sweet spot. TABU and Tape London offer exclusive, intimate experiences. Reign London and Scotch deliver two very different but equally brilliant evenings. For pure party energy, Funky Buddha and Cuckoo Club rarely disappoint on a Thursday. Luna Club and Selene are excellent newer options too.",
+      "Thursday is the sweet spot. TABU delivers its dark, fashion-forward vibe. Reign London opens for shows and bottle service. For pure party energy, Funky Buddha and Cuckoo Club are both excellent on a Thursday. BEAT London is the go-to for high-energy music. Maddox is the best dinner-to-dance option. Note: Scotch only opens Friday and Saturday, so skip that one on a Thursday.",
   },
   {
     slug: "friday",
@@ -115,7 +115,7 @@ export const nights: NightInfo[] = [
     vibe: "After-party, extended weekend, wind-down or keep going",
     bestFor: "Night owls, after-party seekers, those extending a big Saturday",
     recommendation:
-      "Sunday options in Mayfair are limited. Check for special events at the clubs — some run occasional Sunday sessions. In Mayfair itself, late-night bars like Dear Darling are your safest bet for extending the weekend.",
+      "Sunday has two reliable options in Mayfair. Tape London runs on Sundays — one of the only proper Sunday club nights in central London. Dear Darling is also open, offering cocktails and a bar atmosphere that carries late into the night. Between these two, Sunday in Mayfair is better than its reputation suggests.",
   },
 ];
 
