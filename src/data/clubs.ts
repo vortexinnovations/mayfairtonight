@@ -323,6 +323,30 @@ export const clubs: Club[] = [
     status: "open",
   },
 
+  {
+    slug: "maison-close",
+    name: "Maison Close",
+    tagline: "Mayfair's most intimate house music sanctuary",
+    description:
+      "Maison Close is one of Mayfair's most talked-about new openings. Tucked into Swallow Street, this French-inspired venue blends art, music, and intimacy into one of the most refined nightclub experiences in London. With a capacity of around 160 guests, chandeliers, plush sofas, and bold red accents, it feels more like a private members' club than a nightclub. The music is pure house — curated, quality, and never compromised.",
+    location: "9 Swallow Street, Mayfair",
+    area: "Mayfair",
+    musicPolicy: ["House", "Deep House", "Tech House"],
+    dressCode: "Elegant and sexy. Suits or smart separates for men. Elegant dresses or chic ensembles for women. This is strictly enforced.",
+    dressCodeNotes: "Maison Close has a firm dress code. 'Elegant and sexy' is their standard — turn up looking the part or you won't get in.",
+    tableMinimum: "£1,000",
+    openNights: ["Wednesday", "Thursday", "Friday", "Saturday"],
+    openingTime: "23:00",
+    closingTime: "04:00",
+    vibe: "Intimate, French-inspired, art-meets-nightclub",
+    insiderTip:
+      "VIP tables behind the DJ booth are in the highest demand. Book ahead — this is one of the hardest tables to walk in on. The venue is small enough that a good table completely transforms the experience.",
+    whatToExpect:
+      "A beautifully designed room that feels more like a Parisian salon than a nightclub. Vintage chandeliers, velvet seating, red accents, and art installations create an atmosphere that's unlike anything else in Mayfair. The house music is consistently excellent — they book quality DJs and the sound system does them justice. The crowd is sophisticated, dressed up, and genuinely into the music. Capacity is ~160, so it always feels exclusive.",
+    bestFor: "House music lovers who want an intimate, art-forward night out",
+    status: "open",
+  },
+
   // ─── PERMANENTLY CLOSED VENUES (kept for SEO) ──────────────
 
   {

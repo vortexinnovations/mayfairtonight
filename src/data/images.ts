@@ -102,6 +102,11 @@ export const clubImages: Record<string, { hero: string; card: string; interior: 
     card: IMG("fe4414_0901bc84893644f297dce6bab32eedf0.jpg"),
     interior: IMG("fe4414_091285b805994cfc8a1f60f2da0dcb9c.jpg"),
   },
+  "maison-close": {
+    hero: IMG("DSC_7021.jpg"),
+    card: IMG("DSC_7034.jpg"),
+    interior: IMG("DSC_7047.jpg"),
+  },
   // Closed venues (for their SEO pages)
   libertine: {
     hero: IMG("fe4414_093630378f1e499889ffc7920902d7f6.jpg"),
