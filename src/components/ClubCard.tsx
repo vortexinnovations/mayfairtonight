@@ -32,10 +32,10 @@ export default function ClubCard({
   compact = false,
 }: ClubCardProps) {
   return (
-    <div className="bg-dark-card border border-dark-border rounded-xl p-4 hover:border-gold/30 transition-colors">
+    <div className="relative bg-dark-card border border-dark-border rounded-xl p-4 hover:border-gold/30 transition-colors">
       <div className="flex gap-4">
         {imageSrc && (
-          <Link href={`/clubs/${slug}`} className="shrink-0">
+          <div className="shrink-0">
             <div className="relative w-20 h-20 sm:w-24 sm:h-24 rounded-lg overflow-hidden">
               <Image
                 src={imageSrc}
@@ -45,13 +45,16 @@ export default function ClubCard({
                 sizes="96px"
               />
             </div>
-          </Link>
+          </div>
         )}
 
         <div className="flex-1 min-w-0">
           <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-3">
             <div className="flex-1 min-w-0">
-              <Link href={`/clubs/${slug}`}>
+              <Link
+                href={`/clubs/${slug}`}
+                className="after:absolute after:inset-0"
+              >
                 <h3 className="text-lg font-semibold text-white hover:text-gold transition-colors">
                   {name}
                 </h3>
@@ -67,7 +70,7 @@ export default function ClubCard({
               )}
             </div>
             {!compact && (
-              <div className="sm:text-right shrink-0">
+              <div className="relative z-10 sm:text-right shrink-0">
                 <WhatsAppCTA variant="club" clubName={name} size="sm" />
               </div>
             )}
@@ -75,7 +78,7 @@ export default function ClubCard({
 
           <div className="flex flex-wrap items-center gap-3 mt-3 text-xs">
             <span className="bg-dark px-2.5 py-1 rounded text-gray-300 border border-dark-border">
-              {musicPolicy.join(" · ")}
+              {musicPolicy.join(" \u00b7 ")}
             </span>
             <span className="text-dark-muted">Opens {openingTime}</span>
             <span className="text-dark-muted">{area}</span>
@@ -83,12 +86,12 @@ export default function ClubCard({
           </div>
 
           {compact && (
-            <div className="mt-3 flex items-center gap-3">
+            <div className="relative z-10 mt-3 flex items-center gap-3">
               <Link
                 href={`/clubs/${slug}`}
                 className="text-sm text-gold hover:text-gold-light transition-colors"
               >
-                More info →
+                More info
               </Link>
               <WhatsAppCTA variant="club" clubName={name} size="sm" />
             </div>
