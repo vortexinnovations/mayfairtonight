@@ -50,31 +50,58 @@ export default function RootLayout({
         <main className="pb-20 md:pb-0">{children}</main>
         <Footer />
 
-        {/* WebSite Schema */}
+        {/* LocalBusiness Schema */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
               "@context": "https://schema.org",
-              "@type": "WebSite",
+              "@type": "LocalBusiness",
               name: "Mayfair Tonight",
+              description: "The insider guide to Mayfair nightlife — club listings, guestlist guides, dress codes, and instant table bookings via WhatsApp.",
               url: "https://mayfairtonight.com",
-              description: "The insider guide to Mayfair nightlife. Club comparisons, guestlist guides, dress codes, and nightlife planning for Mayfair, London.",
-              publisher: {
-                "@type": "Organization",
-                name: "Mayfair Tonight",
-                url: "https://mayfairtonight.com",
-                areaServed: {
-                  "@type": "Place",
-                  name: "Mayfair, London",
-                  address: {
-                    "@type": "PostalAddress",
-                    addressLocality: "Mayfair",
-                    addressRegion: "London",
-                    addressCountry: "GB",
-                  },
-                },
+              telephone: "+447880662708",
+              image: "https://mayfairtonight.com/gallery/images/DSC_7021.jpg",
+              logo: "https://mayfairtonight.com/icon.svg",
+              address: {
+                "@type": "PostalAddress",
+                streetAddress: "9 Swallow Street",
+                addressLocality: "London",
+                addressRegion: "Greater London",
+                postalCode: "W1B 4DF",
+                addressCountry: "GB",
               },
+              geo: {
+                "@type": "GeoCoordinates",
+                latitude: 51.5074,
+                longitude: -0.1278,
+              },
+              areaServed: {
+                "@type": "City",
+                name: "London",
+              },
+              contactPoint: {
+                "@type": "ContactPoint",
+                contactType: "reservations",
+                telephone: "+447880662708",
+                availableLanguage: "English",
+              },
+              priceRange: "\u00a3\u00a3\u00a3",
+              openingHoursSpecification: {
+                "@type": "OpeningHoursSpecification",
+                dayOfWeek: [
+                  "Monday",
+                  "Tuesday",
+                  "Wednesday",
+                  "Thursday",
+                  "Friday",
+                  "Saturday",
+                  "Sunday",
+                ],
+                opens: "22:00",
+                closes: "03:00",
+              },
+              sameAs: ["https://londonluxurynightlife.com"],
             }),
           }}
         />
