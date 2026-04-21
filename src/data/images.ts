@@ -253,6 +253,10 @@ export const blogImages: Record<string, { featured: string; inline: string[] }> 
     featured: IMG("DSC_6773.jpg"),
     inline: [IMG("DSC_6810.jpg")],
   },
+  "late-night-clubs-mayfair": {
+    featured: IMG("DSC_6882.jpg"),
+    inline: [IMG("DSC_6892.jpg")],
+  },
   "rnb-nights-mayfair-guide": {
     featured: IMG("DSC_6754.jpg"),
     inline: [IMG("DSC_6757.jpg")],
