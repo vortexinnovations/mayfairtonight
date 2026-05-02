@@ -261,6 +261,10 @@ export const blogImages: Record<string, { featured: string; inline: string[] }> 
     featured: IMG("DSC_6754.jpg"),
     inline: [IMG("DSC_6757.jpg")],
   },
+  "tuesday-night-out-mayfair": {
+    featured: IMG("Tape-16.jpg"),
+    inline: [IMG("Tape-104.jpg")],
+  },
 };
 
 // ── SECTION / ATMOSPHERIC IMAGES ────────────────────────────
