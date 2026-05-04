@@ -265,6 +265,10 @@ export const blogImages: Record<string, { featured: string; inline: string[] }> 
     featured: IMG("Tape-16.jpg"),
     inline: [IMG("Tape-104.jpg")],
   },
+  "hip-hop-nights-mayfair": {
+    featured: IMG("Tape-18.jpg"),
+    inline: [IMG("DSC_6820.jpg")],
+  },
 };
 
 // ── SECTION / ATMOSPHERIC IMAGES ────────────────────────────
