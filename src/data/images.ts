@@ -160,6 +160,10 @@ export const blogImages: Record<string, { featured: string; inline: string[] }> 
     featured: IMG("fe4414_1726ac3dd44f4c1387da5f489b5cab86.jpg"),
     inline: [IMG("fe4414_190cd2eca32340478a002a02a2f8051a.jpg")],
   },
+  "friday-night-mayfair": {
+    featured: IMG("fe4414_7dbdf5ed43004438868b9407b4e14146.jpg"),
+    inline: [IMG("fe4414_7e0c5fccc4df450b9768212992d7be38.jpg")],
+  },
   "funky-buddha-london-guide": {
     featured: IMG("DSC_6749.jpg"),
     inline: [IMG("DSC_6780.jpg"), IMG("DSC_6827.jpg")],
