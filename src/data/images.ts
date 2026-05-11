@@ -273,6 +273,10 @@ export const blogImages: Record<string, { featured: string; inline: string[] }> 
     featured: IMG("Tape-18.jpg"),
     inline: [IMG("DSC_6820.jpg")],
   },
+  "thursday-night-mayfair": {
+    featured: IMG("DSC_6755.jpg"),
+    inline: [IMG("DSC_6797.jpg")],
+  },
 };
 
 // ── SECTION / ATMOSPHERIC IMAGES ────────────────────────────
