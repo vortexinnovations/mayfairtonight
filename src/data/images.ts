@@ -128,6 +128,10 @@ export const clubImages: Record<string, { hero: string; card: string; interior: 
 // ── BLOG POST FEATURED IMAGES ───────────────────────────────
 
 export const blogImages: Record<string, { featured: string; inline: string[] }> = {
+  "wednesday-night-mayfair": {
+    featured: "/gallery/images/DSC_8002.jpg",
+    inline: ["/gallery/images/DSC_8017.jpg"],
+  },
   "best-clubs-in-mayfair": {
     featured: IMG("Tape-3.jpg"),
     inline: [IMG("fe4414_18e8a41be77f47299e26e115913fd8de.jpg"), IMG("Tape-156.jpg")],
