@@ -38,7 +38,7 @@ featured: false
 }
 </script>
 
-By Henry Ashcroft, Mayfair Area Specialist
+By [Henry Ashcroft](/about-the-editor), Mayfair Area Specialist
 
 *Last updated: 8 June 2026*
 

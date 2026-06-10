@@ -16,7 +16,7 @@ readingTime: "7 min read"
 featured: false
 ---
 
-By Henry Ashcroft, Mayfair Area Specialist
+By [Henry Ashcroft](/about-the-editor), Mayfair Area Specialist
 Last updated: 11 May 2026
 
 Thursday night in Mayfair is the only weeknight that genuinely behaves like a weekend, and it is also the one most people misread. I have spent enough Thursdays walking from Berkeley Square down to Bruton Lane to see the pattern set in: by 10pm the streets are busier than most cities manage on a Saturday, the cars start lining the kerbs around the smaller clubs, and the smoking areas fill up in a way that you simply do not see on a Monday or a Tuesday. If you want a proper Mayfair night out without paying the Friday tax, Thursday night in Mayfair is when you go.

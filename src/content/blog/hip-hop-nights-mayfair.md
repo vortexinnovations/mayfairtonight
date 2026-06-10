@@ -40,7 +40,7 @@ dateModified: "2026-05-04"
 }
 </script>
 
-By Henry Ashcroft, Mayfair Area Specialist
+By [Henry Ashcroft](/about-the-editor), Mayfair Area Specialist
 
 *Last updated: 4 May 2026*
 
