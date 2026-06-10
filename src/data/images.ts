@@ -128,6 +128,7 @@ export const clubImages: Record<string, { hero: string; card: string; interior: 
 // ── BLOG POST FEATURED IMAGES ───────────────────────────────
 
 export const blogImages: Record<string, { featured: string; inline: string[] }> = {
+  "disco-funk-nights-mayfair": { featured: "/gallery/images/maison-close-305.jpg", inline: ["/gallery/images/maison-close-306.jpg"] },
   "wednesday-night-mayfair": {
     featured: "/gallery/images/DSC_8002.jpg",
     inline: ["/gallery/images/DSC_8017.jpg"],
