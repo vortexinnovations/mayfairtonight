@@ -75,7 +75,7 @@ In my opinion the market pairs best with the rest of the district as a deliberat
 
 ## Where It Fits in a Mayfair Night
 
-Shepherd Market is not a late-night destination, and that is precisely its role: it owns the early and middle evening. The pubs run to pub hours, the dining rooms wind down at a civilised point, and the crowd disperses into the rest of Mayfair for whatever comes next. Treat it as the place the night begins, or as the whole night on its own terms, as [Time Out's coverage of London's drinking corners](https://www.timeout.com/london/bars) would suggest for the capital's village-like pockets generally. What it will not give you is a dancefloor, and after a decade around this district I consider that its greatest feature.
+Shepherd Market is not a late-night destination, and that is precisely its role: it owns the early and middle evening. The pubs run to pub hours, the dining rooms wind down at a civilised point, and the crowd disperses into the rest of Mayfair for whatever comes next. Treat it as the place the night begins, or as the whole night on its own terms, as [Time Out's coverage of London's drinking corners](https://www.timeout.com/london/bars-and-pubs) would suggest for the capital's village-like pockets generally. What it will not give you is a dancefloor, and after a decade around this district I consider that its greatest feature.
 
 ## Frequently Asked Questions
 
