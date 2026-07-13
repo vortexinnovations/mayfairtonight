@@ -128,6 +128,10 @@ export const clubImages: Record<string, { hero: string; card: string; interior: 
 // ── BLOG POST FEATURED IMAGES ───────────────────────────────
 
 export const blogImages: Record<string, { featured: string; inline: string[] }> = {
+  "berkeley-square-after-dark": {
+    featured: "/gallery/images/maison-close-997.jpg",
+    inline: ["/gallery/images/maison-close-1031.jpg"],
+  },
   "shepherd-market-after-dark": { featured: "/gallery/images/maison-close-130.jpg", inline: ["/gallery/images/maison-close-293.jpg"] },
   "mayfair-hotel-bars": { featured: "/gallery/images/maison-close-445.jpg", inline: ["/gallery/images/maison-close-601.jpg"] },
   "what-music-do-clubs-in-mayfair-play": { featured: "/gallery/images/maison-close-440.jpg", inline: ["/gallery/images/maison-close-441.jpg"] },
