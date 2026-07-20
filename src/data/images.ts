@@ -128,6 +128,10 @@ export const clubImages: Record<string, { hero: string; card: string; interior: 
 // ── BLOG POST FEATURED IMAGES ───────────────────────────────
 
 export const blogImages: Record<string, { featured: string; inline: string[] }> = {
+  "curzon-street-after-dark": {
+    featured: "/gallery/images/maison-close-553.jpg",
+    inline: ["/gallery/images/maison-close-779.jpg"],
+  },
   "hanover-square-after-dark": {
     featured: "/gallery/images/maison-close-581.jpg",
     inline: ["/gallery/images/maison-close-782.jpg"],
