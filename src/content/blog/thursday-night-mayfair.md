@@ -58,7 +58,7 @@ If you specifically want hip-hop on a midweek night in Mayfair, my honest read i
 **Ready to organise your Thursday night out in Mayfair?**
 Skip the queue, secure your table, and get insider access. Message us on WhatsApp and we will handle everything.
 
-[Book via WhatsApp →](https://wa.me/447880662708)
+[Book via WhatsApp →](https://wa.me/447348644054)
 
 ---
 
@@ -107,7 +107,7 @@ Thursday night in Mayfair gives you most of the energy of a Saturday with about 
 **Ready to organise your Thursday night out in Mayfair?**
 Skip the queue, secure your table, and get insider access. Message us on WhatsApp and we will handle everything.
 
-[Book via WhatsApp →](https://wa.me/447880662708)
+[Book via WhatsApp →](https://wa.me/447348644054)
 
 ---
 

@@ -65,7 +65,7 @@ Beyond those two, the sound appears in flashes across the area's eclectic rooms.
 **Ready to book your night out in Mayfair?**
 Skip the queue, secure your table, and get insider access. Message us on WhatsApp and we'll handle everything.
 
-[Book via WhatsApp →](https://wa.me/447880662708)
+[Book via WhatsApp →](https://wa.me/447348644054)
 
 ---
 
@@ -108,6 +108,6 @@ The classic sound is not Mayfair's loudest export, but it might be its most char
 **Ready to book your night out in Mayfair?**
 Skip the queue, secure your table, and get insider access. Message us on WhatsApp and we'll handle everything.
 
-[Book via WhatsApp →](https://wa.me/447880662708)
+[Book via WhatsApp →](https://wa.me/447348644054)
 
 ---

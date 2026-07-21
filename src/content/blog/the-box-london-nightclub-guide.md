@@ -73,4 +73,4 @@ If you're adventurous, open-minded, and looking for a night you'll be talking ab
 
 If you want a more conventional Mayfair night, check out [Funky Buddha](/clubs/funky-buddha) or [TABU](/clubs/tabu-london) instead.
 
-**Ready to experience The Box tonight?** [Message us on WhatsApp](https://wa.me/447880662708) for guest list and table bookings.
+**Ready to experience The Box tonight?** [Message us on WhatsApp](https://wa.me/447348644054) for guest list and table bookings.

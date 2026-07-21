@@ -76,4 +76,4 @@ Selene is perfect for people who love going out but are over the chaos. If you'v
 
 For more new venues worth knowing, check our [best new clubs in Mayfair guide](/blog/best-new-clubs-mayfair). And if you're weighing up the full Mayfair scene, our [best clubs in Mayfair ranking](/blog/best-clubs-in-mayfair) covers everything.
 
-**Want to try Selene tonight?** [Message us on WhatsApp](https://wa.me/447880662708) for guest list and table bookings.
+**Want to try Selene tonight?** [Message us on WhatsApp](https://wa.me/447348644054) for guest list and table bookings.

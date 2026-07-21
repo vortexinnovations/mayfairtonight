@@ -73,4 +73,4 @@ Funky Buddha is a Mayfair institution for a reason. The music is right, the crow
 
 Get yourself on the guest list, dress properly, and you're in for a great night.
 
-**Want to get on the guest list or book a table tonight?** [Message us on WhatsApp](https://wa.me/447880662708) and we'll sort everything.
+**Want to get on the guest list or book a table tonight?** [Message us on WhatsApp](https://wa.me/447348644054) and we'll sort everything.

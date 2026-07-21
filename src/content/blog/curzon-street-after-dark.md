@@ -63,7 +63,7 @@ Curzon Street rewards the walker who looks. This is the street of Heywood Hill, 
 **Planning an evening in Mayfair?**
 From a quiet walk down Curzon Street to a full night across W1, we can help you plan it and get you in. Message us on WhatsApp and we will handle the details.
 
-[Plan via WhatsApp →](https://wa.me/447880662708)
+[Plan via WhatsApp →](https://wa.me/447348644054)
 
 ---
 
@@ -102,6 +102,6 @@ Curzon Street after dark is Mayfair with its coat still on: grand, quiet, litera
 **Planning an evening in Mayfair?**
 From a quiet walk down Curzon Street to a full night across W1, we can help you plan it and get you in. Message us on WhatsApp and we will handle the details.
 
-[Plan via WhatsApp →](https://wa.me/447880662708)
+[Plan via WhatsApp →](https://wa.me/447348644054)
 
 ---

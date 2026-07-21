@@ -63,7 +63,7 @@ Two stories give the square its after-dark reputation. The first is the song: A 
 **Planning an evening in Mayfair?**
 From dusk under the planes on Berkeley Square to a full night across W1, we can help you plan it and get you in. Message us on WhatsApp and we will handle the details.
 
-[Plan via WhatsApp →](https://wa.me/447880662708)
+[Plan via WhatsApp →](https://wa.me/447348644054)
 
 ---
 
@@ -98,6 +98,6 @@ Berkeley Square at night is Mayfair distilled: grand, composed, slightly mysteri
 **Planning an evening in Mayfair?**
 From dusk under the planes on Berkeley Square to a full night across W1, we can help you plan it and get you in. Message us on WhatsApp and we will handle the details.
 
-[Plan via WhatsApp →](https://wa.me/447880662708)
+[Plan via WhatsApp →](https://wa.me/447348644054)
 
 ---

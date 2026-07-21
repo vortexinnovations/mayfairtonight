@@ -83,4 +83,4 @@ If you want **something genuinely different**, [The Box](/clubs/the-box-london) 
 
 And if you still can't decide, check our [best clubs in Mayfair ranking](/blog/best-clubs-in-mayfair) for the full picture, or read our guides to the [best Thursday nights](/blog/best-thursday-night-london) and [Saturday nights](/blog/saturday-night-london-guide) in London.
 
-**Not sure where to go tonight?** [Message us on WhatsApp](https://wa.me/447880662708) — tell us your vibe and we'll point you in the right direction.
+**Not sure where to go tonight?** [Message us on WhatsApp](https://wa.me/447348644054) — tell us your vibe and we'll point you in the right direction.

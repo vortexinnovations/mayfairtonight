@@ -63,7 +63,7 @@ A few streets away on Brook Street, Claridge's offers two distinct moods. The ma
 **Planning an evening in Mayfair?**
 From a quiet hotel bar to a full night out, we can help you plan it and get you in. Message us on WhatsApp and we will handle the details.
 
-[Plan via WhatsApp →](https://wa.me/447880662708)
+[Plan via WhatsApp →](https://wa.me/447348644054)
 
 ---
 
@@ -108,6 +108,6 @@ A Mayfair hotel bar is the most civilised night the neighbourhood offers, and th
 **Planning an evening in Mayfair?**
 From a quiet hotel bar to a full night out, we can help you plan it and get you in. Message us on WhatsApp and we will handle the details.
 
-[Plan via WhatsApp →](https://wa.me/447880662708)
+[Plan via WhatsApp →](https://wa.me/447348644054)
 
 ---

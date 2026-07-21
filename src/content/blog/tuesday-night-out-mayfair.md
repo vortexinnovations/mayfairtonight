@@ -32,14 +32,14 @@ No conversation about a Tuesday night out in Mayfair starts without [Tape London
 
 The crowd on Tuesdays is noticeably different from the weekend. You will find music industry figures, models between jobs, and Mayfair locals who prefer the midweek vibe. The dance floor fills up from around midnight, and the night runs late. Tape does not wind down early on a Tuesday, so expect things to be going strong well past 2am.
 
-If you want a table, Tuesday is the night to do it. Availability is better, minimum spends are lower, and you will not feel like you are competing with ten other groups for attention. Message a promoter on [WhatsApp](https://wa.me/447880662708) to sort it in advance.
+If you want a table, Tuesday is the night to do it. Availability is better, minimum spends are lower, and you will not feel like you are competing with ten other groups for attention. Message a promoter on [WhatsApp](https://wa.me/447348644054) to sort it in advance.
 
 ---
 
 **Ready to book your night out in Mayfair?**
 Skip the queue, secure your table, and get insider access. Message us on WhatsApp and we'll handle everything.
 
-[Book via WhatsApp →](https://wa.me/447880662708)
+[Book via WhatsApp →](https://wa.me/447348644054)
 
 ---
 
@@ -83,7 +83,7 @@ A Tuesday night out in Mayfair follows a different timeline to the weekend. Most
 
 ### Q: Do I need to be on a guestlist for a Tuesday?
 
-**A:** It helps, but it is not as critical as on a Friday or Saturday. Many venues accept walk-ins on Tuesdays, especially before midnight. That said, messaging ahead on [WhatsApp](https://wa.me/447880662708) guarantees you are sorted.
+**A:** It helps, but it is not as critical as on a Friday or Saturday. Many venues accept walk-ins on Tuesdays, especially before midnight. That said, messaging ahead on [WhatsApp](https://wa.me/447348644054) guarantees you are sorted.
 
 ### Q: What music plays at Mayfair clubs on a Tuesday?
 
@@ -96,6 +96,6 @@ A Tuesday night out in Mayfair is not a compromise. For the people who know, it 
 **Ready to book your night out in Mayfair?**
 Skip the queue, secure your table, and get insider access. Message us on WhatsApp and we'll handle everything.
 
-[Book via WhatsApp →](https://wa.me/447880662708)
+[Book via WhatsApp →](https://wa.me/447348644054)
 
 ---

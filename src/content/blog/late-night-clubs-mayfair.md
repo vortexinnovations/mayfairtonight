@@ -39,7 +39,7 @@ The vibe at The Box is deliberately provocative and unpredictable. You will not 
 **Ready to book your night out in Mayfair?**
 Skip the queue, secure your table, and get insider access. Message us on WhatsApp and we'll handle everything.
 
-[Book via WhatsApp →](https://wa.me/447880662708)
+[Book via WhatsApp →](https://wa.me/447348644054)
 
 ---
 
@@ -93,6 +93,6 @@ Mayfair's late-night clubs in Mayfair reward those who plan ahead and commit to 
 **Ready to book your night out in Mayfair?**
 Skip the queue, secure your table, and get insider access. Message us on WhatsApp and we'll handle everything.
 
-[Book via WhatsApp →](https://wa.me/447880662708)
+[Book via WhatsApp →](https://wa.me/447348644054)
 
 ---

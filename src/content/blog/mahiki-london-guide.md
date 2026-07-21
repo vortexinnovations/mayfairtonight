@@ -45,7 +45,7 @@ For a first visit, Thursday or Friday gives you the best balance of atmosphere a
 **Ready to book your night out in Mayfair?**
 Skip the queue, secure your table, and get insider access. Message us on WhatsApp and we'll handle everything.
 
-[Book via WhatsApp →](https://wa.me/447880662708)
+[Book via WhatsApp →](https://wa.me/447348644054)
 
 ---
 
@@ -94,6 +94,6 @@ Black cabs and Ubers drop off easily on Dover Street. Late-night transport is st
 **Ready to book your night out in Mayfair?**
 Skip the queue, secure your table, and get insider access. Message us on WhatsApp and we'll handle everything.
 
-[Book via WhatsApp →](https://wa.me/447880662708)
+[Book via WhatsApp →](https://wa.me/447348644054)
 
 ---

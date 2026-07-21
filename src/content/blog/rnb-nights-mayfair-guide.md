@@ -47,7 +47,7 @@ For a full breakdown, see our [Mayfair nightclubs hub](/mayfair-nightclubs) or t
 **Ready to book your night out in Mayfair?**
 Skip the queue, secure your table, and get insider access. Message us on WhatsApp and we'll handle everything.
 
-[Book via WhatsApp →](https://wa.me/447880662708)
+[Book via WhatsApp →](https://wa.me/447348644054)
 
 ---
 
@@ -103,6 +103,6 @@ R&B nights in Mayfair are among the best-kept secrets in London nightlife. The v
 **Ready to book your night out in Mayfair?**
 Skip the queue, secure your table, and get insider access. Message us on WhatsApp and we'll handle everything.
 
-[Book via WhatsApp →](https://wa.me/447880662708)
+[Book via WhatsApp →](https://wa.me/447348644054)
 
 ---

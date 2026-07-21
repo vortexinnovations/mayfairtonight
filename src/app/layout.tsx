@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import { WHATSAPP_TELEPHONE } from "@/lib/whatsapp";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -60,7 +61,7 @@ export default function RootLayout({
               name: "Mayfair Tonight",
               description: "The insider guide to Mayfair nightlife — club listings, guestlist guides, dress codes, and instant table bookings via WhatsApp.",
               url: "https://mayfairtonight.com",
-              telephone: "+447880662708",
+              telephone: WHATSAPP_TELEPHONE,
               image: "https://mayfairtonight.com/gallery/images/DSC_7021.jpg",
               logo: "https://mayfairtonight.com/icon.svg",
               address: {
@@ -83,7 +84,7 @@ export default function RootLayout({
               contactPoint: {
                 "@type": "ContactPoint",
                 contactType: "reservations",
-                telephone: "+447880662708",
+                telephone: WHATSAPP_TELEPHONE,
                 availableLanguage: "English",
               },
               priceRange: "\u00a3\u00a3\u00a3",

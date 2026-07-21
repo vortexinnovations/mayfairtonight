@@ -1,4 +1,14 @@
-const WHATSAPP_NUMBER = "447880662708";
+// Single source of truth for the booking WhatsApp number.
+// Set NEXT_PUBLIC_WHATSAPP_NUMBER in Vercel (Project → Settings → Environment
+// Variables) to change it everywhere. Digits only, full international format,
+// no "+" and no spaces — e.g. 447348644054.
+// Note: NEXT_PUBLIC_* values are inlined at build time, so a redeploy is
+// required for a change to take effect.
+export const WHATSAPP_NUMBER =
+  process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || "447348644054";
+
+/** E.164 form (+447348644054) — used for schema.org telephone fields. */
+export const WHATSAPP_TELEPHONE = `+${WHATSAPP_NUMBER}`;
 
 export function getWhatsAppLink(message: string): string {
   return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`;

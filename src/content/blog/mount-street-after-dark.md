@@ -63,7 +63,7 @@ The street&apos;s social anchor after dark is The Audley, the handsome Victorian
 **Planning an evening in Mayfair?**
 From a quiet corner of Mount Street to a full night across W1, we can help you plan it and get you in. Message us on WhatsApp and we will handle the details.
 
-[Plan via WhatsApp →](https://wa.me/447880662708)
+[Plan via WhatsApp →](https://wa.me/447348644054)
 
 ---
 
@@ -98,6 +98,6 @@ Mount Street after dark is Mayfair with the volume turned down and the lights tu
 **Planning an evening in Mayfair?**
 From a quiet corner of Mount Street to a full night across W1, we can help you plan it and get you in. Message us on WhatsApp and we will handle the details.
 
-[Plan via WhatsApp →](https://wa.me/447880662708)
+[Plan via WhatsApp →](https://wa.me/447348644054)
 
 ---

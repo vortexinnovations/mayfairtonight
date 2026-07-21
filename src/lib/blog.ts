@@ -3,8 +3,18 @@ import path from "path";
 import matter from "gray-matter";
 import { remark } from "remark";
 import html from "remark-html";
+import { WHATSAPP_NUMBER } from "./whatsapp";
 
 const postsDirectory = path.join(process.cwd(), "src/content/blog");
+
+/**
+ * Posts hardcode wa.me links in their markdown. Rewrite whatever number they
+ * contain to the one from NEXT_PUBLIC_WHATSAPP_NUMBER so blog CTAs stay in sync
+ * with the rest of the site without editing every post.
+ */
+function applyWhatsAppNumber(content: string): string {
+  return content.replace(/wa\.me\/\d+/g, `wa.me/${WHATSAPP_NUMBER}`);
+}
 
 export interface BlogPost {
   slug: string;
@@ -53,7 +63,7 @@ export function getPostBySlug(slug: string): BlogPost | null {
     category: data.category || "Nightlife",
     tags: data.tags || [],
     readingTime: data.readingTime || estimateReadingTime(content),
-    content,
+    content: applyWhatsAppNumber(content),
   };
 }
 

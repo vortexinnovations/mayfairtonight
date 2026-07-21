@@ -67,4 +67,4 @@ Luna Club London has done something difficult — it's arrived in a crowded mark
 
 Whether it achieves the longevity of Mayfair's established institutions remains to be seen. But right now, it's one of the most exciting places to go out in the area.
 
-**Want to check out Luna tonight?** [Message us on WhatsApp](https://wa.me/447880662708) for guest list spots and table bookings.
+**Want to check out Luna tonight?** [Message us on WhatsApp](https://wa.me/447348644054) for guest list spots and table bookings.

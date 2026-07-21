@@ -63,7 +63,7 @@ The square itself is quiet after dark, so the evening happens on the streets tha
 **Planning an evening in Mayfair?**
 From a quiet turn around Hanover Square to a full night across W1, we can help you plan it and get you in. Message us on WhatsApp and we will handle the details.
 
-[Plan via WhatsApp →](https://wa.me/447880662708)
+[Plan via WhatsApp →](https://wa.me/447348644054)
 
 ---
 
@@ -98,6 +98,6 @@ Hanover Square after dark is Mayfair at its most historic and least hurried: thr
 **Planning an evening in Mayfair?**
 From a quiet turn around Hanover Square to a full night across W1, we can help you plan it and get you in. Message us on WhatsApp and we will handle the details.
 
-[Plan via WhatsApp →](https://wa.me/447880662708)
+[Plan via WhatsApp →](https://wa.me/447348644054)
 
 ---

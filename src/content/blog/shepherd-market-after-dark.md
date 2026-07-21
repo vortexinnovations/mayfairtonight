@@ -63,7 +63,7 @@ The anchor of the market after dark is its pubs, and they are proper ones. Ye Gr
 **Planning an evening in Mayfair?**
 From a quiet corner of Shepherd Market to a full night across W1, we can help you plan it and get you in. Message us on WhatsApp and we will handle the details.
 
-[Plan via WhatsApp →](https://wa.me/447880662708)
+[Plan via WhatsApp →](https://wa.me/447348644054)
 
 ---
 
@@ -102,6 +102,6 @@ A city as loud as London needs its quiet corners, and Mayfair keeps its best one
 **Planning an evening in Mayfair?**
 From a quiet corner of Shepherd Market to a full night across W1, we can help you plan it and get you in. Message us on WhatsApp and we will handle the details.
 
-[Plan via WhatsApp →](https://wa.me/447880662708)
+[Plan via WhatsApp →](https://wa.me/447348644054)
 
 ---

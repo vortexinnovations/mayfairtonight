@@ -67,7 +67,7 @@ Funky Buddha on a Friday is a solid choice if you want hip-hop mixed with R&B. T
 **Ready to book your night out in Mayfair?**
 Skip the queue, secure your table, and get insider access. Message us on WhatsApp and we'll handle everything.
 
-[Book via WhatsApp →](https://wa.me/447880662708)
+[Book via WhatsApp →](https://wa.me/447348644054)
 
 ---
 
@@ -92,7 +92,7 @@ Minimum spends at these venues vary by night, as of May 2026. Tuesdays tend to b
 **Ready to book your night out in Mayfair?**
 Skip the queue, secure your table, and get insider access. Message us on WhatsApp and we'll handle everything.
 
-[Book via WhatsApp →](https://wa.me/447880662708)
+[Book via WhatsApp →](https://wa.me/447348644054)
 
 ---
 
@@ -112,8 +112,8 @@ Skip the queue, secure your table, and get insider access. Message us on WhatsAp
 
 ### Q: Can I hear hip-hop in Mayfair without a reservation?
 
-**A:** Walk-ins are possible on quieter nights like Tuesday, but Friday and Saturday hip-hop nights at popular venues like Tape and Funky Buddha typically require advance arrangements. Message us on [WhatsApp](https://wa.me/447880662708) and we can sort your access.
+**A:** Walk-ins are possible on quieter nights like Tuesday, but Friday and Saturday hip-hop nights at popular venues like Tape and Funky Buddha typically require advance arrangements. Message us on [WhatsApp](https://wa.me/447348644054) and we can sort your access.
 
 ## The Bottom Line
 
-Hip-hop nights in Mayfair follow a clear rhythm. Tuesday is for the dedicated crowd who want an intimate, curated set. Friday brings the mainstream energy and bigger names on the decks. Saturday combines both with the full Mayfair atmosphere. Whether you lean toward [Tape London](/clubs/tape-london), [Funky Buddha](/clubs/funky-buddha), or [Reign](/clubs/reign-london), the hip-hop programming in W1 is consistent and high quality. Check our [Mayfair nightlife hub](/mayfair-nightclubs) for the latest on what is running each week, or reach out on [WhatsApp](https://wa.me/447880662708) and we will point you to the right room for your night.
+Hip-hop nights in Mayfair follow a clear rhythm. Tuesday is for the dedicated crowd who want an intimate, curated set. Friday brings the mainstream energy and bigger names on the decks. Saturday combines both with the full Mayfair atmosphere. Whether you lean toward [Tape London](/clubs/tape-london), [Funky Buddha](/clubs/funky-buddha), or [Reign](/clubs/reign-london), the hip-hop programming in W1 is consistent and high quality. Check our [Mayfair nightlife hub](/mayfair-nightclubs) for the latest on what is running each week, or reach out on [WhatsApp](https://wa.me/447348644054) and we will point you to the right room for your night.
