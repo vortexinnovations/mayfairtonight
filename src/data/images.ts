@@ -128,6 +128,10 @@ export const clubImages: Record<string, { hero: string; card: string; interior: 
 // ── BLOG POST FEATURED IMAGES ───────────────────────────────
 
 export const blogImages: Record<string, { featured: string; inline: string[] }> = {
+  "mayfair-private-members-clubs": {
+    featured: "/gallery/images/maison-close-313.jpg",
+    inline: ["/gallery/images/maison-close-314.jpg"],
+  },
   "albemarle-street-after-dark": {
     featured: "/gallery/images/maison-close-181.jpg",
     inline: ["/gallery/images/maison-close-262.jpg"],
