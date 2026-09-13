@@ -46,7 +46,7 @@ Mayfair does nightclubs better than anywhere in London, but some of the finest e
 
 ## The Connaught Bar - The One Everyone Means
 
-If Mayfair has a definitive hotel bar, it is the Connaught Bar on Carlos Place. The silver-leafed room is a David Collins design, but the ritual is the draw: a martini trolley wheeled to your table and the drink mixed in front of you, a piece of theatre that has helped keep the bar in the global top tier for years. From experience, it is worth arriving early in the evening when the room is calm enough to appreciate it, and a reservation is wise rather than optional. It is long regarded as one of the world's most celebrated bars, a reputation that, as [Time Out's London bars coverage](https://www.timeout.com/london/bars) reflects, is thoroughly earned.
+If Mayfair has a definitive hotel bar, it is the Connaught Bar on Carlos Place. The silver-leafed room is a David Collins design, but the ritual is the draw: a martini trolley wheeled to your table and the drink mixed in front of you, a piece of theatre that has helped keep the bar in the global top tier for years. From experience, it is worth arriving early in the evening when the room is calm enough to appreciate it, and a reservation is wise rather than optional. It is long regarded as one of the world's most celebrated bars, a reputation that, as [Time Out's London bars coverage](https://www.timeout.com/london/bars-and-pubs) reflects, is thoroughly earned.
 
 ![Elegant low-lit Mayfair hotel bar with art deco styling](/gallery/images/maison-close-601.jpg)
 
