@@ -50,7 +50,7 @@ export default async function NightPage({
   return (
     <>
       <HeroImage
-        src={nightImages[nightInfo.slug] || "/gallery/images/DSC_6808.jpg"}
+        src={nightImages[nightInfo.slug] || "/gallery/images/fe4414_ae4e1af2acbc4ebd9e058cc104b07933.jpg"}
         alt={`${nightInfo.day} night in Mayfair`}
       >
         <nav className="text-sm text-dark-muted mb-4">

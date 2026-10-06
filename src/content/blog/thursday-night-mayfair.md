@@ -39,7 +39,7 @@ Not every Mayfair room is open or worth your time on a Thursday. These are the v
 
 If you are willing to leave Mayfair proper, **The Box Soho** is a short walk and runs Thursday performances on the slower side of its schedule, which is to say still louder than anywhere in W1.
 
-![Inside a Mayfair Thursday: smaller queues, sharper crowd, full back room](/gallery/images/DSC_6797.jpg)
+![Inside a Mayfair Thursday: smaller queues, sharper crowd, full back room](/gallery/images/fe4414_a13d781f5e24493ebc3133845efa340e.jpg)
 
 ## What the Door Actually Looks Like on a Thursday
 
@@ -129,7 +129,7 @@ Skip the queue, secure your table, and get insider access. Message us on WhatsAp
     "name": "Mayfair Tonight",
     "url": "https://mayfairtonight.com"
   },
-  "image": "https://mayfairtonight.com/gallery/images/DSC_6755.jpg",
+  "image": "https://mayfairtonight.com/gallery/images/fe4414_e5143a18baea4dfa84451c05a37c8e18.jpg",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://mayfairtonight.com/blog/thursday-night-mayfair"

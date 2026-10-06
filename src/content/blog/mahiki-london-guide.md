@@ -26,7 +26,7 @@ The music policy leans pop, tropical house, and chart-friendly — accessible en
 
 Mayfair dress codes are non-negotiable, and [Mahiki is no exception](/mayfair-club-dress-code). The standard applies: smart casual at a minimum, with most guests leaning smart. For men, that means collared shirts, tailored trousers or dark jeans, and proper shoes — no trainers, no sportswear, no exceptions. For women, the dress code is more flexible, but the crowd tends to dress up: heels, cocktail dresses, or sharp co-ords are the norm.
 
-![Inside the atmospheric Mahiki London on a busy night](/gallery/images/DSC_7034.jpg)
+![Inside the atmospheric Mahiki London on a busy night](/gallery/images/fe4414_abfb3ef6a9794a8ab2e27779ebfab3f5.jpg)
 
 If you're coming straight from dinner nearby, you'll likely be fine. If you're coming from a pub crawl in Shoreditch, you might want to rethink. The door team are professional but firm — they want the room to look and feel right, and they'll turn people away if the dress code isn't met. When in doubt, overdress. It's Mayfair.
 

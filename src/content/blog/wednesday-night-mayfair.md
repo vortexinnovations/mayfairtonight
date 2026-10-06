@@ -30,7 +30,7 @@ featured: false
     "name": "Mayfair Tonight",
     "url": "https://mayfairtonight.com"
   },
-  "image": "/gallery/images/DSC_8002.jpg",
+  "image": "/gallery/images/fe4414_acdf2a4fa9c84dbc97b1bc7d35e637e6.jpg",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://mayfairtonight.com/blog/wednesday-night-mayfair"
@@ -56,7 +56,7 @@ Here is the honest picture: most of the big Mayfair rooms build their week aroun
 
 From experience, the move on a Wednesday is not to chase a packed dance floor, because you will not reliably find one. It is to pick a room with a good DJ and a comfortable setting and treat it as a relaxed night rather than a peak-weekend one. If you specifically want volume and a full floor, a [Tuesday night out in Mayfair](/blog/tuesday-night-out-mayfair) is the stronger midweek bet, and I would point you there instead.
 
-![A relaxed Mayfair club interior on a quiet midweek night](/gallery/images/DSC_8017.jpg)
+![A relaxed Mayfair club interior on a quiet midweek night](/gallery/images/fe4414_ffe14b276b5441a2bcf5ed1c7bf639f6.jpg)
 
 ---
 

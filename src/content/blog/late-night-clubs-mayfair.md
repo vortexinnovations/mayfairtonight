@@ -26,7 +26,7 @@ The atmosphere shifts after 2AM in Mayfair. Earlier in the evening, tables fill 
 
 Tuesday nights at Tape are a particular standout for anyone chasing a late finish during the week. The crowd skews industry, the vibe is looser than a weekend, and the DJs have more freedom to experiment with their sets. Friday and Saturday nights build momentum through the evening, and by 3AM the main room is at its peak. If you are planning to stay late, book a table in advance to guarantee your spot through the night.
 
-![Late-night energy on the Mayfair club scene](/gallery/images/DSC_6892.jpg)
+![Late-night energy on the Mayfair club scene](/gallery/images/fe4414_87ed475a806c4d57bf001c56f4d4ae4f.jpg)
 
 ## The Box Soho: London's After-Hours Institution
 

@@ -56,7 +56,7 @@ Tuesday is quietly the strongest hip-hop night in Mayfair. [Tape London](/clubs/
 
 Friday is when the hip-hop volume across Mayfair hits its highest. Tape London shifts gears from its midweek intimacy into a bigger-energy session. The DJs play more current chart hip-hop alongside the deeper cuts, and the crowd is noticeably larger. I have been on both Tuesday and Friday at Tape, and the difference is real. Friday feels like a proper event. The DJ booth at Tape is tucked behind a low wall on the left side of the room, and on Fridays the bass from the subs underneath it carries through the floor in a way that you genuinely feel.
 
-![Hip-hop crowd energy in a Mayfair venue](/gallery/images/DSC_6820.jpg)
+![Hip-hop crowd energy in a Mayfair venue](/gallery/images/fe4414_6065c524df994488b51efb6653100bf4.jpg)
 
 Funky Buddha on a Friday is a solid choice if you want hip-hop mixed with R&B. The venue has been a Mayfair staple for years, and on Fridays the main floor DJ runs a set that is roughly 60% hip-hop, 40% R&B. The smoking area at Funky Buddha is down a narrow staircase at the back, which creates a natural flow where people cycle between the dancefloor and the terrace all night.
 

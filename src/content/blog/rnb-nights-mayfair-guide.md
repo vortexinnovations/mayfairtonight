@@ -28,7 +28,7 @@ Not every Mayfair club programmes R&B, and the ones that do take it seriously. T
 
 **Juju** rounds out the R&B-friendly list with a house-meets-R&B sound that works surprisingly well. [Juju](/clubs/juju) is smaller and more relaxed, making it ideal for those nights where you want the music without the intensity of a mega-club.
 
-![Mayfair nightlife scene with ambient club lighting](/gallery/images/DSC_6757.jpg)
+![Mayfair nightlife scene with ambient club lighting](/gallery/images/fe4414_40f69356b6874f689a3ad2dbbb6930a6.jpg)
 
 ## Best Nights of the Week for R&B
 

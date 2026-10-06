@@ -26,7 +26,7 @@ The key shift is expectation. Monday in Mayfair is about quality over spectacle 
 
 ## Where to Go on a Monday Night
 
-![Nightlife atmosphere in central London](/gallery/images/DSC_6810.jpg)
+![Nightlife atmosphere in central London](/gallery/images/fe4414_55edd7519192444fb58119bd91d7af1b.jpg)
 
 While the headline clubs rest, a handful of venues keep their doors open or run occasional Monday events worth knowing about.
 

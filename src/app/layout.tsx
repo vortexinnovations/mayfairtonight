@@ -62,7 +62,7 @@ export default function RootLayout({
               description: "The insider guide to Mayfair nightlife — club listings, guestlist guides, dress codes, and instant table bookings via WhatsApp.",
               url: "https://mayfairtonight.com",
               telephone: WHATSAPP_TELEPHONE,
-              image: "https://mayfairtonight.com/gallery/images/DSC_7021.jpg",
+              image: "https://mayfairtonight.com/gallery/images/fe4414_dfa2530f4b3842c6ad4531f28893fd4f.jpg",
               logo: "https://mayfairtonight.com/icon.svg",
               address: {
                 "@type": "PostalAddress",
