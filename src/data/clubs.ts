@@ -286,11 +286,11 @@ export const clubs: Club[] = [
   {
     slug: "selene-london",
     name: "Selene London",
-    tagline: "Refined elegance in the heart of Mayfair",
+    tagline: "Refined elegance just north of Oxford Circus",
     description:
-      "Selene brings understated luxury to Mayfair's nightlife scene. Named after the Greek goddess of the moon, the venue is elegant without being over-the-top — think soft lighting, refined interiors, and a cocktail programme that rivals dedicated cocktail bars. The music blends house and commercial, and the atmosphere sits between high-end bar and intimate nightclub. It's the kind of place that makes you feel sophisticated just for walking in.",
+      "Selene brings understated luxury to Fitzrovia, just north of Oxford Circus and a short walk from Mayfair. Named after the Greek goddess of the moon, the venue is elegant without being over-the-top — think soft lighting, refined interiors, and a cocktail programme that rivals dedicated cocktail bars. The music blends house and commercial, and the atmosphere sits between high-end bar and intimate nightclub. It's the kind of place that makes you feel sophisticated just for walking in.",
     location: "4 Winsley Street, Fitzrovia, London W1W 8HF",
-    area: "Mayfair",
+    area: "Fitzrovia",
     musicPolicy: ["House", "Commercial", "Deep House"],
     dressCode: "Smart and refined. Cocktail attire. No casual wear.",
     dressCodeNotes: "Selene is elegant — the dress code reflects it. Think upscale evening out.",
