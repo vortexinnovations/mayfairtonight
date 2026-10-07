@@ -221,10 +221,10 @@ export async function getPostWithHtml(slug: string): Promise<BlogPost | null> {
   const found = await getPostBySlug(slug);
   if (!found) return null;
   const post = { ...found };
-  // Database posts may use GFM tables (the content API allows them); file posts
-  // keep the plain pipeline they were written for, so their rendering is unchanged.
-  const pipeline = post.source === "db" ? remark().use(remarkGfm).use(html) : remark().use(html);
-  const result = await pipeline.process(post.content);
+  // GFM for every post: four file posts were written with Markdown tables that
+  // rendered as raw "| pipe |" text without it (and one checklist as literal
+  // "[ ]"). Checked 2026-10-07: those five are the only posts GFM changes.
+  const result = await remark().use(remarkGfm).use(html).process(post.content);
   post.htmlContent = result.toString();
   return post;
 }

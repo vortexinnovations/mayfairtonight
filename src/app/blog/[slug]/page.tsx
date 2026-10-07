@@ -151,7 +151,11 @@ export default async function BlogPost({
             [&_strong]:text-white [&_strong]:font-semibold
             [&_a]:text-gold [&_a]:hover:text-gold-light [&_a]:underline
             [&_blockquote]:border-l-2 [&_blockquote]:border-gold [&_blockquote]:pl-4 [&_blockquote]:italic [&_blockquote]:text-gray-400
-            [&_hr]:border-dark-border [&_hr]:my-8"
+            [&_hr]:border-dark-border [&_hr]:my-8
+            [&_table]:block [&_table]:w-full [&_table]:overflow-x-auto [&_table]:border-collapse [&_table]:text-sm [&_table]:mb-6
+            [&_th]:text-left [&_th]:text-white [&_th]:font-semibold [&_th]:border-b [&_th]:border-gold/40 [&_th]:py-2 [&_th]:pr-4 [&_th]:whitespace-nowrap
+            [&_td]:text-gray-300 [&_td]:border-b [&_td]:border-dark-border [&_td]:py-2 [&_td]:pr-4 [&_td]:align-top
+            [&_input]:mr-2 [&_input]:accent-gold"
           dangerouslySetInnerHTML={{ __html: post.htmlContent || "" }}
         />
 
