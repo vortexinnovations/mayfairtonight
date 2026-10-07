@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
 import { getAllPosts, getAllCategories } from "@/lib/blog";
-import { blogImages, heroImages } from "@/data/images";
+import { heroImages } from "@/data/images";
 import HeroImage from "@/components/HeroImage";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
@@ -20,9 +20,12 @@ export const metadata: Metadata = {
   },
 };
 
-export default function BlogIndex() {
-  const posts = getAllPosts();
-  const categories = getAllCategories();
+// Refreshed by /api/revalidate when the content API writes; daily safety net.
+export const revalidate = 86400;
+
+export default async function BlogIndex() {
+  const posts = await getAllPosts();
+  const categories = await getAllCategories();
 
   // Feature the latest post
   const [featuredPost, ...otherPosts] = posts;
@@ -77,7 +80,7 @@ export default function BlogIndex() {
           >
             <div className="relative aspect-[3/2] overflow-hidden">
               <Image
-                src={blogImages[featuredPost.slug]?.featured || heroImages.blog}
+                src={featuredPost.image || heroImages.blog}
                 alt={featuredPost.title}
                 fill
                 className="object-cover group-hover:scale-105 transition-transform duration-500"
@@ -129,7 +132,7 @@ export default function BlogIndex() {
             >
               <div className="relative aspect-[3/2] overflow-hidden rounded-t-xl">
                 <Image
-                  src={blogImages[post.slug]?.featured || heroImages.blog}
+                  src={post.image || heroImages.blog}
                   alt={post.title}
                   fill
                   className="object-cover group-hover:scale-105 transition-transform duration-500"

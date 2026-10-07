@@ -3,12 +3,19 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
 import { getAllSlugs, getPostWithHtml, getAllPosts } from "@/lib/blog";
-import { blogImages } from "@/data/images";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 
+// Posts are prerendered at build and refreshed by /api/revalidate when the
+// content API writes; this is a daily safety net on top.
+export const revalidate = 86400;
+
+// Content-API posts carry no byline in their Markdown (the API refuses one), so
+// the template shows the same byline the file posts write into their bodies.
+const DB_POST_BYLINE = { name: "Henry Ashcroft", role: "Mayfair Area Specialist" };
+
 export async function generateStaticParams() {
-  return getAllSlugs().map((slug) => ({ slug }));
+  return (await getAllSlugs()).map((slug) => ({ slug }));
 }
 
 export async function generateMetadata({
@@ -45,8 +52,7 @@ export default async function BlogPost({
   const post = await getPostWithHtml(slug);
   if (!post) notFound();
 
-  const images = blogImages[slug];
-  const allPosts = getAllPosts();
+  const allPosts = await getAllPosts();
   const relatedPosts = allPosts
     .filter((p) => p.slug !== post.slug)
     .slice(0, 3);
@@ -86,11 +92,11 @@ export default async function BlogPost({
           <h1 className="text-3xl sm:text-4xl font-bold text-white leading-tight mb-3">
             {post.title}
           </h1>
-          {images?.featured && (
+          {post.image && (
             <div className="relative aspect-video overflow-hidden rounded-xl mb-4">
               <Image
-                src={images.featured}
-                alt={post.title}
+                src={post.image}
+                alt={post.imageAlt || post.title}
                 fill
                 className="object-cover"
                 sizes="(max-width: 768px) 100vw, 768px"
@@ -122,6 +128,16 @@ export default async function BlogPost({
             )}
           </div>
         </header>
+
+        {post.source === "db" && (
+          <p className="text-gray-300 leading-relaxed mb-4">
+            By{" "}
+            <Link href="/about-the-editor" className="text-gold hover:text-gold-light underline">
+              {DB_POST_BYLINE.name}
+            </Link>
+            , {DB_POST_BYLINE.role}
+          </p>
+        )}
 
         {/* Post content */}
         <div

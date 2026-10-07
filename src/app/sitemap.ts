@@ -3,7 +3,12 @@ import { clubs } from "@/data/clubs";
 import { nights } from "@/data/nights";
 import { getAllPosts } from "@/lib/blog";
 
-export default function sitemap(): MetadataRoute.Sitemap {
+// Route handlers are not reached by on-demand revalidation on Vercel, so the
+// sitemap refreshes on a timer: a new content-API post appears within 5 minutes.
+// No try/catch: a failed regeneration keeps the last good sitemap.
+export const revalidate = 300;
+
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = "https://mayfairtonight.com";
 
   const staticPages = [
@@ -145,7 +150,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
-  const posts = getAllPosts();
+  const posts = await getAllPosts();
   const blogPages = posts.map((post) => ({
     url: `${baseUrl}/blog/${post.slug}`,
     changeFrequency: "monthly" as const,
