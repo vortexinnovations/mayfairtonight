@@ -274,7 +274,7 @@ export default function MayfairNightlifeGuidePage() {
               {
                 night: "Wednesday",
                 slug: "wednesday",
-                desc: "Midweek Mayfair kicks off. Cirque Le Soir, The Box and Selene London all open. Less crowded, more sociable — the savvy choice.",
+                desc: "Midweek Mayfair kicks off. Cirque Le Soir and The Box both open. Less crowded, more sociable — the savvy choice.",
               },
               {
                 night: "Thursday",

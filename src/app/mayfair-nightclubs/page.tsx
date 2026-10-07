@@ -583,6 +583,6 @@ const faqs = [
   {
     question: "Are Mayfair nightclubs open on weekdays?",
     answer:
-      "Wednesday is when midweek Mayfair nightlife properly starts: Cirque Le Soir, The Box and Selene London all open. Thursday is even bigger, with most clubs open. Monday and Tuesday options are very limited in Mayfair. Check our night-by-night guide for full details.",
+      "Wednesday is when midweek Mayfair nightlife properly starts: Cirque Le Soir and The Box both open. Thursday is even bigger, with most clubs open. Monday and Tuesday options are very limited in Mayfair. Check our night-by-night guide for full details.",
   },
 ];

@@ -295,7 +295,7 @@ export const clubs: Club[] = [
     dressCode: "Smart and refined. Cocktail attire. No casual wear.",
     dressCodeNotes: "Selene is elegant — the dress code reflects it. Think upscale evening out.",
     tableMinimum: "£1,000",
-    openNights: ["Wednesday", "Thursday", "Friday", "Saturday"],
+    openNights: ["Thursday", "Friday", "Saturday", "Sunday"],
     openingTime: "21:30",
     closingTime: "03:00",
     vibe: "Refined, elegant, moonlit luxury",

@@ -167,7 +167,7 @@ const rankedClubs: RankedClub[] = [
     ],
     bestFor: "Those who want elegance and refinement",
     music: "House, Commercial, Deep House",
-    nights: "Thu, Fri, Sat",
+    nights: "Thu, Fri, Sat, Sun",
   },
 ];
 

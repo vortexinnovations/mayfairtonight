@@ -55,7 +55,7 @@ export const nights: NightInfo[] = [
     vibe: "Midweek buzz, sociable, less crowded than weekends",
     bestFor: "Midweek party people, sociable groups, those who want big-club energy without weekend crowds",
     recommendation:
-      "Wednesday is brilliant in Mayfair. Cirque Le Soir runs its full circus-nightclub experience on Wednesdays, one of the best midweek nights in London. Selene is a refined choice for house music and cocktails. The Box opens for something edgier and theatrical. Note: Reign London, BEAT London and Maddox open from Thursday.",
+      "Wednesday is brilliant in Mayfair. Cirque Le Soir runs its full circus-nightclub experience on Wednesdays, one of the best midweek nights in London. The Box opens for something edgier and theatrical. Note: Reign London, BEAT London and Maddox open from Thursday.",
   },
   {
     slug: "thursday",
@@ -70,7 +70,7 @@ export const nights: NightInfo[] = [
     vibe: "High energy, the weekend starts here, buzzing",
     bestFor: "Everyone — Thursday is the most versatile night in Mayfair",
     recommendation:
-      "Thursday is the sweet spot. Reign London opens for shows and bottle service. For pure party energy, BEAT London is the go-to for high-energy music, and The Box is open for something more theatrical. Maddox is the best dinner-to-dance option, and Dear Darling suits a cocktail-led night. Note: Scotch only opens Friday and Saturday, so skip that one on a Thursday.",
+      "Thursday is the sweet spot. Reign London opens for shows and bottle service. For pure party energy, BEAT London is the go-to for high-energy music, and The Box is open for something more theatrical. Maddox is the best dinner-to-dance option, Dear Darling suits a cocktail-led night, and Selene is a refined choice for house music and cocktails. Note: Scotch only opens Friday and Saturday, so skip that one on a Thursday.",
   },
   {
     slug: "friday",
@@ -115,7 +115,7 @@ export const nights: NightInfo[] = [
     vibe: "After-party, extended weekend, wind-down or keep going",
     bestFor: "Night owls, after-party seekers, those extending a big Saturday",
     recommendation:
-      "Sunday has two reliable options in Mayfair. Tape London runs on Sundays — one of the only proper Sunday club nights in central London. Dear Darling is also open, offering cocktails and a bar atmosphere that carries late into the night. Between these two, Sunday in Mayfair is better than its reputation suggests.",
+      "Sunday has three reliable options in Mayfair. Tape London runs on Sundays — one of the only proper Sunday club nights in central London. Dear Darling is also open, offering cocktails and a bar atmosphere that carries late into the night. Selene opens on Sundays too, a refined choice for house music and cocktails. Between these three, Sunday in Mayfair is better than its reputation suggests.",
   },
 ];
 
