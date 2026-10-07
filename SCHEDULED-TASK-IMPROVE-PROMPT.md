@@ -31,10 +31,10 @@ WHERE site = 'vortexinnovations/mayfairtonight' AND content_type = 'improvement'
 ORDER BY created_at DESC;
 ```
 
-Compare by path only. Take the FIRST unhandled entry in this queue (ranked by Search Console, 90 days to 2026-10-05: impressions, clicks, position):
+Compare by path only (the venue-status sweep record carries a #fragment so it does not mark /clubs as handled). Take the FIRST unhandled entry in this queue (ranked by Search Console, 90 days to 2026-10-05: impressions, clicks, position):
 
 ```
-VENUE-STATUS   src/data/clubs.ts (see "The venue-status sweep" below; record its post_url as https://mayfairtonight.com/clubs)
+VENUE-STATUS   DONE 2026-10-07 (commit 139f50e; report post_url https://mayfairtonight.com/clubs#venue-status-sweep)
 SITE  /clubs/tape-london                        7,214 imp / 6 clicks, pos 11.5
 SITE  /nights/wednesday                         5,776 / 54, pos 9.6
 SITE  /nights/thursday                          5,083 / 30, pos 10.3
@@ -68,7 +68,7 @@ The homepage is excluded. When the queue is exhausted, re-pull Search Console pa
 
 **Duplicate check:** before improving a page, check it is not a near-copy of a stronger page on this site (search the repo titles and `ppm --urls mayfairtonight`). If it is, do NOT improve it: insert a `scheduler_reports` row (`content_type = 'improvement'`, `status = 'skipped'`, `post_url` = its live URL, `rules_applied` = `{"possible-duplicate of <stronger URL>", "<evidence>"}`) and take the next entry. Consolidation is a human decision.
 
-## THE VENUE-STATUS SWEEP (first queue entry)
+## THE VENUE-STATUS SWEEP (done 2026-10-07; repeat it whenever a venue closes)
 
 `src/data/clubs.ts` lists venues as `status: "open"` that have closed. Every closed venue page then shows a closure notice (`closedMessage`), and the night pages stop listing it. As of 2026-10-07:
 
