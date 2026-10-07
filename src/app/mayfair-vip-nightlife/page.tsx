@@ -25,7 +25,7 @@ const faqs = [
   {
     question: "How much does a VIP table in Mayfair cost?",
     answer:
-      "Table minimums start from around 1,000 pounds at entry-level venues like Luna and BEAT. Mid-tier venues like Reign, Cirque Le Soir, and Maddox start from 1,500 to 2,000 pounds. Top-tier venues like Tape London start from 2,000 to 3,000 pounds minimum spend. Premium table positions cost more. For exact pricing visit londonbottleservice.com.",
+      "Table minimums start from around 1,000 pounds at entry-level venues like BEAT London. Mid-tier venues like Reign, Cirque Le Soir, and Maddox start from 1,500 to 2,000 pounds. Top-tier venues like Tape London start from 2,000 to 3,000 pounds minimum spend. Premium table positions cost more. For exact pricing visit londonbottleservice.com.",
   },
   {
     question: "Is VIP worth it in Mayfair?",
@@ -508,24 +508,6 @@ export default function MayfairVIPPage() {
                   names. The cocktail programme is impressive, the house music
                   is tasteful, and the crowd is discerning. One of the
                   smartest VIP bookings in Mayfair right now.
-                </p>
-              </div>
-              <div className="bg-dark-card border border-dark-border rounded-xl p-5">
-                <h4 className="text-lg font-bold text-white mb-1">
-                  <Link
-                    href="/clubs/luna-club-london"
-                    className="hover:text-gold transition-colors"
-                  >
-                    Luna Club London
-                  </Link>
-                  <span className="text-gold text-sm ml-2">Friendly Premium</span>
-                </h4>
-                <p className="text-sm text-gray-300 mb-2">
-                  An approachable venue with a quality atmosphere. The most
-                  relaxed door in Mayfair without sacrificing the premium
-                  feel. Tables offer good value and the crowd is friendly and
-                  up for a good time. A strong option for groups new to
-                  Mayfair nightlife.
                 </p>
               </div>
               <div className="bg-dark-card border border-dark-border rounded-xl p-5">

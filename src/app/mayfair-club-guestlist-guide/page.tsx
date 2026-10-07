@@ -170,7 +170,6 @@ export default function GuestlistGuidePage() {
               { name: "The Box", slug: "the-box-london", info: "Guestlist exists but the door is curated by look and energy. Being on the list helps but does not guarantee entry. Creative, bold dressing is rewarded. Book through a promoter and arrive by 11pm." },
               { name: "Selene London", slug: "selene-london", info: "Guestlist is accessible and the door is welcoming. Newer venue still building its regular crowd. Book through a promoter for the smoothest experience. Elegant dress code — think refined, not flashy." },
               { name: "BEAT London", slug: "beat-london", info: "Most relaxed guestlist in the Mayfair circuit. Smart casual works. Clean designer trainers are acceptable. Book ahead for weekends but same-day guestlist often works midweek." },
-              { name: "Luna Club London", slug: "luna-club-london", info: "Guestlist is accessible as the venue builds its reputation. Good option for groups who want a Mayfair experience without the hardest doors. Book through a promoter and arrive by 11:30pm." },
             ].map((venue) => (
               <div key={venue.slug} className="bg-dark-card border border-dark-border rounded-lg p-4">
                 <Link href={`/clubs/${venue.slug}`} className="text-white font-semibold hover:text-gold">{venue.name}</Link>

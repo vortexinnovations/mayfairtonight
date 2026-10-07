@@ -81,16 +81,6 @@
   },
   {
     "date": "2026-03-27",
-    "clubSlug": "luna-club-london",
-    "clubName": "Luna Club London",
-    "eventName": "Luna Fridays",
-    "specialGuest": "",
-    "musicGenre": "Hip-Hop & Open Format",
-    "openingTime": "22:00",
-    "description": "Celestial vibes and premium bottle service at Mayfair's freshest venue."
-  },
-  {
-    "date": "2026-03-27",
     "clubSlug": "selene-london",
     "clubName": "Selene London",
     "eventName": "Selene Fridays",
@@ -178,16 +168,6 @@
     "musicGenre": "Commercial & Hip-Hop",
     "openingTime": "22:30",
     "description": "The most provocative Saturday night in London. Theatrical performances that push every boundary."
-  },
-  {
-    "date": "2026-03-28",
-    "clubSlug": "luna-club-london",
-    "clubName": "Luna Club London",
-    "eventName": "Luna Saturdays",
-    "specialGuest": "",
-    "musicGenre": "Hip-Hop & Open Format",
-    "openingTime": "22:00",
-    "description": "Mayfair's freshest Saturday night. Premium venue, atmospheric design, stylish crowd."
   },
   {
     "date": "2026-03-28",

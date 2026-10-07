@@ -110,15 +110,6 @@ const commercialClubs: GenreClub[] = [
     djs: "Residents who work seamlessly with the entertainment schedule. Versatile selectors who read a mixed crowd.",
   },
   {
-    name: "Luna Club London",
-    slug: "luna-club-london",
-    description:
-      "Luna delivers a crowd-pleasing open format that mixes genres freely. Commercial dance, pop remixes, hip-hop hits, and house — all blended into a set that keeps the dance floor packed. It's accessible, fun, and never too serious about any one genre. The DJ reads the room and gives the crowd what it wants.",
-    style: "Open format, commercial dance, pop, hip-hop crossovers",
-    bestNight: "Friday and Saturday",
-    djs: "Versatile residents who prioritise keeping the floor full. Reading the crowd is the skill here.",
-  },
-  {
     name: "BEAT London",
     slug: "beat-london",
     description:
@@ -168,7 +159,6 @@ const musicGrid = [
   { name: "Scotch of St James", slug: "scotch-of-st-james", hiphop: false, house: true, commercial: false, eclectic: true },
   { name: "Dear Darling", slug: "dear-darling", hiphop: false, house: true, commercial: false, eclectic: true },
   { name: "Reign London", slug: "reign-london", hiphop: false, house: false, commercial: true, eclectic: false },
-  { name: "Luna Club London", slug: "luna-club-london", hiphop: false, house: false, commercial: true, eclectic: false },
   { name: "The Box", slug: "the-box-london", hiphop: false, house: false, commercial: false, eclectic: true },
 ];
 
@@ -196,7 +186,7 @@ const faqs = [
   {
     question: "What does open format mean at a nightclub?",
     answer:
-      "Open format means the DJ plays across multiple genres rather than sticking to one. They might blend hip-hop into house, throw in a pop remix, then switch to a classic anthem. Reign London and Luna Club London are the main open-format venues in Mayfair. It's designed to keep a mixed crowd happy rather than catering to genre purists.",
+      "Open format means the DJ plays across multiple genres rather than sticking to one. They might blend hip-hop into house, throw in a pop remix, then switch to a classic anthem. Reign London and BEAT London are the main open-format venues in Mayfair. It's designed to keep a mixed crowd happy rather than catering to genre purists.",
   },
 ];
 

@@ -202,25 +202,6 @@ const clubDressCodes: ClubDressCode[] = [
     insiderTip:
       "BEAT attracts a younger, fashion-aware crowd. The dress code is not as strict as Tape or Scotch but you still need to look like you have put thought into your outfit. Style matters more than price tags.",
   },
-  {
-    name: "Luna Club London",
-    slug: "luna-club-london",
-    strictness: 3,
-    works: [
-      "Smart casual with good shoes",
-      "Clean dark jeans with a smart shirt",
-      "For women: cocktail dress or smart separates",
-      "Well-groomed and put-together appearance",
-    ],
-    doesnt: [
-      "Sportswear or athleisure",
-      "Trainers or casual sneakers",
-      "Very casual streetwear",
-      "Shorts or flip-flops",
-    ],
-    insiderTip:
-      "Luna has a friendly, accessible door but still enforces Mayfair standards. A step above your local bar but you do not need to go full black tie. Smart and well-groomed is the benchmark.",
-  },
 ];
 
 const faqs = [
@@ -252,7 +233,7 @@ const faqs = [
   {
     question: "Will I get turned away for wearing a polo shirt?",
     answer:
-      "It depends on the venue. A high-quality polo shirt can work at Selene, Luna, and BEAT on quieter nights. It will not pass at Tape London, Scotch, Maddox, or Reign. A collared shirt is always the safer choice — it costs you nothing extra and opens every door.",
+      "It depends on the venue. A high-quality polo shirt can work at Selene and BEAT on quieter nights. It will not pass at Tape London, Scotch, Maddox, or Reign. A collared shirt is always the safer choice — it costs you nothing extra and opens every door.",
   },
 ];
 

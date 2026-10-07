@@ -18,6 +18,8 @@ export interface Club {
   bestFor: string;
   status: "open" | "closed";
   closedMessage?: string;
+  /** Closed venues only: slugs of open venues on this site to suggest first. */
+  alternatives?: string[];
 }
 
 // ─── OPEN VENUES ────────────────────────────────────────────
@@ -259,25 +261,27 @@ export const clubs: Club[] = [
   {
     slug: "luna-club-london",
     name: "Luna Club London",
-    tagline: "Mayfair's newest premium nightclub",
+    tagline: "Mayfair nightclub, now closed",
     description:
-      "Luna has quickly established itself as one of Mayfair's most exciting venues. The design is celestial and atmospheric — think moonlit luxury with sleek interiors and an intimate dance floor. The music policy is open format with a lean towards hip-hop and RnB, and the crowd is young, affluent, and well-dressed. Luna brings fresh energy to a scene that needed it.",
+      "Luna Club London, also known as Luna Mayfair or Club Luna, was a Mayfair nightclub with celestial-inspired interiors, an intimate dance floor and an open-format music policy that leaned towards hip-hop and RnB. Its crowd was young, affluent and well dressed. Luna Club London has closed, so it no longer takes table bookings or guestlist names.",
     location: "Mayfair",
     area: "Mayfair",
     musicPolicy: ["Hip-Hop", "RnB", "Open Format"],
-    dressCode: "Smart. No trainers, no sportswear. Standard Mayfair dress code with a contemporary edge.",
-    dressCodeNotes: "Luna attracts a stylish crowd. Match the energy.",
+    dressCode: "Smart. No trainers, no sportswear.",
+    dressCodeNotes: "Standard Mayfair smart dress code.",
     tableMinimum: "£1,000",
-    openNights: ["Thursday", "Friday", "Saturday"],
+    openNights: [],
     openingTime: "22:00",
     closingTime: "03:30",
-    vibe: "Fresh, stylish, atmospheric",
-    insiderTip:
-      "Luna is still building its reputation, which means tables are easier to book than the established venues. Take advantage while you can — it won't stay this way.",
+    vibe: "Stylish, atmospheric, young and affluent",
+    insiderTip: "Luna Club London has closed.",
     whatToExpect:
-      "A beautifully designed venue with celestial-inspired decor. The lighting is atmospheric, the sound system is excellent, and the dance floor is intimate enough that the energy concentrates. The crowd is fashionable and the bottle service is on point. It's a premium experience without the wait-list drama of the most established clubs.",
-    bestFor: "Those who want a premium Mayfair experience at a newer venue",
-    status: "open",
+      "Luna Club London has closed. For hip-hop and RnB in Mayfair, try Tape London or Cirque Le Soir; for a high-energy dance floor, try BEAT London.",
+    bestFor: "This venue has closed",
+    status: "closed",
+    closedMessage:
+      "Luna Club London has closed. For the same mix of hip-hop, RnB and open-format music with a young, well-dressed crowd, try Tape London on Hanover Square for Mayfair's most exclusive door, Cirque Le Soir for a full show with your night, or BEAT London for a proper dance floor and serious sound.",
+    alternatives: ["tape-london", "cirque-le-soir", "beat-london"],
   },
   {
     slug: "selene-london",
@@ -329,25 +333,27 @@ export const clubs: Club[] = [
   {
     slug: "maison-close",
     name: "Maison Close",
-    tagline: "Mayfair's most intimate house music sanctuary",
+    tagline: "Swallow Street house music club, now closed",
     description:
-      "Maison Close is one of Mayfair's most talked-about new openings. Tucked into Swallow Street, this French-inspired venue blends art, music, and intimacy into one of the most refined nightclub experiences in London. With a capacity of around 160 guests, chandeliers, plush sofas, and bold red accents, it feels more like a private members' club than a nightclub. The music is pure house — curated, quality, and never compromised.",
+      "Maison Close was a French-inspired house music club at 9 Swallow Street in Mayfair. With a capacity of around 160, vintage chandeliers, velvet seating and bold red accents, it felt more like a Parisian salon than a nightclub, and its crowd came dressed up for quality house DJs. Maison Close has closed, so it no longer takes table bookings or guestlist names.",
     location: "9 Swallow Street, Mayfair",
     area: "Mayfair",
     musicPolicy: ["House", "Deep House", "Tech House"],
-    dressCode: "Elegant and sexy. Suits or smart separates for men. Elegant dresses or chic ensembles for women. This is strictly enforced.",
-    dressCodeNotes: "Maison Close has a firm dress code. 'Elegant and sexy' is their standard — turn up looking the part or you won't get in.",
+    dressCode: "Elegant and sexy.",
+    dressCodeNotes: "Maison Close had one of Mayfair's firmest dress codes.",
     tableMinimum: "£1,000",
-    openNights: ["Wednesday", "Thursday", "Friday", "Saturday"],
+    openNights: [],
     openingTime: "23:00",
     closingTime: "04:00",
     vibe: "Intimate, French-inspired, art-meets-nightclub",
-    insiderTip:
-      "VIP tables behind the DJ booth are in the highest demand. Book ahead — this is one of the hardest tables to walk in on. The venue is small enough that a good table completely transforms the experience.",
+    insiderTip: "Maison Close has closed.",
     whatToExpect:
-      "A beautifully designed room that feels more like a Parisian salon than a nightclub. Vintage chandeliers, velvet seating, red accents, and art installations create an atmosphere that's unlike anything else in Mayfair. The house music is consistently excellent — they book quality DJs and the sound system does them justice. The crowd is sophisticated, dressed up, and genuinely into the music. Capacity is ~160, so it always feels exclusive.",
-    bestFor: "House music lovers who want an intimate, art-forward night out",
-    status: "open",
+      "Maison Close has closed. For house music in an intimate, dressed-up Mayfair room, try Maddox, Selene London or Scotch of St James.",
+    bestFor: "This venue has closed",
+    status: "closed",
+    closedMessage:
+      "Maison Close has closed. For house music in an intimate, dressed-up room, try Maddox for dinner upstairs and house music downstairs, Selene London for refined house and commercial sets, or Scotch of St James for a small, storied Mayfair club with elegant parties.",
+    alternatives: ["maddox", "selene-london", "scotch-of-st-james"],
   },
 
   // ─── PERMANENTLY CLOSED VENUES (kept for SEO) ──────────────

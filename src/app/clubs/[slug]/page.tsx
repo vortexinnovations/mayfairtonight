@@ -25,15 +25,19 @@ export async function generateMetadata({
 
   return {
     title: isClosed
-      ? `${club.name} — Permanently Closed | Alternatives & Updates`
+      ? `${club.name} Has Closed: Mayfair Alternatives`
       : `${club.name} Tonight — What's On, Events & Table Bookings`,
     description: isClosed
       ? `${club.name} has permanently closed. Find the best alternative clubs in Mayfair and London. Updated guide with similar venues.`
       : `${club.name} in ${club.area} — ${club.tagline}. Open ${club.openNights.join(", ")}. ${club.musicPolicy.join(", ")} music. Tables from ${club.tableMinimum}. Book instantly via WhatsApp.`,
     alternates: { canonical: `https://mayfairtonight.com/clubs/${club.slug}` },
     openGraph: {
-      title: `${club.name} Tonight — Events, Music & Bookings`,
-      description: `${club.tagline}. ${club.musicPolicy.join(", ")} music in ${club.area}. Tables from ${club.tableMinimum}.`,
+      title: isClosed
+        ? `${club.name} Has Closed: Mayfair Alternatives`
+        : `${club.name} Tonight — Events, Music & Bookings`,
+      description: isClosed
+        ? `${club.name} has closed. Open Mayfair clubs with a similar crowd and music.`
+        : `${club.tagline}. ${club.musicPolicy.join(", ")} music in ${club.area}. Tables from ${club.tableMinimum}.`,
       url: `https://mayfairtonight.com/clubs/${club.slug}`,
     },
   };
@@ -50,6 +54,14 @@ export default async function ClubPage({
 
   const isClosed = club.status === "closed";
   const openClubs = getOpenClubs();
+  // A closed venue suggests its chosen open alternatives first.
+  const preferred = isClosed ? club.alternatives ?? [] : [];
+  const relatedClubs = [
+    ...preferred
+      .map((s) => openClubs.find((c) => c.slug === s))
+      .filter((c): c is NonNullable<typeof c> => Boolean(c)),
+    ...openClubs.filter((c) => !preferred.includes(c.slug)),
+  ];
   const images = clubImages[club.slug];
 
   return (
@@ -268,7 +280,7 @@ export default async function ClubPage({
             {isClosed ? "Open Clubs in Mayfair" : "Similar Clubs Nearby"}
           </h2>
           <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
-            {openClubs
+            {relatedClubs
               .filter((c) => c.slug !== club.slug)
               .slice(0, 6)
               .map((c) => (

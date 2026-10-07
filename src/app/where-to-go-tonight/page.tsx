@@ -144,11 +144,6 @@ const recommendations: Recommendation[] = [
         slug: "the-box-london",
         why: "Dark, decadent, and theatrical. A night you'll be talking about for weeks.",
       },
-      {
-        name: "Luna Club London",
-        slug: "luna-club-london",
-        why: "Celestial-inspired design, atmospheric lighting, and a sleek Mayfair interior.",
-      },
     ],
   },
 ];

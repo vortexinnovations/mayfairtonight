@@ -102,14 +102,14 @@ const groupRecommendations: GroupRecommendation[] = [
       "Mixed groups need venues that cater to different tastes. The house music purist. The hip-hop head. The person who just wants good cocktails. These clubs have enough variety to keep everyone happy.",
     clubs: [
       {
-        name: "Luna Club London",
-        slug: "luna-club-london",
-        why: "A fresh addition to the Mayfair scene that blends quality music with an approachable atmosphere. Luna is stylish without being intimidating — the crowd is young, sociable, and mixed. It is the kind of venue where different friendship groups merge on the dance floor.",
+        name: "The Box",
+        slug: "the-box-london",
+        why: "The Box mixes commercial, hip-hop and house between theatrical shows, so the night never depends on one genre. The performances give a mixed group something to talk about, and the dance floor fills between acts.",
         guestlistOrTables:
-          "Guestlist is accessible and the door is welcoming to well-dressed mixed groups. Tables are competitively priced for Mayfair. A solid choice for groups trying Mayfair for the first time.",
+          "The door is curated by look and energy, so a table is the surest way in for a mixed group. Creative, bold dressing is rewarded. Book through a promoter and arrive by 11pm.",
         approxGroupCost:
-          "Guestlist free. Tables from ~£800 min spend.",
-        bestNight: "Friday or Saturday.",
+          "Tables from ~£1,000 min spend.",
+        bestNight: "Thursday, Friday or Saturday.",
       },
     ],
   },

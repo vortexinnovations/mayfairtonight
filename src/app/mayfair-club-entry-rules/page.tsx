@@ -97,7 +97,6 @@ export default function EntryRulesPage() {
               <div className="space-y-3">
                 <div><Link href="/clubs/dear-darling" className="text-white font-medium hover:text-gold">Dear Darling</Link> <span className="text-dark-muted text-sm">— Bar-first atmosphere means the door is more relaxed. Smart dress code still applies. Walk-ups can work earlier in the evening.</span></div>
                 <div><Link href="/clubs/selene-london" className="text-white font-medium hover:text-gold">Selene London</Link> <span className="text-dark-muted text-sm">— Newer venue building its crowd. Guestlist is accessible and the door is welcoming. Dress elegantly and you&apos;ll have no issues.</span></div>
-                <div><Link href="/clubs/luna-club-london" className="text-white font-medium hover:text-gold">Luna Club London</Link> <span className="text-dark-muted text-sm">— Still establishing itself. Tables and guestlist both accessible. Good option while the established names are harder to crack.</span></div>
                 <div><Link href="/clubs/beat-london" className="text-white font-medium hover:text-gold">BEAT London</Link> <span className="text-dark-muted text-sm">— More relaxed than central Mayfair clubs. Smart casual works. One of the few venues where clean designer trainers are acceptable.</span></div>
               </div>
             </div>
