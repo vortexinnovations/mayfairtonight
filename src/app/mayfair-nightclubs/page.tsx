@@ -578,7 +578,7 @@ const faqs = [
   {
     question: "What time do Mayfair nightclubs open and close?",
     answer:
-      "Most Mayfair nightclubs open between 10pm and 11pm and close between 3am and 3:30am. Dear Darling and Selene open earlier (around 9–9:30pm) as they serve cocktails before transitioning to late-night mode. Arrive between 11pm and midnight for the best experience — early enough to get in smoothly, late enough for atmosphere.",
+      "Most Mayfair nightclubs open between 10pm and 11pm and close between 3am and 3:30am. Dear Darling opens earlier (around 9pm to 9:30pm) as it serves cocktails before switching to late-night mode. Arrive between 11pm and midnight for the best experience — early enough to get in smoothly, late enough for atmosphere.",
   },
   {
     question: "Are Mayfair nightclubs open on weekdays?",

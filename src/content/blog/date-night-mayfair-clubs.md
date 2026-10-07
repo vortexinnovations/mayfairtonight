@@ -35,7 +35,7 @@ After dinner, head downstairs. The house music is well-curated, the crowd is sli
 
 ## Plan 3: Drinks Somewhere Nearby, Then Selene
 
-Start with drinks at a cocktail bar in the area, then arrive at [Selene London](/clubs/selene-london) around 10:30pm. Selene offers refined elegance — the interiors are beautiful, the lighting is flattering, and the overall atmosphere is designed for people who appreciate aesthetics.
+Start with drinks at a cocktail bar in the area, then arrive at [Selene London](/clubs/selene-london) soon after it opens at 11pm. Selene offers refined elegance — the interiors are beautiful, the lighting is flattering, and the overall atmosphere is designed for people who appreciate aesthetics.
 
 This is a venue where you'll both look good, feel comfortable, and have enough visual interest around you that conversation flows easily.
 

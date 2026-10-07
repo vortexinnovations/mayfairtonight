@@ -296,8 +296,8 @@ export const clubs: Club[] = [
     dressCodeNotes: "Selene is elegant — the dress code reflects it. Think upscale evening out.",
     tableMinimum: "£1,000",
     openNights: ["Thursday", "Friday", "Saturday", "Sunday"],
-    openingTime: "21:30",
-    closingTime: "03:00",
+    openingTime: "23:00",
+    closingTime: "04:00",
     vibe: "Refined, elegant, moonlit luxury",
     insiderTip:
       "Start with cocktails at the bar before moving to a table. Selene's cocktail menu is genuinely impressive — don't skip it for straight bottles.",
