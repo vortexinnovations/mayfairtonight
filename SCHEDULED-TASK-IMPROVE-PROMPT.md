@@ -9,6 +9,14 @@ Two kinds of page earn that traffic, and they are edited differently:
 
 Content-API commands run from `C:\websites\dashboard` as `node --env-file=.env.local scripts/publish-post.mjs ...` (shortened to `ppm` below). The script reads the secret itself: never print, paste or commit `CONTENT_API_SECRET`. On a computer set up from the dashboard's `docs/CONTENT-API.md`, `ppm` is `node --env-file=C:\content-api\.env C:\content-api\publish-post.mjs` and work files go in `C:\content-api\work` instead of `C:/temp`. Nothing in this prompt needs a database connection: start every run with `ppm --brief mayfairtonight --dir C:/temp/brief`, which prints the run history and writes the build notes, venues (open, closed, rebranded), allowed citation domains and keyword registry to that folder.
 
+## Where you are running
+
+This prompt runs in three places. Paths and commands above and below are written for the owner's PC; translate them like this:
+
+- **Owner's PC:** as written.
+- **Second PC** (set up from the dashboard's `docs/CONTENT-API.md`): `ppm` is `node --env-file=C:\content-api\.env C:\content-api\publish-post.mjs`; work files go in `C:\content-api\work`; `C:\websites\<repo>` is that site's own project folder.
+- **Claude cloud routine:** `ppm` is `node <blog-scheduler-dashboard checkout>/scripts/publish-post.mjs` with no `--env-file` (the environment's network secret adds the key; never look for it). `C:\websites\<repo>` means that repo's checkout in your working directory (only blog-scheduler-dashboard, clubsinlondon, londonclubviptables, mayfairtonight and bestclubsinlondon are checked out). `C:/temp` means `./work`. Skip any `git pull` (the checkout is fresh). The checkouts are READ-ONLY references: never edit, commit or push in them. Site pages that are code (not blog posts) cannot be changed from the cloud: skip them as the prompt says.
+
 ## HARD RULES (never break these)
 
 1. **Never create a new post or page.** One improved existing page per run. (The API refuses new posts on this site.)
