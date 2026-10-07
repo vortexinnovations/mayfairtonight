@@ -7,13 +7,13 @@ Two kinds of page earn that traffic, and they are edited differently:
 - **Blog posts** (`/blog/{slug}`) live in Markdown files and the Supabase `site_posts` table. Edit them ONLY through the dashboard content API: no file edits, no commit, no build.
 - **Site pages** (`/clubs/{slug}`, `/nights/{day}`, `/clubs`, the hub pages) are code and data in this repo. Edit them as files, build, commit and push. About 80% of the site's search demand is on these pages (Search Console, Jul-Oct 2026: 51,318 of 63,693 impressions).
 
-Content-API commands run from `C:\websites\dashboard` as `node --env-file=.env.local scripts/publish-post.mjs ...` (shortened to `ppm` below). The script reads the secret itself: never print, paste or commit `CONTENT_API_SECRET`.
+Content-API commands run from `C:\websites\dashboard` as `node --env-file=.env.local scripts/publish-post.mjs ...` (shortened to `ppm` below). The script reads the secret itself: never print, paste or commit `CONTENT_API_SECRET`. On a computer set up from the dashboard's `docs/CONTENT-API.md`, `ppm` is `node --env-file=C:\content-api\.env C:\content-api\publish-post.mjs` and work files go in `C:\content-api\work` instead of `C:/temp`. Nothing in this prompt needs a database connection: start every run with `ppm --brief mayfairtonight --dir C:/temp/brief`, which prints the run history and writes the build notes, venues (open, closed, rebranded), allowed citation domains and keyword registry to that folder.
 
 ## HARD RULES (never break these)
 
 1. **Never create a new post or page.** One improved existing page per run. (The API refuses new posts on this site.)
 2. **Never change a URL, slug or route.** For blog posts never send `publish_date`; the API keeps the original date and sets the modified date itself.
-3. **Never present a closed venue as open or bookable.** Venue status comes from `scheduler_venues` (status column) and `src/data/clubs.ts`. Where they disagree, do not guess: flag it in the report and leave that venue as it is.
+3. **Never present a closed venue as open or bookable.** Venue status comes from the open and closed venue lists in `mayfairtonight-context.md` (the `scheduler_venues` table) and `src/data/clubs.ts`. Where they disagree, do not guess: flag it in the report and leave that venue as it is.
 4. **Never invent facts, prices, reviews or first-person anecdotes.** No "I visited", "I noticed", "on my last visit". The persona (Henry Ashcroft) is not a real person (rule 4c.2). Older pages contain such claims: rewrite them into factual, editorial voice.
 5. **Keep each page's primary query in its title and meta title.** You may sharpen a title; the query the page ranks for must stay.
 6. **Never link a nightclub's own website.** Internal links are root-relative with NO trailing slash (`/clubs/tape-london`, `/nights/friday`, `/blog/{slug}`).
@@ -25,11 +25,7 @@ Content-API commands run from `C:\websites\dashboard` as `node --env-file=.env.l
 
 A page is already handled if it has a `scheduler_reports` row for this site with `content_type = 'improvement'` (status `success` = improved, `skipped` = flagged):
 
-```sql
-SELECT post_url, status, created_at FROM scheduler_reports
-WHERE site = 'vortexinnovations/mayfairtonight' AND content_type = 'improvement'
-ORDER BY created_at DESC;
-```
+They are listed under `improvements` in `ppm --brief mayfairtonight` (newest first).
 
 Compare by path only (the venue-status sweep record carries a #fragment so it does not mark /clubs as handled). Take the FIRST unhandled entry in this queue (ranked by Search Console, 90 days to 2026-10-05: impressions, clicks, position):
 
@@ -64,9 +60,9 @@ SITE  /mayfair-vip-nightlife                      447 / 6, pos 8.3
 SITE  /best-clubs-for-groups-in-mayfair           515 / 4, pos 15.5
 ```
 
-The homepage is excluded. When the queue is exhausted, re-pull Search Console page data for `sc-domain:mayfairtonight.com` (last 90 days) and take the highest-impression page not improved in the last 90 days.
+The homepage is excluded. When the queue is exhausted, run `ppm --queries mayfairtonight` (top pages, last 90 days) and take the highest-impression page not improved in the last 90 days.
 
-**Duplicate check:** before improving a page, check it is not a near-copy of a stronger page on this site (search the repo titles and `ppm --urls mayfairtonight`). If it is, do NOT improve it: insert a `scheduler_reports` row (`content_type = 'improvement'`, `status = 'skipped'`, `post_url` = its live URL, `rules_applied` = `{"possible-duplicate of <stronger URL>", "<evidence>"}`) and take the next entry. Consolidation is a human decision.
+**Duplicate check:** before improving a page, check it is not a near-copy of a stronger page on this site (search the repo titles and `ppm --urls mayfairtonight`). If it is, do NOT improve it: record it with `ppm --report mayfairtonight skipped "possible-duplicate of <stronger URL>" "<the evidence>" --url <its live URL> --type improvement` and take the next entry. Consolidation is a human decision.
 
 ## THE VENUE-STATUS SWEEP (done 2026-10-07; repeat it whenever a venue closes)
 
@@ -91,7 +87,7 @@ Then:
 - Edit only string content unless the template itself is wrong. No em dashes in anything you write; British English.
 - Verify: `npx tsc --noEmit` and `npm run build` must pass (the build regenerates the gitignored `src/data/file-posts.json`; if it changes `next-env.d.ts`, restore it). Then commit ONLY the files you meant to change: `Improve: <page> (facts verified, cleanup)`, push to master, confirm LOCAL==REMOTE SHA, and wait for the Vercel deploy to succeed.
 - Fetch the live page and confirm a distinctive new sentence is present.
-- Bookkeeping (the API is not involved, so do it by hand, as runbook STEP 1B item 2 describes): `UPDATE scheduler_sites SET last_posted_at = NOW() WHERE site = 'vortexinnovations/mayfairtonight';` and INSERT a `scheduler_reports` row with `content_type = 'improvement'`, `status = 'success'`, `post_url` = the live URL, and the changes in `rules_applied`.
+- Bookkeeping (the API did not publish this page, so record it yourself once the deploy is live): `ppm --report mayfairtonight success "<change 1>" "<change 2>" ... --url <the live URL> --type improvement`. It checks the page answers 200, writes the improvement report and moves the site in the rotation. Never write these records any other way.
 
 ## STEP 2B: IMPROVING A BLOG POST (content API)
 
@@ -101,8 +97,8 @@ ppm --get mayfairtonight <slug> --out C:/temp/mt-improve.json
 
 This returns the live post as a ready-to-send payload, with `replace_legacy: true` for a file post, the inline JSON-LD, byline and "Last updated" lines already stripped (the template renders the byline and dates), and the featured image filled from `src/data/images.ts` (most older posts have none: choose one, vetted by eye; the API rejects reused or venue-branded gallery images). Make every edit with a Node script that reads and rewrites the JSON (never a shell heredoc).
 
-- Rewrite first-person persona claims (the API rejects them), remove or correct closed venues (say plainly that a venue has closed if the page is about it, and point to open alternatives), fix em dashes (rejected), make internal links root-relative with no trailing slash, and add one citation from `scheduler_citation_sources.allowed_domains` that genuinely supports a claim (fetch-verify it first).
-- Strengthen what the post's top queries ask for (the queue notes; re-check with Search Console if unsure). Tables are fine. FAQs go in the body as `## Frequently Asked Questions` with `### ` questions.
+- Rewrite first-person persona claims (the API rejects them), remove or correct closed venues (say plainly that a venue has closed if the page is about it, and point to open alternatives), fix em dashes (rejected), make internal links root-relative with no trailing slash, and add one citation from the allowed domains in `mayfairtonight-context.md` that genuinely supports a claim (fetch-verify it first).
+- Strengthen what the post's top queries ask for (the queue notes; re-check with `ppm --queries mayfairtonight <page URL>` if unsure). Tables are fine. FAQs go in the body as `## Frequently Asked Questions` with `### ` questions.
 - Add `"report": {"rules_applied": [...]}` listing what you changed.
 
 ```
