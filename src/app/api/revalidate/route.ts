@@ -14,13 +14,16 @@ import { NextRequest, NextResponse } from "next/server";
 // So post data is read outside fetch() (lib/blog.ts) and the PAGES are made
 // stale-while-revalidate here, via Next's implicit route tags (the tags
 // revalidatePath() itself emits, visible in each prerendered page's .meta file).
-// The sitemap is a route handler, which on Vercel no on-demand revalidation
-// reaches; it refreshes on a 5-minute timer instead.
+// The sitemap renders per request from a cached post list, marked stale here
+// through its data tag.
 const IMPLICIT_TAG_PREFIX = "_N_T_";
 const ROUTE_TAGS = [
   "/blog/[slug]/page", // every post page ("Keep Reading" shows the newest posts)
   "/blog/page",
 ].map((route) => IMPLICIT_TAG_PREFIX + route);
+
+// The cached post list the sitemap renders from (lib/blog.ts getListingPosts).
+const DATA_TAGS = ["site-posts"];
 
 function authorised(request: NextRequest): boolean {
   const expected = process.env.CONTENT_REVALIDATE_SECRET;
@@ -35,6 +38,7 @@ export async function POST(request: NextRequest) {
   if (!authorised(request)) {
     return NextResponse.json({ error: "unauthorised" }, { status: 401 });
   }
-  for (const tag of ROUTE_TAGS) revalidateTag(tag, "max");
-  return NextResponse.json({ ok: true, profile: "max", tags: ROUTE_TAGS });
+  const tags = [...ROUTE_TAGS, ...DATA_TAGS];
+  for (const tag of tags) revalidateTag(tag, "max");
+  return NextResponse.json({ ok: true, profile: "max", tags });
 }

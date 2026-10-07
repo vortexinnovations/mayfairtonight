@@ -1,12 +1,13 @@
 import { MetadataRoute } from "next";
 import { clubs } from "@/data/clubs";
 import { nights } from "@/data/nights";
-import { getAllPosts } from "@/lib/blog";
+import { getFileListingPosts, getListingPosts, type ListingPost } from "@/lib/blog";
 
-// Route handlers are not reached by on-demand revalidation on Vercel, so the
-// sitemap refreshes on a timer: a new content-API post appears within 5 minutes.
-// No try/catch: a failed regeneration keeps the last good sitemap.
-export const revalidate = 300;
+// Rendered per request from the cached post list in lib/blog.ts, which
+// /api/revalidate marks stale on every publish. Not prerendered: on Vercel a
+// prerendered sitemap was served as a static file that neither on-demand nor
+// time-based revalidation refreshed, so new posts only appeared after a deploy.
+export const dynamic = "force-dynamic";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = "https://mayfairtonight.com";
@@ -150,7 +151,15 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.8,
   }));
 
-  const posts = await getAllPosts();
+  // If the database is down and nothing is cached yet, list the file posts
+  // rather than fail the whole sitemap.
+  let posts: ListingPost[];
+  try {
+    posts = await getListingPosts();
+  } catch (err) {
+    console.error("sitemap: post list unavailable, listing file posts only", err);
+    posts = await getFileListingPosts();
+  }
   const blogPages = posts.map((post) => ({
     url: `${baseUrl}/blog/${post.slug}`,
     changeFrequency: "monthly" as const,

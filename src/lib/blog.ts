@@ -1,6 +1,7 @@
 import fs from "fs";
 import https from "https";
 import path from "path";
+import { unstable_cache } from "next/cache";
 import { cache } from "react";
 import matter from "gray-matter";
 import { remark } from "remark";
@@ -174,15 +175,43 @@ async function getDbPosts(): Promise<BlogPost[]> {
  * the file with the same slug. Deduplicated per request with React cache(); no
  * module-level cache, which on a warm server would hide new database posts.
  */
-export const getAllPosts = cache(async (): Promise<BlogPost[]> => {
+async function loadAllPosts(includeDb = true): Promise<BlogPost[]> {
   const bySlug = new Map<string, BlogPost>();
   for (const slug of getFileSlugs()) {
     const p = getFilePost(slug);
     if (p) bySlug.set(slug, p);
   }
-  for (const p of await getDbPosts()) bySlug.set(p.slug, p);
+  if (includeDb) for (const p of await getDbPosts()) bySlug.set(p.slug, p);
   return [...bySlug.values()].sort((a, b) => (a.date > b.date ? -1 : 1));
-});
+}
+
+export const getAllPosts = cache(() => loadAllPosts());
+
+export type ListingPost = Omit<BlogPost, "content">;
+
+function toListing(p: BlogPost): ListingPost {
+  const { content, ...rest } = p;
+  void content; // bodies are not needed for listings
+  return rest;
+}
+
+// For route handlers (the sitemap). On Vercel a prerendered route
+// handler is served as a static file that neither on-demand nor time-based
+// revalidation refreshes, so they render per request from this cross-request
+// cached list instead: refreshed every 5 minutes and marked stale by
+// /api/revalidate on every publish, so a request never waits on Supabase.
+// Bodies are left out (data cache entries are capped at 2 MB). A failed
+// refresh is not stored, so the last good list keeps serving.
+export const getListingPosts = unstable_cache(
+  async (): Promise<ListingPost[]> => (await loadAllPosts()).map(toListing),
+  ["mayfairtonight-listing-posts"],
+  { tags: ["site-posts"], revalidate: 300 }
+);
+
+/** The file posts alone: the fallback when the database is down and nothing is cached yet. */
+export async function getFileListingPosts(): Promise<ListingPost[]> {
+  return (await loadAllPosts(false)).map(toListing);
+}
 
 export async function getPostBySlug(slug: string): Promise<BlogPost | null> {
   return (await getAllPosts()).find((p) => p.slug === slug) ?? null;
