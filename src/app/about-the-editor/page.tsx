@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "About the Editor — Henry Ashcroft | Mayfair Tonight",
+  title: "About the Editor — Henry Ashcroft",
   description:
     "Meet Henry Ashcroft, Mayfair Area Specialist. He covers W1 after dark - the venues, the crowd, and the day-of-week patterns - with a specialist's depth.",
   alternates: { canonical: "https://mayfairtonight.com/about-the-editor" },

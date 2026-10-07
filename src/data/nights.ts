@@ -16,7 +16,7 @@ export const nights: NightInfo[] = [
     slug: "monday",
     day: "Monday",
     title: "Monday Night in Mayfair",
-    metaTitle: "Monday Night Mayfair — Clubs Open Monday London | Mayfair Tonight",
+    metaTitle: "Monday Night Mayfair — Clubs Open Monday London",
     metaDescription:
       "Find out which clubs are open on Monday night in Mayfair and London. Quiet start to the week — here's where the industry crowd goes.",
     h1: "Monday Night in Mayfair",
@@ -31,7 +31,7 @@ export const nights: NightInfo[] = [
     slug: "tuesday",
     day: "Tuesday",
     title: "Tuesday Night in Mayfair",
-    metaTitle: "Tuesday Night Mayfair — Clubs Open Tuesday London | Mayfair Tonight",
+    metaTitle: "Tuesday Night Mayfair — Clubs Open Tuesday London",
     metaDescription:
       "Which clubs are open on Tuesday in Mayfair? The midweek scene is building — here's where early-week party people head.",
     h1: "Tuesday Night in Mayfair",
@@ -46,7 +46,7 @@ export const nights: NightInfo[] = [
     slug: "wednesday",
     day: "Wednesday",
     title: "Wednesday Night in Mayfair",
-    metaTitle: "Best Wednesday Night London — Mayfair Clubs Open Wednesday | Mayfair Tonight",
+    metaTitle: "Best Wednesday Night London — Mayfair Clubs Open Wednesday",
     metaDescription:
       "Wednesday is when Mayfair's midweek nightlife kicks off. Discover which clubs are open and where the best Wednesday night parties are in London.",
     h1: "Wednesday Night in Mayfair",
@@ -61,7 +61,7 @@ export const nights: NightInfo[] = [
     slug: "thursday",
     day: "Thursday",
     title: "Thursday Night in Mayfair",
-    metaTitle: "Thursday Night Out Mayfair — Best Thursday Clubs London | Mayfair Tonight",
+    metaTitle: "Thursday Night Out Mayfair — Best Thursday Clubs London",
     metaDescription:
       "Thursday night is huge in Mayfair. Nearly every club is open and the weekend starts early. Find the best Thursday night clubs in London.",
     h1: "Thursday Night in Mayfair",
@@ -76,7 +76,7 @@ export const nights: NightInfo[] = [
     slug: "friday",
     day: "Friday",
     title: "Friday Night in Mayfair",
-    metaTitle: "Best Friday Night London Clubs — Mayfair Friday Night Out | Mayfair Tonight",
+    metaTitle: "Best Friday Night London Clubs — Mayfair Friday Night Out",
     metaDescription:
       "Friday night in Mayfair — every major club is open and the energy is electric. Find the best Friday night clubs and events in London.",
     h1: "Friday Night in Mayfair",
@@ -91,7 +91,7 @@ export const nights: NightInfo[] = [
     slug: "saturday",
     day: "Saturday",
     title: "Saturday Night in Mayfair",
-    metaTitle: "Saturday Night Out London — Best Saturday Clubs Mayfair | Mayfair Tonight",
+    metaTitle: "Saturday Night Out London — Best Saturday Clubs Mayfair",
     metaDescription:
       "Saturday night in Mayfair is legendary. Every club is open, the energy peaks, and the night goes late. Find the best Saturday night out in London.",
     h1: "Saturday Night in Mayfair",
@@ -106,7 +106,7 @@ export const nights: NightInfo[] = [
     slug: "sunday",
     day: "Sunday",
     title: "Sunday Night in Mayfair",
-    metaTitle: "Clubs Open Sunday London — Sunday Night Mayfair | Mayfair Tonight",
+    metaTitle: "Clubs Open Sunday London — Sunday Night Mayfair",
     metaDescription:
       "Which clubs are open on Sunday in London? The weekend isn't over yet — here's where to extend your Saturday night into Sunday.",
     h1: "Sunday Night in Mayfair",

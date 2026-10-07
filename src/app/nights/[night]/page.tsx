@@ -29,7 +29,9 @@ export async function generateMetadata({
       canonical: `https://mayfairtonight.com/nights/${nightInfo.slug}`,
     },
     openGraph: {
-      title: nightInfo.metaTitle,
+      // The document title gets the site name from the layout template;
+      // the Open Graph title is not templated.
+      title: `${nightInfo.metaTitle} | Mayfair Tonight`,
       description: nightInfo.metaDescription,
       url: `https://mayfairtonight.com/nights/${nightInfo.slug}`,
     },
