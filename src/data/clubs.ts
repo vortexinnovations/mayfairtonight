@@ -289,7 +289,7 @@ export const clubs: Club[] = [
     tagline: "Refined elegance in the heart of Mayfair",
     description:
       "Selene brings understated luxury to Mayfair's nightlife scene. Named after the Greek goddess of the moon, the venue is elegant without being over-the-top — think soft lighting, refined interiors, and a cocktail programme that rivals dedicated cocktail bars. The music blends house and commercial, and the atmosphere sits between high-end bar and intimate nightclub. It's the kind of place that makes you feel sophisticated just for walking in.",
-    location: "Mayfair",
+    location: "4 Winsley Street, Fitzrovia, London W1W 8HF",
     area: "Mayfair",
     musicPolicy: ["House", "Commercial", "Deep House"],
     dressCode: "Smart and refined. Cocktail attire. No casual wear.",
@@ -302,7 +302,7 @@ export const clubs: Club[] = [
     insiderTip:
       "Start with cocktails at the bar before moving to a table. Selene's cocktail menu is genuinely impressive — don't skip it for straight bottles.",
     whatToExpect:
-      "An elegant, softly-lit venue with refined design. The music is tasteful house and commercial — never too loud, never too quiet. The crowd is well-dressed and sociable. Bottle service is polished and attentive. It's the kind of venue that works equally well for a date night or a group celebration.",
+      "An elegant, softly-lit venue with refined design. The music is tasteful house and commercial — never too loud, never too quiet. The crowd is well-dressed and sociable. Bottle service is polished and attentive. It's the kind of venue that works equally well for a date night or a group celebration. Selene also has private bowling lanes alongside the club rooms, which can be booked together with a table.",
     bestFor: "Those who want elegance and refinement over high-energy partying",
     status: "open",
   },
