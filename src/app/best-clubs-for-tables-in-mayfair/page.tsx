@@ -112,21 +112,6 @@ const tableClubs: TableClub[] = [
   },
   {
     rank: 6,
-    name: "Funky Buddha",
-    slug: "funky-buddha",
-    tagline: "Legendary Atmosphere",
-    experience:
-      "Funky Buddha has been a Mayfair institution for years. A table here puts you in the middle of one of the most consistently brilliant atmospheres in London. The regulars know the regulars. The music swings between hip-hop and funky house. The vibe is warm, welcoming, and genuinely fun. This is Mayfair nightlife at its most authentic.",
-    layout:
-      "Compact venue with booth seating along the walls and a packed dance floor. Tables are close to the action — you feel the energy of the room from every seat.",
-    included:
-      "Bottles, mixers, dedicated host, and the intangible benefit of being part of a legendary Mayfair crowd.",
-    bestFor: "Regulars, hip-hop fans, groups who want a proper Mayfair night with heritage",
-    minSpend: "From £1,000",
-    recommendation: "Tables guarantee your spot. Guestlist works midweek but weekends fill up fast.",
-  },
-  {
-    rank: 7,
     name: "Dear Darling",
     slug: "dear-darling",
     tagline: "Cocktail-Focused",
@@ -141,37 +126,7 @@ const tableClubs: TableClub[] = [
     recommendation: "Tables or premium bar seating both work well here. The cocktail packages are worth exploring.",
   },
   {
-    rank: 8,
-    name: "TABU London",
-    slug: "tabu-london",
-    tagline: "Fashion-Forward",
-    experience:
-      "TABU's Japanese underground aesthetic makes a table here feel completely different to the rest of Mayfair. The lighting is moody, the design is immersive, and the fashion crowd around you treats the club like a runway. Your table is a statement — this is where the style-conscious book.",
-    layout:
-      "Dark, atmospheric room with booths arranged around the dance floor. The design immerses you in the Japanese underground theme from the moment you sit down.",
-    included:
-      "Bottles, premium mixers, table host, and an atmosphere that rewards those who dress for the occasion.",
-    bestFor: "Fashion industry professionals, style-conscious groups, those who want something edgier",
-    minSpend: "From £1,000",
-    recommendation: "Tables are the best way to experience the venue. Guestlist is solid too.",
-  },
-  {
-    rank: 9,
-    name: "Cuckoo Club",
-    slug: "cuckoo-club",
-    tagline: "Versatile",
-    experience:
-      "Two floors mean you can book a table on the house floor or the hip-hop floor — or both. Cuckoo is one of the most sociable clubs in Mayfair, and a table gives you a base to explore. The crowd is young, fun, and unpretentious. It's the accessible table booking.",
-    layout:
-      "Tables available on both the ground floor (house music) and upstairs (hip-hop and RnB). Both rooms have booths surrounding their respective dance floors.",
-    included:
-      "Bottles, mixers, table host, and access to both floors regardless of which one your table is on.",
-    bestFor: "Groups who want options, first-time Mayfair visitors, mixed-taste groups",
-    minSpend: "From £1,000",
-    recommendation: "Tables or guestlist both work well. Cuckoo is one of the easier bookings in Mayfair.",
-  },
-  {
-    rank: 10,
+    rank: 7,
     name: "Selene London",
     slug: "selene-london",
     tagline: "Refined",
@@ -414,7 +369,7 @@ export default function BestClubsForTablesPage() {
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
-                  You&apos;re going to Cuckoo or Selene where guestlist works brilliantly
+                  You&apos;re going to Selene, where guestlist works brilliantly
                 </li>
               </ul>
             </div>

@@ -20,7 +20,7 @@ export const metadata: Metadata = {
 const faqs = [
   { question: "Which area of Mayfair has the most clubs?", answer: "The Dover Street and Mayfair core area has the highest density. Scotch of St James, Dear Darling, Maddox, and Selene London are all within a five-minute walk of each other. You could visit three venues in one night without ever needing a taxi." },
   { question: "Can I walk between all the Mayfair clubs?", answer: "Most of them, yes. The furthest walk is from Berkeley Square to Cirque Le Soir near Soho, which takes about 12-15 minutes. Everything else is within 5-10 minutes on foot. Mayfair is compact and safe to walk at night." },
-  { question: "Which tube station is best for Mayfair nightlife?", answer: "Green Park is the most central for Berkeley Square venues. Bond Street works for Dover Street clubs. Piccadilly Circus is ideal for Cuckoo Club and Reign. Oxford Circus is closest to BEAT London. All close around midnight, so plan your return journey by taxi or ride-hail." },
+  { question: "Which tube station is best for Mayfair nightlife?", answer: "Green Park is the most central for Berkeley Square venues. Bond Street works for Dover Street clubs. Piccadilly Circus is ideal for Reign. Oxford Circus is closest to BEAT London. All close around midnight, so plan your return journey by taxi or ride-hail." },
   { question: "Is it safe to walk around Mayfair at night?", answer: "Very safe. Mayfair is one of London's most affluent and well-patrolled neighbourhoods. The streets are well-lit, there are people around throughout the night, and the distances between clubs are short. Standard city awareness applies, but Mayfair is about as safe as it gets." },
   { question: "Where can I eat after clubbing in Mayfair?", answer: "Late-night options include spots around Shepherd Market for casual bites, the kebab and pizza places along Piccadilly, and a few restaurants near Berkeley Square that serve until the early hours. Some hotel restaurants also offer late-night menus." },
 ];
@@ -65,17 +65,16 @@ export default function NightlifeAreasPage() {
             <div className="space-y-4">
               <div className="text-gray-300 space-y-3 leading-relaxed">
                 <p>Berkeley Square is one of Mayfair&apos;s most recognisable landmarks — a tree-lined garden square surrounded by grand Georgian townhouses. The square itself is quiet at night, but Berkeley Street, which runs south from it toward Piccadilly, is where the nightlife action happens.</p>
-                <p>This strip is the hip-hop and R&amp;B corridor of Mayfair. The venues here attract a fashion-conscious, music-driven crowd. The energy is different from the house music scenes elsewhere — more urban, more style-focused, and the doors reflect that.</p>
+                <p>For years this strip was the hip-hop and R&amp;B corridor of Mayfair, built around Funky Buddha on Berkeley Street and TABU London around the corner on Dover Street. Both have since closed: Itzel has opened in Funky Buddha&apos;s space and Rumour in TABU&apos;s. For a hip-hop club night from here, the nearest venue we cover is Reign London on Piccadilly.</p>
               </div>
               <div className="border-t border-dark-border pt-3">
-                <h3 className="text-gold font-semibold mb-2">Clubs in This Area</h3>
+                <h3 className="text-gold font-semibold mb-2">Nearest Club We Cover</h3>
                 <div className="space-y-2">
-                  <div><Link href="/clubs/funky-buddha" className="text-white font-medium hover:text-gold">Funky Buddha</Link> <span className="text-dark-muted text-sm">— Legendary hip-hop spot. Intimate room, loyal crowd, discerning door. A Mayfair institution on Berkeley Street.</span></div>
-                  <div><Link href="/clubs/tabu-london" className="text-white font-medium hover:text-gold">TABU London</Link> <span className="text-dark-muted text-sm">— Fashion-forward club with eclectic programming. Also on Berkeley Street, a short walk from Funky Buddha. Style-conscious door.</span></div>
+                  <div><Link href="/clubs/reign-london" className="text-white font-medium hover:text-gold">Reign London</Link> <span className="text-dark-muted text-sm">: Piccadilly. Shows, production and bottle service, with commercial, hip-hop and house.</span></div>
                 </div>
               </div>
               <div className="border-t border-dark-border pt-3">
-                <p className="text-sm text-dark-muted"><strong>The walk:</strong> Funky Buddha and TABU are roughly two minutes apart on foot along Berkeley Street. Both are within five minutes of Green Park station.</p>
+                <p className="text-sm text-dark-muted"><strong>The walk:</strong> Berkeley Square is a short walk from Green Park station; Reign London is south of it on Piccadilly.</p>
                 <p className="text-sm text-dark-muted mt-1"><strong>The vibe:</strong> Upscale urban. Well-dressed crowds moving between venues. The street feels alive on weekends from 11pm onward.</p>
               </div>
             </div>
@@ -143,7 +142,6 @@ export default function NightlifeAreasPage() {
               <div className="border-t border-dark-border pt-3">
                 <h3 className="text-gold font-semibold mb-2">Clubs in This Area</h3>
                 <div className="space-y-2">
-                  <div><Link href="/clubs/cuckoo-club" className="text-white font-medium hover:text-gold">Cuckoo Club</Link> <span className="text-dark-muted text-sm">— Two floors, two vibes. The most accessible Mayfair door. Great for groups and first-timers. Swallow Street location means you&apos;re steps from Piccadilly.</span></div>
                   <div><Link href="/clubs/reign-london" className="text-white font-medium hover:text-gold">Reign London</Link> <span className="text-dark-muted text-sm">— Large venue with live entertainment and dramatic production. Professional door, reliable guestlist. The biggest room in this part of Mayfair.</span></div>
                 </div>
               </div>
@@ -214,13 +212,13 @@ export default function NightlifeAreasPage() {
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-5">
               <h3 className="text-gold font-semibold mb-2">Route 2: The Hip-Hop to House Crossover</h3>
-              <p className="text-sm text-gray-300 mb-2">Funky Buddha → TABU → walk north → Maddox or Scotch</p>
-              <p className="text-sm text-dark-muted">Start on Berkeley Street for hip-hop, then walk 8-10 minutes north through Mayfair to the Dover Street area for house music. A great way to experience two sides of Mayfair in one night.</p>
+              <p className="text-sm text-gray-300 mb-2">Reign London → walk north → Maddox or Scotch</p>
+              <p className="text-sm text-dark-muted">Start on Piccadilly at Reign London for hip-hop and commercial, then walk north through Mayfair to Maddox or Scotch for house music. A great way to experience two sides of Mayfair in one night.</p>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-5">
               <h3 className="text-gold font-semibold mb-2">Route 3: The Grand Tour</h3>
-              <p className="text-sm text-gray-300 mb-2">Cuckoo Club → walk through Mayfair → Dear Darling → Maddox → walk east → Cirque Le Soir</p>
-              <p className="text-sm text-dark-muted">The most ambitious route. Start at Piccadilly with Cuckoo Club, walk north through the heart of Mayfair to Dover Street, then cross into Soho for Cirque Le Soir. Total walking time: about 20 minutes end to end, but you&apos;ll be stopping at venues along the way.</p>
+              <p className="text-sm text-gray-300 mb-2">Reign London → walk through Mayfair → Dear Darling → Maddox → walk east → Cirque Le Soir</p>
+              <p className="text-sm text-dark-muted">The most ambitious route. Start at Piccadilly with Reign London, walk north through the heart of Mayfair to Dover Street, then cross into Soho for Cirque Le Soir. Total walking time: about 20 minutes end to end, but you&apos;ll be stopping at venues along the way.</p>
             </div>
           </div>
         </section>
@@ -232,9 +230,9 @@ export default function NightlifeAreasPage() {
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">
               <h3 className="text-gold font-semibold mb-2">Nearest Tube Stations</h3>
               <ul className="text-sm text-gray-300 space-y-1">
-                <li>• <strong>Green Park</strong> — Best for Berkeley Square, Funky Buddha, TABU</li>
+                <li>• <strong>Green Park</strong> — Best for Berkeley Square and Dear Darling</li>
                 <li>• <strong>Bond Street</strong> — Best for Hanover Square, Tape London, Dover Street clubs</li>
-                <li>• <strong>Piccadilly Circus</strong> — Best for Cuckoo Club, Reign, and the Soho border</li>
+                <li>• <strong>Piccadilly Circus</strong> — Best for Reign and the Soho border</li>
                 <li>• <strong>Oxford Circus</strong> — Best for BEAT London and northern approach to Mayfair</li>
               </ul>
               <p className="text-xs text-dark-muted mt-2">All stations close around midnight on most nights. Friday and Saturday Night Tube services run on some lines — check before you go.</p>

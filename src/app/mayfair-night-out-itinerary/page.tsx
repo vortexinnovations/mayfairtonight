@@ -88,11 +88,11 @@ export default function ItineraryPage() {
             <div className="space-y-4">
               <div>
                 <p className="text-gold font-semibold mb-1">8:30pm — Cocktails in Berkeley Square area</p>
-                <p className="text-sm text-gray-300">Start with drinks near Berkeley Street. You&apos;re close to both your main venues. Keep it to two cocktails — the night is long.</p>
+                <p className="text-sm text-gray-300">Start with drinks near Berkeley Square, then head south towards Piccadilly. Keep it to two cocktails — the night is long.</p>
               </div>
               <div>
-                <p className="text-gold font-semibold mb-1">11:00pm — <Link href="/clubs/funky-buddha" className="text-gold hover:text-gold-light">Funky Buddha</Link> or <Link href="/clubs/tabu-london" className="text-gold hover:text-gold-light">TABU London</Link></p>
-                <p className="text-sm text-gray-300">Both are hip-hop and R&amp;B focused and within walking distance of each other on Berkeley Street. Funky Buddha is intimate and legendary; TABU is newer and fashion-forward. Pick based on your mood — or try both if the night allows.</p>
+                <p className="text-gold font-semibold mb-1">11:00pm: <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">Reign London</Link> or <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">BEAT London</Link></p>
+                <p className="text-sm text-gray-300">Both play hip-hop alongside commercial and house. Reign London on Piccadilly adds shows and big production; BEAT London, just north of Oxford Circus, is built around its sound system for a proper dance floor. Pick based on your mood.</p>
               </div>
               <div>
                 <p className="text-gold font-semibold mb-1">1:00am — Late night at <Link href="/clubs/tape-london" className="text-gold hover:text-gold-light">Tape London</Link> (if you can get in)</p>
@@ -103,7 +103,7 @@ export default function ItineraryPage() {
                   <div><span className="text-dark-muted">Dress code:</span> <span className="text-gray-300">Smart sharp. No trainers. Fitted trousers, good shoes, collared shirt or sharp knitwear.</span></div>
                   <div><span className="text-dark-muted">Budget (no table):</span> <span className="text-gray-300">£100-180 per person including cocktails and club drinks.</span></div>
                   <div><span className="text-dark-muted">Best for:</span> <span className="text-gray-300">Hip-hop lovers, birthday nights, mixed groups.</span></div>
-                  <div><span className="text-dark-muted">Book ahead:</span> <span className="text-gray-300">Guestlist at Funky Buddha or TABU. Table at Tape if going late.</span></div>
+                  <div><span className="text-dark-muted">Book ahead:</span> <span className="text-gray-300">Guestlist at Reign or BEAT. Table at Tape if going late.</span></div>
                 </div>
               </div>
             </div>
@@ -178,8 +178,8 @@ export default function ItineraryPage() {
                 <p className="text-sm text-gray-300">Gather the group at a bar near Piccadilly Circus or Regent Street. Get everyone together before heading to the main venue. Large groups are easier to manage when you arrive as one unit.</p>
               </div>
               <div>
-                <p className="text-gold font-semibold mb-1">11:00pm — <Link href="/clubs/cuckoo-club" className="text-gold hover:text-gold-light">Cuckoo Club</Link> (both floors)</p>
-                <p className="text-sm text-gray-300">Cuckoo Club is ideal for groups. Two distinct floors mean variety — the main room is high-energy, the Garden room below is more intimate. The door is accessible, the guestlist is reliable, and the space can handle larger parties. For big groups, consider a table through <a href="https://londonbottleservice.com" target="_blank" rel="noopener noreferrer" className="text-gold hover:text-gold-light">London Bottle Service</a> to guarantee everyone gets in.</p>
+                <p className="text-gold font-semibold mb-1">11:00pm: <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">BEAT London</Link></p>
+                <p className="text-sm text-gray-300">BEAT London, just north of Oxford Circus, suits a big group: high-energy hip-hop, RnB, commercial and house, a proper dance floor, and a smart-casual door that is easier for a large party. For big groups, consider a table through <a href="https://londonbottleservice.com" target="_blank" rel="noopener noreferrer" className="text-gold hover:text-gold-light">London Bottle Service</a> to guarantee everyone gets in.</p>
               </div>
               <div>
                 <p className="text-gold font-semibold mb-1">1:30am — Late-night options</p>
@@ -187,10 +187,10 @@ export default function ItineraryPage() {
               </div>
               <div className="border-t border-dark-border pt-3 mt-3">
                 <div className="grid grid-cols-2 gap-4 text-sm">
-                  <div><span className="text-dark-muted">Dress code:</span> <span className="text-gray-300">Smart casual at Cuckoo. Standard Mayfair smart at Reign. Brief your group in advance — one person in trainers can hold everyone up.</span></div>
+                  <div><span className="text-dark-muted">Dress code:</span> <span className="text-gray-300">Smart casual at BEAT, no sportswear. Standard Mayfair smart at Reign. Brief your group in advance — one person in trainers can hold everyone up.</span></div>
                   <div><span className="text-dark-muted">Budget (no table):</span> <span className="text-gray-300">£80-140 per person. Tables recommended for 8+ people.</span></div>
                   <div><span className="text-dark-muted">Best for:</span> <span className="text-gray-300">Birthdays, stag/hen nights, work socials, reunion groups.</span></div>
-                  <div><span className="text-dark-muted">Book ahead:</span> <span className="text-gray-300">Guestlist or table at Cuckoo. Backup guestlist at Reign.</span></div>
+                  <div><span className="text-dark-muted">Book ahead:</span> <span className="text-gray-300">Guestlist or table at BEAT. Backup guestlist at Reign.</span></div>
                 </div>
               </div>
             </div>
@@ -238,9 +238,8 @@ export default function ItineraryPage() {
               <div className="bg-dark-card border border-dark-border rounded-lg p-4">
                 <h3 className="text-gold font-semibold mb-2">Club Clusters</h3>
                 <ul className="text-sm space-y-1">
-                  <li>• <strong>Berkeley Street:</strong> Funky Buddha, TABU — 2 min walk between</li>
                   <li>• <strong>Dover Street area:</strong> Scotch, Dear Darling, Maddox, Selene — all within 5 min</li>
-                  <li>• <strong>Swallow Street:</strong> Cuckoo Club, Reign — next to Piccadilly Circus</li>
+                  <li>• <strong>Piccadilly:</strong> Reign London, next to Piccadilly Circus</li>
                   <li>• <strong>Soho border:</strong> Cirque Le Soir, The Box — 10 min walk from Mayfair core</li>
                 </ul>
               </div>

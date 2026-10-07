@@ -65,21 +65,6 @@ const celebrityClubs: CelebrityClub[] = [
   },
   {
     rank: 3,
-    name: "Funky Buddha",
-    slug: "funky-buddha",
-    whyCelebritiesChooseIt:
-      "Legacy and loyalty. Funky Buddha has been the music industry's living room for years. Artists, producers, and label executives treat it like a second home. The staff know the regulars by name. The atmosphere is earned through decades of quality nights, and that history attracts people who know the difference.",
-    crowd:
-      "Music industry professionals, established regulars, and people who have been coming for years. This is not a see-and-be-seen crowd. It is a community that happens to include some very famous faces. The vibe is familiar, not performative.",
-    doorExclusivity:
-      "Tough but fair. The door respects regulars and people who book through the right channels. Walk-ups can work if you arrive early and dress well. It is not as impenetrable as Tape, but it is not easy either.",
-    insiderTip:
-      "Become a regular. Funky Buddha rewards loyalty more than any other Mayfair club. Start with a Thursday, book through a promoter, and the relationship builds from there. The staff remember faces.",
-    verdict:
-      "The music industry's club of choice. Funky Buddha attracts celebrities organically because the music is genuinely brilliant and the atmosphere feels like home. No gimmicks. No performances. Just quality music and a crowd that has taste.",
-  },
-  {
-    rank: 4,
     name: "Cirque Le Soir",
     slug: "cirque-le-soir",
     whyCelebritiesChooseIt:
@@ -94,7 +79,7 @@ const celebrityClubs: CelebrityClub[] = [
       "The celebrity experience club. Cirque Le Soir attracts international celebrities and high-profile visitors who want their night to be an event. The performances, the energy, and the spectacle make it a bucket-list venue for the global elite.",
   },
   {
-    rank: 5,
+    rank: 4,
     name: "Scotch of St James",
     slug: "scotch-of-st-james",
     whyCelebritiesChooseIt:
@@ -114,17 +99,17 @@ const faqs = [
   {
     question: "Will I actually see celebrities at Mayfair clubs?",
     answer:
-      "At the right venue on the right night, yes. Tape London on Thursday and Saturday regularly has recognisable faces. The Box attracts fashion and creative industry celebrities. Funky Buddha has music industry regulars. We never guarantee celebrity sightings — but at these venues, the crowd is genuinely A-list. Do not go expecting to take photos though. Privacy is respected and phones are often discouraged.",
+      "At the right venue on the right night, yes. Tape London on Thursday and Saturday regularly has recognisable faces. The Box attracts fashion and creative industry celebrities. We never guarantee celebrity sightings — but at these venues, the crowd is genuinely A-list. Do not go expecting to take photos though. Privacy is respected and phones are often discouraged.",
   },
   {
     question: "Is it worth the money to go to a celebrity club?",
     answer:
-      "That depends on what you value. If you want the most exclusive atmosphere, the best music curation, and genuinely world-class service, then yes — these clubs deliver experiences you cannot get elsewhere. Table minimums at Tape London start from around £1,500. Cirque Le Soir from £1,000. For guestlist options, clubs like Funky Buddha and Scotch offer a more accessible entry point. Visit londonbottleservice.com for current table prices.",
+      "That depends on what you value. If you want the most exclusive atmosphere, the best music curation, and genuinely world-class service, then yes — these clubs deliver experiences you cannot get elsewhere. Table minimums at Tape London start from around £1,500. Cirque Le Soir from £1,000. For guestlist options, Scotch offers a more accessible entry point. Visit londonbottleservice.com for current table prices.",
   },
   {
     question: "Do you need to know someone to get into celebrity clubs?",
     answer:
-      "Not necessarily, but connections help enormously. At Tape London, having a promoter relationship is almost essential. At The Box, your look and energy matter as much as who you know. At Funky Buddha and Scotch, booking through the right promoter gets you in the door. Message us on WhatsApp — we can connect you with the right people at every venue.",
+      "Not necessarily, but connections help enormously. At Tape London, having a promoter relationship is almost essential. At The Box, your look and energy matter as much as who you know. At Scotch, booking through the right promoter gets you in the door. Message us on WhatsApp — we can connect you with the right people at every venue.",
   },
   {
     question: "What is the best night for the celebrity crowd in Mayfair?",
@@ -368,12 +353,6 @@ export default function BestCelebrityClubsPage() {
                   <td className="py-3 px-3">Curated guestlist</td>
                   <td className="py-3 px-3">~£1,000</td>
                   <td className="py-3 px-3 text-gold">Hard — vibe matters</td>
-                </tr>
-                <tr className="border-b border-dark-border/50">
-                  <td className="py-3 px-3 text-white font-medium">Funky Buddha</td>
-                  <td className="py-3 px-3">Via promoter</td>
-                  <td className="py-3 px-3">~£1,000</td>
-                  <td className="py-3 px-3 text-gold">Moderate</td>
                 </tr>
                 <tr className="border-b border-dark-border/50">
                   <td className="py-3 px-3 text-white font-medium">Cirque Le Soir</td>

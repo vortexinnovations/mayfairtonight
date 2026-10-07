@@ -25,7 +25,7 @@ const faqs = [
   {
     question: "How much does a VIP table in Mayfair cost?",
     answer:
-      "Table minimums start from around 1,000 pounds at entry-level venues like Cuckoo Club, Luna, and BEAT. Mid-tier venues like Reign, Cirque Le Soir, and Maddox start from 1,500 to 2,000 pounds. Top-tier venues like Tape London start from 2,000 to 3,000 pounds minimum spend. Premium table positions cost more. For exact pricing visit londonbottleservice.com.",
+      "Table minimums start from around 1,000 pounds at entry-level venues like Luna and BEAT. Mid-tier venues like Reign, Cirque Le Soir, and Maddox start from 1,500 to 2,000 pounds. Top-tier venues like Tape London start from 2,000 to 3,000 pounds minimum spend. Premium table positions cost more. For exact pricing visit londonbottleservice.com.",
   },
   {
     question: "Is VIP worth it in Mayfair?",
@@ -143,8 +143,8 @@ export default function MayfairVIPPage() {
                 standard way in for non-table guests.
               </p>
               <p className="text-sm text-dark-muted">
-                Works well at Cuckoo Club, Funky Buddha, Cirque Le Soir,
-                Reign, and most mid-tier venues. Less reliable at Tape London
+                Works well at Cirque Le Soir, Reign, and most mid-tier
+                venues. Less reliable at Tape London
                 and Scotch where tables and membership dominate.
               </p>
             </div>
@@ -330,39 +330,6 @@ export default function MayfairVIPPage() {
                   <div>
                     <h4 className="text-lg font-bold text-white">
                       <Link
-                        href="/clubs/tabu-london"
-                        className="hover:text-gold transition-colors"
-                      >
-                        TABU London
-                      </Link>
-                    </h4>
-                    <p className="text-gold text-sm">Fashion Underground</p>
-                  </div>
-                  <WhatsAppCTA
-                    variant="club"
-                    clubName="TABU London"
-                    size="sm"
-                    className="shrink-0"
-                  />
-                </div>
-                <p className="text-sm text-gray-300 mb-3">
-                  TABU attracts the fashion crowd — influencers, stylists,
-                  and creatives. The Japanese underground aesthetic is unlike
-                  anything else in Mayfair. The door is curated based on
-                  style. A table here puts you among the best-dressed people
-                  in London. The hip-hop is on point and the atmosphere is
-                  dark and moody in the best way.
-                </p>
-                <p className="text-sm text-dark-muted">
-                  Best for: Fashion-conscious groups who want something cooler
-                  than standard Mayfair.
-                </p>
-              </div>
-              <div className="bg-dark-card border border-dark-border rounded-xl p-5">
-                <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-3 mb-3">
-                  <div>
-                    <h4 className="text-lg font-bold text-white">
-                      <Link
                         href="/clubs/cirque-le-soir"
                         className="hover:text-gold transition-colors"
                       >
@@ -412,39 +379,6 @@ export default function MayfairVIPPage() {
               reliable every weekend.
             </p>
             <div className="space-y-4">
-              <div className="bg-dark-card border border-dark-border rounded-xl p-5">
-                <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-3 mb-3">
-                  <div>
-                    <h4 className="text-lg font-bold text-white">
-                      <Link
-                        href="/clubs/funky-buddha"
-                        className="hover:text-gold transition-colors"
-                      >
-                        Funky Buddha
-                      </Link>
-                    </h4>
-                    <p className="text-gold text-sm">Legendary Status</p>
-                  </div>
-                  <WhatsAppCTA
-                    variant="club"
-                    clubName="Funky Buddha"
-                    size="sm"
-                    className="shrink-0"
-                  />
-                </div>
-                <p className="text-sm text-gray-300 mb-3">
-                  Funky Buddha has earned its reputation through years of
-                  consistency. The loyal crowd, brilliant music, and community
-                  atmosphere make every night feel quality. A table here gives
-                  you a base in one of Mayfair&apos;s most energetic rooms.
-                  The dance floor is always packed and the hip-hop curation is
-                  best-in-class.
-                </p>
-                <p className="text-sm text-dark-muted">
-                  Best for: Groups who want a proven, high-energy Mayfair
-                  night with serious credentials.
-                </p>
-              </div>
               <div className="bg-dark-card border border-dark-border rounded-xl p-5">
                 <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-3 mb-3">
                   <div>
@@ -540,24 +474,6 @@ export default function MayfairVIPPage() {
               premium.
             </p>
             <div className="space-y-4">
-              <div className="bg-dark-card border border-dark-border rounded-xl p-5">
-                <h4 className="text-lg font-bold text-white mb-1">
-                  <Link
-                    href="/clubs/cuckoo-club"
-                    className="hover:text-gold transition-colors"
-                  >
-                    Cuckoo Club
-                  </Link>
-                  <span className="text-gold text-sm ml-2">Most Versatile</span>
-                </h4>
-                <p className="text-sm text-gray-300 mb-2">
-                  Two floors with different music policies. One of the most
-                  accessible guestlists in Mayfair. Tables available at
-                  reasonable minimums. The young, sociable crowd makes this
-                  the perfect entry point into Mayfair VIP nightlife. A table
-                  on either floor gives you a solid base for the night.
-                </p>
-              </div>
               <div className="bg-dark-card border border-dark-border rounded-xl p-5">
                 <h4 className="text-lg font-bold text-white mb-1">
                   <Link
@@ -747,7 +663,7 @@ export default function MayfairVIPPage() {
                   "You are a couple or small group of two to three",
                   "Budget matters and you want to keep costs down",
                   "You prefer being on the dance floor rather than seated",
-                  "You are going to an accessible venue like Cuckoo or Funky Buddha",
+                  "You are going to an accessible venue like BEAT London",
                   "It is a midweek night when the clubs are less busy",
                   "You want the flexibility to venue-hop during the night",
                 ].map((item) => (

@@ -47,30 +47,6 @@ const clubInsights: Record<
     guestlistTip:
       "Guestlist is available but book early for weekends. Tables near the stage give the best experience — the aerial acts happen directly above you.",
   },
-  "tabu-london": {
-    crowd:
-      "Fashion-forward, creative industries, music industry. Younger than average for Mayfair. Influencers and stylists feature heavily. The crowd dresses to be seen.",
-    bestNight:
-      "Friday has the most consistent energy. Thursday is more intimate — the crowd is smaller but the atmosphere is concentrated and cooler.",
-    guestlistTip:
-      "Guestlist is accessible but the door is curated. Look the part — TABU rewards style. Groups with a good gender ratio get priority.",
-  },
-  "funky-buddha": {
-    crowd:
-      "Loyal regulars who've been coming for years, celebrities, and Mayfair veterans. The crowd knows each other — it has a community feel unusual for Mayfair.",
-    bestNight:
-      "Saturday is legendary — packed from 11pm to close. Thursday has a brilliant atmosphere with a slightly more local crowd.",
-    guestlistTip:
-      "Guestlist works well here. Message a promoter, arrive by midnight, and dress smart. The door respects regulars — become one.",
-  },
-  "cuckoo-club": {
-    crowd:
-      "Young, sociable, fun. Birthday groups, after-work parties turning into big nights, and tourists mixing with locals. The most accessible Mayfair crowd.",
-    bestNight:
-      "Friday is the busiest and most energetic. Wednesday is an underrated gem — good midweek crowd without the weekend chaos.",
-    guestlistTip:
-      "One of the easier Mayfair guestlists to get on. Book in advance, arrive before 11:30, and you should be fine. Both floors are worth exploring.",
-  },
   "scotch-of-st-james": {
     crowd:
       "Older, more refined Mayfair regulars. Members and their guests. People who appreciate history and don't need the newest, shiniest venue. Understated wealth.",
@@ -326,10 +302,10 @@ export default function MayfairNightclubsPage() {
               <p className="text-sm text-gray-300">
                 <Link href="/clubs/tape-london" className="text-gold hover:text-gold-light">Tape London</Link> is
                 the most exclusive.{" "}
-                <Link href="/clubs/funky-buddha" className="text-gold hover:text-gold-light">Funky Buddha</Link> is
-                the most legendary.{" "}
-                <Link href="/clubs/tabu-london" className="text-gold hover:text-gold-light">TABU</Link> is the most
-                fashion-forward. All three deliver quality hip-hop but the
+                <Link href="/clubs/cirque-le-soir" className="text-gold hover:text-gold-light">Cirque Le Soir</Link> adds
+                a full circus show.{" "}
+                <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">BEAT London</Link> is built
+                around its sound system. All three deliver quality hip-hop but the
                 crowd and atmosphere are very different.
               </p>
             </div>
@@ -343,9 +319,7 @@ export default function MayfairNightclubsPage() {
                 purist&apos;s choice — deep house and tech house in a
                 sophisticated setting.{" "}
                 <Link href="/clubs/selene-london" className="text-gold hover:text-gold-light">Selene London</Link>{" "}
-                blends house with elegance.{" "}
-                <Link href="/clubs/cuckoo-club" className="text-gold hover:text-gold-light">Cuckoo Club</Link>&apos;s
-                downstairs room is a hidden gem for house heads.
+                blends house with elegance.
               </p>
             </div>
 
@@ -584,12 +558,12 @@ const faqs = [
   {
     question: "Which Mayfair club is best for hip-hop?",
     answer:
-      "Tape London, TABU, and Funky Buddha are the best hip-hop clubs in Mayfair. Tape is the most exclusive with a celebrity crowd. TABU has a fashion-forward Japanese underground aesthetic. Funky Buddha on Berkeley Street is the legendary choice with a loyal crowd. Cuckoo Club's upstairs room and BEAT London also deliver quality hip-hop nights.",
+      "Tape London, Cirque Le Soir and BEAT London are the best hip-hop clubs in and around Mayfair. Tape is the most exclusive, with a celebrity crowd. Cirque Le Soir pairs hip-hop and RnB with a full circus show. BEAT London is built around its sound system. Reign London also plays hip-hop alongside its shows.",
   },
   {
     question: "Which Mayfair clubs play house music?",
     answer:
-      "Maddox is the best house music venue in Mayfair — deep house and tech house in a sophisticated dinner-to-dance setting. Selene London plays refined house and commercial in an elegant space. Cuckoo Club's downstairs room is a proper house music spot. Scotch of St James and Dear Darling also lean towards house and lounge music.",
+      "Maddox is the best house music venue in Mayfair — deep house and tech house in a sophisticated dinner-to-dance setting. Selene London plays refined house and commercial in an elegant space. Scotch of St James and Dear Darling also lean towards house and lounge music.",
   },
   {
     question: "How much does it cost to get into a Mayfair nightclub?",
@@ -599,7 +573,7 @@ const faqs = [
   {
     question: "Which Mayfair clubs are open on Thursday?",
     answer:
-      "Thursday is when Mayfair really kicks off. Tape London, Reign London, TABU, Funky Buddha, Cuckoo Club, Scotch of St James, Dear Darling, Maddox, The Box, Luna Club, Selene London, and BEAT London are all open on Thursday nights. It's the best night for quality atmosphere without full weekend crowds.",
+      "Thursday is when Mayfair really kicks off. Reign London, Dear Darling, Maddox, The Box, Luna Club, Selene London and BEAT London are all open on Thursday nights. It's the best night for quality atmosphere without full weekend crowds.",
   },
   {
     question: "What time do Mayfair nightclubs open and close?",
@@ -609,6 +583,6 @@ const faqs = [
   {
     question: "Are Mayfair nightclubs open on weekdays?",
     answer:
-      "Wednesday is when midweek Mayfair nightlife properly starts — Funky Buddha, Cuckoo Club, Cirque Le Soir, Maddox, Dear Darling, and The Box all open. Thursday is even bigger with nearly every club open. Monday and Tuesday options are very limited in Mayfair. Check our night-by-night guide for full details.",
+      "Wednesday is when midweek Mayfair nightlife properly starts: Cirque Le Soir, The Box and Selene London all open. Thursday is even bigger, with most clubs open. Monday and Tuesday options are very limited in Mayfair. Check our night-by-night guide for full details.",
   },
 ];

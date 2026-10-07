@@ -31,26 +31,6 @@
   },
   {
     "date": "2026-03-27",
-    "clubSlug": "tabu-london",
-    "clubName": "TABU London",
-    "eventName": "Underground Fridays",
-    "specialGuest": "",
-    "musicGenre": "Hip-Hop & RnB",
-    "openingTime": "22:00",
-    "description": "Dark, moody, and fashion-forward. TABU's Friday night brings the underground to Mayfair."
-  },
-  {
-    "date": "2026-03-27",
-    "clubSlug": "funky-buddha",
-    "clubName": "Funky Buddha",
-    "eventName": "Funky Fridays",
-    "specialGuest": "",
-    "musicGenre": "Hip-Hop, RnB & Funky House",
-    "openingTime": "22:00",
-    "description": "Berkeley Street's legendary venue delivers one of Mayfair's most electric Friday nights."
-  },
-  {
-    "date": "2026-03-27",
     "clubSlug": "maddox",
     "clubName": "Maddox",
     "eventName": "House Sessions",
@@ -68,16 +48,6 @@
     "musicGenre": "Mixed",
     "openingTime": "22:00",
     "description": "Mayfair history meets modern nightlife. One of London's most storied venues."
-  },
-  {
-    "date": "2026-03-27",
-    "clubSlug": "cuckoo-club",
-    "clubName": "Cuckoo Club",
-    "eventName": "Cuckoo Fridays",
-    "specialGuest": "",
-    "musicGenre": "House & Hip-Hop",
-    "openingTime": "22:00",
-    "description": "Two floors, two vibes. House downstairs, hip-hop up. Pick your poison."
   },
   {
     "date": "2026-03-27",
@@ -161,26 +131,6 @@
   },
   {
     "date": "2026-03-28",
-    "clubSlug": "tabu-london",
-    "clubName": "TABU London",
-    "eventName": "TABU Saturdays",
-    "specialGuest": "",
-    "musicGenre": "Hip-Hop & RnB",
-    "openingTime": "22:00",
-    "description": "Mayfair's coolest Saturday night. Japanese underground aesthetics, quality hip-hop, fashion crowd."
-  },
-  {
-    "date": "2026-03-28",
-    "clubSlug": "funky-buddha",
-    "clubName": "Funky Buddha",
-    "eventName": "Saturday at Buddha",
-    "specialGuest": "",
-    "musicGenre": "Hip-Hop, RnB & Funky House",
-    "openingTime": "22:00",
-    "description": "Mayfair's legendary Saturday night. The dance floor is packed, the music is on point, the energy is unmatched."
-  },
-  {
-    "date": "2026-03-28",
     "clubSlug": "maddox",
     "clubName": "Maddox",
     "eventName": "Maddox Saturday",
@@ -198,16 +148,6 @@
     "musicGenre": "Mixed",
     "openingTime": "22:00",
     "description": "History, elegance, and a proper Saturday night in one of Mayfair's most storied rooms."
-  },
-  {
-    "date": "2026-03-28",
-    "clubSlug": "cuckoo-club",
-    "clubName": "Cuckoo Club",
-    "eventName": "Cuckoo Saturdays",
-    "specialGuest": "",
-    "musicGenre": "House & Hip-Hop",
-    "openingTime": "22:00",
-    "description": "Mayfair's most versatile venue turns it up on Saturdays. Two floors, zero excuses."
   },
   {
     "date": "2026-03-28",

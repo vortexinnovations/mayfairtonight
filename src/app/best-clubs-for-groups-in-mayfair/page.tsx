@@ -68,16 +68,6 @@ const groupRecommendations: GroupRecommendation[] = [
       "The corporate night out needs a venue that is impressive enough to feel like a treat but accessible enough that everyone has a good time. No overly exclusive doors. No intimidating dress codes. Just quality venues where colleagues can actually enjoy themselves.",
     clubs: [
       {
-        name: "Cuckoo Club",
-        slug: "cuckoo-club",
-        why: "Two floors, two music policies, one venue. Cuckoo is the ultimate crowd-pleaser for mixed groups. The house music crowd gravitates downstairs, the hip-hop lovers go upstairs, and everyone meets at the bar in between. The door is accessible and the atmosphere is sociable.",
-        guestlistOrTables:
-          "Guestlist is easy to arrange for work groups. Tables are well-priced and accommodate larger bookings. The two-floor layout means your group never feels crammed into one space.",
-        approxGroupCost:
-          "Guestlist free, budget £40-60pp for drinks. Tables from ~£800 min spend (8-10 guests).",
-        bestNight: "Thursday for the best atmosphere. Wednesday for a more relaxed midweek option.",
-      },
-      {
         name: "Maddox",
         slug: "maddox",
         why: "Start with dinner upstairs at the Italian restaurant, then move downstairs to the club. The transition is seamless and it gives the night a natural structure. Colleagues who are not hardcore clubbers appreciate the dinner element. The house music downstairs is sophisticated enough for everyone.",
@@ -94,16 +84,6 @@ const groupRecommendations: GroupRecommendation[] = [
     description:
       "Mayfair is not the traditional stag or hen territory — and that is exactly why it works. Skip the generic party bus and give the group a premium night they will actually remember. These clubs deliver high energy without the tourist-trap feeling.",
     clubs: [
-      {
-        name: "Funky Buddha",
-        slug: "funky-buddha",
-        why: "Legendary atmosphere, brilliant music, and a crowd that is genuinely up for it. Funky Buddha has the energy of a great party without the chaos of a stag-night venue. The music switches between hip-hop and funky house in a way that keeps everyone dancing. The group will feel like they discovered somewhere special.",
-        guestlistOrTables:
-          "Tables work brilliantly for stag and hen groups — they give you a base in the room. Guestlist is possible on Thursdays. Make sure the group meets the dress code. Funky Buddha is not a casual venue.",
-        approxGroupCost:
-          "Table from ~£1,000 min spend (6-8 guests). Guestlist free on selected nights.",
-        bestNight: "Saturday for peak energy. Thursday for a more relaxed but still quality night.",
-      },
       {
         name: "BEAT London",
         slug: "beat-london",
@@ -122,16 +102,6 @@ const groupRecommendations: GroupRecommendation[] = [
       "Mixed groups need venues that cater to different tastes. The house music purist. The hip-hop head. The person who just wants good cocktails. These clubs have enough variety to keep everyone happy.",
     clubs: [
       {
-        name: "Cuckoo Club",
-        slug: "cuckoo-club",
-        why: "The two-floor format is perfect for mixed groups. Send the hip-hop lovers upstairs and the house music fans downstairs. Everyone reconvenes at the bar. The sociable, unpretentious atmosphere means nobody feels out of place.",
-        guestlistOrTables:
-          "One of the easiest guestlists in Mayfair — perfect for mixed groups where not everyone is a regular clubber. Tables available if you want to guarantee a base for the group.",
-        approxGroupCost:
-          "Guestlist free. Tables from ~£800 min spend (8-10 guests).",
-        bestNight: "Wednesday or Saturday.",
-      },
-      {
         name: "Luna Club London",
         slug: "luna-club-london",
         why: "A fresh addition to the Mayfair scene that blends quality music with an approachable atmosphere. Luna is stylish without being intimidating — the crowd is young, sociable, and mixed. It is the kind of venue where different friendship groups merge on the dance floor.",
@@ -149,7 +119,7 @@ const faqs = [
   {
     question: "What is the minimum spend for group tables in Mayfair?",
     answer:
-      "Most Mayfair clubs start table minimums at around £800-£1,000 for a standard table (6-8 guests). Premium tables and weekend nights can be £1,500-£3,000+. Tape London starts from around £1,500. Cirque Le Soir and Reign from £1,000. Cuckoo Club and BEAT offer tables from around £800. For current table prices and group packages, visit londonbottleservice.com or message us on WhatsApp.",
+      "Most Mayfair clubs start table minimums at around £800-£1,000 for a standard table (6-8 guests). Premium tables and weekend nights can be £1,500-£3,000+. Tape London starts from around £1,500. Cirque Le Soir and Reign from £1,000. BEAT offers tables from around £800. For current table prices and group packages, visit londonbottleservice.com or message us on WhatsApp.",
   },
   {
     question: "Can mixed groups get on the guestlist in Mayfair?",
@@ -159,7 +129,7 @@ const faqs = [
   {
     question: "What is the best night for groups in Mayfair?",
     answer:
-      "Thursday is the best night for groups. Every major club is open, the atmosphere is excellent, and guestlists are more available than Saturday. Saturday is peak energy but tables sell out fast and guestlist spots are limited. Wednesday is the underrated option — Cirque Le Soir and Cuckoo Club both run quality midweek nights with easier access for groups.",
+      "Thursday is the best night for groups. Every major club is open, the atmosphere is excellent, and guestlists are more available than Saturday. Saturday is peak energy but tables sell out fast and guestlist spots are limited. Wednesday is the underrated option: Cirque Le Soir and The Box both run quality midweek nights with easier access for groups.",
   },
   {
     question: "Can we split the bill on a table booking?",
@@ -379,15 +349,7 @@ export default function BestClubsForGroupsPage() {
               <ul className="space-y-1 text-sm text-gray-300">
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
-                  <Link href="/clubs/cuckoo-club" className="text-gold hover:text-gold-light">Cuckoo Club</Link>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="text-gold mt-0.5">•</span>
                   <Link href="/clubs/cirque-le-soir" className="text-gold hover:text-gold-light">Cirque Le Soir</Link>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="text-gold mt-0.5">•</span>
-                  <Link href="/clubs/funky-buddha" className="text-gold hover:text-gold-light">Funky Buddha</Link>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
@@ -410,10 +372,6 @@ export default function BestClubsForGroupsPage() {
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
                   <Link href="/clubs/cirque-le-soir" className="text-gold hover:text-gold-light">Cirque Le Soir</Link>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="text-gold mt-0.5">•</span>
-                  <Link href="/clubs/cuckoo-club" className="text-gold hover:text-gold-light">Cuckoo Club</Link>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>

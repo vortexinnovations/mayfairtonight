@@ -111,11 +111,8 @@ export default function TablesGuidePage() {
               { name: "Tape London", slug: "tape-london", desc: "The most exclusive table experience in Mayfair. Intimate room with plush booth seating. Tables are positioned around the main floor, close to the action. The sound system is exceptional and the crowd is industry-heavy. Bottles arrive with a sparkler presentation. Service is impeccable — your host anticipates before you ask." },
               { name: "Cirque Le Soir", slug: "cirque-le-soir", desc: "Tables here come with entertainment built into the night. Expect circus performers, dancers, and theatrical moments happening around you. Booths line the walls of the main room with clear sightlines to the stage. The atmosphere is high-energy and surreal. The table experience is as much about the spectacle as the drinks." },
               { name: "Reign London", slug: "reign-london", desc: "Expansive space with varied table positions. Some are elevated, giving you a view over the dance floor. The room is large enough to feel like an event. Bottle presentations are dramatic with LED sparklers and music coordination. Good for groups who want space and energy." },
-              { name: "Funky Buddha", slug: "funky-buddha", desc: "Legendary late-night spot with cosy, low-lit booths. The room is compact, which creates an intense atmosphere. Tables feel intimate and close to the dance floor. Hip-hop and R&B soundtrack. The crowd tends to be well-connected and the vibe is exclusive without being pretentious." },
               { name: "The Box", slug: "the-box-london", desc: "Theatrically designed space over multiple levels. Tables offer different perspectives on the stage shows — some are uncomfortably close, which is part of the appeal. The performances are provocative and unforgettable. Not for the easily shocked. The table experience here is unique in London." },
               { name: "Maddox", slug: "maddox", desc: "Sophisticated two-level venue. The restaurant upstairs transitions to the club basement. Tables in the club are positioned around the dance floor in a sleek, minimal setting. House music dominates. Dinner-to-dance packages offer a seamless evening — eat upstairs, then descend to your table with the party already started." },
-              { name: "TABU London", slug: "tabu-london", desc: "Fashion-forward setting with plush seating and moody lighting. Tables are arranged to create distinct zones — some more private, others more social. The music programming is eclectic and the crowd is style-conscious. Bottle presentations are coordinated with the DJ." },
-              { name: "Cuckoo Club", slug: "cuckoo-club", desc: "Two distinct floors offering different table experiences. The main room is energetic with tables around the dance floor. The Garden room downstairs is more intimate with a different musical flavour. Great for groups who want variety within one venue — start upstairs, move down later." },
             ].map((venue) => (
               <div key={venue.slug} className="bg-dark-card border border-dark-border rounded-lg p-5">
                 <Link href={`/clubs/${venue.slug}`} className="text-gold font-semibold hover:text-gold-light text-lg">{venue.name}</Link>
@@ -136,7 +133,7 @@ export default function TablesGuidePage() {
                 <li>• You don&apos;t mind standing and using the bar</li>
                 <li>• You&apos;re happy to arrive between 11pm and midnight</li>
                 <li>• You want to keep costs low</li>
-                <li>• You&apos;re targeting accessible venues like Cuckoo Club or Reign</li>
+                <li>• You&apos;re targeting accessible venues like Reign</li>
               </ul>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-5">

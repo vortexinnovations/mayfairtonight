@@ -19,10 +19,10 @@ export const metadata: Metadata = {
 
 const faqs = [
   { question: "Do Mayfair clubs check ID?", answer: "Yes. Every Mayfair club checks ID at the door. Bring a valid passport or driving licence. Most venues won't accept expired ID or photocopies. If you're visiting from abroad, your passport is the safest bet." },
-  { question: "Can I get into a Mayfair club without a booking?", answer: "It's possible at some venues but risky. Cuckoo Club and Dear Darling are more walk-up friendly. Tape London, Scotch of St James, and The Box are almost impossible without a booking or table. Always book through a promoter — it's free and eliminates the guesswork." },
+  { question: "Can I get into a Mayfair club without a booking?", answer: "It's possible at some venues but risky. Dear Darling is more walk-up friendly. Tape London, Scotch of St James, and The Box are almost impossible without a booking or table. Always book through a promoter — it's free and eliminates the guesswork." },
   { question: "What time should I arrive at a Mayfair club?", answer: "Between 11pm and midnight is the sweet spot. Before 11pm the venue is empty. After midnight you risk capacity limits and longer queues. If you're on guestlist, arriving at 11:15-11:30 is ideal." },
   { question: "Do Mayfair clubs have a gender ratio policy?", answer: "Unofficially, yes. Most Mayfair doors prefer mixed groups or groups with more women. All-male groups of 4+ face the toughest scrutiny. Mixed groups of any size rarely have issues. All-female groups are generally welcomed everywhere." },
-  { question: "Can I get in wearing trainers?", answer: "At most Mayfair clubs, no. BEAT London and Cuckoo Club are the most lenient — clean, designer trainers can work. Tape, Scotch, The Box, and Maddox will turn you away regardless of the brand. Smart leather shoes are always the safe choice." },
+  { question: "Can I get in wearing trainers?", answer: "At most Mayfair clubs, no. BEAT London is the most lenient: clean, designer trainers can work. Tape, Scotch, The Box, and Maddox will turn you away regardless of the brand. Smart leather shoes are always the safe choice." },
   { question: "What happens if I'm denied entry?", answer: "Don't argue — it never helps. The door team's decision is final. If you're turned away for dress code, you can try another venue with a more relaxed policy. If it's a capacity issue, waiting 20-30 minutes sometimes works. The best insurance is booking through a promoter." },
 ];
 
@@ -86,8 +86,6 @@ export default function EntryRulesPage() {
             <div className="bg-dark-card border border-dark-border rounded-lg p-5">
               <h3 className="text-gold font-semibold mb-3">Firm but Fair — Book Ahead</h3>
               <div className="space-y-3">
-                <div><Link href="/clubs/tabu-london" className="text-white font-medium hover:text-gold">TABU London</Link> <span className="text-dark-muted text-sm">— Fashion-conscious door. They curate the crowd by style. Look sharp, book through a promoter, and your group composition matters.</span></div>
-                <div><Link href="/clubs/funky-buddha" className="text-white font-medium hover:text-gold">Funky Buddha</Link> <span className="text-dark-muted text-sm">— Door knows its regulars and rewards loyalty. First-timers should book through a promoter. Polite and well-dressed gets you far.</span></div>
                 <div><Link href="/clubs/cirque-le-soir" className="text-white font-medium hover:text-gold">Cirque Le Soir</Link> <span className="text-dark-muted text-sm">— Guestlist works but arrive before midnight. After that, even guestlist doesn&apos;t guarantee entry at capacity. Weekends book out fast.</span></div>
                 <div><Link href="/clubs/reign-london" className="text-white font-medium hover:text-gold">Reign London</Link> <span className="text-dark-muted text-sm">— Professional door team. Guestlist is available and reliable if you book ahead. Standard Mayfair dress code enforced.</span></div>
                 <div><Link href="/clubs/maddox" className="text-white font-medium hover:text-gold">Maddox</Link> <span className="text-dark-muted text-sm">— Dinner guests transition to the club easily. Club-only entry requires a booking. House music crowd tends to be well-dressed by default.</span></div>
@@ -97,7 +95,6 @@ export default function EntryRulesPage() {
             <div className="bg-dark-card border border-dark-border rounded-lg p-5">
               <h3 className="text-gold font-semibold mb-3">Most Accessible — Still Book, But Easier</h3>
               <div className="space-y-3">
-                <div><Link href="/clubs/cuckoo-club" className="text-white font-medium hover:text-gold">Cuckoo Club</Link> <span className="text-dark-muted text-sm">— The most accessible Mayfair door. Guestlist works reliably. Dress smart casual, arrive before midnight, and you&apos;re in. Great for first-timers.</span></div>
                 <div><Link href="/clubs/dear-darling" className="text-white font-medium hover:text-gold">Dear Darling</Link> <span className="text-dark-muted text-sm">— Bar-first atmosphere means the door is more relaxed. Smart dress code still applies. Walk-ups can work earlier in the evening.</span></div>
                 <div><Link href="/clubs/selene-london" className="text-white font-medium hover:text-gold">Selene London</Link> <span className="text-dark-muted text-sm">— Newer venue building its crowd. Guestlist is accessible and the door is welcoming. Dress elegantly and you&apos;ll have no issues.</span></div>
                 <div><Link href="/clubs/luna-club-london" className="text-white font-medium hover:text-gold">Luna Club London</Link> <span className="text-dark-muted text-sm">— Still establishing itself. Tables and guestlist both accessible. Good option while the established names are harder to crack.</span></div>

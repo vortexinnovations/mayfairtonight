@@ -41,33 +41,6 @@ const hipHopClubs: GenreClub[] = [
     djs: "Resident selectors with deep hip-hop knowledge. Guest DJs from the UK urban scene.",
   },
   {
-    name: "Funky Buddha",
-    slug: "funky-buddha",
-    description:
-      "Funky Buddha's hip-hop sets are legendary. The DJs swing between old-school classics and modern bangers with a funky house twist that keeps the dance floor unpredictable. You'll hear 90s hip-hop anthems followed by current chart hits, then a curveball house remix. The crowd sings every word.",
-    style: "Old-school hip-hop, modern hits, funky house crossovers",
-    bestNight: "Wednesday and Thursday for the purists, Saturday for peak energy",
-    djs: "Long-standing residents who know the Funky Buddha crowd inside out. The music is curated, not algorithmic.",
-  },
-  {
-    name: "TABU London",
-    slug: "tabu-london",
-    description:
-      "TABU's hip-hop leans darker and moodier, matching the Japanese underground aesthetic. Expect trap-influenced sets, slower RnB, and a curation that feels more fashion-week runway than mainstream club. The crowd dresses to match the music — this is hip-hop for people who take their sound seriously.",
-    style: "Trap, moody RnB, dark hip-hop, underground flavours",
-    bestNight: "Friday for the fashion crowd, Saturday for fuller energy",
-    djs: "Curators who understand the TABU brand. Music matches the aesthetic perfectly.",
-  },
-  {
-    name: "Cuckoo Club",
-    slug: "cuckoo-club",
-    description:
-      "Upstairs at Cuckoo is dedicated hip-hop territory. The room is compact and the energy is concentrated. Current chart hip-hop, RnB singalongs, and enough throwbacks to keep everyone happy. It's the accessible hip-hop option — no pretension, just good music and a packed dance floor.",
-    style: "Chart hip-hop, RnB, throwbacks",
-    bestNight: "Thursday is the standout night upstairs",
-    djs: "Residents who read the room well. Commercial enough to keep everyone dancing, credible enough to impress.",
-  },
-  {
     name: "BEAT London",
     slug: "beat-london",
     description:
@@ -105,15 +78,6 @@ const houseClubs: GenreClub[] = [
     style: "Melodic house, deep house, refined commercial house",
     bestNight: "Friday for the most curated sets",
     djs: "Residents who understand the Selene brand. Music supports the atmosphere rather than dominating it.",
-  },
-  {
-    name: "Cuckoo Club",
-    slug: "cuckoo-club",
-    description:
-      "Downstairs at Cuckoo is the house floor. The room has its own energy — deeper, darker, more focused on the music. The DJs play proper house that builds through the night. It's one of the only venues in Mayfair where you can choose between house and hip-hop in the same building.",
-    style: "House, deep house, some tech house",
-    bestNight: "Thursday and Saturday — both floors are firing",
-    djs: "Dedicated house residents downstairs. Quality curation that rewards those who seek it out.",
   },
   {
     name: "Scotch of St James",
@@ -198,9 +162,6 @@ const eclecticClubs: GenreClub[] = [
 const musicGrid = [
   { name: "Tape London", slug: "tape-london", hiphop: true, house: false, commercial: false, eclectic: false },
   { name: "Cirque Le Soir", slug: "cirque-le-soir", hiphop: true, house: false, commercial: false, eclectic: false },
-  { name: "Funky Buddha", slug: "funky-buddha", hiphop: true, house: true, commercial: false, eclectic: false },
-  { name: "TABU London", slug: "tabu-london", hiphop: true, house: false, commercial: false, eclectic: false },
-  { name: "Cuckoo Club", slug: "cuckoo-club", hiphop: true, house: true, commercial: true, eclectic: false },
   { name: "BEAT London", slug: "beat-london", hiphop: true, house: false, commercial: true, eclectic: false },
   { name: "Maddox", slug: "maddox", hiphop: false, house: true, commercial: false, eclectic: false },
   { name: "Selene London", slug: "selene-london", hiphop: false, house: true, commercial: false, eclectic: false },
@@ -215,7 +176,7 @@ const faqs = [
   {
     question: "Can you request songs at Mayfair clubs?",
     answer:
-      "It depends on the venue. At most Mayfair clubs, DJs curate their sets and don't take requests from the floor. However, if you have a table booking, your table host can sometimes pass a request to the DJ — though there's no guarantee. Cirque Le Soir and Reign are entertainment-focused, so requests rarely apply. Cuckoo Club and Funky Buddha are more flexible, especially if the DJ knows you.",
+      "It depends on the venue. At most Mayfair clubs, DJs curate their sets and don't take requests from the floor. However, if you have a table booking, your table host can sometimes pass a request to the DJ — though there's no guarantee. Cirque Le Soir and Reign are entertainment-focused, so requests rarely apply.",
   },
   {
     question: "Do DJs change by night at Mayfair clubs?",
@@ -230,7 +191,7 @@ const faqs = [
   {
     question: "Is it the same music every night at Mayfair clubs?",
     answer:
-      "The genre stays consistent but the energy and specific tracks vary. Maddox is always house music, but a Thursday set is different to a Saturday set. Cuckoo Club always has hip-hop upstairs and house downstairs, but the DJs and specific sounds change. Some venues run themed nights — check individual club pages for weekly schedules.",
+      "The genre stays consistent but the energy and specific tracks vary. Maddox is always house music, but a Thursday set is different to a Saturday set. Some venues run themed nights — check individual club pages for weekly schedules.",
   },
   {
     question: "What does open format mean at a nightclub?",
@@ -578,26 +539,29 @@ export default function MayfairClubsByMusicPage() {
           </div>
         </section>
 
-        {/* Two-Floor Clubs */}
+        {/* Mixed groups: venues with more than one genre */}
         <section className="mb-8">
           <h2 className="text-2xl font-bold text-white mb-4">
-            Two-Floor Clubs — Why Cuckoo Club Is Unique
+            Mixed Groups: One Venue, More Than One Genre
           </h2>
           <div className="bg-dark-card border border-gold/30 rounded-xl p-6">
             <p className="text-gray-300 leading-relaxed mb-4">
-              <Link
-                href="/clubs/cuckoo-club"
-                className="text-gold hover:text-gold-light font-medium"
-              >
-                Cuckoo Club
+              If half your group wants hip-hop and the other half wants house, pick a venue whose music policy covers both, so nobody has to change venue to hear their kind of night.{" "}
+              <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light font-medium">
+                Reign London
+              </Link>
+              ,{" "}
+              <Link href="/clubs/the-box-london" className="text-gold hover:text-gold-light font-medium">
+                The Box
               </Link>{" "}
-              is the only Mayfair venue that genuinely offers two distinct music experiences under one roof. Downstairs is house music — deep, building, four-to-the-floor. Upstairs is hip-hop and RnB — chart hits, throwbacks, sing-along energy.
-            </p>
-            <p className="text-gray-300 leading-relaxed mb-4">
-              This matters for mixed groups. If half your friends want hip-hop and the other half want house, Cuckoo is the only venue where nobody has to compromise. Move between floors as the mood takes you. Start with house, switch to hip-hop, come back down for the late-night deep cuts.
+              and{" "}
+              <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light font-medium">
+                BEAT London
+              </Link>{" "}
+              all play hip-hop alongside house and commercial music.
             </p>
             <p className="text-gray-300 leading-relaxed">
-              Other venues have different areas, but none split it as cleanly as Cuckoo. It&apos;s the diplomat&apos;s choice — everyone gets what they want without changing venue.
+              Cuckoo Club, which used to split house downstairs and hip-hop upstairs, has closed. For a single genre done properly, Maddox is the house room and Tape London the hip-hop one.
             </p>
           </div>
         </section>
@@ -677,18 +641,18 @@ export default function MayfairClubsByMusicPage() {
               <h3 className="text-gold font-semibold mb-2">Hip-Hop Then House</h3>
               <p className="text-sm text-gray-300">
                 Start at{" "}
-                <Link href="/clubs/funky-buddha" className="text-gold hover:text-gold-light">
-                  Funky Buddha
+                <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">
+                  Reign London
                 </Link>{" "}
-                for hip-hop energy, then walk to{" "}
+                for hip-hop energy, then head north to{" "}
                 <Link href="/clubs/maddox" className="text-gold hover:text-gold-light">
                   Maddox
                 </Link>{" "}
-                for proper house music. Both are in Mayfair, minutes apart. Or just go to{" "}
-                <Link href="/clubs/cuckoo-club" className="text-gold hover:text-gold-light">
-                  Cuckoo Club
-                </Link>{" "}
-                and do both floors.
+                for proper house music. Or pick a venue that plays both, like{" "}
+                <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">
+                  BEAT London
+                </Link>
+                .
               </p>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-xl p-5">
@@ -703,10 +667,10 @@ export default function MayfairClubsByMusicPage() {
                   Tape London
                 </Link>{" "}
                 if you can get in — or{" "}
-                <Link href="/clubs/funky-buddha" className="text-gold hover:text-gold-light">
-                  Funky Buddha
+                <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">
+                  BEAT London
                 </Link>{" "}
-                for a legendary finish.
+                for a dance-floor finish.
               </p>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-xl p-5">

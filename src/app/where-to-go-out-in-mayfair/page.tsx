@@ -44,12 +44,12 @@ const faqs = [
   {
     question: "Can I go out in Mayfair on my own?",
     answer:
-      "Solo nights in Mayfair are trickier than group nights. Most doors prefer groups or mixed groups. Your best options solo are Cuckoo Club which has the most sociable crowd, Dear Darling which works as a bar early on, or Maddox where you can start with dinner. Getting on a promoter guestlist helps — message us on WhatsApp.",
+      "Solo nights in Mayfair are trickier than group nights. Most doors prefer groups or mixed groups. Your best options solo are Dear Darling, which works as a bar early on, or Maddox, where you can start with dinner. Getting on a promoter guestlist helps — message us on WhatsApp.",
   },
   {
     question: "What is the age range at Mayfair clubs?",
     answer:
-      "Most Mayfair clubs attract a 23 to 35 crowd, though it varies by venue. TABU and BEAT skew younger with a fashion-forward early-twenties crowd. Scotch of St James, Maddox, and Dear Darling draw a more mature 28 to 40 crowd. All venues are strictly 18 plus but most prefer 21 plus on weekends.",
+      "Most Mayfair clubs attract a 23 to 35 crowd, though it varies by venue. BEAT skews younger, with an early-twenties crowd. Scotch of St James, Maddox, and Dear Darling draw a more mature 28 to 40 crowd. All venues are strictly 18 plus but most prefer 21 plus on weekends.",
   },
 ];
 
@@ -106,17 +106,17 @@ export default function WhereToGoOutPage() {
             Don&apos;t want to read the whole guide? Fair enough. If you need a
             solid Mayfair night with zero research, go to{" "}
             <Link
-              href="/clubs/funky-buddha"
+              href="/clubs/beat-london"
               className="text-gold hover:text-gold-light"
             >
-              Funky Buddha
+              BEAT London
             </Link>{" "}
             on a Saturday or{" "}
             <Link
-              href="/clubs/cuckoo-club"
+              href="/clubs/reign-london"
               className="text-gold hover:text-gold-light"
             >
-              Cuckoo Club
+              Reign London
             </Link>{" "}
             on a Thursday. Both deliver every time. For what is open and
             available right now, check{" "}
@@ -169,38 +169,6 @@ export default function WhereToGoOutPage() {
                     VIP table
                   </a>
                   , nothing else compares for hip-hop.
-                </p>
-              </div>
-              <div className="bg-dark-card border border-dark-border rounded-lg p-4">
-                <h3 className="text-white font-semibold mb-1">
-                  <Link
-                    href="/clubs/funky-buddha"
-                    className="hover:text-gold transition-colors"
-                  >
-                    Funky Buddha
-                  </Link>
-                  <span className="text-gold text-sm ml-2">The Legendary Pick</span>
-                </h3>
-                <p className="text-sm text-gray-300">
-                  The most consistent hip-hop night in Mayfair. Loyal crowd,
-                  brilliant DJs, and a dance floor that stays packed until
-                  close. The guestlist is accessible — arrive by midnight.
-                </p>
-              </div>
-              <div className="bg-dark-card border border-dark-border rounded-lg p-4">
-                <h3 className="text-white font-semibold mb-1">
-                  <Link
-                    href="/clubs/tabu-london"
-                    className="hover:text-gold transition-colors"
-                  >
-                    TABU London
-                  </Link>
-                  <span className="text-gold text-sm ml-2">The Fashion Pick</span>
-                </h3>
-                <p className="text-sm text-gray-300">
-                  Japanese underground aesthetic. The crowd dresses harder here
-                  than anywhere else. Darker, moodier, cooler. The antidote to
-                  generic bottle-service hip-hop.
                 </p>
               </div>
             </div>
@@ -257,22 +225,6 @@ export default function WhereToGoOutPage() {
                   Refined house music in a beautifully designed space.
                   Impressive cocktail programme. Still building its reputation
                   so access is easier than the big names.
-                </p>
-              </div>
-              <div className="bg-dark-card border border-dark-border rounded-lg p-4">
-                <h3 className="text-white font-semibold mb-1">
-                  <Link
-                    href="/clubs/cuckoo-club"
-                    className="hover:text-gold transition-colors"
-                  >
-                    Cuckoo Club
-                  </Link>
-                  <span className="text-gold text-sm ml-2">The Hidden Gem</span>
-                </h3>
-                <p className="text-sm text-gray-300">
-                  The downstairs room is a proper house music spot that most
-                  people overlook. Upstairs is hip-hop, downstairs is house.
-                  Two clubs in one.
                 </p>
               </div>
             </div>
@@ -515,22 +467,6 @@ export default function WhereToGoOutPage() {
                     table
                   </a>{" "}
                   for guaranteed entry and a home base.
-                </p>
-              </div>
-              <div className="bg-dark-card border border-dark-border rounded-lg p-4">
-                <h3 className="text-white font-semibold mb-1">
-                  <Link
-                    href="/clubs/cuckoo-club"
-                    className="hover:text-gold transition-colors"
-                  >
-                    Cuckoo Club
-                  </Link>
-                  <span className="text-gold text-sm ml-2">Most Flexible</span>
-                </h3>
-                <p className="text-sm text-gray-300">
-                  Two floors mean your group can split and reunite naturally.
-                  House downstairs, hip-hop upstairs. The most accessible
-                  guestlist for larger groups. Great energy on both levels.
                 </p>
               </div>
               <div className="bg-dark-card border border-dark-border rounded-lg p-4">

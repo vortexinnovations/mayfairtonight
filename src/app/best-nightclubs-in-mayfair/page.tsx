@@ -69,23 +69,6 @@ const rankedClubs: RankedClub[] = [
   },
   {
     rank: 3,
-    name: "Funky Buddha",
-    slug: "funky-buddha",
-    category: "Most Legendary",
-    verdict:
-      "Funky Buddha has earned its place through years of consistency. The crowd knows the crowd. The staff know the regulars. The music switches between hip-hop bangers and funky house in a way that keeps the dance floor packed all night. It's not the newest or flashiest — it's just reliable, quality Mayfair nightlife.",
-    strengths: [
-      "Legendary status and reputation",
-      "Loyal, quality crowd",
-      "Brilliant music curation",
-      "Community atmosphere rare for Mayfair",
-    ],
-    bestFor: "Those who want a classic Mayfair night with serious credentials",
-    music: "Hip-Hop, RnB, Funky House",
-    nights: "Wed, Thu, Fri, Sat",
-  },
-  {
-    rank: 4,
     name: "The Box",
     slug: "the-box-london",
     category: "Most Provocative",
@@ -102,7 +85,7 @@ const rankedClubs: RankedClub[] = [
     nights: "Wed, Thu, Fri, Sat",
   },
   {
-    rank: 5,
+    rank: 4,
     name: "Reign London",
     slug: "reign-london",
     category: "Best Showclub",
@@ -119,24 +102,7 @@ const rankedClubs: RankedClub[] = [
     nights: "Thu, Fri, Sat",
   },
   {
-    rank: 6,
-    name: "TABU London",
-    slug: "tabu-london",
-    category: "Most Stylish",
-    verdict:
-      "TABU is where the fashion crowd goes. The Japanese underground theme creates a completely different atmosphere to the rest of Mayfair — darker, moodier, cooler. The crowd dresses to be seen and the music is on point. It's the antidote to generic Mayfair bottle-popping — this is a club with genuine taste.",
-    strengths: [
-      "Fashion-forward crowd and atmosphere",
-      "Unique Japanese underground aesthetic",
-      "Cool without trying too hard",
-      "Quality hip-hop and RnB curation",
-    ],
-    bestFor: "Fashion-conscious crowds who want something different",
-    music: "Hip-Hop, RnB",
-    nights: "Thu, Fri, Sat",
-  },
-  {
-    rank: 7,
+    rank: 5,
     name: "Maddox",
     slug: "maddox",
     category: "Best Dinner-to-Dance",
@@ -153,7 +119,7 @@ const rankedClubs: RankedClub[] = [
     nights: "Wed, Thu, Fri, Sat",
   },
   {
-    rank: 8,
+    rank: 6,
     name: "Scotch of St James",
     slug: "scotch-of-st-james",
     category: "Most Historic",
@@ -170,7 +136,7 @@ const rankedClubs: RankedClub[] = [
     nights: "Thu, Fri, Sat",
   },
   {
-    rank: 9,
+    rank: 7,
     name: "Dear Darling",
     slug: "dear-darling",
     category: "Best Bar-Club Hybrid",
@@ -187,24 +153,7 @@ const rankedClubs: RankedClub[] = [
     nights: "Wed, Thu, Fri, Sat",
   },
   {
-    rank: 10,
-    name: "Cuckoo Club",
-    slug: "cuckoo-club",
-    category: "Most Versatile",
-    verdict:
-      "Two floors, two vibes, one venue. Cuckoo Club gives you house music downstairs and hip-hop upstairs — pick your mood or do both. The crowd is young, fun, and sociable. It's one of the most accessible and reliable Mayfair clubs, and there's a reason it stays consistently busy.",
-    strengths: [
-      "Two distinct floors and music policies",
-      "Accessible and sociable atmosphere",
-      "Reliable midweek and weekend nights",
-      "One of the easier Mayfair guestlists",
-    ],
-    bestFor: "Groups who want options and versatility",
-    music: "House, Hip-Hop, RnB",
-    nights: "Wed, Thu, Fri, Sat",
-  },
-  {
-    rank: 11,
+    rank: 8,
     name: "Selene London",
     slug: "selene-london",
     category: "Best Newcomer",
@@ -226,12 +175,12 @@ const faqs = [
   {
     question: "What is the best nightclub in Mayfair right now?",
     answer:
-      "Tape London is the most exclusive and prestigious club in Mayfair. For entertainment, Cirque Le Soir is unmatched. Funky Buddha is the most consistently brilliant all-round night. The best club for you depends on what you're looking for — our ranked guide breaks down every venue by vibe, music, and crowd.",
+      "Tape London is the most exclusive and prestigious club in Mayfair. For entertainment, Cirque Le Soir is unmatched. The best club for you depends on what you're looking for — our ranked guide breaks down every venue by vibe, music, and crowd.",
   },
   {
     question: "Which Mayfair club is easiest to get into?",
     answer:
-      "Cuckoo Club and Selene London have the most accessible guestlists. Book through a promoter, arrive before midnight, and dress smart — you'll get in. The harder doors are Tape London (members/tables only most nights) and Scotch of St James (members club atmosphere). The Box curates its crowd carefully but guestlist works.",
+      "Selene London has the most accessible guestlist. Book through a promoter, arrive before midnight, and dress smart — you'll get in. The harder doors are Tape London (members/tables only most nights) and Scotch of St James (members club atmosphere). The Box curates its crowd carefully but guestlist works.",
   },
   {
     question: "How much does a night out in Mayfair cost?",
@@ -405,10 +354,10 @@ export default function BestNightclubsPage() {
               <h3 className="text-gold font-semibold mb-2">Best for First-Timers</h3>
               <p className="text-sm text-gray-300">
                 Start at{" "}
-                <Link href="/clubs/cuckoo-club" className="text-gold hover:text-gold-light">
-                  Cuckoo Club
+                <Link href="/clubs/selene-london" className="text-gold hover:text-gold-light">
+                  Selene London
                 </Link>{" "}
-                — accessible door, two floors, great atmosphere. Or{" "}
+                for an accessible guestlist and a refined room. Or{" "}
                 <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">
                   Reign London
                 </Link>{" "}
@@ -448,8 +397,8 @@ export default function BestNightclubsPage() {
                   Maddox
                 </Link>{" "}
                 for house heads.{" "}
-                <Link href="/clubs/funky-buddha" className="text-gold hover:text-gold-light">
-                  Funky Buddha
+                <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">
+                  BEAT London
                 </Link>{" "}
                 for hip-hop purists.{" "}
                 <Link href="/clubs/the-box-london" className="text-gold hover:text-gold-light">

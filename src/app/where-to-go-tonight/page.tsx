@@ -40,16 +40,6 @@ const recommendations: Recommendation[] = [
         why: "The most exclusive room. Celebrity crowd, incredible sound, invite-only energy.",
       },
       {
-        name: "TABU London",
-        slug: "tabu-london",
-        why: "Japanese underground aesthetics with quality hip-hop. The fashion crowd's pick.",
-      },
-      {
-        name: "Funky Buddha",
-        slug: "funky-buddha",
-        why: "Legendary Mayfair institution on Berkeley Street. Great music, loyal crowd, electric atmosphere.",
-      },
-      {
         name: "BEAT London",
         slug: "beat-london",
         why: "Built around the sound system. If the music matters more than the scene, go here.",
@@ -66,11 +56,6 @@ const recommendations: Recommendation[] = [
         name: "Maddox",
         slug: "maddox",
         why: "The best house music room in Mayfair. Dinner first, deep house after. Sophisticated crowd.",
-      },
-      {
-        name: "Cuckoo Club",
-        slug: "cuckoo-club",
-        why: "The downstairs room is proper house. Darker, moodier, and more about the music.",
       },
       {
         name: "Selene London",

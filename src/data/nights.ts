@@ -55,7 +55,7 @@ export const nights: NightInfo[] = [
     vibe: "Midweek buzz, sociable, less crowded than weekends",
     bestFor: "Midweek party people, sociable groups, those who want big-club energy without weekend crowds",
     recommendation:
-      "Wednesday is brilliant in Mayfair. Cirque Le Soir runs its full circus-nightclub experience on Wednesdays — one of the best midweek nights in London. TABU opens for a dark, fashion-forward vibe. Selene is a refined choice for house music and cocktails. Cuckoo Club does its signature two-floor party. The Box opens for something edgier and theatrical. Note: Funky Buddha doesn't open on Wednesdays.",
+      "Wednesday is brilliant in Mayfair. Cirque Le Soir runs its full circus-nightclub experience on Wednesdays, one of the best midweek nights in London. Selene is a refined choice for house music and cocktails. The Box opens for something edgier and theatrical. Note: Reign London, BEAT London and Maddox open from Thursday.",
   },
   {
     slug: "thursday",
@@ -70,7 +70,7 @@ export const nights: NightInfo[] = [
     vibe: "High energy, the weekend starts here, buzzing",
     bestFor: "Everyone — Thursday is the most versatile night in Mayfair",
     recommendation:
-      "Thursday is the sweet spot. TABU delivers its dark, fashion-forward vibe. Reign London opens for shows and bottle service. For pure party energy, Funky Buddha and Cuckoo Club are both excellent on a Thursday. BEAT London is the go-to for high-energy music. Maddox is the best dinner-to-dance option. Note: Scotch only opens Friday and Saturday, so skip that one on a Thursday.",
+      "Thursday is the sweet spot. Reign London opens for shows and bottle service. For pure party energy, BEAT London is the go-to for high-energy music, and The Box is open for something more theatrical. Maddox is the best dinner-to-dance option, and Dear Darling suits a cocktail-led night. Note: Scotch only opens Friday and Saturday, so skip that one on a Thursday.",
   },
   {
     slug: "friday",
@@ -85,7 +85,7 @@ export const nights: NightInfo[] = [
     vibe: "Peak nightlife, electric, packed, celebratory",
     bestFor: "Anyone who wants the full London Friday night experience",
     recommendation:
-      "Friday is when you go big. Tape London for exclusivity. Cirque Le Soir for entertainment. Funky Buddha or BEAT London for pure party energy. If you want something more refined, Maddox's dinner-to-dance offering is perfect for a Friday. The Box for something provocative and unforgettable. Reign London for world-class shows.",
+      "Friday is when you go big. Tape London for exclusivity. Cirque Le Soir for entertainment. BEAT London for pure party energy. If you want something more refined, Maddox's dinner-to-dance offering is perfect for a Friday. The Box for something provocative and unforgettable. Reign London for world-class shows.",
   },
   {
     slug: "saturday",
@@ -100,7 +100,7 @@ export const nights: NightInfo[] = [
     vibe: "Peak, sold-out energy, legendary, the big one",
     bestFor: "The main event — this is the night everyone is out",
     recommendation:
-      "Saturday is about going all-in. Tape London is the pinnacle of exclusivity. Reign London delivers spectacular shows with aerial acts. For raw party energy, Funky Buddha, BEAT, and Luna Club are all brilliant. Cirque Le Soir's Saturday is the wildest night in London. The Box pushes boundaries. And Selene offers refined elegance for those who want something more sophisticated.",
+      "Saturday is about going all-in. Tape London is the pinnacle of exclusivity. Reign London delivers spectacular shows with aerial acts. For raw party energy, BEAT and Luna Club are both brilliant. Cirque Le Soir's Saturday is the wildest night in London. The Box pushes boundaries. And Selene offers refined elegance for those who want something more sophisticated.",
   },
   {
     slug: "sunday",

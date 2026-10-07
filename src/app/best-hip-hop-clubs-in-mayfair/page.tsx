@@ -52,54 +52,6 @@ const hipHopClubs: HipHopClub[] = [
   },
   {
     rank: 2,
-    name: "Funky Buddha",
-    slug: "funky-buddha",
-    musicStyle:
-      "Classic hip-hop and RnB with funky house crossovers. Think Biggie into Beyoncé into Disclosure — the transitions are what make this place special.",
-    crowd:
-      "Loyal regulars, music lovers, and people who actually dance. The Funky Buddha crowd has taste and they come for the music, not the Instagram story.",
-    bestNights: "Thursday and Saturday",
-    vibe:
-      "Legendary. There is a reason this club has survived decades in Mayfair. The energy on the dance floor is infectious and the atmosphere feels earned — built over years of quality nights.",
-    guestlistOrTables:
-      "Guestlist works well here, especially on Thursdays. Tables are excellent for groups of 6+. One of the better guestlist-to-table ratios in Mayfair.",
-    verdict:
-      "The most authentic hip-hop heritage in Mayfair. Funky Buddha does not chase trends — it sets them. The music switches between hip-hop bangers and funky grooves in a way that keeps the floor packed from midnight until close.",
-  },
-  {
-    rank: 3,
-    name: "TABU London",
-    slug: "tabu-london",
-    musicStyle:
-      "Underground-leaning hip-hop and RnB. Darker, moodier selections — think Travis Scott, The Weeknd, and Afrobeats crossovers. The playlist matches the aesthetic perfectly.",
-    crowd:
-      "Fashion-forward, style-conscious, and young. This is where the cool kids go. The crowd dresses like they are going to a fashion week afterparty.",
-    bestNights: "Friday and Saturday",
-    vibe:
-      "Dark, stylish, and immersive. The Japanese underground theme creates a completely different energy to the rest of Mayfair. It feels like a secret you discovered.",
-    guestlistOrTables:
-      "Guestlist is solid on Fridays. Saturday leans tables-heavy. Book through a promoter for the best experience either way.",
-    verdict:
-      "The coolest hip-hop club in Mayfair. TABU brings a fashion-forward edge that other venues lack. If you want hip-hop without the mainstream bottle-popping clichés, this is your spot.",
-  },
-  {
-    rank: 4,
-    name: "Cuckoo Club",
-    slug: "cuckoo-club",
-    musicStyle:
-      "Hip-hop and RnB upstairs, house music downstairs. The upstairs room plays crowd-pleasing hip-hop — chart hits, classic anthems, and singalong moments.",
-    crowd:
-      "Young, sociable, and fun. Mixed groups, birthday parties, and people who want to dance without taking themselves too seriously.",
-    bestNights: "Wednesday and Saturday",
-    vibe:
-      "Energetic and accessible. Cuckoo does not try to be exclusive — it tries to be fun. The upstairs hip-hop room gets properly rowdy on the right night.",
-    guestlistOrTables:
-      "One of the easiest guestlists in Mayfair. Great for groups who want guaranteed entry without the stress. Tables are well-priced for the area.",
-    verdict:
-      "The most accessible hip-hop night in Mayfair. If you want to dance to hip-hop without the exclusive door or eye-watering table minimums, Cuckoo upstairs delivers. The two-floor layout means you can switch between hip-hop and house all night.",
-  },
-  {
-    rank: 5,
     name: "BEAT London",
     slug: "beat-london",
     musicStyle:
@@ -115,7 +67,7 @@ const hipHopClubs: HipHopClub[] = [
       "The newest hip-hop contender in Mayfair. BEAT brings raw energy and a younger crowd. If the established names feel too refined, BEAT strips it back to what matters — good music and a packed dance floor.",
   },
   {
-    rank: 6,
+    rank: 3,
     name: "Cirque Le Soir",
     slug: "cirque-le-soir",
     musicStyle:
@@ -146,17 +98,17 @@ const faqs = [
   {
     question: "Can you request songs at Mayfair hip-hop clubs?",
     answer:
-      "At most venues, no. The DJs at Tape London, Funky Buddha, and TABU are hired for their curation — they read the room, not request slips. If you book a table, your table host might pass a request to the DJ, but there are no guarantees. Cuckoo Club upstairs is the most request-friendly of the lot.",
+      "At most venues, no. The DJs at Tape London are hired for their curation — they read the room, not request slips. If you book a table, your table host might pass a request to the DJ, but there are no guarantees.",
   },
   {
     question: "What age range goes to hip-hop clubs in Mayfair?",
     answer:
-      "Most hip-hop clubs in Mayfair attract a 23-35 crowd. TABU and BEAT skew slightly younger (21-30). Funky Buddha and Tape London attract a more established crowd (25-38). All venues are 18+ but most guestlists prefer 21+. Groups that look underage will struggle at the door regardless of ID.",
+      "Most hip-hop clubs in Mayfair attract a 23-35 crowd. BEAT skews slightly younger (21-30). Tape London attracts a more established crowd (25-38). All venues are 18+ but most guestlists prefer 21+. Groups that look underage will struggle at the door regardless of ID.",
   },
   {
     question: "Can I get on the guestlist for hip-hop nights in Mayfair?",
     answer:
-      "Yes — most venues offer guestlist for hip-hop nights, but availability varies. Cuckoo Club and BEAT have the most open guestlists. Funky Buddha and TABU work through promoters. Tape London is the hardest — guestlist spots are limited and tables are the primary route in. Message us on WhatsApp and we can sort guestlist at any of these venues.",
+      "Yes — most venues offer guestlist for hip-hop nights, but availability varies. BEAT has the most open guestlist. Tape London is the hardest — guestlist spots are limited and tables are the primary route in. Message us on WhatsApp and we can sort guestlist at any of these venues.",
   },
 ];
 
@@ -336,13 +288,6 @@ export default function BestHipHopClubsPage() {
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
                   <span>
-                    <Link href="/clubs/tabu-london" className="text-gold hover:text-gold-light">TABU London</Link>
-                    {" "}— darker, underground hip-hop selections
-                  </span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="text-gold mt-0.5">•</span>
-                  <span>
                     <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">BEAT London</Link>
                     {" "}— current chart hip-hop and Afrobeats
                   </span>
@@ -354,20 +299,6 @@ export default function BestHipHopClubsPage() {
                 Leans RnB / Soul
               </h3>
               <ul className="space-y-2 text-sm text-gray-300">
-                <li className="flex items-start gap-2">
-                  <span className="text-gold mt-0.5">•</span>
-                  <span>
-                    <Link href="/clubs/funky-buddha" className="text-gold hover:text-gold-light">Funky Buddha</Link>
-                    {" "}— classic RnB with funky house crossovers
-                  </span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="text-gold mt-0.5">•</span>
-                  <span>
-                    <Link href="/clubs/cuckoo-club" className="text-gold hover:text-gold-light">Cuckoo Club</Link>
-                    {" "}— crowd-pleasing RnB anthems upstairs
-                  </span>
-                </li>
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
                   <span>
@@ -394,11 +325,10 @@ export default function BestHipHopClubsPage() {
                 <p className="text-sm text-gray-300">
                   Thursday is the best night for hip-hop in Mayfair. The crowd
                   is genuinely up for it — no tourists, no casual visitors.{" "}
-                  <Link href="/clubs/tape-london" className="text-gold hover:text-gold-light">Tape London</Link>,{" "}
-                  <Link href="/clubs/funky-buddha" className="text-gold hover:text-gold-light">Funky Buddha</Link>,
+                  <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">Reign London</Link>{" "}
                   and{" "}
-                  <Link href="/clubs/tabu-london" className="text-gold hover:text-gold-light">TABU</Link>{" "}
-                  all deliver on Thursdays. DJs play deeper, the rooms feel
+                  <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">BEAT London</Link>{" "}
+                  both deliver on Thursdays. DJs play deeper, the rooms feel
                   more intimate, and the atmosphere is electric.
                 </p>
               </div>
@@ -439,24 +369,6 @@ export default function BestHipHopClubsPage() {
                   <td className="py-3 px-3">Hip-Hop / Trap</td>
                   <td className="py-3 px-3">Thu & Sat</td>
                   <td className="py-3 px-3">Tables preferred</td>
-                </tr>
-                <tr className="border-b border-dark-border/50">
-                  <td className="py-3 px-3 text-white font-medium">Funky Buddha</td>
-                  <td className="py-3 px-3">RnB / Hip-Hop / Funk</td>
-                  <td className="py-3 px-3">Thu & Sat</td>
-                  <td className="py-3 px-3">Guestlist or tables</td>
-                </tr>
-                <tr className="border-b border-dark-border/50">
-                  <td className="py-3 px-3 text-white font-medium">TABU London</td>
-                  <td className="py-3 px-3">Hip-Hop / RnB / Afrobeats</td>
-                  <td className="py-3 px-3">Fri & Sat</td>
-                  <td className="py-3 px-3">Guestlist or tables</td>
-                </tr>
-                <tr className="border-b border-dark-border/50">
-                  <td className="py-3 px-3 text-white font-medium">Cuckoo Club</td>
-                  <td className="py-3 px-3">RnB / Chart Hip-Hop</td>
-                  <td className="py-3 px-3">Wed & Sat</td>
-                  <td className="py-3 px-3">Guestlist easy</td>
                 </tr>
                 <tr className="border-b border-dark-border/50">
                   <td className="py-3 px-3 text-white font-medium">BEAT London</td>

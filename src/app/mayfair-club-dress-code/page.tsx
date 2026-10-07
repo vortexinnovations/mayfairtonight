@@ -89,63 +89,6 @@ const clubDressCodes: ClubDressCode[] = [
       "Reign is a showclub — the audience dresses for the occasion. Think opening-night energy. Women tend to dress up more here than any other Mayfair venue.",
   },
   {
-    name: "TABU London",
-    slug: "tabu-london",
-    strictness: 4,
-    works: [
-      "Fashion-forward streetwear with smart shoes",
-      "All-black fits work exceptionally well",
-      "Designer pieces and creative outfits",
-      "For women: edgy, fashion-conscious looks",
-    ],
-    doesnt: [
-      "Generic high-street smart casual",
-      "Dad shoes or chunky trainers",
-      "Overly corporate — no banker vibes",
-      "Baggy or ill-fitting clothing",
-    ],
-    insiderTip:
-      "TABU is the most style-conscious door in Mayfair. The Japanese underground aesthetic means they reward fashion risk-takers. All black with one statement piece is the cheat code.",
-  },
-  {
-    name: "Funky Buddha",
-    slug: "funky-buddha",
-    strictness: 3,
-    works: [
-      "Smart casual done well — shirt, good trousers, leather shoes",
-      "Clean dark jeans with a blazer",
-      "For women: smart dress or stylish separates",
-      "Classic Mayfair smart — nothing too edgy needed",
-    ],
-    doesnt: [
-      "Trainers — even expensive ones",
-      "Hoodies or casual jumpers",
-      "Ripped jeans or distressed denim",
-      "Work boots or hiking shoes",
-    ],
-    insiderTip:
-      "Funky Buddha rewards regulars. The dress code is strict but classic — think smart Mayfair rather than fashion-forward. A good shirt and well-fitted trousers with leather shoes is the winning formula.",
-  },
-  {
-    name: "Cuckoo Club",
-    slug: "cuckoo-club",
-    strictness: 3,
-    works: [
-      "Smart shirt with trousers and leather shoes",
-      "Clean dark jeans are accepted most nights",
-      "For women: cocktail dress or smart going-out outfit",
-      "Chelsea boots or smart loafers",
-    ],
-    doesnt: [
-      "Sportswear or tracksuits",
-      "Trainers — the door is consistent on this",
-      "Very casual jeans with a basic t-shirt",
-      "Baseball caps or beanies",
-    ],
-    insiderTip:
-      "Cuckoo has one of the more forgiving doors in Mayfair but do not push it. Smart casual is the baseline — clean jeans work but pair them with a proper shirt and good shoes.",
-  },
-  {
     name: "Scotch of St James",
     slug: "scotch-of-st-james",
     strictness: 4,
@@ -289,12 +232,12 @@ const faqs = [
   {
     question: "Can I wear jeans to a Mayfair nightclub?",
     answer:
-      "Dark, clean, well-fitted jeans are accepted at most Mayfair clubs on non-peak nights — particularly at Cuckoo Club, Funky Buddha, Dear Darling, and Selene. Pair them with a blazer or smart shirt and leather shoes. Avoid ripped, distressed, or light-wash jeans everywhere. Tape London and Scotch of St James generally expect trousers over jeans.",
+      "Dark, clean, well-fitted jeans are accepted at most Mayfair clubs on non-peak nights — particularly at Dear Darling and Selene. Pair them with a blazer or smart shirt and leather shoes. Avoid ripped, distressed, or light-wash jeans everywhere. Tape London and Scotch of St James generally expect trousers over jeans.",
   },
   {
     question: "What should women wear to Mayfair clubs?",
     answer:
-      "A cocktail dress or smart separates with heels or elegant flats is the standard. Women generally have more flexibility than men at Mayfair doors. The venues that reward fashion effort most are TABU, The Box, and Tape London. When in doubt, a well-fitted black dress works at every venue.",
+      "A cocktail dress or smart separates with heels or elegant flats is the standard. Women generally have more flexibility than men at Mayfair doors. The venues that reward fashion effort most are The Box and Tape London. When in doubt, a well-fitted black dress works at every venue.",
   },
   {
     question: "Do Mayfair clubs have a strict dress code on Thursday?",
@@ -309,7 +252,7 @@ const faqs = [
   {
     question: "Will I get turned away for wearing a polo shirt?",
     answer:
-      "It depends on the venue. A high-quality polo shirt can work at Cuckoo Club, Selene, Luna, and BEAT on quieter nights. It will not pass at Tape London, Scotch, Maddox, or Reign. A collared shirt is always the safer choice — it costs you nothing extra and opens every door.",
+      "It depends on the venue. A high-quality polo shirt can work at Selene, Luna, and BEAT on quieter nights. It will not pass at Tape London, Scotch, Maddox, or Reign. A collared shirt is always the safer choice — it costs you nothing extra and opens every door.",
   },
 ];
 

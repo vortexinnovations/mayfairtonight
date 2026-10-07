@@ -36,22 +36,6 @@ interface GirlsClub {
 const girlsClubs: GirlsClub[] = [
   {
     rank: 1,
-    name: "Cuckoo Club",
-    slug: "cuckoo-club",
-    tagline: "Sociable & Two Floors",
-    whyItWorks:
-      "Cuckoo Club is the go-to for girls' nights in Mayfair. Two floors mean you can start with house music downstairs and move to hip-hop upstairs when the mood hits. The crowd is young, sociable, and genuinely friendly. The door is one of the most accessible in Mayfair — all-female groups rarely have issues. It's fun without pretension, which is exactly what a great girls' night needs.",
-    guestlist:
-      "One of the easiest guestlists in Mayfair. All-female groups are welcomed. Book through a promoter, give your names, and arrive before midnight.",
-    dressTips:
-      "Smart glamour works perfectly. Cocktail dresses, heels, and statement accessories. Cuckoo isn't as strict as Tape or Maddox — you have room to express your style, but keep it elevated.",
-    bestNight:
-      "Thursday is the standout. The crowd is buzzing, both floors are packed, and the energy is perfect for a group night. Saturday for peak atmosphere.",
-    vibe:
-      "Fun, inclusive, and energetic. The staff are welcoming and the crowd makes friends easily. One of the safest and most comfortable venues for all-female groups.",
-  },
-  {
-    rank: 2,
     name: "Cirque Le Soir",
     slug: "cirque-le-soir",
     tagline: "The Event Night",
@@ -67,7 +51,7 @@ const girlsClubs: GirlsClub[] = [
       "High-energy, celebratory, and utterly unique. The performers create a safe, joyful atmosphere. Security is tight and professional. Groups are well looked after.",
   },
   {
-    rank: 3,
+    rank: 2,
     name: "Dear Darling",
     slug: "dear-darling",
     tagline: "Cocktails First, Dancing Later",
@@ -83,7 +67,7 @@ const girlsClubs: GirlsClub[] = [
       "Intimate, elegant, and genuinely welcoming. The bartenders engage with guests, the space feels personal, and the crowd is well-mannered. Excellent for smaller groups of 4-6.",
   },
   {
-    rank: 4,
+    rank: 3,
     name: "Selene London",
     slug: "selene-london",
     tagline: "Refined & Elegant",
@@ -99,7 +83,7 @@ const girlsClubs: GirlsClub[] = [
       "Sophisticated, calm confidence. No chaos, no pushiness, just a well-curated room with excellent music. The newer venue energy means attentive service and a crowd that's there because they want to be.",
   },
   {
-    rank: 5,
+    rank: 4,
     name: "Reign London",
     slug: "reign-london",
     tagline: "The Show Makes It Special",
@@ -114,22 +98,6 @@ const girlsClubs: GirlsClub[] = [
     vibe:
       "Grand, exciting, and celebratory. The shows create natural conversation and energy. Security is visible and professional. Large groups are well managed.",
   },
-  {
-    rank: 6,
-    name: "Funky Buddha",
-    slug: "funky-buddha",
-    tagline: "Energy & Atmosphere",
-    whyItWorks:
-      "Funky Buddha has an atmosphere that makes every night feel like the best night ever. The music swings between hip-hop bangers and funky house, the dance floor is always packed, and the crowd has genuine energy. It's the Mayfair club where you'll dance all night and mean it. The regulars create a warm, community feel that's rare in this postcode.",
-    guestlist:
-      "Guestlist through promoters works well. All-female groups have strong access. Arrive before midnight on weekends.",
-    dressTips:
-      "Smart and stylish with room for personality. Funky Buddha appreciates individual style — statement pieces, bold choices, fashion-forward looks. Keep it smart but let your personality show.",
-    bestNight:
-      "Wednesday and Thursday are brilliant for girls' nights — the crowd is passionate about being there. Saturday is peak energy.",
-    vibe:
-      "Warm, energetic, and authentically fun. The crowd knows each other, the staff remember faces, and the atmosphere is welcoming. A Mayfair institution for good reason.",
-  },
 ];
 
 const faqs = [
@@ -141,12 +109,12 @@ const faqs = [
   {
     question: "Can an all-female group get into Mayfair clubs?",
     answer:
-      "Yes — all-female groups are generally welcomed at Mayfair clubs. You'll have the easiest access at Cuckoo Club, Selene, and Dear Darling. The key factors are: book through a promoter, dress smart, arrive before midnight, and keep your group to a manageable size (4-8 is ideal). Very large all-female groups (10+) should consider a table booking for guaranteed entry and a better experience.",
+      "Yes — all-female groups are generally welcomed at Mayfair clubs. You'll have the easiest access at Selene and Dear Darling. The key factors are: book through a promoter, dress smart, arrive before midnight, and keep your group to a manageable size (4-8 is ideal). Very large all-female groups (10+) should consider a table booking for guaranteed entry and a better experience.",
   },
   {
     question: "Which Mayfair clubs are safest for girls' nights?",
     answer:
-      "All the top Mayfair clubs have professional security and well-managed environments. Cuckoo Club, Dear Darling, and Selene stand out for their welcoming, well-behaved crowds and attentive staff. Cirque Le Soir and Reign have highly visible security teams and the entertainment focus creates a positive, celebratory atmosphere. If a venue is on our recommended list, we're confident in the safety standards.",
+      "All the top Mayfair clubs have professional security and well-managed environments. Dear Darling and Selene stand out for their welcoming, well-behaved crowds and attentive staff. Cirque Le Soir and Reign have highly visible security teams and the entertainment focus creates a positive, celebratory atmosphere. If a venue is on our recommended list, we're confident in the safety standards.",
   },
   {
     question: "What's the best night for a girls' night in Mayfair?",
@@ -409,9 +377,6 @@ export default function GirlsGuestlistPage() {
               <span className="text-gold font-medium">Dear Darling & Selene:</span> Classic elegance. Little black dress territory. Understated polish over statement pieces.
             </p>
             <p className="text-sm text-gray-300">
-              <span className="text-gold font-medium">Cuckoo Club & Funky Buddha:</span> Smart glamour with room for personality. Express your style, keep it elevated.
-            </p>
-            <p className="text-sm text-gray-300">
               <span className="text-gold font-medium">Reign London:</span> Full glamour. Evening dresses and heels. The showclub atmosphere demands it.
             </p>
           </div>
@@ -486,9 +451,9 @@ export default function GirlsGuestlistPage() {
               </p>
             </div>
             <div className="bg-dark-card border border-gold/30 rounded-xl p-5">
-              <h3 className="text-gold font-semibold mb-2">Most Fun: Cuckoo Club</h3>
+              <h3 className="text-gold font-semibold mb-2">Most Fun: BEAT London</h3>
               <p className="text-sm text-gray-300">
-                Two floors, great music, sociable crowd. Cuckoo&apos;s energy is perfect for birthdays — the staff make a fuss, the atmosphere is fun, and the accessible door means your whole group gets in.
+                High-energy music and a proper dance floor. BEAT&apos;s smart-casual door is one of the more relaxed in the area, so a whole group of friends gets in without fuss.
               </p>
             </div>
             <div className="bg-dark-card border border-gold/30 rounded-xl p-5">

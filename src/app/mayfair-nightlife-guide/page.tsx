@@ -29,7 +29,7 @@ const faqs = [
   {
     question: "What age group goes to Mayfair clubs?",
     answer:
-      "Most Mayfair clubs attract 23–40 year olds. Venues like Maddox, Scotch of St James, and Dear Darling skew older and more sophisticated. Cuckoo Club and BEAT London attract a younger crowd. Tape London is ageless — it's about status and connections, not age.",
+      "Most Mayfair clubs attract 23–40 year olds. Venues like Maddox, Scotch of St James, and Dear Darling skew older and more sophisticated. BEAT London attracts a younger crowd. Tape London is ageless — it's about status and connections, not age.",
   },
   {
     question: "How do I get on the guestlist at Mayfair clubs?",
@@ -232,18 +232,10 @@ export default function MayfairNightlifeGuidePage() {
               </h3>
               <p className="text-sm text-gray-300 mb-2">
                 Pure nightlife energy.{" "}
-                <Link href="/clubs/funky-buddha" className="text-gold hover:text-gold-light">
-                  Funky Buddha
-                </Link>
-                ,{" "}
-                <Link href="/clubs/cuckoo-club" className="text-gold hover:text-gold-light">
-                  Cuckoo Club
-                </Link>
-                , and{" "}
-                <Link href="/clubs/tabu-london" className="text-gold hover:text-gold-light">
-                  TABU
+                <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">
+                  BEAT London
                 </Link>{" "}
-                are traditional nightclubs where the music and crowd are the
+                is a traditional nightclub where the music and crowd are the
                 main attraction. No gimmicks, just great nights out.
               </p>
             </div>
@@ -282,7 +274,7 @@ export default function MayfairNightlifeGuidePage() {
               {
                 night: "Wednesday",
                 slug: "wednesday",
-                desc: "Midweek Mayfair kicks off. Funky Buddha, Cuckoo Club, Cirque Le Soir, Maddox, Dear Darling, and The Box all open. Less crowded, more sociable — the savvy choice.",
+                desc: "Midweek Mayfair kicks off. Cirque Le Soir, The Box and Selene London all open. Less crowded, more sociable — the savvy choice.",
               },
               {
                 night: "Thursday",
@@ -350,7 +342,6 @@ export default function MayfairNightlifeGuidePage() {
                 <div className="flex justify-between">
                   <span className="text-gray-300">Easiest</span>
                   <span className="text-white">
-                    <Link href="/clubs/cuckoo-club" className="hover:text-gold">Cuckoo Club</Link>,{" "}
                     <Link href="/clubs/selene-london" className="hover:text-gold">Selene</Link>,{" "}
                     <Link href="/clubs/dear-darling" className="hover:text-gold">Dear Darling</Link>
                   </span>
@@ -358,7 +349,6 @@ export default function MayfairNightlifeGuidePage() {
                 <div className="flex justify-between">
                   <span className="text-gray-300">Moderate</span>
                   <span className="text-white">
-                    <Link href="/clubs/funky-buddha" className="hover:text-gold">Funky Buddha</Link>,{" "}
                     <Link href="/clubs/maddox" className="hover:text-gold">Maddox</Link>,{" "}
                     <Link href="/clubs/cirque-le-soir" className="hover:text-gold">Cirque</Link>,{" "}
                     <Link href="/clubs/reign-london" className="hover:text-gold">Reign</Link>
@@ -369,8 +359,7 @@ export default function MayfairNightlifeGuidePage() {
                   <span className="text-white">
                     <Link href="/clubs/tape-london" className="hover:text-gold">Tape London</Link>,{" "}
                     <Link href="/clubs/scotch-of-st-james" className="hover:text-gold">Scotch</Link>,{" "}
-                    <Link href="/clubs/the-box-london" className="hover:text-gold">The Box</Link>,{" "}
-                    <Link href="/clubs/tabu-london" className="hover:text-gold">TABU</Link>
+                    <Link href="/clubs/the-box-london" className="hover:text-gold">The Box</Link>
                   </span>
                 </div>
               </div>
@@ -524,11 +513,11 @@ export default function MayfairNightlifeGuidePage() {
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">
               <h3 className="text-white font-semibold mb-1">4. Start at the right venue</h3>
               <p className="text-sm">
-                <Link href="/clubs/cuckoo-club" className="text-gold hover:text-gold-light">
-                  Cuckoo Club
+                <Link href="/clubs/selene-london" className="text-gold hover:text-gold-light">
+                  Selene London
                 </Link>{" "}
-                is the best first Mayfair experience — accessible door, two
-                floors, great atmosphere.{" "}
+                is an easy first Mayfair experience: an accessible guestlist
+                and a refined room.{" "}
                 <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">
                   Reign London
                 </Link>{" "}
@@ -567,8 +556,8 @@ export default function MayfairNightlifeGuidePage() {
               </h3>
               <p className="text-sm text-gray-300">
                 <Link href="/clubs/tape-london" className="text-white hover:text-gold">Tape</Link> →{" "}
-                <Link href="/clubs/funky-buddha" className="text-white hover:text-gold">Funky Buddha</Link> →{" "}
-                <Link href="/clubs/tabu-london" className="text-white hover:text-gold">TABU</Link>
+                <Link href="/clubs/cirque-le-soir" className="text-white hover:text-gold">Cirque Le Soir</Link> →{" "}
+                <Link href="/clubs/beat-london" className="text-white hover:text-gold">BEAT London</Link>
               </p>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">
@@ -577,8 +566,7 @@ export default function MayfairNightlifeGuidePage() {
               </h3>
               <p className="text-sm text-gray-300">
                 <Link href="/clubs/maddox" className="text-white hover:text-gold">Maddox</Link> →{" "}
-                <Link href="/clubs/selene-london" className="text-white hover:text-gold">Selene</Link> →{" "}
-                <Link href="/clubs/cuckoo-club" className="text-white hover:text-gold">Cuckoo (downstairs)</Link>
+                <Link href="/clubs/selene-london" className="text-white hover:text-gold">Selene</Link>
               </p>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">
@@ -616,8 +604,8 @@ export default function MayfairNightlifeGuidePage() {
                 Maximum Party Energy
               </h3>
               <p className="text-sm text-gray-300">
-                <Link href="/clubs/funky-buddha" className="text-white hover:text-gold">Funky Buddha</Link> →{" "}
-                <Link href="/clubs/cuckoo-club" className="text-white hover:text-gold">Cuckoo Club</Link> →{" "}
+                <Link href="/clubs/beat-london" className="text-white hover:text-gold">BEAT London</Link> →{" "}
+                <Link href="/clubs/reign-london" className="text-white hover:text-gold">Reign</Link> →{" "}
                 <Link href="/clubs/cirque-le-soir" className="text-white hover:text-gold">Cirque Le Soir</Link>
               </p>
             </div>
@@ -639,9 +627,7 @@ export default function MayfairNightlifeGuidePage() {
                 Central Mayfair (Berkeley St / Dover St)
               </h3>
               <p className="text-sm">
-                <Link href="/clubs/funky-buddha" className="text-gold hover:text-gold-light">Funky Buddha</Link>,{" "}
                 <Link href="/clubs/tape-london" className="text-gold hover:text-gold-light">Tape London</Link>,{" "}
-                <Link href="/clubs/tabu-london" className="text-gold hover:text-gold-light">TABU</Link>,{" "}
                 <Link href="/clubs/scotch-of-st-james" className="text-gold hover:text-gold-light">Scotch of St James</Link>,{" "}
                 <Link href="/clubs/dear-darling" className="text-gold hover:text-gold-light">Dear Darling</Link>,{" "}
                 <Link href="/clubs/maddox" className="text-gold hover:text-gold-light">Maddox</Link>,{" "}
@@ -652,11 +638,10 @@ export default function MayfairNightlifeGuidePage() {
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">
               <h3 className="text-white font-semibold mb-2">
-                Piccadilly / Swallow Street
+                Piccadilly
               </h3>
               <p className="text-sm">
-                <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">Reign London</Link>,{" "}
-                <Link href="/clubs/cuckoo-club" className="text-gold hover:text-gold-light">Cuckoo Club</Link>.
+                <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">Reign London</Link>.
                 Just off Piccadilly Circus — easy to reach from anywhere in
                 central London.
               </p>
