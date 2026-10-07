@@ -27,3 +27,6 @@ npm-debug.log*
 next-env.d.ts
 
 .vercel
+
+# generated before every build/dev (scripts/build-post-manifest.mjs)
+/src/data/file-posts.json

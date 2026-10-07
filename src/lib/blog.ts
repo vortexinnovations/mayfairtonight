@@ -1,12 +1,10 @@
-import fs from "fs";
 import https from "https";
-import path from "path";
 import { unstable_cache } from "next/cache";
 import { cache } from "react";
-import matter from "gray-matter";
 import { remark } from "remark";
 import remarkGfm from "remark-gfm";
 import html from "remark-html";
+import filePosts from "@/data/file-posts.json";
 import { blogImages } from "@/data/images";
 import { WHATSAPP_NUMBER } from "./whatsapp";
 
@@ -15,8 +13,14 @@ import { WHATSAPP_NUMBER } from "./whatsapp";
 // (no redeploy needed). A database row with the same slug supersedes the file,
 // at the same URL. Both are read at build and ISR regeneration only, never on a
 // visitor's request, and both render through the same remark pipeline.
+//
+// The Markdown files are bundled into src/data/file-posts.json before every
+// build (scripts/build-post-manifest.mjs) and imported, never read from disk
+// at runtime: on Vercel some server functions (the sitemap) were deployed
+// without the src/content/blog folder, so runtime reads there failed.
 
-const postsDirectory = path.join(process.cwd(), "src/content/blog");
+type FilePostEntry = { data: Record<string, unknown>; content: string };
+const fileStore = filePosts as Record<string, FilePostEntry>;
 const SITE_KEY = "vortexinnovations/mayfairtonight";
 const DB_TIMEOUT_MS = 10_000;
 
@@ -56,24 +60,20 @@ function estimateReadingTime(content: string): string {
 }
 
 function getFileSlugs(): string[] {
-  // Throw, never return []: these files are also read during ISR regeneration
-  // at runtime, and an empty list there would cache a 404 for every post and an
-  // empty sitemap. A thrown error keeps the last good page live instead.
-  if (!fs.existsSync(postsDirectory)) {
-    throw new Error(`blog content directory missing at runtime: ${postsDirectory}`);
-  }
-  return fs
-    .readdirSync(postsDirectory)
-    .filter((f) => f.endsWith(".md"))
-    .map((f) => f.replace(/\.md$/, ""));
+  // Throw, never return []: an empty list would cache a 404 for every post and
+  // an empty sitemap. A thrown error keeps the last good page live instead.
+  const slugs = Object.keys(fileStore);
+  if (slugs.length === 0) throw new Error("src/data/file-posts.json has no posts; run scripts/build-post-manifest.mjs");
+  return slugs;
 }
 
 function getFilePost(slug: string): BlogPost | null {
-  const fullPath = path.join(postsDirectory, `${slug}.md`);
-  if (!fs.existsSync(fullPath)) return null;
-
-  const fileContents = fs.readFileSync(fullPath, "utf8");
-  const { data, content } = matter(fileContents);
+  const entry = fileStore[slug];
+  if (!entry) return null;
+  // Same fields and fallbacks as when the files were parsed with gray-matter.
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const data = entry.data as Record<string, any>;
+  const content = entry.content;
 
   return {
     slug,
