@@ -378,7 +378,8 @@ export const clubs: Club[] = [
     whatToExpect: "Libertine has permanently closed. For a similar high-energy experience, check out BEAT London or Reign London.",
     bestFor: "This venue has permanently closed",
     status: "closed",
-    closedMessage: "Libertine has permanently closed. Looking for a similar experience? Try BEAT London for high-energy hip-hop and serious sound, or Reign London for a glamorous, production-heavy night.",
+    closedMessage: "Libertine has permanently closed, and Selene now operates in its place. Looking for a similar experience? Try Selene London, BEAT London for high-energy hip-hop and serious sound, or Reign London for a glamorous, production-heavy night.",
+    alternatives: ["selene-london", "beat-london", "reign-london"],
   },
   {
     slug: "luxx-club",
@@ -400,7 +401,7 @@ export const clubs: Club[] = [
     whatToExpect: "Luxx Club London has permanently closed. For visually impressive Mayfair nightlife, check out Reign London for production value or The Box for theatrical experiences.",
     bestFor: "This venue has permanently closed",
     status: "closed",
-    closedMessage: "Luxx Club London has permanently closed. Looking for a visually stunning night? Try Reign London for world-class production or The Box for theatrical nightlife.",
+    closedMessage: "Luxx Club London has permanently closed, and Itzel is its successor at the Berkeley Street address. Looking for a visually stunning night? Try Reign London for world-class production or The Box for theatrical nightlife.",
   },
   {
     slug: "lio-london",
