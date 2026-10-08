@@ -131,7 +131,7 @@ export default function EntryRulesPage() {
               </div>
             </div>
             <p className="text-sm text-dark-muted">
-              The solution for all-male groups is simple: book a table through <a href="https://londonbottleservice.com" target="_blank" rel="noopener noreferrer" className="text-gold hover:text-gold-light">London Bottle Service</a> or get on the guestlist through a promoter. It changes the dynamic entirely.
+              The solution for all-male groups is simple: book a table through <a href="https://londonbottleservice.com" target="_blank" rel="noopener noreferrer" className="text-gold hover:text-gold-light">London Bottle Service</a>{" "}or get on the guestlist through a promoter. It changes the dynamic entirely.
             </p>
           </div>
         </section>

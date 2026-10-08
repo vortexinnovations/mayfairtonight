@@ -63,7 +63,7 @@ export default function DressCodePage() {
         </nav>
 
         <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">
-          Mayfair Club <span className="text-gold">Dress Code</span> Guide
+          Mayfair Club <span className="text-gold">Dress Code</span>{" "}Guide
         </h1>
         <p className="text-gray-300 text-lg max-w-2xl">
           What to wear, what to avoid, and what each club expects. Read this

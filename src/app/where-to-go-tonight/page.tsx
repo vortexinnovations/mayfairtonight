@@ -219,7 +219,7 @@ export default function WhereToGoPage() {
         {/* VIP table booking tip */}
         <div className="bg-dark-card border-l-2 border-gold p-4 rounded-r-lg mt-10">
           <p className="text-gray-300 text-sm">
-            <strong className="text-white">Planning a VIP night?</strong> If you want a table or bottle
+            <strong className="text-white">Planning a VIP night?</strong>{" "}If you want a table or bottle
             service at any of these clubs, check availability at{" "}
             <a
               href="https://londonbottleservice.com"

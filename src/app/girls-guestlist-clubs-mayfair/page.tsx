@@ -371,13 +371,13 @@ export default function GirlsGuestlistPage() {
           </div>
           <div className="bg-dark-card border border-dark-border rounded-lg p-4 space-y-2">
             <p className="text-sm text-gray-300">
-              <span className="text-gold font-medium">Cirque Le Soir:</span> Go bold. Sequins, colour, theatrical glamour. This is the venue that rewards dressing up.
+              <span className="text-gold font-medium">Cirque Le Soir:</span>{" "}Go bold. Sequins, colour, theatrical glamour. This is the venue that rewards dressing up.
             </p>
             <p className="text-sm text-gray-300">
-              <span className="text-gold font-medium">Dear Darling & Selene:</span> Classic elegance. Little black dress territory. Understated polish over statement pieces.
+              <span className="text-gold font-medium">Dear Darling & Selene:</span>{" "}Classic elegance. Little black dress territory. Understated polish over statement pieces.
             </p>
             <p className="text-sm text-gray-300">
-              <span className="text-gold font-medium">Reign London:</span> Full glamour. Evening dresses and heels. The showclub atmosphere demands it.
+              <span className="text-gold font-medium">Reign London:</span>{" "}Full glamour. Evening dresses and heels. The showclub atmosphere demands it.
             </p>
           </div>
           <p className="text-dark-muted text-sm mt-4">

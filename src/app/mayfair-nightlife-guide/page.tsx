@@ -388,7 +388,7 @@ export default function MayfairNightlifeGuidePage() {
           <div className="text-gray-300 space-y-4 leading-relaxed">
             <p>
               Every Mayfair club enforces a dress code. The standard is{" "}
-              <strong className="text-white">smart</strong> — but what that
+              <strong className="text-white">smart</strong>{" "}— but what that
               means varies by venue. The universal truth: you will never get
               turned away for overdressing. When in doubt, go sharper.
             </p>
@@ -555,8 +555,8 @@ export default function MayfairNightlifeGuidePage() {
                 Hip-Hop & RnB Night
               </h3>
               <p className="text-sm text-gray-300">
-                <Link href="/clubs/tape-london" className="text-white hover:text-gold">Tape</Link> →{" "}
-                <Link href="/clubs/cirque-le-soir" className="text-white hover:text-gold">Cirque Le Soir</Link> →{" "}
+                <Link href="/clubs/tape-london" className="text-white hover:text-gold">Tape</Link>{" "}→{" "}
+                <Link href="/clubs/cirque-le-soir" className="text-white hover:text-gold">Cirque Le Soir</Link>{" "}→{" "}
                 <Link href="/clubs/beat-london" className="text-white hover:text-gold">BEAT London</Link>
               </p>
             </div>
@@ -565,7 +565,7 @@ export default function MayfairNightlifeGuidePage() {
                 House Music Night
               </h3>
               <p className="text-sm text-gray-300">
-                <Link href="/clubs/maddox" className="text-white hover:text-gold">Maddox</Link> →{" "}
+                <Link href="/clubs/maddox" className="text-white hover:text-gold">Maddox</Link>{" "}→{" "}
                 <Link href="/clubs/selene-london" className="text-white hover:text-gold">Selene</Link>
               </p>
             </div>
@@ -574,8 +574,8 @@ export default function MayfairNightlifeGuidePage() {
                 Show & Entertainment
               </h3>
               <p className="text-sm text-gray-300">
-                <Link href="/clubs/cirque-le-soir" className="text-white hover:text-gold">Cirque Le Soir</Link> →{" "}
-                <Link href="/clubs/reign-london" className="text-white hover:text-gold">Reign</Link> →{" "}
+                <Link href="/clubs/cirque-le-soir" className="text-white hover:text-gold">Cirque Le Soir</Link>{" "}→{" "}
+                <Link href="/clubs/reign-london" className="text-white hover:text-gold">Reign</Link>{" "}→{" "}
                 <Link href="/clubs/the-box-london" className="text-white hover:text-gold">The Box</Link>
               </p>
             </div>
@@ -584,8 +584,8 @@ export default function MayfairNightlifeGuidePage() {
                 Sophisticated & Elegant
               </h3>
               <p className="text-sm text-gray-300">
-                <Link href="/clubs/dear-darling" className="text-white hover:text-gold">Dear Darling</Link> →{" "}
-                <Link href="/clubs/scotch-of-st-james" className="text-white hover:text-gold">Scotch</Link> →{" "}
+                <Link href="/clubs/dear-darling" className="text-white hover:text-gold">Dear Darling</Link>{" "}→{" "}
+                <Link href="/clubs/scotch-of-st-james" className="text-white hover:text-gold">Scotch</Link>{" "}→{" "}
                 <Link href="/clubs/selene-london" className="text-white hover:text-gold">Selene</Link>
               </p>
             </div>
@@ -594,8 +594,8 @@ export default function MayfairNightlifeGuidePage() {
                 Dinner Then Dancing
               </h3>
               <p className="text-sm text-gray-300">
-                <Link href="/clubs/maddox" className="text-white hover:text-gold">Maddox</Link> →{" "}
-                <Link href="/clubs/selene-london" className="text-white hover:text-gold">Selene</Link> →{" "}
+                <Link href="/clubs/maddox" className="text-white hover:text-gold">Maddox</Link>{" "}→{" "}
+                <Link href="/clubs/selene-london" className="text-white hover:text-gold">Selene</Link>{" "}→{" "}
                 <Link href="/clubs/dear-darling" className="text-white hover:text-gold">Dear Darling</Link>
               </p>
             </div>
@@ -604,8 +604,8 @@ export default function MayfairNightlifeGuidePage() {
                 Maximum Party Energy
               </h3>
               <p className="text-sm text-gray-300">
-                <Link href="/clubs/beat-london" className="text-white hover:text-gold">BEAT London</Link> →{" "}
-                <Link href="/clubs/reign-london" className="text-white hover:text-gold">Reign</Link> →{" "}
+                <Link href="/clubs/beat-london" className="text-white hover:text-gold">BEAT London</Link>{" "}→{" "}
+                <Link href="/clubs/reign-london" className="text-white hover:text-gold">Reign</Link>{" "}→{" "}
                 <Link href="/clubs/cirque-le-soir" className="text-white hover:text-gold">Cirque Le Soir</Link>
               </p>
             </div>

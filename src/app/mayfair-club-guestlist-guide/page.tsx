@@ -218,7 +218,7 @@ export default function GuestlistGuidePage() {
               </ul>
             </div>
             <p className="text-sm text-dark-muted">
-              If a table makes more sense for your night, <a href="https://londonbottleservice.com" target="_blank" rel="noopener noreferrer" className="text-gold hover:text-gold-light">London Bottle Service</a> handles bookings at every Mayfair venue. You can also read our <Link href="/how-mayfair-nightclub-tables-work" className="text-gold hover:text-gold-light">guide to how tables work</Link> to understand what&apos;s involved.
+              If a table makes more sense for your night, <a href="https://londonbottleservice.com" target="_blank" rel="noopener noreferrer" className="text-gold hover:text-gold-light">London Bottle Service</a>{" "}handles bookings at every Mayfair venue. You can also read our <Link href="/how-mayfair-nightclub-tables-work" className="text-gold hover:text-gold-light">guide to how tables work</Link>{" "}to understand what&apos;s involved.
             </p>
           </div>
         </section>

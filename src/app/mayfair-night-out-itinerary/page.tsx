@@ -91,11 +91,11 @@ export default function ItineraryPage() {
                 <p className="text-sm text-gray-300">Start with drinks near Berkeley Square, then head south towards Piccadilly. Keep it to two cocktails — the night is long.</p>
               </div>
               <div>
-                <p className="text-gold font-semibold mb-1">11:00pm: <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">Reign London</Link> or <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">BEAT London</Link></p>
+                <p className="text-gold font-semibold mb-1">11:00pm: <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">Reign London</Link>{" "}or <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">BEAT London</Link></p>
                 <p className="text-sm text-gray-300">Both play hip-hop alongside commercial and house. Reign London on Piccadilly adds shows and big production; BEAT London, just north of Oxford Circus, is built around its sound system for a proper dance floor. Pick based on your mood.</p>
               </div>
               <div>
-                <p className="text-gold font-semibold mb-1">1:00am — Late night at <Link href="/clubs/tape-london" className="text-gold hover:text-gold-light">Tape London</Link> (if you can get in)</p>
+                <p className="text-gold font-semibold mb-1">1:00am — Late night at <Link href="/clubs/tape-london" className="text-gold hover:text-gold-light">Tape London</Link>{" "}(if you can get in)</p>
                 <p className="text-sm text-gray-300">Tape is the ultimate late-night destination, but entry is extremely selective. You&apos;ll need a table or a strong promoter connection. If Tape isn&apos;t an option, stay at your first venue until close.</p>
               </div>
               <div className="border-t border-dark-border pt-3 mt-3">
@@ -120,11 +120,11 @@ export default function ItineraryPage() {
                 <p className="text-sm text-gray-300">Eat somewhere between Mayfair and Soho. You&apos;ll be heading toward the entertainment venues later, so position yourself accordingly.</p>
               </div>
               <div>
-                <p className="text-gold font-semibold mb-1">10:30pm — <Link href="/clubs/cirque-le-soir" className="text-gold hover:text-gold-light">Cirque Le Soir</Link> or <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">Reign London</Link></p>
+                <p className="text-gold font-semibold mb-1">10:30pm — <Link href="/clubs/cirque-le-soir" className="text-gold hover:text-gold-light">Cirque Le Soir</Link>{" "}or <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">Reign London</Link></p>
                 <p className="text-sm text-gray-300">Cirque offers circus-themed entertainment with performers, fire-eaters, and theatrical surprises. Reign is a large-format venue with live performers and dramatic production. Both deliver spectacle beyond a standard club night.</p>
               </div>
               <div>
-                <p className="text-gold font-semibold mb-1">1:00am — <Link href="/clubs/the-box-london" className="text-gold hover:text-gold-light">The Box</Link> if you&apos;re feeling bold</p>
+                <p className="text-gold font-semibold mb-1">1:00am — <Link href="/clubs/the-box-london" className="text-gold hover:text-gold-light">The Box</Link>{" "}if you&apos;re feeling bold</p>
                 <p className="text-sm text-gray-300">The Box takes entertainment to another level entirely — provocative, boundary-pushing cabaret that you won&apos;t forget. Not for everyone. Book through a promoter and dress with creative flair. The door curates by look and energy.</p>
               </div>
               <div className="border-t border-dark-border pt-3 mt-3">
@@ -153,7 +153,7 @@ export default function ItineraryPage() {
                 <p className="text-sm text-gray-300">Maddox operates as a restaurant upstairs and a club in the basement. Book dinner and then transition downstairs as the DJ takes over. The dinner-to-dance flow is seamless. House music sets the soundtrack.</p>
               </div>
               <div>
-                <p className="text-gold font-semibold mb-1">12:30am — <Link href="/clubs/scotch-of-st-james" className="text-gold hover:text-gold-light">Scotch of St James</Link> or <Link href="/clubs/selene-london" className="text-gold hover:text-gold-light">Selene London</Link></p>
+                <p className="text-gold font-semibold mb-1">12:30am — <Link href="/clubs/scotch-of-st-james" className="text-gold hover:text-gold-light">Scotch of St James</Link>{" "}or <Link href="/clubs/selene-london" className="text-gold hover:text-gold-light">Selene London</Link></p>
                 <p className="text-sm text-gray-300">For a late-night change of scene, Scotch of St James offers a members-club intimacy with a loyal crowd. Selene is newer, elegant, and welcoming, a short walk north across Oxford Street. Both are within walking distance of Maddox.</p>
               </div>
               <div className="border-t border-dark-border pt-3 mt-3">
@@ -179,11 +179,11 @@ export default function ItineraryPage() {
               </div>
               <div>
                 <p className="text-gold font-semibold mb-1">11:00pm: <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">BEAT London</Link></p>
-                <p className="text-sm text-gray-300">BEAT London, just north of Oxford Circus, suits a big group: high-energy hip-hop, RnB, commercial and house, a proper dance floor, and a smart-casual door that is easier for a large party. For big groups, consider a table through <a href="https://londonbottleservice.com" target="_blank" rel="noopener noreferrer" className="text-gold hover:text-gold-light">London Bottle Service</a> to guarantee everyone gets in.</p>
+                <p className="text-sm text-gray-300">BEAT London, just north of Oxford Circus, suits a big group: high-energy hip-hop, RnB, commercial and house, a proper dance floor, and a smart-casual door that is easier for a large party. For big groups, consider a table through <a href="https://londonbottleservice.com" target="_blank" rel="noopener noreferrer" className="text-gold hover:text-gold-light">London Bottle Service</a>{" "}to guarantee everyone gets in.</p>
               </div>
               <div>
                 <p className="text-gold font-semibold mb-1">1:30am — Late-night options</p>
-                <p className="text-sm text-gray-300">If the group wants to keep going, <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">Reign London</Link> has the space for large groups late at night. Or split up — half to Reign, half to <Link href="/clubs/cirque-le-soir" className="text-gold hover:text-gold-light">Cirque Le Soir</Link> — and compare notes tomorrow.</p>
+                <p className="text-sm text-gray-300">If the group wants to keep going, <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">Reign London</Link>{" "}has the space for large groups late at night. Or split up — half to Reign, half to <Link href="/clubs/cirque-le-soir" className="text-gold hover:text-gold-light">Cirque Le Soir</Link>{" "}— and compare notes tomorrow.</p>
               </div>
               <div className="border-t border-dark-border pt-3 mt-3">
                 <div className="grid grid-cols-2 gap-4 text-sm">
@@ -238,9 +238,9 @@ export default function ItineraryPage() {
               <div className="bg-dark-card border border-dark-border rounded-lg p-4">
                 <h3 className="text-gold font-semibold mb-2">Club Clusters</h3>
                 <ul className="text-sm space-y-1">
-                  <li>• <strong>Dover Street area:</strong> Scotch, Dear Darling, Maddox — all within 5 min; Selene is a short walk north across Oxford Street</li>
-                  <li>• <strong>Piccadilly:</strong> Reign London, next to Piccadilly Circus</li>
-                  <li>• <strong>Soho border:</strong> Cirque Le Soir, The Box — 10 min walk from Mayfair core</li>
+                  <li>• <strong>Dover Street area:</strong>{" "}Scotch, Dear Darling, Maddox — all within 5 min; Selene is a short walk north across Oxford Street</li>
+                  <li>• <strong>Piccadilly:</strong>{" "}Reign London, next to Piccadilly Circus</li>
+                  <li>• <strong>Soho border:</strong>{" "}Cirque Le Soir, The Box — 10 min walk from Mayfair core</li>
                 </ul>
               </div>
               <div className="bg-dark-card border border-dark-border rounded-lg p-4">

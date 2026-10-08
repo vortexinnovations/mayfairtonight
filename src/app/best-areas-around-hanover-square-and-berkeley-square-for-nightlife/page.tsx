@@ -74,8 +74,8 @@ export default function NightlifeAreasPage() {
                 </div>
               </div>
               <div className="border-t border-dark-border pt-3">
-                <p className="text-sm text-dark-muted"><strong>The walk:</strong> Berkeley Square is a short walk from Green Park station; Reign London is south of it on Piccadilly.</p>
-                <p className="text-sm text-dark-muted mt-1"><strong>The vibe:</strong> Upscale urban. Well-dressed crowds moving between venues. The street feels alive on weekends from 11pm onward.</p>
+                <p className="text-sm text-dark-muted"><strong>The walk:</strong>{" "}Berkeley Square is a short walk from Green Park station; Reign London is south of it on Piccadilly.</p>
+                <p className="text-sm text-dark-muted mt-1"><strong>The vibe:</strong>{" "}Upscale urban. Well-dressed crowds moving between venues. The street feels alive on weekends from 11pm onward.</p>
               </div>
             </div>
           </div>
@@ -97,8 +97,8 @@ export default function NightlifeAreasPage() {
                 </div>
               </div>
               <div className="border-t border-dark-border pt-3">
-                <p className="text-sm text-dark-muted"><strong>Getting there:</strong> Bond Street station is the closest tube (5 minutes walk). From the Dover Street clubs, it&apos;s about 8-10 minutes north on foot.</p>
-                <p className="text-sm text-dark-muted mt-1"><strong>The vibe:</strong> Quiet, exclusive, understated. The area doesn&apos;t announce itself. Taxis pull up, people disappear inside, and the street stays calm.</p>
+                <p className="text-sm text-dark-muted"><strong>Getting there:</strong>{" "}Bond Street station is the closest tube (5 minutes walk). From the Dover Street clubs, it&apos;s about 8-10 minutes north on foot.</p>
+                <p className="text-sm text-dark-muted mt-1"><strong>The vibe:</strong>{" "}Quiet, exclusive, understated. The area doesn&apos;t announce itself. Taxis pull up, people disappear inside, and the street stays calm.</p>
               </div>
             </div>
           </div>
@@ -123,8 +123,8 @@ export default function NightlifeAreasPage() {
                 </div>
               </div>
               <div className="border-t border-dark-border pt-3">
-                <p className="text-sm text-dark-muted"><strong>The route:</strong> Start at Dear Darling for cocktails. Walk two minutes to Maddox for dinner and dancing. Scotch of St James is a five-minute stroll through the backstreets. Selene is a short walk north across Oxford Street, just past Oxford Circus.</p>
-                <p className="text-sm text-dark-muted mt-1"><strong>The vibe:</strong> Sophisticated and varied. This is Mayfair at its most complete — every element of a great night within walking distance.</p>
+                <p className="text-sm text-dark-muted"><strong>The route:</strong>{" "}Start at Dear Darling for cocktails. Walk two minutes to Maddox for dinner and dancing. Scotch of St James is a five-minute stroll through the backstreets. Selene is a short walk north across Oxford Street, just past Oxford Circus.</p>
+                <p className="text-sm text-dark-muted mt-1"><strong>The vibe:</strong>{" "}Sophisticated and varied. This is Mayfair at its most complete — every element of a great night within walking distance.</p>
               </div>
             </div>
           </div>
@@ -146,8 +146,8 @@ export default function NightlifeAreasPage() {
                 </div>
               </div>
               <div className="border-t border-dark-border pt-3">
-                <p className="text-sm text-dark-muted"><strong>Getting there:</strong> Piccadilly Circus station is a two-minute walk. This is the easiest part of Mayfair to reach by public transport.</p>
-                <p className="text-sm text-dark-muted mt-1"><strong>The vibe:</strong> Energetic and accessible. The gateway between the West End buzz and Mayfair exclusivity. Busier pavements, more options for late-night food nearby.</p>
+                <p className="text-sm text-dark-muted"><strong>Getting there:</strong>{" "}Piccadilly Circus station is a two-minute walk. This is the easiest part of Mayfair to reach by public transport.</p>
+                <p className="text-sm text-dark-muted mt-1"><strong>The vibe:</strong>{" "}Energetic and accessible. The gateway between the West End buzz and Mayfair exclusivity. Busier pavements, more options for late-night food nearby.</p>
               </div>
             </div>
           </div>
@@ -170,8 +170,8 @@ export default function NightlifeAreasPage() {
                 </div>
               </div>
               <div className="border-t border-dark-border pt-3">
-                <p className="text-sm text-dark-muted"><strong>The walk from Mayfair:</strong> From Dover Street, head east along Piccadilly or cut through Burlington Arcade to Regent Street. Cross into Soho and you&apos;re there in 10-12 minutes. From Berkeley Square, allow 15 minutes.</p>
-                <p className="text-sm text-dark-muted mt-1"><strong>The vibe:</strong> Creative, edgy, theatrical. The contrast with Mayfair&apos;s refinement is part of the appeal. Late-night Soho has energy that the quieter Mayfair streets don&apos;t.</p>
+                <p className="text-sm text-dark-muted"><strong>The walk from Mayfair:</strong>{" "}From Dover Street, head east along Piccadilly or cut through Burlington Arcade to Regent Street. Cross into Soho and you&apos;re there in 10-12 minutes. From Berkeley Square, allow 15 minutes.</p>
+                <p className="text-sm text-dark-muted mt-1"><strong>The vibe:</strong>{" "}Creative, edgy, theatrical. The contrast with Mayfair&apos;s refinement is part of the appeal. Late-night Soho has energy that the quieter Mayfair streets don&apos;t.</p>
               </div>
             </div>
           </div>
@@ -193,8 +193,8 @@ export default function NightlifeAreasPage() {
                 </div>
               </div>
               <div className="border-t border-dark-border pt-3">
-                <p className="text-sm text-dark-muted"><strong>Getting there:</strong> Oxford Circus station is the closest tube (3 minutes walk). From Hanover Square, it&apos;s about 8 minutes north on foot. From Berkeley Square, allow 12-15 minutes.</p>
-                <p className="text-sm text-dark-muted mt-1"><strong>The vibe:</strong> Relaxed, creative, music-first. A welcome change of pace if the Mayfair dress code intensity isn&apos;t your thing.</p>
+                <p className="text-sm text-dark-muted"><strong>Getting there:</strong>{" "}Oxford Circus station is the closest tube (3 minutes walk). From Hanover Square, it&apos;s about 8 minutes north on foot. From Berkeley Square, allow 12-15 minutes.</p>
+                <p className="text-sm text-dark-muted mt-1"><strong>The vibe:</strong>{" "}Relaxed, creative, music-first. A welcome change of pace if the Mayfair dress code intensity isn&apos;t your thing.</p>
               </div>
             </div>
           </div>
@@ -230,10 +230,10 @@ export default function NightlifeAreasPage() {
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">
               <h3 className="text-gold font-semibold mb-2">Nearest Tube Stations</h3>
               <ul className="text-sm text-gray-300 space-y-1">
-                <li>• <strong>Green Park</strong> — Best for Berkeley Square and Dear Darling</li>
-                <li>• <strong>Bond Street</strong> — Best for Hanover Square, Tape London, Dover Street clubs</li>
-                <li>• <strong>Piccadilly Circus</strong> — Best for Reign and the Soho border</li>
-                <li>• <strong>Oxford Circus</strong> — Best for BEAT London, Selene and the northern approach to Mayfair</li>
+                <li>• <strong>Green Park</strong>{" "}— Best for Berkeley Square and Dear Darling</li>
+                <li>• <strong>Bond Street</strong>{" "}— Best for Hanover Square, Tape London, Dover Street clubs</li>
+                <li>• <strong>Piccadilly Circus</strong>{" "}— Best for Reign and the Soho border</li>
+                <li>• <strong>Oxford Circus</strong>{" "}— Best for BEAT London, Selene and the northern approach to Mayfair</li>
               </ul>
               <p className="text-xs text-dark-muted mt-2">All stations close around midnight on most nights. Friday and Saturday Night Tube services run on some lines — check before you go.</p>
             </div>

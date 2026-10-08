@@ -300,11 +300,11 @@ export default function MayfairNightclubsPage() {
                 For Hip-Hop & RnB
               </h3>
               <p className="text-sm text-gray-300">
-                <Link href="/clubs/tape-london" className="text-gold hover:text-gold-light">Tape London</Link> is
+                <Link href="/clubs/tape-london" className="text-gold hover:text-gold-light">Tape London</Link>{" "}is
                 the most exclusive.{" "}
-                <Link href="/clubs/cirque-le-soir" className="text-gold hover:text-gold-light">Cirque Le Soir</Link> adds
+                <Link href="/clubs/cirque-le-soir" className="text-gold hover:text-gold-light">Cirque Le Soir</Link>{" "}adds
                 a full circus show.{" "}
-                <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">BEAT London</Link> is built
+                <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">BEAT London</Link>{" "}is built
                 around its sound system. All three deliver quality hip-hop but the
                 crowd and atmosphere are very different.
               </p>
@@ -315,7 +315,7 @@ export default function MayfairNightclubsPage() {
                 For House Music
               </h3>
               <p className="text-sm text-gray-300">
-                <Link href="/clubs/maddox" className="text-gold hover:text-gold-light">Maddox</Link> is the
+                <Link href="/clubs/maddox" className="text-gold hover:text-gold-light">Maddox</Link>{" "}is the
                 purist&apos;s choice — deep house and tech house in a
                 sophisticated setting.{" "}
                 <Link href="/clubs/selene-london" className="text-gold hover:text-gold-light">Selene London</Link>{" "}
@@ -330,9 +330,9 @@ export default function MayfairNightclubsPage() {
               <p className="text-sm text-gray-300">
                 <Link href="/clubs/cirque-le-soir" className="text-gold hover:text-gold-light">Cirque Le Soir</Link>{" "}
                 is a full circus.{" "}
-                <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">Reign London</Link> is
+                <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">Reign London</Link>{" "}is
                 a Las Vegas showclub.{" "}
-                <Link href="/clubs/the-box-london" className="text-gold hover:text-gold-light">The Box</Link> is
+                <Link href="/clubs/the-box-london" className="text-gold hover:text-gold-light">The Box</Link>{" "}is
                 provocative theatre. Three completely different experiences —
                 all unforgettable.
               </p>
@@ -343,11 +343,11 @@ export default function MayfairNightclubsPage() {
                 For Intimate & Exclusive
               </h3>
               <p className="text-sm text-gray-300">
-                <Link href="/clubs/tape-london" className="text-gold hover:text-gold-light">Tape London</Link> is
+                <Link href="/clubs/tape-london" className="text-gold hover:text-gold-light">Tape London</Link>{" "}is
                 the ultimate exclusive experience.{" "}
                 <Link href="/clubs/scotch-of-st-james" className="text-gold hover:text-gold-light">Scotch of St James</Link>{" "}
                 is old-school Mayfair elegance.{" "}
-                <Link href="/clubs/dear-darling" className="text-gold hover:text-gold-light">Dear Darling</Link> is
+                <Link href="/clubs/dear-darling" className="text-gold hover:text-gold-light">Dear Darling</Link>{" "}is
                 refined cocktail culture with late-night energy.
               </p>
             </div>
