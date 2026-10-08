@@ -49,7 +49,7 @@ For comparison, read our [Mayfair club dress code guide](/mayfair-club-dress-cod
 
 **Friday and Saturday** are peak nights. The room fills properly, the DJs bring their best sets, and the energy is exactly what you want from a club built around sound. Friday tends to be marginally less packed — worth considering if you like space to move.
 
-**Thursday** is growing as a midweek option. Smaller crowd, more intimate, but the sound system still delivers.
+**Thursday** is a select-nights option: BEAT opens on some Thursdays, not every week. Smaller crowd, more intimate, but the sound system still delivers.
 
 ## How It Compares to Central Mayfair Clubs
 

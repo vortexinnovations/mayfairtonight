@@ -573,7 +573,7 @@ const faqs = [
   {
     question: "Which Mayfair clubs are open on Thursday?",
     answer:
-      "Thursday is when Mayfair really kicks off. Reign London, Dear Darling, Maddox, Scotch of St James, The Box, Selene London and BEAT London are all open on Thursday nights. It's the best night for quality atmosphere without full weekend crowds.",
+      "Thursday is when Mayfair really kicks off. Reign London, Dear Darling, Maddox, Scotch of St James, The Box and Selene London are all open on Thursday nights, and BEAT London on select Thursdays. It's the best night for quality atmosphere without full weekend crowds.",
   },
   {
     question: "What time do Mayfair nightclubs open and close?",

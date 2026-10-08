@@ -47,7 +47,7 @@ Skip the queue, secure your table, and get insider access. Message us on WhatsAp
 
 Tape is the headliner, but it is not the only option. [Reign London](/clubs/reign-london) is also open on Tuesdays, with a broader mix of hip-hop, commercial and R&B alongside its shows.
 
-[Hush](/clubs/hush) offers a more low-key alternative. It operates as a restaurant-bar-club hybrid, and on quieter midweek nights, the downstairs space transforms into an intimate late-night spot. If you want drinks and music without the full club commitment, Hush works well on a Tuesday.
+Hush, once a low-key Tuesday alternative off New Bond Street, has closed.
 
 ## What to Wear on a Tuesday Night
 

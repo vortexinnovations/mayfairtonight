@@ -328,7 +328,7 @@ export default function BestHipHopClubsPage() {
                   <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">Reign London</Link>{" "}
                   and{" "}
                   <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">BEAT London</Link>{" "}
-                  both deliver on Thursdays. DJs play deeper, the rooms feel
+                  deliver on Thursdays (BEAT on select Thursdays). DJs play deeper, the rooms feel
                   more intimate, and the atmosphere is electric.
                 </p>
               </div>

@@ -30,7 +30,7 @@ Tuesday nights at Tape are a particular standout for anyone chasing a late finis
 
 ## The Box Soho: London's After-Hours Institution
 
-Technically in Soho rather than Mayfair, [The Box](/clubs/the-box-soho) deserves a mention in any late-night conversation because it regularly stays open until 5AM or later. This is not your typical nightclub. The Box runs cabaret-style performances, burlesque acts, and theatrical sets that do not even begin until well after midnight. If your group wants something genuinely different after 3AM, this is the move.
+Technically in Soho rather than Mayfair, [The Box](/clubs/the-box-london) deserves a mention in any late-night conversation because it regularly stays open until 5AM or later. This is not your typical nightclub. The Box runs cabaret-style performances, burlesque acts, and theatrical sets that do not even begin until well after midnight. If your group wants something genuinely different after 3AM, this is the move.
 
 The vibe at The Box is deliberately provocative and unpredictable. You will not find the same crowd as a Mayfair members' club. Entry is selective and the door policy is strict, so arrive well-dressed and with your group together. For anyone who has done the Mayfair circuit and wants to push into something edgier in the small hours, The Box is one of the few venues in central London that truly delivers on the after-hours promise.
 

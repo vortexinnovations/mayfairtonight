@@ -1,7 +1,7 @@
 ---
 title: "R&B Nights in Mayfair: The Definitive Guide to London's Smoothest Nights Out"
 metaTitle: "Best R&B Nights in Mayfair — Where to Go in 2026"
-metaDescription: "Discover the best R&B nights in Mayfair. From Tape London to Hush, here's where to hear the smoothest sets in London's most exclusive nightlife district."
+metaDescription: "Discover the best R&B nights in Mayfair. From Tuesdays at Tape London to the weekend, here's where to hear the smoothest sets in London's most exclusive nightlife district."
 excerpt: "Looking for proper R&B nights in Mayfair? Here's the insider guide to where the best DJs spin R&B, soul, and slow jams across London's most elite clubs."
 date: "2026-04-03"
 updated: "2026-04-03"
@@ -22,9 +22,7 @@ Not every Mayfair club programmes R&B, and the ones that do take it seriously. T
 
 **Tape London** is the go-to for anyone who wants R&B woven into a broader hip-hop and Afrobeats rotation. Tuesday nights at [Tape](/clubs/tape-london) are legendary — the crowd is industry-heavy, the sound system is world-class, and the DJs lean heavily into R&B deep cuts alongside newer releases. Friday and Saturday nights bring a more mixed crowd, but the music stays rooted in hip-hop and R&B. If you only hit one club for R&B in Mayfair, make it Tape.
 
-**Hush** is the one the locals know about. Tucked away on Lancashire Court, [Hush](/clubs/hush) programmes R&B, soul, and house across Thursday, Friday, and Saturday nights. The vibe is more intimate than the bigger rooms — think low lighting, strong cocktails, and a DJ who actually reads the floor. Thursday nights in particular tend to skew heavily R&B and soul, making it one of the best midweek options in the area.
-
-**Juju** rounds out the R&B-friendly list with a house-meets-R&B sound that works surprisingly well. [Juju](/clubs/juju) is smaller and more relaxed, making it ideal for those nights where you want the music without the intensity of a mega-club.
+**Hush** on Lancashire Court and **Juju**, both recommended in earlier versions of this guide for their R&B and soul sets, have closed. For an R&B-leaning night elsewhere in the area, [Reign London](/clubs/reign-london) mixes R&B into its hip-hop and commercial sets on Tuesdays, Thursdays, Fridays and Saturdays; message us and we will tell you which rooms are leaning R&B on the night you want.
 
 ![Mayfair nightlife scene with ambient club lighting](/gallery/images/fe4414_40f69356b6874f689a3ad2dbbb6930a6.jpg)
 
@@ -34,9 +32,9 @@ Timing matters. Here's how to plan your week if R&B is what you're after:
 
 **Tuesday**: Tape London dominates. The midweek session here is one of the most consistent R&B-leaning nights in all of London. Smaller crowd, better atmosphere. Check the [Tuesday night guide](/nights/tuesday) for what else is open.
 
-**Thursday**: Hush is your best bet. The soul-and-R&B-heavy programming on Thursdays makes it the standout. MNKY HSE also opens on Thursdays with a broader playlist that includes R&B in the mix.
+**Thursday**: With Hush closed, Reign London is the main Thursday option with R&B in the mix. MNKY HSE also opens on Thursdays with a broader playlist that includes R&B.
 
-**Friday and Saturday**: Multiple options. Tape and Hush both run strong weekend sessions. The crowd is bigger and the music typically shifts toward a hip-hop/R&B/Afrobeats blend — but the core R&B sound is always there.
+**Friday and Saturday**: Multiple options. Tape and Reign both run strong weekend sessions. The crowd is bigger and the music typically shifts toward a hip-hop/R&B/Afrobeats blend — but the core R&B sound is always there.
 
 For a full breakdown, see our [Mayfair nightclubs hub](/mayfair-nightclubs) or the night-by-night guides.
 
@@ -61,9 +59,9 @@ Most clubs enforce a [smart dress code](/mayfair-club-dress-code) — no trainer
 
 One thing worth clarifying: most Mayfair clubs don't programme pure R&B nights in the way a specialist event might. What you get is a curated blend — R&B sits alongside hip-hop, Afrobeats, and sometimes dancehall or house, depending on the DJ and the night. The R&B-heavy stretches usually come in the earlier part of the evening (before 1am) and during the wind-down after peak hours.
 
-If you want the most R&B-focused experience, Hush on a Thursday or Tape on a Tuesday is where you'll get the highest concentration. Weekend nights at any venue will lean more toward the hip-hop and Afrobeats crossover. For more on the hip-hop side, see our [hip-hop clubs guide](/blog/best-hip-hop-clubs-london).
+If you want the most R&B-focused experience, Tape on a Tuesday is where you'll get the highest concentration. Weekend nights at any venue will lean more toward the hip-hop and Afrobeats crossover. For more on the hip-hop side, see our [hip-hop clubs guide](/blog/best-hip-hop-clubs-london).
 
-If you're after something completely different — say, deep house or techno — [Selene](/clubs/selene) and [BEAT London](/clubs/beat-london) are better bets. But if R&B is what moves you, stick to the clubs listed above.
+If you're after something completely different — say, deep house or techno — [Selene](/clubs/selene-london) and [BEAT London](/clubs/beat-london) are better bets. But if R&B is what moves you, stick to the clubs listed above.
 
 ## How to Get on the Guestlist
 
@@ -80,11 +78,11 @@ For more detail on how the system works, see our [guestlist guide](/blog/how-to-
 
 ### Q: Which Mayfair club has the best R&B music?
 
-**A:** Tape London on a Tuesday night is widely considered the best pure R&B session in Mayfair. For a more intimate setting, Hush on Thursdays offers a soulful, R&B-heavy vibe that's hard to beat.
+**A:** Tape London on a Tuesday night is widely considered the best pure R&B session in Mayfair. Hush, once the intimate Thursday alternative, has closed.
 
 ### Q: Are there any R&B nights in Mayfair during the week?
 
-**A:** Yes. Tuesday at Tape London and Thursday at Hush are the two strongest midweek R&B options. Both draw a loyal crowd specifically for the music, so the atmosphere is consistently good even on a school night.
+**A:** Yes. Tuesday at Tape London is the strongest midweek R&B option, and it draws a loyal crowd specifically for the music, so the atmosphere is consistently good even on a school night. Reign London is also open on Tuesdays and Thursdays.
 
 ### Q: Do I need to book a table for R&B nights in Mayfair?
 

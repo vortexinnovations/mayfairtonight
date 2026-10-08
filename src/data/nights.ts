@@ -70,7 +70,7 @@ export const nights: NightInfo[] = [
     vibe: "High energy, the weekend starts here, buzzing",
     bestFor: "Everyone — Thursday is the most versatile night in Mayfair",
     recommendation:
-      "Thursday is the sweet spot. Reign London opens for shows and bottle service. For pure party energy, BEAT London is the go-to for high-energy music, and The Box is open for something more theatrical. Maddox is the best dinner-to-dance option, Dear Darling suits a cocktail-led night, and Selene is a refined choice for house music and cocktails. Scotch also opens on Thursdays, as well as Friday and Saturday.",
+      "Thursday is the sweet spot. Reign London opens for shows and bottle service. For pure party energy, BEAT London is the go-to on the select Thursdays it opens, and The Box is open for something more theatrical. Maddox is the best dinner-to-dance option, Dear Darling suits a cocktail-led night, and Selene is a refined choice for house music and cocktails. Scotch also opens on Thursdays, as well as Friday and Saturday.",
   },
   {
     slug: "friday",
