@@ -4,7 +4,7 @@ metaTitle: "Friday Night in Mayfair - Where to Go 2026"
 metaDescription: "Your guide to Friday night in Mayfair. Discover which clubs are open, what to expect at the door, and how to plan your evening in London W1."
 excerpt: "Everything you need to know about a Friday night out in Mayfair, from the best venues to arrival times and what the crowds are actually like."
 date: "2026-05-08"
-updated: "2026-05-08"
+updated: "2026-10-08"
 author: "Henry Ashcroft"
 category: "Night Guides"
 tags: ["mayfair", "friday night", "london nightlife", "night out"]
@@ -62,7 +62,7 @@ Not every Mayfair venue runs the same Friday. Here's what works best depending o
 
 **Reign London** goes big on Fridays with a mix of hip-hop, EDM, and pop. The production value here is higher than most Mayfair spots, with LED screens and live performers. It pulls a younger, high-energy crowd.
 
-**MNKY HSE** is the dark horse on a Friday. The Latin and Afrobeats programming makes it feel completely different to the hip-hop-heavy rooms elsewhere in Mayfair. In our experience of booking it, the later you arrive here, the better the energy gets, especially after midnight when the cocktail bar crowd transitions to the dance floor.
+**MNKY HSE**, once the Latin and Afrobeats dark horse on a Friday, has closed, so skip any older guide that still lists it.
 
 ---
 

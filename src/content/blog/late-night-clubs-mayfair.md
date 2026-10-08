@@ -4,7 +4,7 @@ metaTitle: "Late-Night Clubs in Mayfair Open Past 3AM"
 metaDescription: "Discover the late-night clubs in Mayfair that stay open past 3AM. Tape London, The Box, Reign London and more - your guide to London's after-hours scene."
 excerpt: "Not ready to call it a night? These are the Mayfair clubs that keep going well past 3AM, from hip-hop to cabaret."
 date: "2026-04-21"
-updated: "2026-04-21"
+updated: "2026-10-08"
 author: "Mayfair Tonight"
 category: "Night Guides"
 tags: ["mayfair", "late night clubs", "london nightlife", "after hours", "clubs open late"]
@@ -22,7 +22,7 @@ The atmosphere shifts after 2AM in Mayfair. Earlier in the evening, tables fill 
 
 ## Tape London: The Late-Night Standard
 
-[Tape London](/clubs/tape-london) is the venue most associated with late nights in Mayfair. On Tuesdays, Fridays, and Saturdays, Tape regularly runs until 4AM and sometimes beyond on peak weekends. The music policy leans hip-hop, R&B, and Afrobeats, and the late-night sets tend to go harder than the earlier rotations.
+[Tape London](/clubs/tape-london) is the venue most associated with late nights in Mayfair. On Tuesdays, Fridays, and Saturdays, the main room runs until 3:45AM, and on Fridays and Saturdays Little Tape, the room next door, carries on from 3AM until 5:30AM. The music policy leans hip-hop, R&B, and Afrobeats, and the late-night sets tend to go harder than the earlier rotations.
 
 Tuesday nights at Tape are a particular standout for anyone chasing a late finish during the week. The crowd skews industry, the vibe is looser than a weekend, and the DJs have more freedom to experiment with their sets. Friday and Saturday nights build momentum through the evening, and by 3AM the main room is at its peak. If you are planning to stay late, book a table in advance to guarantee your spot through the night.
 
@@ -64,11 +64,11 @@ For live info on what is open tonight, check [London Clubs Tonight](https://lond
 
 ### Q: Which Mayfair clubs are open past 3AM?
 
-**A:** Tape London and Reign London both regularly stay open past 3AM on their main nights (typically Friday and Saturday). Tape also runs late on Tuesdays. The Box in nearby Soho often stays open until 5AM.
+**A:** Tape London's main room runs until 3:45AM on its nights, including Tuesdays, with Little Tape next door open until 5:30AM on Fridays and Saturdays. Reign London regularly stays open past 3AM on its main nights (typically Friday and Saturday). The Box in nearby Soho often stays open until 5AM.
 
 ### Q: What is the latest a club stays open in Mayfair?
 
-**A:** On peak nights, Tape London and Reign London can run until 4AM or beyond. The Box Soho has been known to stay open until 5AM or later, making it the latest-closing venue in the area.
+**A:** Tape London's main room closes at 3:45AM, and Little Tape next door runs until 5:30AM on Fridays and Saturdays. On peak nights, Reign London can run until 4AM or beyond. The Box Soho has been known to stay open until 5AM or later, making it the latest-closing venue in the area.
 
 ### Q: Do I need a table booking for late-night entry?
 

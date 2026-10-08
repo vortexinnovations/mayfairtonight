@@ -4,7 +4,7 @@ metaTitle: "Best R&B Nights in Mayfair — Where to Go in 2026"
 metaDescription: "Discover the best R&B nights in Mayfair. From Tuesdays at Tape London to the weekend, here's where to hear the smoothest sets in London's most exclusive nightlife district."
 excerpt: "Looking for proper R&B nights in Mayfair? Here's the insider guide to where the best DJs spin R&B, soul, and slow jams across London's most elite clubs."
 date: "2026-04-03"
-updated: "2026-04-03"
+updated: "2026-10-08"
 author: "Mayfair Tonight"
 category: "Music Guides"
 tags: ["mayfair clubs", "R&B nights london", "london nightlife", "mayfair nightlife", "R&B clubs"]
@@ -32,7 +32,7 @@ Timing matters. Here's how to plan your week if R&B is what you're after:
 
 **Tuesday**: Tape London dominates. The midweek session here is one of the most consistent R&B-leaning nights in all of London. Smaller crowd, better atmosphere. Check the [Tuesday night guide](/nights/tuesday) for what else is open.
 
-**Thursday**: With Hush closed, Reign London is the main Thursday option with R&B in the mix. MNKY HSE also opens on Thursdays with a broader playlist that includes R&B.
+**Thursday**: With Hush and MNKY HSE both closed, Reign London is the main Thursday option with R&B in the mix.
 
 **Friday and Saturday**: Multiple options. Tape and Reign both run strong weekend sessions. The crowd is bigger and the music typically shifts toward a hip-hop/R&B/Afrobeats blend — but the core R&B sound is always there.
 

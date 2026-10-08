@@ -4,7 +4,7 @@ metaTitle: "Thursday Night in Mayfair: Where to Go in 2026"
 metaDescription: "Thursday night in Mayfair feels like a Saturday without the queue tax. Where to go, what the door looks like, and what to budget in W1."
 excerpt: "Thursday in Mayfair is the unofficial weekend opener. Here is where the crowd actually goes and what the door looks like on a Thursday night in W1."
 date: "2026-05-11"
-updated: "2026-05-11"
+updated: "2026-10-08"
 datePublished: "2026-05-11"
 dateModified: "2026-05-11"
 author: "Henry Ashcroft"
@@ -32,7 +32,7 @@ The crowd skews slightly older than a Saturday, more finance and creative indust
 Not every Mayfair room is open or worth your time on a Thursday. These are the venues we would genuinely choose for the night.
 
 - **Hush**, once the cleanest Thursday answer in Mayfair, has closed.
-- **MNKY HSE** does Latin and Afrobeats on Thursdays, and it is genuinely one of the better midweek rooms in the area. The mezzanine fills up first, then the DJ pulls the floor down around midnight.
+- **MNKY HSE**, which used to do Latin and Afrobeats on Thursdays, has also closed.
 - **Reign** is open on Thursdays, with private dining tables and pre-club drinks early on, then ramps up around midnight.
 - **Chinawhite** and **Mahiki**, which used to anchor Thursdays in W1, are no longer operating as of 2026, so skip any older guide that puts them on a Thursday list.
 
@@ -48,7 +48,7 @@ That said, walk-ins still work better in pairs or small groups, and the unwritte
 
 ## The Music You Will Actually Hear
 
-Thursdays in Mayfair are not Saturdays in terms of programming budget, but the genre split is more interesting than people assume. MNKY HSE pushes Latin and Afrobeats, with the Afrobeats run getting noticeably stronger after midnight. Selene, when it runs Thursday events, leans deeper into house than its Friday or Saturday programming. Mainstream and chart-friendly rooms (Reign on a full event night) keep things accessible until close.
+Thursdays in Mayfair are not Saturdays in terms of programming budget, but the genre split is more interesting than people assume. Selene, when it runs Thursday events, leans deeper into house than its Friday or Saturday programming. Mainstream and chart-friendly rooms (Reign on a full event night) keep things accessible until close.
 
 If you specifically want hip-hop on a midweek night in Mayfair, our honest read is that Tuesday is still the stronger night for that genre. Thursday is broader.
 
@@ -65,7 +65,7 @@ Skip the queue, secure your table, and get insider access. Message us on WhatsAp
 
 As of May 2026, the minimum spends we see on Thursdays in Mayfair sit in a clear band:
 
-- **Mid-tier Mayfair rooms** (MNKY HSE, Reign on event Thursdays): minimum spend roughly £750 to £1,000 for a small table.
+- **Mid-tier Mayfair rooms** (Reign on event Thursdays): minimum spend roughly £750 to £1,000 for a small table.
 - **Higher-tier rooms** (premium Selene events): roughly £1,000 to £1,500.
 - **Walk-in entry**: usually free to £20 on the door for couples and small groups, far less hassle than Friday or Saturday.
 
@@ -86,7 +86,7 @@ For tonight-led picks across London, [London Clubs Tonight](https://londonclubst
 ## Frequently Asked Questions
 
 ### Q: Do Mayfair clubs actually open on a Thursday?
-**A:** Yes, most of them. MNKY HSE runs full Thursday programming, and Reign London, Selene London, Maddox, Dear Darling, Scotch of St James and The Box are all open on Thursdays. Mahiki, Chinawhite and Hush, which used to anchor Thursdays in W1, are no longer operating as of 2026, and BEAT London opens on select Thursdays only.
+**A:** Yes, most of them. Reign London, Selene London, Maddox, Dear Darling, Scotch of St James and The Box are all open on Thursdays. Mahiki, Chinawhite, Hush and MNKY HSE, which used to anchor Thursdays in W1, are no longer operating as of 2026, and BEAT London opens on select Thursdays only.
 
 ### Q: What time should I arrive on a Thursday in Mayfair?
 **A:** Between 11.00pm and 11.30pm is the sweet spot. Earlier and the floors are empty. Later than midnight on a Thursday and you risk hitting the brief queue spike when the post-dinner crowd all moves at once.

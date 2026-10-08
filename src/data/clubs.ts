@@ -39,7 +39,7 @@ export const clubs: Club[] = [
     tableMinimum: "£1,500",
     openNights: ["Tuesday", "Friday", "Saturday", "Sunday"],
     openingTime: "22:00",
-    closingTime: "03:30",
+    closingTime: "03:45",
     vibe: "Exclusive, celebrity-heavy, intimate",
     insiderTip:
       "Tape is invite-only most nights. Book a table through a promoter — walking up to the door rarely works.",
@@ -62,7 +62,7 @@ export const clubs: Club[] = [
     tableMinimum: "£1,000",
     openNights: ["Monday", "Wednesday", "Friday", "Saturday"],
     openingTime: "22:30",
-    closingTime: "03:30",
+    closingTime: "03:45",
     vibe: "Wild, theatrical, high-energy",
     insiderTip:
       "Get there before midnight to catch the first performances. The shows happen throughout the night but the early ones set the tone.",
