@@ -42,7 +42,7 @@ const recommendations: Recommendation[] = [
       {
         name: "BEAT London",
         slug: "beat-london",
-        why: "Built around the sound system. If the music matters more than the scene, go here.",
+        why: "Built around the sound system, just north of Oxford Street. If the music matters more than the scene, go here.",
       },
     ],
   },
@@ -60,7 +60,7 @@ const recommendations: Recommendation[] = [
       {
         name: "Selene London",
         slug: "selene-london",
-        why: "Refined house and deep house in an elegant setting. Moonlit luxury with a quality sound.",
+        why: "Refined house and deep house in an elegant setting just north of Oxford Circus. Moonlit luxury with a quality sound.",
       },
     ],
   },

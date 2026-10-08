@@ -3,7 +3,7 @@ title: "BEAT London — The Sound System Club Worth the Walk"
 metaTitle: "BEAT London Nightclub Guide"
 metaDescription: "Everything you need to know about BEAT London on Margaret Street. The sound system, the crowd, the music, and why it's worth leaving Mayfair's core."
 date: "2026-03-25"
-excerpt: "BEAT London on Margaret Street brings serious sound and raw energy to the edges of Mayfair. Here's the full guide — what to expect, what to wear, and who it's for."
+excerpt: "BEAT London on Margaret Street brings serious sound and raw energy to Fitzrovia, just north of Mayfair. Here's the full guide — what to expect, what to wear, and who it's for."
 category: "Club Guides"
 tags: ["BEAT London", "BEAT nightclub", "Margaret Street clubs", "London nightlife", "sound system clubs London"]
 readingTime: "5 min read"
@@ -59,7 +59,7 @@ If Mayfair clubs are a sit-down dinner, BEAT is a street food market. Less forma
 
 ## Why It's Worth the Walk
 
-The ten-minute walk from Mayfair's centre to Margaret Street filters out the uncommitted. That's a feature, not a bug. BEAT rewards people who prioritise music and atmosphere over postcode and prestige.
+The walk north from Mayfair's centre, across Oxford Street to Margaret Street, filters out the uncommitted. That's a feature, not a bug. BEAT rewards people who prioritise music and atmosphere over postcode and prestige.
 
 If you've done the Mayfair circuit and want something that feels less manufactured, BEAT is the play. It's also an excellent option for starting or ending a night that includes the central Mayfair venues — hit a cocktail bar on Dover Street, then walk north for BEAT.
 

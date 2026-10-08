@@ -58,7 +58,7 @@ Not every Mayfair venue runs the same Friday. Here's what I've found works best 
 
 **Funky Buddha** draws a slightly older crowd on Fridays. The music swings between hip-hop and house depending on which room you're in. When I went on a recent Friday, the smoking area out back was rammed by 11pm, which is always a reliable indicator that the atmosphere inside has hit its stride.
 
-**Selene** is the pick for house and deep house heads. Friday programming here tends to lean more minimal than their Saturday sets. The crowd is discerning, and the door reflects that.
+**Selene**, just north of Oxford Circus, is the pick for house and deep house heads. Friday programming here tends to lean more minimal than their Saturday sets. The crowd is discerning, and the door reflects that.
 
 ![Friday night atmosphere in a Mayfair venue](/gallery/images/fe4414_7e0c5fccc4df450b9768212992d7be38.jpg)
 

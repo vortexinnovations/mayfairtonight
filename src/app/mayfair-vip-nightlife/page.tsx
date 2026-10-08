@@ -507,7 +507,7 @@ export default function MayfairVIPPage() {
                   premium experience with easier access than the established
                   names. The cocktail programme is impressive, the house music
                   is tasteful, and the crowd is discerning. One of the
-                  smartest VIP bookings in Mayfair right now.
+                  smartest VIP bookings in and around Mayfair right now.
                 </p>
               </div>
               <div className="bg-dark-card border border-dark-border rounded-xl p-5">

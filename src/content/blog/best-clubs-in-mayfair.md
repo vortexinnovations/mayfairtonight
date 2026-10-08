@@ -89,13 +89,13 @@ We go out in Mayfair every week. We know which clubs deliver and which ones coas
 
 ### 12. BEAT London — The Sound System
 
-[BEAT](/clubs/beat-london) is a pure nightclub experience. No gimmicks, no shows — just a serious sound system and a crowd that's there to dance. The bass hits different here.
+[BEAT](/clubs/beat-london) is a pure nightclub experience. No gimmicks, no shows — just a serious sound system and a crowd that's there to dance. The bass hits different here. It sits on Margaret Street in Fitzrovia, a short walk north of Mayfair.
 
 **Best for:** Music-first people who want to dance, not pose.
 
 ### 13. Selene London — The Elegant Newcomer
 
-[Selene London](/clubs/selene-london) is the refined new addition to the London club scene. The venue is beautifully designed with an emphasis on atmosphere and sophistication. The music spans house and commercial, and the crowd skews stylish and discerning.
+[Selene London](/clubs/selene-london) is the refined new addition to the London club scene, just north of Oxford Circus in Fitzrovia. The venue is beautifully designed with an emphasis on atmosphere and sophistication. The music spans house and commercial, and the crowd skews stylish and discerning.
 
 **Best for:** People who want an elegant night out with a more curated crowd.
 

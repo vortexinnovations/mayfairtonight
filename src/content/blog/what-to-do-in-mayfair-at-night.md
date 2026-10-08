@@ -58,7 +58,7 @@ Check our [full club rankings](/blog/best-clubs-in-mayfair) or [where to go toni
 
 ## The All-Night Option
 
-Most Mayfair clubs close between 3:00 and 3:30am. If you want to stretch the night, [Selene London](/clubs/selene-london) keeps the energy going with late-night house sets in a sleek, low-lit space. The crowd is tuned in and the vibe stays locked until the very end.
+Most Mayfair clubs close between 3:00 and 3:30am. If you want to stretch the night, [Selene London](/clubs/selene-london), just north of Oxford Circus, stays open until 4am with late-night house sets in a sleek, low-lit space. The crowd is tuned in and the vibe stays locked until the very end.
 
 ## Planning Your Evening
 

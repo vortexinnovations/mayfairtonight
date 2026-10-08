@@ -115,7 +115,7 @@ export const nights: NightInfo[] = [
     vibe: "After-party, extended weekend, wind-down or keep going",
     bestFor: "Night owls, after-party seekers, those extending a big Saturday",
     recommendation:
-      "Sunday has three reliable options in Mayfair. Tape London runs on Sundays — one of the only proper Sunday club nights in central London. Dear Darling is also open, offering cocktails and a bar atmosphere that carries late into the night. Selene opens on Sundays too, a refined choice for house music and cocktails. Between these three, Sunday in Mayfair is better than its reputation suggests.",
+      "Sunday has three reliable options in and around Mayfair. Tape London runs on Sundays — one of the only proper Sunday club nights in central London. Dear Darling is also open, offering cocktails and a bar atmosphere that carries late into the night. Selene, just north of Oxford Circus, opens on Sundays too, a refined choice for house music and cocktails. Between these three, Sunday in Mayfair is better than its reputation suggests.",
   },
 ];
 

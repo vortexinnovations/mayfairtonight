@@ -1,7 +1,7 @@
 ---
 title: "Best New Clubs in Mayfair — Where to Go in 2026"
 metaTitle: "Best New Clubs in Mayfair 2026"
-metaDescription: "The newest and most exciting nightclubs in Mayfair right now. From Luna Club to Selene, plus how the established venues are keeping up in 2026."
+metaDescription: "The newest and most exciting nightclubs in and around Mayfair right now. From Luna Club to Selene, plus how the established venues are keeping up in 2026."
 date: "2026-03-25"
 excerpt: "Mayfair's nightlife scene has fresh blood. Here are the newest clubs worth your time in 2026, plus the established venues that refuse to be outshone."
 category: "Club Guides"
@@ -29,7 +29,7 @@ Read our full [Luna Club London review](/blog/luna-club-london-review).
 
 ### Selene London
 
-[Selene London](/clubs/selene-london) takes a completely different approach to Luna. Where Luna is sleek and contemporary, Selene is elegant and refined. The Greek goddess-inspired design is subtle and beautiful — golds, creams, and deep midnight tones throughout.
+[Selene London](/clubs/selene-london), just north of Oxford Circus in Fitzrovia, takes a completely different approach to Luna. Where Luna is sleek and contemporary, Selene is elegant and refined. The Greek goddess-inspired design is subtle and beautiful — golds, creams, and deep midnight tones throughout.
 
 The standout here is the cocktail programme. Selene takes its drinks seriously, and it shows. The music leans house and commercial, building from ambient to full dance floor energy as the night progresses. It's attracted a slightly more mature, sophisticated crowd — people who want quality over chaos.
 

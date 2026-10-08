@@ -1,9 +1,9 @@
 ---
-title: "Selene London — Refined Elegance in Mayfair"
-metaTitle: "Selene London — Refined Elegance in Mayfair"
-metaDescription: "The insider guide to Selene London. Greek goddess-inspired interiors, a serious cocktail programme, and one of Mayfair's most elegant new nightlife experiences."
+title: "Selene London — Refined Elegance Just North of Mayfair"
+metaTitle: "Selene London — Refined Elegance Just North of Mayfair"
+metaDescription: "The insider guide to Selene London. Greek goddess-inspired interiors, a serious cocktail programme, and one of the most elegant new nightlife experiences just north of Mayfair."
 date: "2026-03-25"
-excerpt: "Selene London brings a different energy to Mayfair nightlife. Elegant, refined, and effortlessly sophisticated — here's everything you need to know."
+excerpt: "Selene London brings a different energy to the West End, just north of Mayfair. Elegant, refined, and effortlessly sophisticated — here's everything you need to know."
 category: "Club Guides"
 tags: ["Selene London", "Selene Mayfair", "Selene nightclub", "new clubs Mayfair"]
 readingTime: "5 min read"
@@ -13,7 +13,7 @@ readingTime: "5 min read"
 
 Not every night out needs to be chaotic. Sometimes you want somewhere beautiful, sophisticated, and genuinely well put together. Somewhere the cocktails are as good as the music. Somewhere that feels special without trying too hard.
 
-That's [Selene London](/clubs/selene-london).
+That's [Selene London](/clubs/selene-london), at 4 Winsley Street in Fitzrovia, just north of Oxford Circus and a short walk from Mayfair. The nearest Tube station is Oxford Circus.
 
 ## The Concept
 
@@ -57,11 +57,11 @@ It's the kind of place where you'll have an actual conversation between drinks a
 
 Selene's crowd dresses well and the venue expects the same. Smart is the minimum. Cocktail attire works perfectly — think of it as dressing for an upscale bar that happens to have a dance floor.
 
-No trainers, no casual wear. This is one of Mayfair's more refined rooms and the dress code reflects that.
+No trainers, no casual wear. This is one of the West End's more refined rooms and the dress code reflects that.
 
 ## Selene vs Dear Darling
 
-The natural comparison is [Dear Darling](/clubs/dear-darling), which also occupies that sophisticated bar-meets-late-night space in Mayfair.
+The natural comparison is [Dear Darling](/clubs/dear-darling), which occupies that sophisticated bar-meets-late-night space in Mayfair itself.
 
 Both venues prioritise elegance and cocktails over pure nightclub energy. Both attract a more mature crowd. The difference comes down to feel.
 

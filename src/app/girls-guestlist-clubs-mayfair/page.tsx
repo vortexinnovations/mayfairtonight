@@ -72,7 +72,7 @@ const girlsClubs: GirlsClub[] = [
     slug: "selene-london",
     tagline: "Refined & Elegant",
     whyItWorks:
-      "Selene is the smart choice for groups who want premium without the difficulty of getting into the older established names. The house music is tasteful, the cocktails rival dedicated bars, and the crowd is sophisticated. It's still building its reputation, which means your group gets treated exceptionally well. The staff go out of their way to make your night special.",
+      "Selene, just north of Oxford Circus, is the smart choice for groups who want premium without the difficulty of getting into the older established names. The house music is tasteful, the cocktails rival dedicated bars, and the crowd is sophisticated. It's still building its reputation, which means your group gets treated exceptionally well. The staff go out of their way to make your night special.",
     guestlist:
       "Straightforward guestlist process. Book through a promoter, arrive before midnight. One of the easier premium venues to access for all-female groups.",
     dressTips:

@@ -131,7 +131,7 @@ const tableClubs: TableClub[] = [
     slug: "selene-london",
     tagline: "Refined",
     experience:
-      "Selene offers a refined, elegant table experience that rivals venues with years more heritage. The cocktails are serious, the house music is tasteful, and the crowd is discerning without being pretentious. It's still building its reputation, which means tables are easier to book than the established names — a smart move right now.",
+      "Selene, just north of Oxford Circus, offers a refined, elegant table experience that rivals venues with years more heritage. The cocktails are serious, the house music is tasteful, and the crowd is discerning without being pretentious. It's still building its reputation, which means tables are easier to book than the established names — a smart move right now.",
     layout:
       "Elegant room with well-spaced booths that offer genuine privacy. The design is sophisticated and the lighting creates an intimate atmosphere.",
     included:

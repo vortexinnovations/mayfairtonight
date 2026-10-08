@@ -181,7 +181,7 @@ const clubDressCodes: ClubDressCode[] = [
       "Anything that looks rushed",
     ],
     insiderTip:
-      "Selene is building a reputation for refined elegance. The crowd dresses well because they want to, not because they have to. Match the energy — think quality cocktail bar with a late-night edge.",
+      "Selene, just north of Oxford Circus, is building a reputation for refined elegance. The crowd dresses well because they want to, not because they have to. Match the energy — think quality cocktail bar with a late-night edge.",
   },
   {
     name: "BEAT London",
@@ -200,7 +200,7 @@ const clubDressCodes: ClubDressCode[] = [
       "Basic t-shirts without layers",
     ],
     insiderTip:
-      "BEAT attracts a younger, fashion-aware crowd. The dress code is not as strict as Tape or Scotch but you still need to look like you have put thought into your outfit. Style matters more than price tags.",
+      "BEAT, on Margaret Street just north of Mayfair, attracts a younger, fashion-aware crowd. The dress code is not as strict as Tape or Scotch but you still need to look like you have put thought into your outfit. Style matters more than price tags.",
   },
 ];
 

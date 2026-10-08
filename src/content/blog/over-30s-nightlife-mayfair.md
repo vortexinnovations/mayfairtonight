@@ -37,7 +37,7 @@ The cocktail programme is serious, the staff are knowledgeable, and the bar itse
 
 ### 4. Selene London — Elegant and Considered
 
-[Selene London](/clubs/selene-london) appeals to the aesthetically minded. The interiors are beautiful, the lighting is carefully designed, and the overall experience feels curated rather than chaotic. The crowd appreciates this — you'll find well-dressed professionals who chose Selene deliberately.
+[Selene London](/clubs/selene-london), just north of Oxford Circus, appeals to the aesthetically minded. The interiors are beautiful, the lighting is carefully designed, and the overall experience feels curated rather than chaotic. The crowd appreciates this — you'll find well-dressed professionals who chose Selene deliberately.
 
 ### 5. Tape London — If You Have the Connection
 

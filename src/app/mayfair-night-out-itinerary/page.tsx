@@ -154,7 +154,7 @@ export default function ItineraryPage() {
               </div>
               <div>
                 <p className="text-gold font-semibold mb-1">12:30am — <Link href="/clubs/scotch-of-st-james" className="text-gold hover:text-gold-light">Scotch of St James</Link> or <Link href="/clubs/selene-london" className="text-gold hover:text-gold-light">Selene London</Link></p>
-                <p className="text-sm text-gray-300">For a late-night change of scene, Scotch of St James offers a members-club intimacy with a loyal crowd. Selene is newer, elegant, and welcoming. Both are within walking distance of Maddox on the Dover Street strip.</p>
+                <p className="text-sm text-gray-300">For a late-night change of scene, Scotch of St James offers a members-club intimacy with a loyal crowd. Selene is newer, elegant, and welcoming, a short walk north across Oxford Street. Both are within walking distance of Maddox.</p>
               </div>
               <div className="border-t border-dark-border pt-3 mt-3">
                 <div className="grid grid-cols-2 gap-4 text-sm">
@@ -238,7 +238,7 @@ export default function ItineraryPage() {
               <div className="bg-dark-card border border-dark-border rounded-lg p-4">
                 <h3 className="text-gold font-semibold mb-2">Club Clusters</h3>
                 <ul className="text-sm space-y-1">
-                  <li>• <strong>Dover Street area:</strong> Scotch, Dear Darling, Maddox, Selene — all within 5 min</li>
+                  <li>• <strong>Dover Street area:</strong> Scotch, Dear Darling, Maddox — all within 5 min; Selene is a short walk north across Oxford Street</li>
                   <li>• <strong>Piccadilly:</strong> Reign London, next to Piccadilly Circus</li>
                   <li>• <strong>Soho border:</strong> Cirque Le Soir, The Box — 10 min walk from Mayfair core</li>
                 </ul>

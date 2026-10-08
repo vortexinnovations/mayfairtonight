@@ -348,7 +348,7 @@ export const clubs: Club[] = [
     vibe: "Intimate, French-inspired, art-meets-nightclub",
     insiderTip: "Maison Close has closed.",
     whatToExpect:
-      "Maison Close has closed. For house music in an intimate, dressed-up Mayfair room, try Maddox, Selene London or Scotch of St James.",
+      "Maison Close has closed. For house music in an intimate, dressed-up room in or near Mayfair, try Maddox, Selene London or Scotch of St James.",
     bestFor: "This venue has closed",
     status: "closed",
     closedMessage:
@@ -361,14 +361,14 @@ export const clubs: Club[] = [
   {
     slug: "libertine",
     name: "Libertine",
-    tagline: "Sophisticated and futuristic Mayfair nightlife",
+    tagline: "Sophisticated and futuristic nightlife near Oxford Circus",
     description:
-      "Libertine was a sleek, modern nightclub in the heart of Mayfair known for its futuristic design, LED panels, and cutting-edge sound system. The music leaned hip-hop and RnB, the crowd was young and affluent, and the atmosphere was electric. Libertine was one of Mayfair's most popular clubs during its run.",
-    location: "Mayfair",
-    area: "Mayfair",
+      "Libertine was a sleek, modern nightclub on Winsley Street in Fitzrovia, just north of Oxford Circus, known for its futuristic design, LED panels, and cutting-edge sound system. The music leaned hip-hop and RnB, the crowd was young and affluent, and the atmosphere was electric. Libertine was one of the West End's most popular clubs during its run.",
+    location: "4 Winsley Street, Fitzrovia, London W1W 8HF",
+    area: "Fitzrovia",
     musicPolicy: ["Hip-Hop", "RnB", "Commercial"],
     dressCode: "Smart dress code.",
-    dressCodeNotes: "Standard Mayfair smart dress code.",
+    dressCodeNotes: "Standard West End smart dress code.",
     tableMinimum: "£1,000",
     openNights: [],
     openingTime: "22:30",

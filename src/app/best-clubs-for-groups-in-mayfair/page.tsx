@@ -87,7 +87,7 @@ const groupRecommendations: GroupRecommendation[] = [
       {
         name: "BEAT London",
         slug: "beat-london",
-        why: "Pure party energy with a younger, high-energy crowd. BEAT does not overthink it — the music is loud, the lights are dynamic, and the atmosphere is built for groups who want to dance. Good value tables compared to the bigger Mayfair names make it a smart choice for larger groups watching the budget.",
+        why: "Pure party energy on Margaret Street, just north of Mayfair, with a younger, high-energy crowd. BEAT does not overthink it — the music is loud, the lights are dynamic, and the atmosphere is built for groups who want to dance. Good value tables compared to the bigger Mayfair names make it a smart choice for larger groups watching the budget.",
         guestlistOrTables:
           "Guestlist works well. Tables offer great value for the area — more room to celebrate without the premium pricing of the established names. Ideal for groups of 8-12 who want a VIP experience at a reasonable cost.",
         approxGroupCost:

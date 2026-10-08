@@ -54,14 +54,14 @@ This is less of a factor if you have a table booked. A booking overrides most ot
 
 - **[Funky Buddha](/clubs/funky-buddha)** — Firm but fair. Dress smart and you'll get in, especially with a guestlist.
 - **[Cuckoo Club](/clubs/cuckoo-club)** — One of the more accessible Mayfair clubs. Guestlist recommended on weekends.
-- **[BEAT London](/clubs/beat-london)** — More relaxed door than most. Music-first venue.
+- **[BEAT London](/clubs/beat-london)** — More relaxed door than most. Music-first venue on Margaret Street in Fitzrovia, just north of Mayfair.
 - **[The Box](/clubs/the-box-london)** — More exclusive than most on this tier. Table bookings or guestlist strongly recommended.
 - **[Dear Darling](/clubs/dear-darling)** — Cocktail bar door — smart dress is enough.
 - **[Scotch of St James](/clubs/scotch-of-st-james)** — Elegant crowd but reasonable door.
 
 ### Worth Knowing
 
-- **[Selene London](/clubs/selene-london)** — Newer venue with a welcoming but curated door. Smart dress and a guestlist will see you through.
+- **[Selene London](/clubs/selene-london)** — Newer venue just north of Oxford Circus, with a welcoming but curated door. Smart dress and a guestlist will see you through.
 
 ## What Time to Arrive
 

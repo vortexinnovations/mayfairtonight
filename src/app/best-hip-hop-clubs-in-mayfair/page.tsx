@@ -64,7 +64,7 @@ const hipHopClubs: HipHopClub[] = [
     guestlistOrTables:
       "Guestlist works well. Tables are good value compared to the bigger Mayfair names. Solid option for groups who want a VIP experience without the premium price tag.",
     verdict:
-      "The newest hip-hop contender in Mayfair. BEAT brings raw energy and a younger crowd. If the established names feel too refined, BEAT strips it back to what matters — good music and a packed dance floor.",
+      "The newest hip-hop contender just north of Mayfair, on Margaret Street in Fitzrovia. BEAT brings raw energy and a younger crowd. If the established names feel too refined, BEAT strips it back to what matters — good music and a packed dance floor.",
   },
   {
     rank: 3,

@@ -158,7 +158,7 @@ const rankedClubs: RankedClub[] = [
     slug: "selene-london",
     category: "Best Newcomer",
     verdict:
-      "Selene has quickly carved out a niche for refined, elegant nightlife. The cocktail menu rivals dedicated bars, the house music is tasteful, and the crowd is more discerning than most Mayfair venues. It's still building its reputation, which makes it one of the smartest bookings right now — premium experience, easier access.",
+      "Selene, just north of Oxford Circus in Fitzrovia, has quickly carved out a niche for refined, elegant nightlife. The cocktail menu rivals dedicated bars, the house music is tasteful, and the crowd is more discerning than most Mayfair venues. It's still building its reputation, which makes it one of the smartest bookings right now — premium experience, easier access.",
     strengths: [
       "Refined and elegant atmosphere",
       "Impressive cocktail programme",

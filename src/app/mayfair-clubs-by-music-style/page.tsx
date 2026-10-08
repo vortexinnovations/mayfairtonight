@@ -186,7 +186,7 @@ const faqs = [
   {
     question: "What does open format mean at a nightclub?",
     answer:
-      "Open format means the DJ plays across multiple genres rather than sticking to one. They might blend hip-hop into house, throw in a pop remix, then switch to a classic anthem. Reign London and BEAT London are the main open-format venues in Mayfair. It's designed to keep a mixed crowd happy rather than catering to genre purists.",
+      "Open format means the DJ plays across multiple genres rather than sticking to one. They might blend hip-hop into house, throw in a pop remix, then switch to a classic anthem. Reign London and BEAT London are the main open-format venues in and around Mayfair. It's designed to keep a mixed crowd happy rather than catering to genre purists.",
   },
 ];
 

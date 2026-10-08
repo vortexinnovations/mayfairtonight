@@ -222,7 +222,7 @@ export default function WhereToGoOutPage() {
                   <span className="text-gold text-sm ml-2">The Elegant Pick</span>
                 </h3>
                 <p className="text-sm text-gray-300">
-                  Refined house music in a beautifully designed space.
+                  Refined house music in a beautifully designed space just north of Oxford Circus.
                   Impressive cocktail programme. Still building its reputation
                   so access is easier than the big names.
                 </p>

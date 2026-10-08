@@ -93,7 +93,7 @@ Skip the hassle. [Message us on WhatsApp](/contact) with your date, group size, 
 
 7. **If you want house music, go to Maddox.** It's the best house music room in Mayfair, and the Italian restaurant upstairs is genuinely excellent.
 
-8. **Try Selene London for a different house music experience.** It's a sleek newcomer with a serious sound system and a crowd that actually cares about the music.
+8. **Try Selene London for a different house music experience.** It's a sleek newcomer just north of Oxford Circus, with a serious sound system and a crowd that actually cares about the music.
 
 ## Still Need Help?
 

@@ -18,9 +18,9 @@ export const metadata: Metadata = {
 };
 
 const faqs = [
-  { question: "Which area of Mayfair has the most clubs?", answer: "The Dover Street and Mayfair core area has the highest density. Scotch of St James, Dear Darling, Maddox, and Selene London are all within a five-minute walk of each other. You could visit three venues in one night without ever needing a taxi." },
+  { question: "Which area of Mayfair has the most clubs?", answer: "The Dover Street and Mayfair core area has the highest density. Scotch of St James, Dear Darling and Maddox are all within a five-minute walk of each other, and Selene London is a short walk north across Oxford Street. You could visit three venues in one night without ever needing a taxi." },
   { question: "Can I walk between all the Mayfair clubs?", answer: "Most of them, yes. The furthest walk is from Berkeley Square to Cirque Le Soir near Soho, which takes about 12-15 minutes. Everything else is within 5-10 minutes on foot. Mayfair is compact and safe to walk at night." },
-  { question: "Which tube station is best for Mayfair nightlife?", answer: "Green Park is the most central for Berkeley Square venues. Bond Street works for Dover Street clubs. Piccadilly Circus is ideal for Reign. Oxford Circus is closest to BEAT London. All close around midnight, so plan your return journey by taxi or ride-hail." },
+  { question: "Which tube station is best for Mayfair nightlife?", answer: "Green Park is the most central for Berkeley Square venues. Bond Street works for Dover Street clubs. Piccadilly Circus is ideal for Reign. Oxford Circus is closest to BEAT London and Selene London. All close around midnight, so plan your return journey by taxi or ride-hail." },
   { question: "Is it safe to walk around Mayfair at night?", answer: "Very safe. Mayfair is one of London's most affluent and well-patrolled neighbourhoods. The streets are well-lit, there are people around throughout the night, and the distances between clubs are short. Standard city awareness applies, but Mayfair is about as safe as it gets." },
   { question: "Where can I eat after clubbing in Mayfair?", answer: "Late-night options include spots around Shepherd Market for casual bites, the kebab and pizza places along Piccadilly, and a few restaurants near Berkeley Square that serve until the early hours. Some hotel restaurants also offer late-night menus." },
 ];
@@ -123,7 +123,7 @@ export default function NightlifeAreasPage() {
                 </div>
               </div>
               <div className="border-t border-dark-border pt-3">
-                <p className="text-sm text-dark-muted"><strong>The route:</strong> Start at Dear Darling for cocktails. Walk two minutes to Maddox for dinner and dancing. Scotch of St James is a five-minute stroll through the backstreets. Selene is nearby on the same circuit.</p>
+                <p className="text-sm text-dark-muted"><strong>The route:</strong> Start at Dear Darling for cocktails. Walk two minutes to Maddox for dinner and dancing. Scotch of St James is a five-minute stroll through the backstreets. Selene is a short walk north across Oxford Street, just past Oxford Circus.</p>
                 <p className="text-sm text-dark-muted mt-1"><strong>The vibe:</strong> Sophisticated and varied. This is Mayfair at its most complete — every element of a great night within walking distance.</p>
               </div>
             </div>
@@ -233,7 +233,7 @@ export default function NightlifeAreasPage() {
                 <li>• <strong>Green Park</strong> — Best for Berkeley Square and Dear Darling</li>
                 <li>• <strong>Bond Street</strong> — Best for Hanover Square, Tape London, Dover Street clubs</li>
                 <li>• <strong>Piccadilly Circus</strong> — Best for Reign and the Soho border</li>
-                <li>• <strong>Oxford Circus</strong> — Best for BEAT London and northern approach to Mayfair</li>
+                <li>• <strong>Oxford Circus</strong> — Best for BEAT London, Selene and the northern approach to Mayfair</li>
               </ul>
               <p className="text-xs text-dark-muted mt-2">All stations close around midnight on most nights. Friday and Saturday Night Tube services run on some lines — check before you go.</p>
             </div>

@@ -23,7 +23,7 @@ This makes Dear Darling ideal for groups who don't want the logistics of moving 
 
 ## Selene London — Cocktails Before House Music
 
-[Selene London](/clubs/selene-london) occupies similar territory. Sophisticated cocktails in an elegant setting, with the room evolving into a proper late-night venue as the hours pass. If your evening is heading toward house music and a more refined crowd, Selene is the natural starting point.
+[Selene London](/clubs/selene-london), a short walk north across Oxford Street in Fitzrovia, occupies similar territory. Sophisticated cocktails in an elegant setting, with the room evolving into a proper late-night venue as the hours pass. If your evening is heading toward house music and a more refined crowd, Selene is the natural starting point.
 
 The cocktail menu is genuinely good — not just functional pre-drinks but proper craft cocktails worth ordering on their own merits. This is where you come when you want the pre-club phase to feel like an experience, not just a waiting room.
 

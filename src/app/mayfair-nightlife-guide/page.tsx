@@ -516,7 +516,7 @@ export default function MayfairNightlifeGuidePage() {
                 <Link href="/clubs/selene-london" className="text-gold hover:text-gold-light">
                   Selene London
                 </Link>{" "}
-                is an easy first Mayfair experience: an accessible guestlist
+                is an easy first stop, just north of Oxford Circus: an accessible guestlist
                 and a refined room.{" "}
                 <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">
                   Reign London
