@@ -1,5 +1,5 @@
 ---
-title: "The 13 Best Clubs in Mayfair — Ranked by People Who Actually Go"
+title: "The 11 Best Clubs in Mayfair — Ranked by People Who Actually Go"
 metaTitle: "Best Clubs in Mayfair 2026 — Ranked & Reviewed"
 metaDescription: "The definitive ranking of Mayfair's best nightclubs in 2026. Honest reviews from people who go out every week — not a press release in sight."
 date: "2026-03-20"
@@ -39,61 +39,49 @@ We go out in Mayfair every week. We know which clubs deliver and which ones coas
 
 **Best for:** Special occasions. If you want your night to feel like an event, this is the one.
 
-### 4. Funky Buddha — The Mayfair Legend
+### 4. Rumour (formerly TABU London) — The Cool One
 
-[Funky Buddha](/clubs/funky-buddha) is one of Mayfair's most storied venues, and it still pulls. The room is intimate but the energy is big — packed dance floors, quality DJs, and a crowd that's there for a proper night out. It walks the line between exclusive and accessible better than almost anywhere.
-
-**Best for:** Groups who want guaranteed high energy and a genuine Mayfair atmosphere without the ultra-exclusive price tag of Tape.
-
-### 5. TABU London — The Cool One
-
-[TABU](/clubs/tabu-london) brings something different to Mayfair. The Japanese underground theme, the moody lighting, the fashion-forward crowd — it's cooler and more composed than the big party clubs. Thursday nights here are particularly good.
+Rumour has taken over the former TABU London space on Dover Street and is open Wednesday to Saturday. TABU was known for a dark, moody room and a fashion-forward crowd, and this corner of Mayfair is still the cooler, more composed alternative to the big party clubs. Ask us what the music is on the night you want.
 
 **Best for:** Fashion-conscious people who want atmosphere over chaos.
 
-### 6. Maddox — The Grown-Up Night Out
+### 5. Maddox — The Grown-Up Night Out
 
 [Maddox](/clubs/maddox) is the only venue on this list where the restaurant is genuinely as good as the club. Start with Italian fine dining, then walk downstairs to one of Mayfair's best house music rooms. The crowd is older and more sophisticated.
 
 **Best for:** Couples and groups who want dinner and dancing under one roof.
 
-### 7. The Box — The Boundary-Pushing One
+### 6. The Box — The Boundary-Pushing One
 
 [The Box](/clubs/the-box-london) is not for the faint-hearted. London's most provocative nightclub delivers theatrical performances that push every boundary imaginable. The shows are daring, the crowd is fashion-forward, and the energy is unlike anything else in the city.
 
 **Best for:** Adventurous groups who want a night they'll be talking about for weeks.
 
-### 8. Luna Club London — The Sleek New Arrival
-
-[Luna Club London](/clubs/luna-club-london) brings a fresh, refined energy to Mayfair nightlife. The design is sleek and modern, the lighting is atmospheric, and the music policy leans open format with quality hip-hop and commercial selections. It's already earned a loyal following.
-
-**Best for:** Those who want a polished night out at one of Mayfair's newest venues.
-
-### 9. Scotch of St James — The History
+### 7. Scotch of St James — The History
 
 [Scotch](/clubs/scotch-of-st-james) has been a Mayfair institution since the 1960s. The heritage is real — and the intimate room still delivers elegant, quality nights. Thursday is particularly good here.
 
 **Best for:** People who appreciate history and intimate venues over big-room energy.
 
-### 10. Cuckoo Club — The Two-for-One
+### 8. 99 Regent Street (formerly Cuckoo Club) — The Two-for-One
 
-[Cuckoo Club](/clubs/cuckoo-club) gives you two floors with two different vibes. House downstairs, hip-hop up. It's versatile, reliable, and one of the more sociable clubs in Mayfair.
+The old Cuckoo Club building off Regent Street now trades as 99 Regent Street, open Wednesday to Saturday. Cuckoo built its name on two floors with two different vibes, house downstairs and hip-hop up, which made it one of the more sociable clubs in Mayfair. Ask us what each room is playing at the new venue on the night you want.
 
-**Best for:** Groups who can't agree on music — everyone gets what they want here.
+**Best for:** Groups who want a sociable night just off Regent Street.
 
-### 11. Dear Darling — The Bar That Goes Late
+### 9. Dear Darling — The Bar That Goes Late
 
 [Dear Darling](/clubs/dear-darling) is more high-end bar than nightclub, but it transitions beautifully into late-night energy. The cocktails are serious, the room is opulent, and it's the most civilised way to go out in Mayfair.
 
 **Best for:** Date nights and people who prefer cocktail bars to clubs.
 
-### 12. BEAT London — The Sound System
+### 10. BEAT London — The Sound System
 
 [BEAT](/clubs/beat-london) is a pure nightclub experience. No gimmicks, no shows — just a serious sound system and a crowd that's there to dance. The bass hits different here. It sits on Margaret Street in Fitzrovia, a short walk north of Mayfair.
 
 **Best for:** Music-first people who want to dance, not pose.
 
-### 13. Selene London — The Elegant Newcomer
+### 11. Selene London — The Elegant Newcomer
 
 [Selene London](/clubs/selene-london) is the refined new addition to the London club scene, just north of Oxford Circus in Fitzrovia. The venue is beautifully designed with an emphasis on atmosphere and sophistication. The music spans house and commercial, and the crowd skews stylish and discerning.
 

@@ -19,7 +19,7 @@ Mayfair has an embarrassment of riches when it comes to pre-club drinking. The t
 
 [Dear Darling](/clubs/dear-darling) is the most seamless pre-club option in Mayfair because it doesn't force you to leave. The venue transitions from cocktail bar to late-night destination as the evening progresses. Start with cocktails at 9pm, and by midnight the music has lifted and the room has transformed.
 
-This makes Dear Darling ideal for groups who don't want the logistics of moving between venues. It's also excellent for nights when you're undecided — start here and decide later whether to stay or move on to somewhere like [Cuckoo Club](/clubs/cuckoo-club) or [TABU London](/clubs/tabu-london), both within easy walking distance.
+This makes Dear Darling ideal for groups who don't want the logistics of moving between venues. It's also excellent for nights when you're undecided — start here and decide later whether to stay or move on to somewhere like 99 Regent Street (formerly Cuckoo Club) or Rumour (formerly TABU London), both within easy walking distance.
 
 ## Selene London — Cocktails Before House Music
 
@@ -53,11 +53,7 @@ Planning your route matters. Mayfair is walkable, but some combinations flow bet
 
 **The Connaught Bar → [Scotch of St James](/clubs/scotch-of-st-james):** A five-minute walk. Both venues share a sophisticated, understated character. This is the refined route.
 
-**Dear Darling → [Funky Buddha](/clubs/funky-buddha):** Stay at Dear Darling until you're ready, then walk to Berkeley Street. The shift from cocktail lounge to dance floor feels natural.
-
 **Claridge's Bar → [Tape London](/clubs/tape-london):** Maximum glamour from start to finish. Dress accordingly.
-
-**Selene London → [Luna Club London](/clubs/luna-club-london):** Both venues attract a house music crowd with refined taste. The evening has a coherent thread.
 
 **The Beaumont → [Maddox](/clubs/maddox):** Quick walk south, works well for groups who want dinner-adjacent energy before a proper club.
 

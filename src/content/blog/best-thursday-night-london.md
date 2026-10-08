@@ -39,13 +39,13 @@ Weekend tables sell out fast. Thursday tables are more available, which means be
 
 ## Where to Go This Thursday
 
-### For Fashion & Cool: [TABU London](/clubs/tabu-london)
+### For Fashion & Cool: Rumour (formerly TABU London)
 
-TABU's Thursday night is one of the best in the area. The fashion crowd comes out, the music is on point, and the Japanese underground atmosphere is at its moodiest and best.
+Rumour has taken over TABU London's old space on Dover Street and opens Wednesday to Saturday, so Thursday is on. TABU's Thursdays drew the fashion crowd, and this is still the stylish, moodier corner of the Mayfair map. Ask us what the music is this week.
 
-### For a Party: [Funky Buddha](/clubs/funky-buddha)
+### For Something New: Itzel
 
-Funky Buddha is a Mayfair institution that knows how to deliver a Thursday night. The crowd skews stylish, the music hits hard, and the dance floor has a loose, celebratory energy that makes midweek feel like the weekend.
+Itzel has opened at 15 Berkeley Street, the former Funky Buddha address, and runs Thursday to Saturday. Thursday is a good night to try a new room before the weekend crowds arrive; message us and we will tell you what is on.
 
 ### For a Show: [Reign London](/clubs/reign-london)
 
@@ -59,9 +59,9 @@ Thursday at Scotch is particularly good. The intimate room fills up nicely, the 
 
 Start with dinner, transition to house music downstairs. Thursday at Maddox has a more relaxed, sophisticated crowd than the weekend rush.
 
-### For Two Vibes: [Cuckoo Club](/clubs/cuckoo-club)
+### For Two Vibes: 99 Regent Street (formerly Cuckoo Club)
 
-House downstairs, hip-hop up. Thursday at Cuckoo is sociable and fun — the kind of night where you end up talking to strangers and making plans for the weekend.
+The old Cuckoo Club building now trades as 99 Regent Street, open Wednesday to Saturday. Cuckoo was known for house downstairs and hip-hop up; ask us how the rooms are split at the new venue on the Thursday you want.
 
 ## Thursday Night Checklist
 

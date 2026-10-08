@@ -23,11 +23,11 @@ Here's what's close and what's worth your time.
 
 **Open:** Tuesday, Thursday, Friday, Saturday from 22:00.
 
-### Cuckoo Club
+### 99 Regent Street (formerly Cuckoo Club)
 
-[Cuckoo Club](/clubs/cuckoo-club) sits on Swallow Street, which runs directly off Piccadilly. Two minutes from the circus, two floors of different music. House downstairs, hip-hop up. Easy to find, easy to get into with a guestlist.
+The old Cuckoo Club building on Swallow Street, which runs directly off Piccadilly, now trades as 99 Regent Street. Two minutes from the circus and easy to find. Cuckoo was known for two floors of different music, house downstairs and hip-hop up; ask us what the new venue is playing on your night.
 
-**Open:** Wednesday to Saturday from 22:00.
+**Open:** Wednesday to Saturday.
 
 ### Dear Darling
 
@@ -37,17 +37,17 @@ Here's what's close and what's worth your time.
 
 ## Within 10 Minutes
 
-### Funky Buddha
+### Itzel
 
-[Funky Buddha](/clubs/funky-buddha) is a short walk into Mayfair. A legendary name in London nightlife, with a loyal crowd and an atmosphere that blends glamour with genuine fun. If you want a proper party with pedigree, Funky Buddha delivers.
+Itzel has opened at 15 Berkeley Street, the former Funky Buddha address, a short walk into Mayfair from Piccadilly. It is one of the area's newest rooms; message us and we will tell you what is on.
 
-**Open:** Wednesday to Saturday from 22:30.
+**Open:** Thursday to Saturday.
 
-### TABU London
+### Rumour (formerly TABU London)
 
-[TABU](/clubs/tabu-london) is in the heart of Mayfair, about an eight-minute walk from Piccadilly. The Japanese underground theme is unique, the crowd is fashion-forward, and Thursday nights are exceptional.
+Rumour has taken over the former TABU London space on Dover Street, in the heart of Mayfair and about an eight-minute walk from Piccadilly. TABU drew a fashion-forward crowd; ask us what Rumour is running on the night you want.
 
-**Open:** Wednesday to Saturday from 22:00.
+**Open:** Wednesday to Saturday.
 
 ### Tape London
 
@@ -75,9 +75,9 @@ Here's how we'd plan it:
 2. Walk towards Piccadilly
 3. Choose your venue based on what you want:
    - **Entertainment and shows:** Reign London (right on Piccadilly)
-   - **Quick party stop:** Cuckoo Club (Swallow Street, 2 minutes)
+   - **Quick party stop:** 99 Regent Street, formerly Cuckoo Club (Swallow Street, 2 minutes)
    - **Cocktails first:** Dear Darling (5 minutes into Mayfair)
-   - **Serious clubbing:** Funky Buddha or TABU (10 minutes into Mayfair)
+   - **Something new:** Itzel or Rumour (10 minutes into Mayfair)
    - **House music after dinner:** Maddox (10 minutes)
 
 ## Planning Your Night

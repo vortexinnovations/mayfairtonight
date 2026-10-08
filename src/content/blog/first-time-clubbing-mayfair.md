@@ -56,13 +56,9 @@ It's not cheap. But the experience justifies it — these are some of the best n
 
 Not every Mayfair club is right for your first time. Here's where we'd send you:
 
-### [Funky Buddha](/clubs/funky-buddha) — If You Want a Party
+### 99 Regent Street (formerly Cuckoo Club) — If You Want Options
 
-One of Mayfair's most iconic venues, with a packed dance floor and electric energy every weekend. The door is welcoming to well-dressed first-timers, the crowd is fun and sociable, and the DJs keep the hip-hop and RnB flowing all night.
-
-### [Cuckoo Club](/clubs/cuckoo-club) — If You Want Options
-
-Two floors, two vibes. House downstairs, hip-hop up. If your group can't agree on music, everyone wins here. The atmosphere is sociable and the venue is well laid out.
+The old Cuckoo Club building now trades as 99 Regent Street, open Wednesday to Saturday. Cuckoo made its name with two floors and two vibes, house downstairs and hip-hop up, which suits groups who cannot agree on music. Ask us how the new venue is splitting its rooms before you go.
 
 ### [Cirque Le Soir](/clubs/cirque-le-soir) — If You Want an Experience
 

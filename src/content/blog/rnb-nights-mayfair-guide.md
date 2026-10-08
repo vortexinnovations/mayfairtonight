@@ -24,8 +24,6 @@ Not every Mayfair club programmes R&B, and the ones that do take it seriously. T
 
 **Hush** is the one the locals know about. Tucked away on Lancashire Court, [Hush](/clubs/hush) programmes R&B, soul, and house across Thursday, Friday, and Saturday nights. The vibe is more intimate than the bigger rooms — think low lighting, strong cocktails, and a DJ who actually reads the floor. Thursday nights in particular tend to skew heavily R&B and soul, making it one of the best midweek options in the area.
 
-**Funky Buddha** has been a Mayfair fixture for years, and its reputation for hip-hop and R&B is well earned. [Funky Buddha](/clubs/funky-buddha) attracts a crowd that genuinely cares about the music, and the Friday and Saturday night sets regularly feature classic and contemporary R&B. The room is compact, which means the energy builds fast — by midnight, the dance floor is packed.
-
 **Juju** rounds out the R&B-friendly list with a house-meets-R&B sound that works surprisingly well. [Juju](/clubs/juju) is smaller and more relaxed, making it ideal for those nights where you want the music without the intensity of a mega-club.
 
 ![Mayfair nightlife scene with ambient club lighting](/gallery/images/fe4414_40f69356b6874f689a3ad2dbbb6930a6.jpg)
@@ -36,9 +34,9 @@ Timing matters. Here's how to plan your week if R&B is what you're after:
 
 **Tuesday**: Tape London dominates. The midweek session here is one of the most consistent R&B-leaning nights in all of London. Smaller crowd, better atmosphere. Check the [Tuesday night guide](/nights/tuesday) for what else is open.
 
-**Thursday**: Hush is your best bet. The soul-and-R&B-heavy programming on Thursdays makes it the standout. Chinawhite and MNKY HSE also open on Thursdays with broader playlists that include R&B in the mix.
+**Thursday**: Hush is your best bet. The soul-and-R&B-heavy programming on Thursdays makes it the standout. MNKY HSE also opens on Thursdays with a broader playlist that includes R&B in the mix.
 
-**Friday and Saturday**: Multiple options. Tape, Funky Buddha, and Hush all run strong weekend sessions. The crowd is bigger and the music typically shifts toward a hip-hop/R&B/Afrobeats blend — but the core R&B sound is always there.
+**Friday and Saturday**: Multiple options. Tape and Hush both run strong weekend sessions. The crowd is bigger and the music typically shifts toward a hip-hop/R&B/Afrobeats blend — but the core R&B sound is always there.
 
 For a full breakdown, see our [Mayfair nightclubs hub](/mayfair-nightclubs) or the night-by-night guides.
 

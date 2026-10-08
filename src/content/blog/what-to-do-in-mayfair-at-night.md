@@ -43,15 +43,15 @@ This is what Mayfair is famous for after dark. The clubs here are world-class â€
 
 ### By Music
 
-- **Hip-hop and RnB:** [Tape London](/clubs/tape-london), [TABU](/clubs/tabu-london), [Funky Buddha](/clubs/funky-buddha), [BEAT London](/clubs/beat-london)
-- **House music:** [Maddox](/clubs/maddox), [Cuckoo Club](/clubs/cuckoo-club) (downstairs)
+- **Hip-hop and RnB:** [Tape London](/clubs/tape-london), [BEAT London](/clubs/beat-london)
+- **House music:** [Maddox](/clubs/maddox), [Selene London](/clubs/selene-london)
 - **Mixed/commercial:** [The Box](/clubs/the-box-london), [Scotch of St James](/clubs/scotch-of-st-james)
 
 ### By Experience
 
 - **Entertainment and shows:** [Cirque Le Soir](/clubs/cirque-le-soir), [Reign London](/clubs/reign-london)
 - **Exclusive and intimate:** [Tape London](/clubs/tape-london), [Scotch of St James](/clubs/scotch-of-st-james)
-- **High energy party:** [Funky Buddha](/clubs/funky-buddha), [BEAT London](/clubs/beat-london)
+- **High energy party:** [BEAT London](/clubs/beat-london)
 - **Visual spectacle:** [The Box](/clubs/the-box-london)
 
 Check our [full club rankings](/blog/best-clubs-in-mayfair) or [where to go tonight guide](/where-to-go-tonight) for detailed recommendations.

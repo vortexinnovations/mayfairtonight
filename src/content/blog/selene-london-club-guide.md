@@ -37,7 +37,7 @@ Selene runs a mix of house and commercial music. It's not deep underground house
 
 The DJs build the energy gradually. Early in the evening it's smooth and atmospheric, perfect for drinks and conversation. By midnight the tempo lifts and the dance floor fills. It's a well-managed progression that rewards people who arrive early and stay late.
 
-If you prefer heavy hip-hop or RnB, [Funky Buddha](/clubs/funky-buddha) or [TABU](/clubs/tabu-london) will suit you better. Selene is for the house and commercial crowd.
+If you prefer heavy hip-hop or RnB, [Tape London](/clubs/tape-london) or [Cirque Le Soir](/clubs/cirque-le-soir) will suit you better. Selene is for the house and commercial crowd.
 
 ## The Crowd
 

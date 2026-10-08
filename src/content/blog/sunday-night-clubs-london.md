@@ -30,11 +30,9 @@ The intimate layout of Tape works exceptionally well on a quieter night. The boo
 
 ![Mayfair club interior on a relaxed Sunday night](/gallery/images/Tape-14.jpg)
 
-## Funky Buddha's Low-Key Sessions
+## Other Sunday Options
 
-[Funky Buddha](/clubs/funky-buddha) doesn't run a regular Sunday night, but when it does open — usually around bank holidays or special events — it's worth prioritising. The basement venue on Berkeley Street has an atmosphere that suits smaller crowds perfectly. The curved bar, the low ceilings, and the intimate dance floor all feel better when you're not shoulder-to-shoulder with hundreds of people.
-
-Keep an eye on their socials and check [London Clubs Tonight](https://londonclubstonight.com) for last-minute Sunday listings. When Funky Buddha does open on a Sunday, it tends to attract a loyal crowd of regulars rather than weekend tourists.
+[Dear Darling](/clubs/dear-darling) runs Thursday to Sunday, and its cocktail-bar format suits the slower pace of a Sunday. Just north of Oxford Circus in Fitzrovia, [Selene London](/clubs/selene-london) is also open Thursday to Sunday, from 11pm to 4am, for a house-led late finish.
 
 ---
 
@@ -64,7 +62,7 @@ Sunday attracts a different demographic. You'll see fewer large groups, more cou
 ## Frequently Asked Questions
 
 ### Q: Which clubs are open on Sunday nights in London?
-**A:** Tape London is the most reliable Mayfair option for Sunday nights. Funky Buddha opens on select Sundays, particularly around bank holidays. Always check listings before heading out, as Sunday schedules change week to week.
+**A:** Tape London is the most reliable Mayfair option for Sunday nights. Dear Darling and Selene London (11pm to 4am) also open on Sundays. Always check listings before heading out, as Sunday schedules change week to week.
 
 ### Q: Is the dress code different on a Sunday?
 **A:** The standard dress code still applies — smart casual to smart. Trainers, sportswear, and shorts will still get you turned away. However, door staff tend to be slightly less strict on Sundays compared to peak nights.

@@ -59,7 +59,7 @@ From a gallery walk down Albemarle Street to a full night across W1, we can help
 
 The street's anchor, and the reason it deserves a place in any Mayfair walk, is the Royal Institution at number 21. Behind its great columned facade, Humphry Davy and then Michael Faraday did the work that gave us much of our understanding of electricity, and Faraday's restored basement laboratory is preserved there as part of the Faraday Museum. The Christmas Lectures, which have been running since 1825, were founded here to explain science to a general audience, and they are still going.
 
-This is what gives an Albemarle Street evening a centre. Most Mayfair streets offer you shops and dinner; this one offers a genuine cultural institution with a public museum and an evening events programme. The Institution runs public talks through the year in its famous raked lecture theatre, and an evening lecture followed by dinner nearby is one of the more distinctive nights available in this part of London. From experience, an early event or a look at the museum before dinner turns a walk along this street into something with a proper spine, in exactly the way the cinema does for Curzon Street.
+This is what gives an Albemarle Street evening a centre. Most Mayfair streets offer you shops and dinner; this one offers a genuine cultural institution with a public museum and an evening events programme. The Institution runs public talks through the year in its famous raked lecture theatre, and an evening lecture followed by dinner nearby is one of the more distinctive nights available in this part of London. An early event or a look at the museum before dinner turns a walk along this street into something with a proper spine, in exactly the way the cinema does for Curzon Street.
 
 It is also, quietly, one of the most consequential addresses in London, and almost nobody walking past it in the evening seems to know. Standing outside on a dark evening, with the lamps on and the facade lit, it is worth remembering that the basic science behind the electric motor and the generator was worked out a few feet below the pavement you are standing on. Mayfair is not short of grand buildings, but very few of them changed the world.
 
@@ -67,13 +67,13 @@ It is also, quietly, one of the most consequential addresses in London, and almo
 
 ## The Hotel Corner
 
-Albemarle Street also holds one of London's grand old hotels, often described as the city's oldest, which has been taking guests here since the 1830s. Its bar is one of the most characterful rooms in Mayfair, and rather than repeat myself, I have written about it and its neighbours properly in my guide to [Mayfair's hotel bars](/blog/mayfair-hotel-bars). For the purposes of a walk along this street, the point is simply that Albemarle Street gives you somewhere genuinely good to end up without leaving it, which is more than most Mayfair streets manage.
+Albemarle Street also holds one of London's grand old hotels, often described as the city's oldest, which has been taking guests here since the 1830s. Its bar is one of the most characterful rooms in Mayfair, and rather than repeat ourselves, we cover it and its neighbours properly in our guide to [Mayfair's hotel bars](/blog/mayfair-hotel-bars). For the purposes of a walk along this street, the point is simply that Albemarle Street gives you somewhere genuinely good to end up without leaving it, which is more than most Mayfair streets manage.
 
 ## Character in the Details
 
 The street rewards a slow walk. It is often said that Albemarle Street became one of London's first one-way streets because the crowds arriving for Royal Institution lectures caused such congestion; whether or not the story is exact, it tells you something true about how much of a draw this address once was. The buildings are a mix of Georgian survivors and later commercial fronts, and the scale stays human the whole way up.
 
-I noticed long ago that Albemarle Street is where Mayfair keeps its seriousness. Bond Street is for spending, Berkeley Square is for occasions, and this street is for looking at things and thinking about them. In the hour after the working day empties out, the pavement goes quiet, the windows stay lit, and you get one of the best short walks in central London almost entirely to yourself.
+Albemarle Street is where Mayfair keeps its seriousness. Bond Street is for spending, Berkeley Square is for occasions, and this street is for looking at things and thinking about them. In the hour after the working day empties out, the pavement goes quiet, the windows stay lit, and you get one of the best short walks in central London almost entirely to yourself.
 
 ## Building the Evening
 

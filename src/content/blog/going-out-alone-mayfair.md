@@ -23,11 +23,11 @@ But Mayfair nightlife is designed around groups and tables, so some venues suit 
 
 Arrive around 9:30pm, take a seat at the bar, and order properly. You'll be in conversation within 20 minutes. As the evening progresses and the music picks up, the bar becomes a natural gathering point. Nobody will notice or care that you arrived alone.
 
-### Cuckoo Club — Sociable and Welcoming
+### 99 Regent Street (formerly Cuckoo Club) — Sociable and Welcoming
 
-[Cuckoo Club](/clubs/cuckoo-club) has an energy that absorbs solo visitors naturally. The crowd is friendly, the layout creates proximity, and the dance floor is the kind of place where strangers become friends. It's one of the more sociable venues in Mayfair.
+The old Cuckoo Club building now trades as 99 Regent Street, open Wednesday to Saturday. Cuckoo was one of the more sociable rooms in Mayfair, the kind of dance floor where strangers become friends, and a Wednesday or Thursday is the easiest time to try the new venue on your own.
 
-Guest list entry on a weeknight is straightforward. Arrive before 11pm, head to the bar, and let the atmosphere do the work.
+Guest list entry on a weeknight is the simplest route. Arrive before 11pm, head to the bar, and let the atmosphere do the work.
 
 ### Maddox — Dinner Transitions Naturally
 
@@ -57,7 +57,7 @@ This is the smartest strategy for anyone uncomfortable with walking into a club 
 
 ## Solo Traveller vs Solo Local
 
-**If you're visiting London:** Dear Darling and [Cuckoo Club](/clubs/cuckoo-club) are your best options. The cocktail bar format at Dear Darling is universally welcoming, and Cuckoo Club's sociable energy means you'll meet people quickly. Mention you're visiting — Londoners love recommending their city.
+**If you're visiting London:** Dear Darling is your best option. The cocktail bar format is universally welcoming, and the bar is where conversations start. Mention you're visiting — Londoners love recommending their city.
 
 **If you're a London local going out alone:** You have more options because you can become a regular. Establishing yourself at [Scotch of St James](/clubs/scotch-of-st-james) or Dear Darling as a solo Thursday-night visitor builds familiarity with staff and other regulars. Within a few visits, you'll know people.
 
@@ -67,7 +67,7 @@ Read our full [Mayfair nightlife guide](/mayfair-nightlife-guide) for background
 
 **Bar venues** (Dear Darling, [Selene London](/clubs/selene-london)) — conversation happens naturally at the bar. The format encourages it. Make eye contact, comment on a drink, ask for a recommendation. The bar environment removes the pressure of approaching someone on a dance floor.
 
-**Dance floor venues** ([Cuckoo Club](/clubs/cuckoo-club), [Funky Buddha](/clubs/funky-buddha)) — the dance floor is the great equaliser. If you can dance (even a little), you'll be absorbed into nearby groups. Energy is infectious. Nobody asks how you arrived.
+**Dance floor venues** (99 Regent Street, [BEAT London](/clubs/beat-london)) — the dance floor is the great equaliser. If you can dance (even a little), you'll be absorbed into nearby groups. Energy is infectious. Nobody asks how you arrived.
 
 ## Table for One vs Guest List Alone
 

@@ -42,11 +42,11 @@ By [Henry Ashcroft](/about-the-editor), Mayfair Area Specialist
 
 *Last updated: 10 June 2026*
 
-Ask most people what Mayfair sounds like after dark and they will say commercial house or hip-hop, and they are not wrong. But W1 has a quieter sideline that I have come to treasure: a small, persistent scene of disco, funk and soul. It does not advertise itself loudly, it rarely tops a billing, and yet on the right night in the right room it is the best-sounding thing in the postcode. This guide covers where the classic sound actually lives in Mayfair, which nights to aim for, and what to expect when you find it.
+Ask most people what Mayfair sounds like after dark and they will say commercial house or hip-hop, and they are not wrong. But W1 has a quieter sideline worth seeking out: a small, persistent scene of disco, funk and soul. It does not advertise itself loudly, it rarely tops a billing, and yet on the right night in the right room it is the best-sounding thing in the postcode. This guide covers where the classic sound actually lives in Mayfair, which nights to aim for, and what to expect when you find it.
 
 ## Why Disco Suits Mayfair So Well
 
-Mayfair's rooms are small, low-ceilinged and intimate, and that is precisely the architecture disco and funk were made for. These are not warehouse genres. They reward a packed little floor, a crowd old enough to recognise the records, and a DJ who treats the night as a long conversation rather than a sequence of drops. From experience, the area's grown-up, well-dressed crowd meets this music halfway in a manner that a big-room playlist never quite manages.
+Mayfair's rooms are small, low-ceilinged and intimate, and that is precisely the architecture disco and funk were made for. These are not warehouse genres. They reward a packed little floor, a crowd old enough to recognise the records, and a DJ who treats the night as a long conversation rather than a sequence of drops. The area's grown-up, well-dressed crowd meets this music halfway in a manner that a big-room playlist never quite manages.
 
 There is also the heritage. Mayfair and St James's were dancing to this sound decades before the modern clubs arrived, and a couple of rooms have never really stopped. That continuity gives the scene here a lived-in feel you cannot manufacture.
 
@@ -54,7 +54,7 @@ There is also the heritage. Mayfair and St James's were dancing to this sound de
 
 ## Where the Classic Sound Actually Lives
 
-The most reliable home for it is Scotch of St James, the small two-floor room tucked into Mason's Yard with sixty years of musical history in its walls. The resident DJs there move through soulful house, classic disco, funk and old-school R&B with genuine record knowledge, and the basement floor wraps the bass around you in a way that suits these records perfectly. I noticed on my last visit that the selector let a full seven-minute disco cut play out untouched, and the floor stayed with every bar of it, which tells you everything about the crowd.
+The most reliable home for it is Scotch of St James, the small two-floor room tucked into Mason's Yard with sixty years of musical history in its walls. The resident DJs there move through soulful house, classic disco, funk and old-school R&B with genuine record knowledge, and the basement floor wraps the bass around you in a way that suits these records perfectly. Guests we book there tell us the selectors are happy to let a long disco cut play out, and the floor stays with it, which tells you everything about the crowd.
 
 Maddox Club is the second stop. Its programming leans deep and soulful rather than chart-driven, and its midweek sessions in particular drift happily into funk and disco territory as the night matures. The dancefloor is the focal point of the room, so the music is treated as the main event rather than background for the tables.
 
@@ -73,7 +73,7 @@ Skip the queue, secure your table, and get insider access. Message us on WhatsAp
 
 Disco and funk in Mayfair is a midweek and Sunday pleasure more than a Saturday one. On peak weekend nights the bigger rooms play to the broadest crowd, and the classic sound retreats. Aim instead for the quieter end of the week, when the residents have room to stretch out. A [Tuesday night out in Mayfair](/blog/tuesday-night-out-mayfair) is consistently the strongest shout, and the calm of a [Wednesday in W1](/blog/wednesday-night-mayfair) suits the genre just as well.
 
-As of June 2026, the pattern I trust is simple: midweek for the purest sets, Sunday for the loosest ones, and the early hours of any night for the deep cuts, once the casual crowd has thinned and the DJ starts playing for the dancers who stayed.
+As of June 2026, the pattern we trust is simple: midweek for the purest sets, Sunday for the loosest ones, and the early hours of any night for the deep cuts, once the casual crowd has thinned and the DJ starts playing for the dancers who stayed.
 
 ## What the Night Feels Like
 

@@ -27,12 +27,12 @@ Don't be that group. Book ahead.
 
 Mayfair has every type of night. Before you book, know what your group actually wants:
 
-- **Big party energy?** [Funky Buddha](/clubs/funky-buddha), [The Box](/clubs/the-box-london), or [BEAT London](/clubs/beat-london)
+- **Big party energy?** [The Box](/clubs/the-box-london) or [BEAT London](/clubs/beat-london)
 - **Exclusivity?** [Tape London](/clubs/tape-london) — the most exclusive room in Mayfair
 - **Entertainment and shows?** [Cirque Le Soir](/clubs/cirque-le-soir) or [Reign London](/clubs/reign-london)
 - **House music?** [Maddox](/clubs/maddox) or [Selene London](/clubs/selene-london)
 - **Dinner and dancing?** [Maddox](/clubs/maddox) or [Reign London](/clubs/reign-london)
-- **Cool and moody?** [TABU London](/clubs/tabu-london)
+- **Cool and moody?** Rumour (formerly TABU London), open Wednesday to Saturday
 - **Not sure?** Check our [Where Should I Go Tonight](/where-to-go-tonight) guide
 
 ### Step 2: Book Early
@@ -71,7 +71,7 @@ If you're heading to [Selene London](/clubs/selene-london), their late-night set
 
 ### For Pure Party
 
-[Funky Buddha](/clubs/funky-buddha) on Saturday is the real deal. A Mayfair icon with a packed dance floor, killer tunes, and an atmosphere that runs hot all night. This is where you go when you want to dance until they turn the lights on.
+[BEAT London](/clubs/beat-london) on Saturday is built for it: a serious sound system and a crowd that is there to dance. This is where you go when you want to dance until they turn the lights on.
 
 ### For Something Different
 

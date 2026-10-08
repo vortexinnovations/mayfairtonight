@@ -1,7 +1,7 @@
 ---
 title: "Best New Clubs in Mayfair — Where to Go in 2026"
 metaTitle: "Best New Clubs in Mayfair 2026"
-metaDescription: "The newest and most exciting nightclubs in and around Mayfair right now. From Luna Club to Selene, plus how the established venues are keeping up in 2026."
+metaDescription: "The newest and most exciting nightclubs in and around Mayfair right now. From Selene to Itzel, plus how the established venues are keeping up in 2026."
 date: "2026-03-25"
 excerpt: "Mayfair's nightlife scene has fresh blood. Here are the newest clubs worth your time in 2026, plus the established venues that refuse to be outshone."
 category: "Club Guides"
@@ -17,19 +17,15 @@ Here's what's new, what's evolved, and where you should be going right now.
 
 ## The New Wave
 
-### Luna Club London
+### Itzel, Rumour and 99 Regent Street
 
-[Luna Club London](/clubs/luna-club-london) is the new venue generating the most buzz in Mayfair right now. Celestial-themed interiors, atmospheric lighting, and a sound system that hits exactly right. The music policy is open format — hip-hop, RnB, commercial — and the DJs have genuine freedom to read the room.
+Three familiar Mayfair addresses have new names over the door. Itzel has opened at 15 Berkeley Street, the former home of Funky Buddha, and runs Thursday to Saturday. Rumour has taken over the old TABU London space on Dover Street, and 99 Regent Street has replaced Cuckoo Club; both open Wednesday to Saturday. Programming at new venues settles over the first months, so message us before you go and we will tell you what each one is playing that week.
 
-What makes Luna stand out is the balance it strikes. It's polished and premium without being pretentious. The crowd is stylish, the room is beautiful, and the energy builds properly through the night. Saturday is the peak, but Fridays and Thursdays are already pulling strong numbers.
-
-**Best for:** People who want something fresh, modern, and well-executed.
-
-Read our full [Luna Club London review](/blog/luna-club-london-review).
+**Best for:** People who want to try the newest rooms in the area.
 
 ### Selene London
 
-[Selene London](/clubs/selene-london), just north of Oxford Circus in Fitzrovia, takes a completely different approach to Luna. Where Luna is sleek and contemporary, Selene is elegant and refined. The Greek goddess-inspired design is subtle and beautiful — golds, creams, and deep midnight tones throughout.
+[Selene London](/clubs/selene-london), just north of Oxford Circus in Fitzrovia, opened in the former Libertine space and is open Thursday to Sunday. Selene is elegant and refined. The Greek goddess-inspired design is subtle and beautiful — golds, creams, and deep midnight tones throughout.
 
 The standout here is the cocktail programme. Selene takes its drinks seriously, and it shows. The music leans house and commercial, building from ambient to full dance floor energy as the night progresses. It's attracted a slightly more mature, sophisticated crowd — people who want quality over chaos.
 
@@ -40,14 +36,6 @@ Read our full [Selene London guide](/blog/selene-london-club-guide).
 ## The Established Names Still Delivering
 
 New doesn't automatically mean better. Several Mayfair veterans have adapted and evolved, and they're still among the best nights out in the area.
-
-### Funky Buddha
-
-[Funky Buddha](/clubs/funky-buddha) has been a Berkeley Street staple for years, and its consistency is remarkable. The music — hip-hop, RnB, funky house — remains some of the best in Mayfair. The intimate room generates serious energy when it fills up, and the crowd is reliably excellent.
-
-What keeps Funky Buddha relevant is that it doesn't chase trends. It knows what it does well and executes it every single week. If you've never been, you're missing one of Mayfair's best rooms. If you haven't been in a while, it's time to go back.
-
-Read our full [Funky Buddha guide](/blog/funky-buddha-london-guide).
 
 ### The Box
 
@@ -67,17 +55,15 @@ Read our full [Reign London guide](/blog/reign-london-shows-entertainment).
 
 | Venue | Style | Music | Best Night | Opened |
 |-------|-------|-------|------------|--------|
-| Luna Club London | Sleek & modern | Hip-Hop, Open Format | Saturday | New |
 | Selene London | Elegant & refined | House, Commercial | Friday | New |
-| Funky Buddha | Intimate & high-energy | Hip-Hop, RnB, Funky House | Saturday | Established |
 | The Box | Theatrical & provocative | Mixed | Saturday | Established |
 | Reign London | Showclub & extravagant | Commercial, House, Hip-Hop | Saturday | Established |
 
 ## How to Choose
 
-If you want **the newest experience**, hit [Luna Club London](/clubs/luna-club-london) or [Selene London](/clubs/selene-london).
+If you want **the newest experience**, hit [Selene London](/clubs/selene-london), or ask us about Itzel, Rumour and 99 Regent Street.
 
-If you want **proven quality**, [Funky Buddha](/clubs/funky-buddha) and [Reign London](/clubs/reign-london) deliver every time.
+If you want **proven quality**, [Reign London](/clubs/reign-london) delivers every time.
 
 If you want **something genuinely different**, [The Box](/clubs/the-box-london) is in a category of its own.
 

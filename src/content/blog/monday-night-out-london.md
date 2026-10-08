@@ -18,7 +18,7 @@ This guide breaks down the real Monday night landscape across Mayfair and centra
 
 ## The Reality of Monday Nights in Mayfair
 
-Let's be upfront: the majority of Mayfair's top nightclubs do not run regular Monday programming. Venues like [Funky Buddha](/clubs/funky-buddha), [Reign London](/clubs/reign-london), and [Selene](/clubs/selene) operate Friday and Saturday as their anchor nights, with some extending into Tuesday, Thursday or Sunday. Monday simply isn't on the calendar for most.
+Let's be upfront: the majority of Mayfair's top nightclubs do not run regular Monday programming. Venues like [Tape London](/clubs/tape-london), [Reign London](/clubs/reign-london), and [Selene](/clubs/selene-london) operate Friday and Saturday as their anchor nights, with some extending into Tuesday, Thursday or Sunday. Monday simply isn't on the calendar for most.
 
 That said, Mayfair doesn't shut down completely. The neighbourhood is full of late-licence bars, members' clubs, and restaurant-bars that keep things moving seven nights a week. If your idea of a Monday night out in London involves cocktails, a good atmosphere, and a late finish rather than a full-blown club night, Mayfair still delivers.
 

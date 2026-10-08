@@ -38,7 +38,7 @@ The room is grand without being cavernous. It fills up nicely on peak nights, cr
 
 ## The Music
 
-Between performances, the DJs play commercial, house, and hip-hop. The music keeps the energy moving and builds through the night. It's not a music-first venue in the way [Funky Buddha](/clubs/funky-buddha) or [BEAT London](/clubs/beat-london) are — the entertainment shares the spotlight.
+Between performances, the DJs play commercial, house, and hip-hop. The music keeps the energy moving and builds through the night. It's not a music-first venue in the way [BEAT London](/clubs/beat-london) is — the entertainment shares the spotlight.
 
 That said, the DJs are solid and the sound system is more than capable. You'll dance. You'll just also spend time watching incredible performers while you do it.
 

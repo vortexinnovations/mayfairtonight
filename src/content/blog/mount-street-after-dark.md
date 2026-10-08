@@ -42,7 +42,7 @@ By [Henry Ashcroft](/about-the-editor), Mayfair Area Specialist
 
 *Last updated: 13 July 2026*
 
-Every district has a street it would put on the cover, and for Mayfair that street is Mount Street. By day it belongs to the fashion houses and the gallery browsers; the pavements move slowly and the shop windows do most of the talking. But ask what Mount Street at night is like and you get one of my favourite answers in the whole district: after six, when the boutiques close, the street turns into a glowing, half-private stage set, and the evening it hosts is one of the gentlest and best-looking in London, as of July 2026.
+Every district has a street it would put on the cover, and for Mayfair that street is Mount Street. By day it belongs to the fashion houses and the gallery browsers; the pavements move slowly and the shop windows do most of the talking. But ask what Mount Street at night is like and you get one of the best answers in the whole district: after six, when the boutiques close, the street turns into a glowing, half-private stage set, and the evening it hosts is one of the gentlest and best-looking in London, as of July 2026.
 
 ## The Prettiest Facades in Mayfair
 
@@ -50,7 +50,7 @@ Mount Street looks the way it does because of one remarkable rebuilding: in the 
 
 ## The Hidden Gardens at Dusk
 
-Halfway along, between the street and the church behind it, sit Mount Street Gardens, and they are the district&apos;s best-kept evening secret: a small, enclosed square of plane trees, benches and quiet that most Londoners have never once walked into. From experience, early evening is their best hour, when the light goes soft through the trees and the office crowd has not discovered you can cut through here at all. The gardens keep park hours and the gates do close, with times shifting by season, as of July 2026, so treat them as the opening scene of the evening rather than the late act. Sit for ten minutes and the pace of the whole night changes.
+Halfway along, between the street and the church behind it, sit Mount Street Gardens, and they are the district&apos;s best-kept evening secret: a small, enclosed square of plane trees, benches and quiet that most Londoners have never once walked into. Early evening is their best hour, when the light goes soft through the trees and the office crowd has not discovered you can cut through here at all. The gardens keep park hours and the gates do close, with times shifting by season, as of July 2026, so treat them as the opening scene of the evening rather than the late act. Sit for ten minutes and the pace of the whole night changes.
 
 ![Warm evening light on an elegant Mayfair street scene](/gallery/images/maison-close-760.jpg)
 
@@ -69,7 +69,7 @@ From a quiet corner of Mount Street to a full night across W1, we can help you p
 
 ## Building the Evening
 
-Here is the shape I recommend, having walked this street at every hour. Arrive at six, while the shop windows are still lit and the pavements are emptying, and walk the full length once for the architecture alone. Cut into the gardens for the quiet ten minutes before the gates think about closing. Take the first drink at The Audley, outside if the weather allows, and watch the street change colour as the lamps take over. Eat nearby at whatever end of the spectrum the evening calls for. Then finish in one of two directions: west into the hotel bars for a serious nightcap, or a short walk east to [Berkeley Square after dark](/blog/berkeley-square-after-dark), where the grandeur scales up and the plane trees take over. Either way you have spent an evening entirely on foot, entirely in W1, and mostly in places the daytime crowds never see. Mayfair&apos;s wider drinking map, which [Time Out&apos;s bars and pubs guide](https://www.timeout.com/london/bars-and-pubs) tracks across the city, has louder corners, but few lovelier ones.
+Here is the shape we recommend. Arrive at six, while the shop windows are still lit and the pavements are emptying, and walk the full length once for the architecture alone. Cut into the gardens for the quiet ten minutes before the gates think about closing. Take the first drink at The Audley, outside if the weather allows, and watch the street change colour as the lamps take over. Eat nearby at whatever end of the spectrum the evening calls for. Then finish in one of two directions: west into the hotel bars for a serious nightcap, or a short walk east to [Berkeley Square after dark](/blog/berkeley-square-after-dark), where the grandeur scales up and the plane trees take over. Either way you have spent an evening entirely on foot, entirely in W1, and mostly in places the daytime crowds never see. Mayfair&apos;s wider drinking map, which [Time Out&apos;s bars and pubs guide](https://www.timeout.com/london/bars-and-pubs) tracks across the city, has louder corners, but few lovelier ones.
 
 ## When to Go
 

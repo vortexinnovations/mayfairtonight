@@ -24,7 +24,7 @@ Mayfair has around a dozen serious nightclubs, each with a different personality
 
 **For entertainment:** [Cirque Le Soir](/clubs/cirque-le-soir) and [Reign London](/clubs/reign-london) — fire breathers, aerial acts, live performers.
 
-**For hip-hop:** [TABU](/clubs/tabu-london), [Funky Buddha](/clubs/funky-buddha), [BEAT London](/clubs/beat-london) — each with a different flavour.
+**For hip-hop:** [Tape London](/clubs/tape-london) and [BEAT London](/clubs/beat-london), each with a different flavour.
 
 **For house music:** [Maddox](/clubs/maddox) and [Selene London](/clubs/selene-london) — quality house in refined, intimate settings.
 

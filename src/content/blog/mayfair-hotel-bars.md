@@ -42,17 +42,17 @@ By [Henry Ashcroft](/about-the-editor), Mayfair Area Specialist
 
 *Last updated: 13 June 2026*
 
-Mayfair does nightclubs better than anywhere in London, but some of the finest evenings in W1 never involve a dancefloor at all. The neighbourhood's hotel bars are among the most beautiful rooms in the city, and they reward an evening built around them rather than treated as a warm-up to something louder. Having spent years drinking my way around the district, these are the Mayfair hotel bars I send people to when the night is about elegance rather than energy, as of June 2026.
+Mayfair does nightclubs better than anywhere in London, but some of the finest evenings in W1 never involve a dancefloor at all. The neighbourhood's hotel bars are among the most beautiful rooms in the city, and they reward an evening built around them rather than treated as a warm-up to something louder. These are the Mayfair hotel bars we send people to when the night is about elegance rather than energy, as of June 2026.
 
 ## The Connaught Bar - The One Everyone Means
 
-If Mayfair has a definitive hotel bar, it is the Connaught Bar on Carlos Place. The silver-leafed room is a David Collins design, but the ritual is the draw: a martini trolley wheeled to your table and the drink mixed in front of you, a piece of theatre that has helped keep the bar in the global top tier for years. From experience, it is worth arriving early in the evening when the room is calm enough to appreciate it, and a reservation is wise rather than optional. It is long regarded as one of the world's most celebrated bars, a reputation that, as [Time Out's London bars coverage](https://www.timeout.com/london/bars-and-pubs) reflects, is thoroughly earned.
+If Mayfair has a definitive hotel bar, it is the Connaught Bar on Carlos Place. The silver-leafed room is a David Collins design, but the ritual is the draw: a martini trolley wheeled to your table and the drink mixed in front of you, a piece of theatre that has helped keep the bar in the global top tier for years. It is worth arriving early in the evening when the room is calm enough to appreciate it, and a reservation is wise rather than optional. It is long regarded as one of the world's most celebrated bars, a reputation that, as [Time Out's London bars coverage](https://www.timeout.com/london/bars-and-pubs) reflects, is thoroughly earned.
 
 ![Elegant low-lit Mayfair hotel bar with art deco styling](/gallery/images/maison-close-601.jpg)
 
 ## The Coburg - The Connaught's Quieter Half
 
-Most people forget that the same hotel holds a second, gentler option. The Coburg Bar is the Connaught's armchair-filled counterpart: deep seating, a fire in the cooler months, and a hush that makes it my first choice for an actual conversation. I noticed on my last visit that it fills later and more slowly than its famous sibling, so it works beautifully as the second act of an evening once the headline room gets busy.
+Most people forget that the same hotel holds a second, gentler option. The Coburg Bar is the Connaught's armchair-filled counterpart: deep seating, a fire in the cooler months, and a hush that makes it our first choice for an actual conversation. It tends to fill later and more slowly than its famous sibling, so it works beautifully as the second act of an evening once the headline room gets busy.
 
 ## Claridge's - Art Deco at Its Most Glamorous
 
@@ -69,11 +69,11 @@ From a quiet hotel bar to a full night out, we can help you plan it and get you 
 
 ## The Donovan Bar - Photography, Jazz and a Little Mischief
 
-Inside Brown's Hotel on Albemarle Street, the Donovan Bar is the most characterful of the set. Its walls are lined with Terence Donovan's black-and-white photography, including a cheekier "Naughty Corner", and live jazz gives the room a rhythm the grander bars do not have. From experience it is the Mayfair hotel bar that feels most like a night out in its own right, which is exactly why I recommend it to people who think a hotel bar means a quiet nightcap and nothing more.
+Inside Brown's Hotel on Albemarle Street, the Donovan Bar is the most characterful of the set. Its walls are lined with Terence Donovan's black-and-white photography, including a cheekier "Naughty Corner", and live jazz gives the room a rhythm the grander bars do not have. It is the Mayfair hotel bar that feels most like a night out in its own right, which is exactly why we recommend it to people who think a hotel bar means a quiet nightcap and nothing more.
 
 ## The Vesper and The Dorchester - Park Lane Polish
 
-Over on Park Lane, The Dorchester gives you the grand-hotel version of the evening. The Vesper Bar, named for the martini James Bond orders in Casino Royale, leans into that heritage with a serious cocktail list and a more intimate feel than the hotel's scale suggests. It is the room I point people to when they want Park Lane glamour without the formality they expect to come with it.
+Over on Park Lane, The Dorchester gives you the grand-hotel version of the evening. The Vesper Bar, named for the martini James Bond orders in Casino Royale, leans into that heritage with a serious cocktail list and a more intimate feel than the hotel's scale suggests. It is the room we point people to when they want Park Lane glamour without the formality they expect to come with it.
 
 ## The Beaumont - Art Deco the Locals Keep Quiet
 

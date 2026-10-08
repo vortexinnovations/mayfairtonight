@@ -21,7 +21,7 @@ Most Mayfair clubs lean hip-hop. But if four-to-the-floor is your thing, you've 
 
 The crowd is discerning, the atmosphere is sophisticated, and the whole experience feels intentional rather than accidental. This is house music for people who care about the details.
 
-Open Thursday to Saturday. Smart dress code applies.
+Open Thursday to Sunday. Smart dress code applies.
 
 ### Maddox — Mayfair's House Music Room
 
@@ -29,11 +29,9 @@ Open Thursday to Saturday. Smart dress code applies.
 
 The crowd is older and more sophisticated than most Mayfair clubs. This is where you go when you want house music without sacrificing the Mayfair experience. Open Thursday to Saturday.
 
-### Cuckoo Club — The Downstairs Room
+### 99 Regent Street (formerly Cuckoo Club)
 
-[Cuckoo Club](/clubs/cuckoo-club) splits by genre: hip-hop upstairs, house downstairs. The downstairs room is darker, moodier, and more about the music. It's compact, which means it fills quickly and the atmosphere becomes properly intimate.
-
-The house music here is quality — less commercial, more underground. If you want house music in central Mayfair, the downstairs at Cuckoo is a reliable bet.
+The old Cuckoo Club building on Swallow Street, just off Regent Street, now trades as 99 Regent Street, open Wednesday to Saturday. Cuckoo was known for house downstairs and hip-hop upstairs; the music policy at the new venue can change from night to night, so message us before you go and we will tell you what is playing.
 
 ### Dear Darling — House with Cocktails
 
@@ -51,7 +49,6 @@ Not all house music is the same, and each venue leans differently:
 
 - **Maddox** plays proper deep house and tech house — warm basslines, smooth grooves, quality selections
 - **Selene London** leans melodic and deep — warm, sophisticated house selections with real attention to programming
-- **Cuckoo Club** downstairs is deeper and more underground
 - **Dear Darling** keeps it on the lounge/deep house end
 
 ## If House Music Is Everything

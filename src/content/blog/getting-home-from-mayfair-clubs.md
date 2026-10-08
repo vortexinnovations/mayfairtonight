@@ -27,7 +27,7 @@ At 3am on a Friday or Saturday, ride-hailing apps in central London hit 2-3x sur
 
 **Best pickup spots near Mayfair clubs:**
 
-For clubs around Berkeley Square (Funky Buddha, Maddox, Dear Darling) — walk to the north side of Berkeley Square or towards Bruton Street. Less congested than the main club strip.
+For clubs around Berkeley Square (Itzel, Maddox, Dear Darling) — walk to the north side of Berkeley Square or towards Bruton Street. Less congested than the main club strip.
 
 For clubs near Piccadilly ([Reign London](/clubs/reign-london), [The Box](/clubs/the-box-london)) — walk down towards Jermyn Street or St James's. Quieter pickup, faster arrival.
 

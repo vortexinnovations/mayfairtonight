@@ -37,7 +37,7 @@ Brick Lane in East London is another option if you're willing to travel. The fam
 
 By 2am, your options are genuinely limited but not hopeless.
 
-A handful of establishments in Soho and around Covent Garden keep kitchens open until 2:30 or 3am on weekends. These tend to be pizza places, burger joints, and the occasional noodle bar. The quality varies, but when you're leaving [Funky Buddha](/clubs/funky-buddha) or [TABU London](/clubs/tabu-london) at 2am, you're not looking for a Michelin star — you're looking for something hot, filling, and genuinely edible.
+A handful of establishments in Soho and around Covent Garden keep kitchens open until 2:30 or 3am on weekends. These tend to be pizza places, burger joints, and the occasional noodle bar. The quality varies, but when you're leaving [Tape London](/clubs/tape-london) or [Reign London](/clubs/reign-london) at 2am, you're not looking for a Michelin star — you're looking for something hot, filling, and genuinely edible.
 
 The burger spots around Soho are reliable at this hour. Not gourmet, but they know their audience and they deliver.
 
@@ -55,7 +55,7 @@ For everyone else, the takeaway ecosystem kicks in. Late-night delivery apps ser
 
 Planning your exit route from the club to food saves you wandering hungry through empty streets.
 
-**From Berkeley Square clubs** ([Funky Buddha](/clubs/funky-buddha), [Cuckoo Club](/clubs/cuckoo-club)): Walk south through Shepherd Market toward Piccadilly, then east into Soho. You'll hit food options within ten minutes.
+**From Berkeley Square clubs** (such as Itzel on Berkeley Street): Walk south through Shepherd Market toward Piccadilly, then east into Soho. You'll hit food options within ten minutes.
 
 **From [Tape London](/clubs/tape-london) and Hanover Square venues**: Head east toward Soho or south toward Regent Street. Both routes pass late-night options. For more on this area, see our guide to [nightlife around Hanover Square and Berkeley Square](/best-areas-around-hanover-square-and-berkeley-square-for-nightlife).
 

@@ -71,6 +71,6 @@ Absolutely — if you go in knowing what to expect. This is a venue that divides
 
 If you're adventurous, open-minded, and looking for a night you'll be talking about for months, The Box delivers something no other London venue can.
 
-If you want a more conventional Mayfair night, check out [Funky Buddha](/clubs/funky-buddha) or [TABU](/clubs/tabu-london) instead.
+If you want a more conventional Mayfair night, check out [Tape London](/clubs/tape-london) or [Maddox](/clubs/maddox) instead.
 
 **Ready to experience The Box tonight?** [Message us on WhatsApp](https://wa.me/447348644054) for guest list and table bookings.

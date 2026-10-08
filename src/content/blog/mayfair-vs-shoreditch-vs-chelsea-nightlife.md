@@ -17,7 +17,7 @@ Here's the honest breakdown so you can stop guessing and pick the right one.
 
 ## The Music
 
-**Mayfair** leans into hip-hop, R&B, commercial house, and polished DJ sets. Venues like [Tape London](/clubs/tape-london) bring serious music credibility, while [Funky Buddha](/clubs/funky-buddha) and [TABU London](/clubs/tabu-london) keep the energy commercial and crowd-friendly. Expect music you actually know — played well.
+**Mayfair** leans into hip-hop, R&B, commercial house, and polished DJ sets. Venues like [Tape London](/clubs/tape-london) bring serious music credibility, while [Reign London](/clubs/reign-london) and [Cirque Le Soir](/clubs/cirque-le-soir) keep the energy commercial and crowd-friendly. Expect music you actually know — played well.
 
 **Shoreditch** is where London's underground lives. Techno, electronic, drum and bass, and indie dominate. If you want a dark room with a serious sound system and zero pretence, Shoreditch delivers. The music is the main event — not the table service.
 

@@ -42,13 +42,13 @@ By [Henry Ashcroft](/about-the-editor), Mayfair Area Specialist
 
 *Last updated: 11 June 2026*
 
-It is the question I am asked more than any other before someone commits a night to W1: what will the DJ actually play? It matters, because nothing sours a night faster than expecting one soundtrack and getting another. Having spent years in these rooms across every night of the week, here is the honest answer to what clubs in Mayfair play, how the sound moves through a night, and what you will not hear no matter when you come.
+It is the question our bookings team is asked more than any other before someone commits a night to W1: what will the DJ actually play? It matters, because nothing sours a night faster than expecting one soundtrack and getting another. Here is the honest answer to what clubs in Mayfair play, how the sound moves through a night, and what you will not hear no matter when you come.
 
 ## The Short Answer: Open-Format, Done Politely
 
 Mayfair runs on what the industry calls open-format: DJs who move between commercial house, current chart records, hip-hop and R&B, Afrobeats moments, and well-chosen classics, reading the room rather than serving one genre. The aim is a floor where a forty-year-old regular and a twenty-five-year-old visitor are both having a good night, which is exactly the crowd these rooms hold.
 
-That means genre purism is rare by design. From experience, even the rooms with a reputation for one sound spend most of the night blending: the R&B room will visit house before peak, and the house-led floor will drop a hip-hop run at exactly the moment it needs energy. If you want a single genre wall-to-wall, that matters to know before you book anything.
+That means genre purism is rare by design. Even the rooms with a reputation for one sound spend most of the night blending: the R&B room will visit house before peak, and the house-led floor will drop a hip-hop run at exactly the moment it needs energy. If you want a single genre wall-to-wall, that matters to know before you book anything.
 
 ![Low-lit Mayfair dancefloor mid-set, lights sweeping over the crowd](/gallery/images/maison-close-441.jpg)
 
@@ -83,7 +83,7 @@ If that is the trade-off you want, W1 delivers it better than anywhere. If it is
 
 The same room plays a different week depending on the night, and that is worth using. Fridays and Saturdays run the tightest, most commercial version of the formula, because the rooms are fullest and the DJ has the least space to wander. The midweek sessions are looser: a [Tuesday](/blog/tuesday-night-out-mayfair) or [Wednesday](/blog/wednesday-night-mayfair) set will dig further into album cuts, slower R&B and longer house passages, simply because the floor is patient enough to follow.
 
-Sundays sit somewhere else again, unhurried and groove-led, with the classics doing more of the work. If the soundtrack is the main reason you are coming out, my honest advice is to trade a little weekend energy for a midweek set; the music is almost always more interesting when the room is at seventy percent. The door is easier those nights too, which makes midweek the lowest-risk way to test whether a room's musical accent suits you before committing a big weekend night to it.
+Sundays sit somewhere else again, unhurried and groove-led, with the classics doing more of the work. If the soundtrack is the main reason you are coming out, our honest advice is to trade a little weekend energy for a midweek set; the music is almost always more interesting when the room is at seventy percent. The door is easier those nights too, which makes midweek the lowest-risk way to test whether a room's musical accent suits you before committing a big weekend night to it.
 
 ## Can You Request Songs?
 

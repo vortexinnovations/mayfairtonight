@@ -1,70 +1,32 @@
 ---
-title: "Luna Club London — Mayfair's Newest Premium Nightclub"
-metaTitle: "Luna Club London — Mayfair's Newest Club"
-metaDescription: "Everything you need to know about Luna Club London. The design, the music, the crowd, and why this new Mayfair venue is already turning heads."
+title: "Luna Club London Has Closed: What It Was and Where to Go Now"
+metaTitle: "Luna Club London Has Closed: Where to Go Now"
+metaDescription: "Luna Club London in Mayfair has closed. What the club was like, its music and crowd, and the open Mayfair clubs with a similar night."
 date: "2026-03-25"
-excerpt: "Luna Club London is already making waves in Mayfair. Here's the full breakdown — what it looks like, what it sounds like, and whether it lives up to the hype."
+updated: "2026-10-08"
+excerpt: "Luna Club London arrived in Mayfair with celestial interiors and an open-format sound, but it has now closed. Here's what it was like and where to go instead."
 category: "Club Guides"
 tags: ["Luna Club London", "Luna Club Mayfair", "new clubs London", "Mayfair nightlife"]
-readingTime: "5 min read"
+readingTime: "3 min read"
 ---
 
-## Fresh Energy in Mayfair
+## Luna Club London Has Closed
 
-Mayfair needed something new. For a while, the same established venues dominated every night out and every recommendation list. Then [Luna Club London](/clubs/luna-club-london) opened — and the conversation shifted.
+[Luna Club London](/clubs/luna-club-london), also known as Luna Mayfair or Club Luna, has closed, so it no longer takes table bookings or guest list names. If you were planning a night there, the clubs below offer the closest match, and we can book any of them for you.
 
-Luna has quickly built a reputation as one of the most exciting new additions to Mayfair nightlife. Here's what you need to know.
+## What Luna Was Like
 
-## The Design
+Luna opened as one of the newer additions to Mayfair nightlife. Its interiors drew on celestial themes: atmospheric lighting, deep blues and silvers, and moon-inspired details, moving from ambient early-evening tones to full club energy by midnight.
 
-Luna's interiors draw on celestial themes. Think atmospheric lighting, deep blues and silvers, moon-inspired design elements throughout the space. It's moody without being dark, elegant without being stuffy.
+The music was open format, leaning towards hip-hop, RnB and commercial tracks, and the crowd was young, style-conscious and well dressed: less celebrity-heavy than [Tape London](/clubs/tape-london) and less theatrical than [Cirque Le Soir](/clubs/cirque-le-soir).
 
-The layout is well thought out. The main room flows naturally between the bar, the dance floor, and the table areas. There are no awkward dead zones — wherever you are, you're part of the atmosphere. The lighting shifts through the night, moving from ambient early-evening tones to full club energy by midnight.
+## Where to Go Instead
 
-It's the kind of room that photographs well but feels even better in person.
+- **[Tape London](/clubs/tape-london)** on Hanover Square for hip-hop and RnB with Mayfair's most exclusive door, open Tuesday, Friday, Saturday and Sunday.
+- **[Cirque Le Soir](/clubs/cirque-le-soir)** if you want hip-hop and RnB with a full show, open Monday, Wednesday, Friday and Saturday.
+- **[BEAT London](/clubs/beat-london)** for a proper dance floor and serious sound, on Margaret Street in Fitzrovia, just north of Mayfair.
+- **[Selene London](/clubs/selene-london)** for a newer, more refined room with house and commercial sets, open Thursday to Sunday, 11pm to 4am. Read our [Selene guide](/blog/selene-london-club-guide).
 
-## The Music
+Standard Mayfair dress rules apply at all of them; read our [guide to getting into Mayfair clubs](/blog/how-to-get-into-mayfair-clubs) if you're unsure. For what has opened recently, see our guide to the [best new clubs in Mayfair](/blog/best-new-clubs-mayfair).
 
-Luna runs an open-format music policy, which means the DJs have freedom to read the room and react. In practice, you'll hear quality hip-hop, RnB, and commercial tracks — the kind of selections that keep a mixed crowd moving.
-
-The sound system is modern and well-calibrated. Bass is present without being overwhelming. You can hold a conversation at the bar but feel the music properly on the dance floor. That balance is harder to achieve than it sounds, and Luna gets it right.
-
-Don't expect a single genre all night. The best Luna nights flow between styles, building energy as the hours pass.
-
-## The Crowd
-
-Luna attracts a younger, style-conscious crowd. Think late twenties to mid thirties — professionals, creatives, and social groups looking for a polished night out without the intensity of Mayfair's ultra-exclusive spots.
-
-It's less celebrity-heavy than [Tape London](/clubs/tape-london) and less theatrical than [Cirque Le Soir](/clubs/cirque-le-soir), which is actually a selling point for many people. Luna is about looking good, feeling good, and dancing to quality music. No gimmicks needed.
-
-The gender mix is generally solid, and the atmosphere stays sociable rather than cliquey. It's a welcoming room.
-
-## Best Nights
-
-**Saturday** is the peak night. Full capacity, best DJs, biggest energy. If Luna is on your list, Saturday is when it shows what it can do.
-
-**Friday** is slightly more relaxed but still delivers a quality night. Good option if you want the Luna experience without the Saturday intensity.
-
-**Thursday** has been gaining traction as a solid midweek option — smaller crowd but a loyal one.
-
-## What to Wear
-
-Smart is the standard. Clean trainers might get a pass depending on the outfit, but proper shoes are the safer bet. Dark jeans, a good shirt or top, and shoes that say you made an effort. Standard Mayfair rules apply — read our [guide to getting into Mayfair clubs](/blog/how-to-get-into-mayfair-clubs) if you're unsure.
-
-Luna's crowd tends to be well-dressed without being overly formal. Stylish over stuffy.
-
-## How Luna Compares
-
-Luna sits in an interesting spot in the Mayfair landscape. It's newer and sleeker than [Funky Buddha](/clubs/funky-buddha) but shares that same focus on quality music and a good crowd. It's more accessible than [Tape London](/clubs/tape-london) but more polished than some of the mid-range options.
-
-If you've been going to the same Mayfair clubs for years and want something fresh, Luna is the answer. It's also worth comparing with [Selene London](/clubs/selene-london), another new arrival that takes a more refined approach — read our [Selene guide](/blog/selene-london-club-guide) for that comparison.
-
-For the full picture of what's new, check out our guide to the [best new clubs in Mayfair](/blog/best-new-clubs-mayfair).
-
-## One to Watch
-
-Luna Club London has done something difficult — it's arrived in a crowded market and carved out its own identity quickly. The design is right, the music is right, and the crowd is already loyal.
-
-Whether it achieves the longevity of Mayfair's established institutions remains to be seen. But right now, it's one of the most exciting places to go out in the area.
-
-**Want to check out Luna tonight?** [Message us on WhatsApp](https://wa.me/447348644054) for guest list spots and table bookings.
+**Want a table or guest list somewhere similar tonight?** [Message us on WhatsApp](https://wa.me/447348644054) for guest list spots and table bookings.

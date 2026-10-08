@@ -1,7 +1,7 @@
 ---
 title: "Late-Night Clubs in Mayfair: Where to Go Past 3AM"
 metaTitle: "Late-Night Clubs in Mayfair Open Past 3AM"
-metaDescription: "Discover the late-night clubs in Mayfair that stay open past 3AM. Tape London, The Box, Funky Buddha and more - your guide to London's after-hours scene."
+metaDescription: "Discover the late-night clubs in Mayfair that stay open past 3AM. Tape London, The Box, Reign London and more - your guide to London's after-hours scene."
 excerpt: "Not ready to call it a night? These are the Mayfair clubs that keep going well past 3AM, from hip-hop to cabaret."
 date: "2026-04-21"
 updated: "2026-04-21"
@@ -43,12 +43,6 @@ Skip the queue, secure your table, and get insider access. Message us on WhatsAp
 
 ---
 
-## Funky Buddha: The Reliable Late Closer
-
-[Funky Buddha](/clubs/funky-buddha) has been a Mayfair fixture for years, and one of the reasons it endures is the late-night consistency. Open on Fridays and Saturdays until the early hours, Funky Buddha delivers a hip-hop and R&B-heavy soundtrack that keeps the floor packed through to close. The venue is smaller and more intimate than Tape or Reign, which means the late-night atmosphere feels concentrated rather than sprawling.
-
-The regulars at Funky Buddha know to arrive later in the evening. This is a club that genuinely improves as the night progresses. The layout pushes everyone closer together, the booth seating gives your group a base to operate from, and the bar service stays sharp even at 3AM. It is one of the most reliable options in Mayfair when your priority is simply staying out as late as possible with good music and a crowd that matches.
-
 ## Reign London: Big Room Energy After Midnight
 
 [Reign London](/clubs/reign-london) offers something the other venues on this list do not: scale. The room is large, the production is heavy, and the DJ setup is built for a club that peaks after midnight. Reign programmes hip-hop, EDM, and pop, giving it the broadest musical range of any late-night Mayfair venue. On Fridays and Saturdays, Reign runs late and the energy builds steadily from around 1AM onward.
@@ -70,7 +64,7 @@ For live info on what is open tonight, check [London Clubs Tonight](https://lond
 
 ### Q: Which Mayfair clubs are open past 3AM?
 
-**A:** Tape London, Funky Buddha, and Reign London all regularly stay open past 3AM on their main nights (typically Friday and Saturday). Tape also runs late on Tuesdays. The Box in nearby Soho often stays open until 5AM.
+**A:** Tape London and Reign London both regularly stay open past 3AM on their main nights (typically Friday and Saturday). Tape also runs late on Tuesdays. The Box in nearby Soho often stays open until 5AM.
 
 ### Q: What is the latest a club stays open in Mayfair?
 
@@ -86,7 +80,7 @@ For live info on what is open tonight, check [London Clubs Tonight](https://lond
 
 ## Keep the Night Going
 
-Mayfair's late-night clubs in Mayfair reward those who plan ahead and commit to the full experience. Whether you choose Tape London for the music, The Box for the theatre, Funky Buddha for the intimacy, or Reign for the scale, you are guaranteed a different energy past 3AM than anything you will find earlier in the evening. The best nights in London do not end at 2AM, and in Mayfair, they do not have to.
+Mayfair's late-night clubs in Mayfair reward those who plan ahead and commit to the full experience. Whether you choose Tape London for the music, The Box for the theatre, or Reign for the scale, you are guaranteed a different energy past 3AM than anything you will find earlier in the evening. The best nights in London do not end at 2AM, and in Mayfair, they do not have to.
 
 ---
 

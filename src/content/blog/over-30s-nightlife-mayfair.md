@@ -45,11 +45,9 @@ The cocktail programme is serious, the staff are knowledgeable, and the bar itse
 
 ## Venues That Skew Younger
 
-[Cuckoo Club](/clubs/cuckoo-club) upstairs pulls a younger, more energetic crowd — especially on Saturdays. It's not a bad venue by any means, but the energy is firmly 21-28.
+[BEAT London](/clubs/beat-london) draws a younger demographic with louder, more bass-heavy music. It is a quality venue, but the crowd and energy lean early-to-mid-20s.
 
-[BEAT London](/clubs/beat-london) draws a younger demographic with louder, more bass-heavy music. Again, quality venue, but the crowd and energy lean early-to-mid-20s.
-
-Neither is off-limits to over-30s — you just won't be in the majority.
+It is not off-limits to over-30s — you just won't be in the majority.
 
 ## Why Thursday Is Your Night
 

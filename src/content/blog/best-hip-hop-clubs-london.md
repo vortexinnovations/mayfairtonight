@@ -23,15 +23,9 @@ Here's where to find the real thing.
 
 Tables from £1,500. Open Tuesday, Friday, Saturday and Sunday. This is hip-hop for people who take both the music and the experience seriously.
 
-### TABU London — The Fashion Crowd's Pick
+### Rumour (formerly TABU London) — The Fashion Crowd's Pick
 
-[TABU](/clubs/tabu-london) plays hip-hop and RnB but the vibe is different. The Japanese underground theme creates a darker, moodier atmosphere. The crowd is fashion-forward and the music matches — you'll hear more underground selections alongside the hits. Thursday nights are particularly good.
-
-### Funky Buddha — The Mayfair Classic
-
-[Funky Buddha](/clubs/funky-buddha) has been a Mayfair hip-hop staple for years, and it still hits. The room is intimate enough to feel exclusive but the energy is pure party. DJs here know how to read the crowd — expect quality hip-hop and RnB all night with no filler.
-
-If you want a proper hip-hop night with real Mayfair heritage, Funky Buddha is the pick.
+Rumour has replaced TABU London on Dover Street and is open Wednesday to Saturday. TABU built a following for hip-hop and RnB in a darker, moodier room with a fashion-forward crowd. Ask us what Rumour is playing on the night you want before you commit.
 
 ### BEAT London — The Sound System
 
@@ -41,20 +35,19 @@ If you want a proper hip-hop night with real Mayfair heritage, Funky Buddha is t
 
 [Cirque Le Soir](/clubs/cirque-le-soir) plays hip-hop and RnB alongside its circus performances. It's not a pure hip-hop night — the entertainment is the star — but the music is quality and the energy is unmatched. If your group wants hip-hop AND a show, this is the one.
 
-### Cuckoo Club — The Upstairs Room
+### 99 Regent Street (formerly Cuckoo Club) — The Upstairs Room
 
-[Cuckoo Club](/clubs/cuckoo-club) splits its two floors by genre. Upstairs is hip-hop and RnB with a party atmosphere. Downstairs is house. If you want hip-hop but you're going with friends who prefer house, Cuckoo solves the argument.
+The old Cuckoo Club building now trades as 99 Regent Street, open Wednesday to Saturday. Cuckoo split its two floors by genre, hip-hop and RnB upstairs and house downstairs, which made it the answer for mixed groups. Ask us how the new venue is programming its rooms on the night you want.
 
 ## How to Choose
 
 | Club | Vibe | Best Night | Tables From |
 |------|------|-----------|-------------|
 | Tape London | Exclusive, intimate | Friday/Saturday | £1,500 |
-| TABU London | Moody, fashion-forward | Thursday | £1,000 |
-| Funky Buddha | Classic Mayfair hip-hop | Saturday | £1,000 |
+| Rumour (formerly TABU) | Moody, fashion-forward | Wednesday to Saturday | Ask us |
 | BEAT London | Music-first, dancing | Friday/Saturday | £1,000 |
 | Cirque Le Soir | Entertainment + hip-hop | Saturday | £1,000 |
-| Cuckoo Club | Versatile, sociable | Friday/Saturday | £1,000 |
+| 99 Regent Street (formerly Cuckoo Club) | Versatile, sociable | Wednesday to Saturday | Ask us |
 
 ## What About Outside Mayfair?
 

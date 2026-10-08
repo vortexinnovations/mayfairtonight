@@ -45,7 +45,7 @@ Skip the queue, secure your table, and get insider access. Message us on WhatsAp
 
 ## What Else Is Open on a Tuesday in Mayfair
 
-Tape is the headliner, but it is not the only option. [Funky Buddha](/clubs/funky-buddha) occasionally runs midweek events with a hip-hop and R&B focus that pull a loyal crowd. These are not every-week fixtures, so check ahead, but when they happen, the energy is excellent.
+Tape is the headliner, but it is not the only option. [Reign London](/clubs/reign-london) is also open on Tuesdays, with a broader mix of hip-hop, commercial and R&B alongside its shows.
 
 [Hush](/clubs/hush) offers a more low-key alternative. It operates as a restaurant-bar-club hybrid, and on quieter midweek nights, the downstairs space transforms into an intimate late-night spot. If you want drinks and music without the full club commitment, Hush works well on a Tuesday.
 

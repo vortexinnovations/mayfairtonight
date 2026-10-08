@@ -42,7 +42,7 @@ By [Henry Ashcroft](/about-the-editor), Mayfair Area Specialist
 
 *Last updated: 7 July 2026*
 
-Every neighbourhood keeps one pocket where its old self survives, and in Mayfair that pocket is Shepherd Market. Tucked into the lanes between Curzon Street and Piccadilly, it is a two-minute walk from some of the grandest addresses in London and feels a century away from all of them. I have ended more Mayfair evenings here than anywhere else in the district, and this guide covers what makes the little square so special after dark, and how to spend a proper evening in it, as of July 2026.
+Every neighbourhood keeps one pocket where its old self survives, and in Mayfair that pocket is Shepherd Market. Tucked into the lanes between Curzon Street and Piccadilly, it is a two-minute walk from some of the grandest addresses in London and feels a century away from all of them. This guide covers what makes the little square so special after dark, and how to spend a proper evening in it, as of July 2026.
 
 ## The Village That Named the Neighbourhood
 
@@ -50,7 +50,7 @@ Shepherd Market is not just old Mayfair; it is arguably the reason the district 
 
 ## The Square at Dusk
 
-The market is at its best in the hour the light goes. From experience, the transformation is quick: the daytime crowd of gallery browsers and office lunches drains away, the lamps and shopfront glow take over, and the lanes fill with people holding a glass on the pavement because the rooms behind them are too small to hold everyone. On a warm July evening the whole square becomes one loose, murmuring gathering, and I noticed long ago that nobody hurries here; Shepherd Market is where Mayfair goes when it wants the evening to slow down rather than accelerate.
+The market is at its best in the hour the light goes. The transformation is quick: the daytime crowd of gallery browsers and office lunches drains away, the lamps and shopfront glow take over, and the lanes fill with people holding a glass on the pavement because the rooms behind them are too small to hold everyone. On a warm July evening the whole square becomes one loose, murmuring gathering, and nobody hurries here; Shepherd Market is where Mayfair goes when it wants the evening to slow down rather than accelerate.
 
 ![Lantern-lit evening atmosphere in a small Mayfair lane](/gallery/images/maison-close-293.jpg)
 
@@ -71,11 +71,11 @@ From a quiet corner of Shepherd Market to a full night across W1, we can help yo
 
 The shape of a Shepherd Market evening is beautifully simple. Start with an early glass at one of the lane pubs while the light fades, when you can still claim a spot on the pavement. Move to dinner in one of the small dining rooms that fill the lanes; the pocket is dense with intimate, long-established places, and half the charm is that most have been feeding this square for decades. Then finish with a slow loop of the lanes and a nightcap wherever has a corner free. It is an evening measured in conversations rather than venues, and it costs you nothing in queues or planning.
 
-In my opinion the market pairs best with the rest of the district as a deliberate contrast. If the earlier part of your evening was polish, the [hotel bars of Mayfair](/blog/mayfair-hotel-bars) at their silver-trolley finest, Shepherd Market is the perfect descent back to earth; if you are building a full night, our guide to [what to do in Mayfair at night](/blog/what-to-do-in-mayfair-at-night) maps the wider canvas around it.
+In our view the market pairs best with the rest of the district as a deliberate contrast. If the earlier part of your evening was polish, the [hotel bars of Mayfair](/blog/mayfair-hotel-bars) at their silver-trolley finest, Shepherd Market is the perfect descent back to earth; if you are building a full night, our guide to [what to do in Mayfair at night](/blog/what-to-do-in-mayfair-at-night) maps the wider canvas around it.
 
 ## Where It Fits in a Mayfair Night
 
-Shepherd Market is not a late-night destination, and that is precisely its role: it owns the early and middle evening. The pubs run to pub hours, the dining rooms wind down at a civilised point, and the crowd disperses into the rest of Mayfair for whatever comes next. Treat it as the place the night begins, or as the whole night on its own terms, as [Time Out's coverage of London's drinking corners](https://www.timeout.com/london/bars-and-pubs) would suggest for the capital's village-like pockets generally. What it will not give you is a dancefloor, and after a decade around this district I consider that its greatest feature.
+Shepherd Market is not a late-night destination, and that is precisely its role: it owns the early and middle evening. The pubs run to pub hours, the dining rooms wind down at a civilised point, and the crowd disperses into the rest of Mayfair for whatever comes next. Treat it as the place the night begins, or as the whole night on its own terms, as [Time Out's coverage of London's drinking corners](https://www.timeout.com/london/bars-and-pubs) would suggest for the capital's village-like pockets generally. What it will not give you is a dancefloor, and in our view that is its greatest feature.
 
 ## Frequently Asked Questions
 
