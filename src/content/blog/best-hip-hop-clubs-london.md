@@ -11,7 +11,7 @@ readingTime: "5 min read"
 
 ## Hip-Hop Runs Mayfair
 
-Mayfair's nightlife has a clear favourite genre: hip-hop. The majority of the area's top clubs play it, and the quality varies massively. Some venues play chart playlists on shuffle. Others curate their sets properly, mix classic and current, and know the difference between a good hip-hop night and background noise.
+Mayfair's nightlife has a clear favourite genre: hip-hop. The majority of the area's top clubs play it, and the quality varies massively. Some venues play chart playlists on shuffle. Others curate their sets properly, mix classic and current, and know the difference between a good hip-hop night and background noise. For how a typical night's soundtrack moves between hip-hop, house and chart records, see [what music clubs in Mayfair actually play](/blog/what-music-do-clubs-in-mayfair-play).
 
 Here's where to find the real thing.
 

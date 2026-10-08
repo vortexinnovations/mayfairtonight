@@ -320,7 +320,14 @@ export default function WhereToGoOutPage() {
             <p className="text-gray-300 leading-relaxed mb-4">
               Not every night needs a full-on club. These venues start as
               sophisticated cocktail spots and transition into late-night energy
-              without the intensity of the big rooms.
+              without the intensity of the big rooms. For a quieter evening with no dancefloor at all, see our guide to{" "}
+              <Link
+                href="/blog/mayfair-hotel-bars"
+                className="text-gold hover:text-gold-light"
+              >
+                Mayfair hotel bars
+              </Link>
+              .
             </p>
             <div className="space-y-4">
               <div className="bg-dark-card border border-dark-border rounded-lg p-4">

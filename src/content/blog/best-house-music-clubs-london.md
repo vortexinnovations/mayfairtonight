@@ -41,7 +41,7 @@ Best for people who want house music as atmosphere rather than a main event.
 
 ### Scotch of St James — The Eclectic Mix
 
-[Scotch](/clubs/scotch-of-st-james) doesn't play pure house, but the music policy includes house alongside disco and RnB. The mix works because the room is intimate and the crowd appreciates variety. Thursday nights tend to have a more house-leaning selection.
+[Scotch](/clubs/scotch-of-st-james) doesn't play pure house, but the music policy includes house alongside disco and RnB. The mix works because the room is intimate and the crowd appreciates variety. Thursday nights tend to have a more house-leaning selection. If disco is the draw, see our guide to [disco and funk nights in Mayfair](/blog/disco-funk-nights-mayfair).
 
 ## Deep House vs. Tech House vs. Commercial House
 

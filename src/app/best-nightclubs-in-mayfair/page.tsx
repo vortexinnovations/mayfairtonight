@@ -404,7 +404,11 @@ export default function BestNightclubsPage() {
                 <Link href="/clubs/the-box-london" className="text-gold hover:text-gold-light">
                   The Box
                 </Link>{" "}
-                for eclectic taste.
+                for eclectic taste. For how the sound moves through a typical night, see{" "}
+                <Link href="/blog/what-music-do-clubs-in-mayfair-play" className="text-gold hover:text-gold-light">
+                  what music Mayfair clubs actually play
+                </Link>
+                .
               </p>
             </div>
           </div>
