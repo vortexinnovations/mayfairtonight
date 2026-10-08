@@ -119,7 +119,7 @@ const faqs = [
   {
     question: "What's the best night for a girls' night in Mayfair?",
     answer:
-      "Thursday is the sweet spot. Every major club is open, the atmosphere is buzzing, guestlist access is easier, and the crowd is genuinely up for a good time. Saturday is peak energy but busier and harder to access. Wednesday is the underrated option — smaller crowds, easier doors, and the people who come out midweek really want to be there.",
+      "Thursday is the sweet spot. Most major clubs are open, the atmosphere is buzzing, guestlist access is easier, and the crowd is genuinely up for a good time. Saturday is peak energy but busier and harder to access. Wednesday is the underrated option — smaller crowds, easier doors, and the people who come out midweek really want to be there.",
   },
   {
     question: "How do girls get free entry to Mayfair clubs?",

@@ -494,8 +494,8 @@ export default function MayfairNightlifeGuidePage() {
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">
               <h3 className="text-white font-semibold mb-1">2. Go on a Thursday</h3>
               <p className="text-sm">
-                Thursday has the best atmosphere-to-difficulty ratio. Every
-                major club is open, the crowd is quality, and it&apos;s slightly
+                Thursday has the best atmosphere-to-difficulty ratio. Most
+                major clubs are open, the crowd is quality, and it&apos;s slightly
                 easier to get in than Friday or Saturday.
               </p>
             </div>

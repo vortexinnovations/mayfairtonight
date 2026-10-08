@@ -49,8 +49,6 @@ Tape is the headliner, but it is not the only option. [Funky Buddha](/clubs/funk
 
 [Hush](/clubs/hush) offers a more low-key alternative. It operates as a restaurant-bar-club hybrid, and on quieter midweek nights, the downstairs space transforms into an intimate late-night spot. If you want drinks and music without the full club commitment, Hush works well on a Tuesday.
 
-For something completely different, [The Box Soho](/clubs/the-box-soho) runs its theatrical performances on select weeknights. It is not Mayfair proper, but it is a short walk, and the cabaret-style shows are unlike anything else in London. Worth checking their schedule if you want a talking point for the evening.
-
 ## What to Wear on a Tuesday Night
 
 Mayfair door policies do not disappear on a Tuesday. The standards are the same, even if the enforcement feels slightly softer. Smart casual is the minimum. Tailored trousers, a clean pair of trainers (designer, not gym), and a well-fitted shirt will get you through most doors without a second look.

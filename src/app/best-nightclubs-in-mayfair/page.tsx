@@ -48,7 +48,7 @@ const rankedClubs: RankedClub[] = [
     ],
     bestFor: "Those who want the most exclusive night possible",
     music: "Hip-Hop, RnB, Commercial",
-    nights: "Wed, Thu, Fri, Sat",
+    nights: "Tue, Fri, Sat, Sun",
   },
   {
     rank: 2,
@@ -65,7 +65,7 @@ const rankedClubs: RankedClub[] = [
     ],
     bestFor: "Groups who want entertainment with their night out",
     music: "Hip-Hop, RnB",
-    nights: "Wed, Fri, Sat",
+    nights: "Mon, Wed, Fri, Sat",
   },
   {
     rank: 3,
@@ -99,7 +99,7 @@ const rankedClubs: RankedClub[] = [
     ],
     bestFor: "Special occasions and groups who want a show",
     music: "Commercial, House, Hip-Hop",
-    nights: "Thu, Fri, Sat",
+    nights: "Tue, Thu, Fri, Sat",
   },
   {
     rank: 5,
@@ -116,7 +116,7 @@ const rankedClubs: RankedClub[] = [
     ],
     bestFor: "Couples and groups who want dinner and dancing",
     music: "House, Deep House, Tech House",
-    nights: "Wed, Thu, Fri, Sat",
+    nights: "Thu, Fri, Sat",
   },
   {
     rank: 6,
@@ -150,7 +150,7 @@ const rankedClubs: RankedClub[] = [
     ],
     bestFor: "Date nights and groups who prefer bars to clubs",
     music: "House, Lounge, Commercial",
-    nights: "Wed, Thu, Fri, Sat",
+    nights: "Thu, Fri, Sat, Sun",
   },
   {
     rank: 8,
@@ -195,7 +195,7 @@ const faqs = [
   {
     question: "What night should I go to a Mayfair club?",
     answer:
-      "Thursday and Saturday are the standout nights. Thursday has the best atmosphere — the crowd is genuinely up for it and every major club is open. Saturday is peak energy with sold-out rooms. Friday is reliable but can be more corporate. Wednesday is the underrated gem for midweek partying.",
+      "Thursday and Saturday are the standout nights. Thursday has the best atmosphere — the crowd is genuinely up for it and most major clubs are open. Saturday is peak energy with sold-out rooms. Friday is reliable but can be more corporate. Wednesday is the underrated gem for midweek partying.",
   },
 ];
 

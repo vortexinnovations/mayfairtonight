@@ -39,10 +39,6 @@ Weekend tables sell out fast. Thursday tables are more available, which means be
 
 ## Where to Go This Thursday
 
-### For Exclusivity: [Tape London](/clubs/tape-london)
-
-Thursday at Tape is more intimate than the weekend. The room is smaller, the crowd is tighter, and the vibe is impeccable. If you can get a table, Thursday at Tape is arguably the best night in Mayfair.
-
 ### For Fashion & Cool: [TABU London](/clubs/tabu-london)
 
 TABU's Thursday night is one of the best in the area. The fashion crowd comes out, the music is on point, and the Japanese underground atmosphere is at its moodiest and best.

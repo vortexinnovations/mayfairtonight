@@ -42,7 +42,7 @@ const hipHopClubs: HipHopClub[] = [
       "Old school hip-hop meets modern trap. The DJs here read the room better than anywhere in Mayfair — expect seamless transitions from 90s classics to Drake deep cuts.",
     crowd:
       "A-list celebrities, music industry insiders, and well-connected regulars. This is not a casual crowd. Everyone is here because they earned their spot on the list.",
-    bestNights: "Thursday and Saturday",
+    bestNights: "Tuesday and Saturday",
     vibe:
       "Intimate, high-energy, exclusive. The room is small enough that the bass hits your chest. When the right track drops, the whole room reacts.",
     guestlistOrTables:
@@ -88,7 +88,7 @@ const faqs = [
   {
     question: "What is the best night for hip-hop in Mayfair?",
     answer:
-      "Thursday and Saturday are the strongest hip-hop nights across Mayfair. Thursday at Tape London is considered the gold standard — the crowd is up for it and the DJs play deeper cuts. Saturday is peak energy everywhere. Wednesday at Cirque Le Soir is the underrated pick if you want hip-hop with entertainment.",
+      "Thursday and Saturday are the strongest hip-hop nights across Mayfair. Tuesday at Tape London is considered the gold standard — the crowd is up for it and the DJs play deeper cuts. Saturday is peak energy everywhere. Wednesday at Cirque Le Soir is the underrated pick if you want hip-hop with entertainment.",
   },
   {
     question: "What is the dress code for hip-hop clubs in Mayfair?",
@@ -367,7 +367,7 @@ export default function BestHipHopClubsPage() {
                 <tr className="border-b border-dark-border/50">
                   <td className="py-3 px-3 text-white font-medium">Tape London</td>
                   <td className="py-3 px-3">Hip-Hop / Trap</td>
-                  <td className="py-3 px-3">Thu & Sat</td>
+                  <td className="py-3 px-3">Tue & Sat</td>
                   <td className="py-3 px-3">Tables preferred</td>
                 </tr>
                 <tr className="border-b border-dark-border/50">

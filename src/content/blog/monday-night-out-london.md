@@ -18,7 +18,7 @@ This guide breaks down the real Monday night landscape across Mayfair and centra
 
 ## The Reality of Monday Nights in Mayfair
 
-Let's be upfront: the majority of Mayfair's top nightclubs do not run regular Monday programming. Venues like [Funky Buddha](/clubs/funky-buddha), [Reign London](/clubs/reign-london), and [Selene](/clubs/selene) operate Friday and Saturday as their anchor nights, with some extending into Thursday or Sunday. Monday simply isn't on the calendar for most.
+Let's be upfront: the majority of Mayfair's top nightclubs do not run regular Monday programming. Venues like [Funky Buddha](/clubs/funky-buddha), [Reign London](/clubs/reign-london), and [Selene](/clubs/selene) operate Friday and Saturday as their anchor nights, with some extending into Tuesday, Thursday or Sunday. Monday simply isn't on the calendar for most.
 
 That said, Mayfair doesn't shut down completely. The neighbourhood is full of late-licence bars, members' clubs, and restaurant-bars that keep things moving seven nights a week. If your idea of a Monday night out in London involves cocktails, a good atmosphere, and a late finish rather than a full-blown club night, Mayfair still delivers.
 
@@ -32,7 +32,7 @@ While the headline clubs rest, a handful of venues keep their doors open or run 
 
 **KOKO** in Camden is one of London's most versatile nightlife venues, and its programming varies week to week. Monday events appear periodically — live music showcases, label nights, and one-off parties that draw a crowd regardless of the day. It's worth checking their listings if you want a proper Monday night out beyond Mayfair's borders.
 
-**Tape London** primarily runs its famous Tuesday, Friday, and Saturday nights, but the venue occasionally hosts private events and industry nights on Mondays. If you're connected to a promoter or on the right WhatsApp groups, these can be some of the most exclusive and intimate nights the club offers. Reach out to us and we can check availability for you.
+**Tape London** runs its famous Tuesday, Friday, Saturday and Sunday nights, but the venue occasionally hosts private events on Mondays. If you're connected to a promoter or on the right WhatsApp groups, these can be some of the most exclusive and intimate nights the club offers. Reach out to us and we can check availability for you.
 
 For something more relaxed, the late-licence bars along [Dover Street and surrounding Mayfair streets](/mayfair-nightclubs) keep serving well past midnight. These aren't nightclubs, but they fill the Monday gap with cocktails, ambient music, and a crowd that knows the neighbourhood.
 
@@ -79,7 +79,7 @@ Outside these windows, a Monday night out in Mayfair is more about the relaxed b
 ## Frequently Asked Questions
 
 ### Q: Are any Mayfair nightclubs open on Monday?
-**A:** Most Mayfair nightclubs do not run regular Monday nights. Tape London and others occasionally host private or industry events on Mondays, but there's no guaranteed weekly programming. The late-licence bar scene remains active throughout the week.
+**A:** Most Mayfair nightclubs do not run regular Monday nights. Tape London and others occasionally host private events on Mondays, but there's no guaranteed weekly programming. The late-licence bar scene remains active throughout the week.
 
 ### Q: What's the best alternative to clubbing on a Monday in London?
 **A:** Late-night cocktail bars in Mayfair, live music at KOKO in Camden, or dinner at a restaurant with a late licence. Monday is ideal for a more relaxed evening before the midweek club scene starts on Tuesday.

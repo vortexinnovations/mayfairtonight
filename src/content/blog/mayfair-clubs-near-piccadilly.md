@@ -21,7 +21,7 @@ Here's what's close and what's worth your time.
 
 [Reign London](/clubs/reign-london) is on Piccadilly itself. You could literally walk from Piccadilly Circus station to the door in two minutes. It's the most convenient option — and it happens to be one of the most spectacular clubs in London. Aerial shows, live entertainment, and a grand venue.
 
-**Open:** Thursday, Friday, Saturday from 22:00.
+**Open:** Tuesday, Thursday, Friday, Saturday from 22:00.
 
 ### Cuckoo Club
 
@@ -33,7 +33,7 @@ Here's what's close and what's worth your time.
 
 [Dear Darling](/clubs/dear-darling) is in Mayfair proper, about a five-minute walk from Piccadilly. If you want cocktails and late-night atmosphere rather than a full club, this is the move. Opulent, intimate, and transitions beautifully from bar to late-night energy.
 
-**Open:** Wednesday to Saturday from 21:00.
+**Open:** Thursday to Sunday from 21:00.
 
 ## Within 10 Minutes
 
@@ -47,19 +47,19 @@ Here's what's close and what's worth your time.
 
 [TABU](/clubs/tabu-london) is in the heart of Mayfair, about an eight-minute walk from Piccadilly. The Japanese underground theme is unique, the crowd is fashion-forward, and Thursday nights are exceptional.
 
-**Open:** Thursday to Saturday from 22:00.
+**Open:** Wednesday to Saturday from 22:00.
 
 ### Tape London
 
 [Tape London](/clubs/tape-london) on Hanover Square is about ten minutes from Piccadilly. It's the most exclusive club in Mayfair — members only, invite-only energy. You'll need a table booking or promoter contact to get in.
 
-**Open:** Wednesday to Saturday from 22:00.
+**Open:** Tuesday, Friday, Saturday and Sunday from 22:00.
 
 ### Maddox
 
 [Maddox](/clubs/maddox) is a ten-minute walk into Mayfair. Start with Italian dinner if you haven't eaten, then head downstairs for house music. The dinner-to-dance flow is perfect for West End to Mayfair evenings.
 
-**Open:** Wednesday to Saturday from 22:00.
+**Open:** Thursday to Saturday from 22:00.
 
 ## From Leicester Square
 

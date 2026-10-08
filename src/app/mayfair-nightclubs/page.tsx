@@ -27,7 +27,7 @@ const clubInsights: Record<
     crowd:
       "A-list celebrities, high-net-worth individuals, models, and music industry insiders. The most exclusive crowd in Mayfair.",
     bestNight:
-      "Saturday is Tape at its peak — every table booked, the energy is electric. Thursday offers a more intimate feel with the same quality crowd.",
+      "Saturday is Tape at its peak — every table booked, the energy is electric. Tuesday offers a more intimate feel with the same quality crowd.",
     guestlistTip:
       "Tape is members and tables only most nights. Guestlist access is extremely limited — booking through a promoter is the only reliable way in.",
   },

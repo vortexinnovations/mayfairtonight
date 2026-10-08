@@ -27,7 +27,7 @@ Open Thursday to Saturday. Smart dress code applies.
 
 [Maddox](/clubs/maddox) is the standout house music venue in Mayfair. The club sits below an excellent Italian restaurant, and the dinner-to-dance transition is seamless. The house music is proper — deep house, tech house, and quality selections from DJs who know the genre.
 
-The crowd is older and more sophisticated than most Mayfair clubs. This is where you go when you want house music without sacrificing the Mayfair experience. Open Wednesday to Saturday.
+The crowd is older and more sophisticated than most Mayfair clubs. This is where you go when you want house music without sacrificing the Mayfair experience. Open Thursday to Saturday.
 
 ### Cuckoo Club — The Downstairs Room
 

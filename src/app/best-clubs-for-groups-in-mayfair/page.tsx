@@ -129,7 +129,7 @@ const faqs = [
   {
     question: "What is the best night for groups in Mayfair?",
     answer:
-      "Thursday is the best night for groups. Every major club is open, the atmosphere is excellent, and guestlists are more available than Saturday. Saturday is peak energy but tables sell out fast and guestlist spots are limited. Wednesday is the underrated option: Cirque Le Soir and The Box both run quality midweek nights with easier access for groups.",
+      "Thursday is the best night for groups. Most major clubs are open, the atmosphere is excellent, and guestlists are more available than Saturday. Saturday is peak energy but tables sell out fast and guestlist spots are limited. Wednesday is the underrated option: Cirque Le Soir and The Box both run quality midweek nights with easier access for groups.",
   },
   {
     question: "Can we split the bill on a table booking?",

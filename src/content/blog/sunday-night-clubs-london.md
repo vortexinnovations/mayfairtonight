@@ -45,12 +45,6 @@ Skip the queue, secure your table, and get insider access. Message us on WhatsAp
 
 ---
 
-## The Box Soho: Cabaret Without the Saturday Chaos
-
-[The Box Soho](/clubs/the-box-soho) occasionally runs Sunday events, and when it does, the cabaret-meets-nightclub format takes on a different character. The performers still deliver the same provocative, boundary-pushing shows, but the reduced crowd means you can actually see the stage without craning your neck from the back of the room.
-
-Sunday at The Box also tends to feel more exclusive without actively trying to be. The guest list is smaller, the energy is focused, and the whole experience lands closer to what The Box was originally designed to be — a theatrical nightlife experience, not just another loud club.
-
 ## What to Know Before Going Out on a Sunday
 
 Sunday night clubs in London come with a few practical differences worth knowing about:
@@ -70,7 +64,7 @@ Sunday attracts a different demographic. You'll see fewer large groups, more cou
 ## Frequently Asked Questions
 
 ### Q: Which clubs are open on Sunday nights in London?
-**A:** Tape London is the most reliable Mayfair option for Sunday nights. Funky Buddha and The Box Soho open on select Sundays, particularly around bank holidays. Always check listings before heading out, as Sunday schedules change week to week.
+**A:** Tape London is the most reliable Mayfair option for Sunday nights. Funky Buddha opens on select Sundays, particularly around bank holidays. Always check listings before heading out, as Sunday schedules change week to week.
 
 ### Q: Is the dress code different on a Sunday?
 **A:** The standard dress code still applies — smart casual to smart. Trainers, sportswear, and shorts will still get you turned away. However, door staff tend to be slightly less strict on Sundays compared to peak nights.

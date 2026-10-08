@@ -178,7 +178,7 @@ export const clubs: Club[] = [
     dressCode: "Smart and elegant. This is an old-school Mayfair members club — dress like it.",
     dressCodeNotes: "Elegant is the word. Think classic, not trendy.",
     tableMinimum: "£1,000",
-    openNights: ["Friday", "Saturday"],
+    openNights: ["Thursday", "Friday", "Saturday"],
     openingTime: "22:00",
     closingTime: "03:00",
     vibe: "Historic, elegant, intimate",
@@ -195,7 +195,7 @@ export const clubs: Club[] = [
     tagline: "Mayfair's most opulent late-night bar",
     description:
       "Dear Darling is pure Mayfair opulence — chandeliers, velvet booths, and cocktails that justify their price tag. It straddles the line between high-end bar and late-night venue. The cocktail programme is serious, the atmosphere is intimate, and it transitions beautifully from early evening drinks to late-night energy. Perfect for those who want sophistication without the full nightclub experience.",
-    location: "Mayfair",
+    location: "91 Jermyn Street, St James's",
     area: "Mayfair",
     musicPolicy: ["House", "Lounge", "Commercial"],
     dressCode: "Smart. Cocktail attire encouraged. No casual wear whatsoever.",

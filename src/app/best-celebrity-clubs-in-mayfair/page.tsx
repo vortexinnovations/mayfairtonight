@@ -40,11 +40,11 @@ const celebrityClubs: CelebrityClub[] = [
     whyCelebritiesChooseIt:
       "Privacy. The room is small, the door is iron-clad, and the layout means tables feel genuinely secluded. Celebrities come to Tape because they can actually relax. No phones in faces. No random walk-ups. The staff are trained to protect the room, and it shows.",
     crowd:
-      "Music artists, athletes, models, and the connected crowd that orbits them. On any given Thursday or Saturday, you are sharing the room with people you have seen on screen or on stage. The crowd is self-selecting — if you are in, you belong.",
+      "Music artists, athletes, models, and the connected crowd that orbits them. On any given Tuesday or Saturday, you are sharing the room with people you have seen on screen or on stage. The crowd is self-selecting — if you are in, you belong.",
     doorExclusivity:
       "The hardest door in Mayfair. Guestlist is extremely limited and curated. Tables are the primary entry route, and even table bookings are vetted. This is not a club that needs to fill the room — it chooses who gets in.",
     insiderTip:
-      "Book a table through a trusted promoter with an established relationship with the venue. Walk-ups almost never work. Thursday is slightly more accessible than Saturday. Dress impeccably — the door team makes decisions in seconds.",
+      "Book a table through a trusted promoter with an established relationship with the venue. Walk-ups almost never work. Tuesday is slightly more accessible than Saturday. Dress impeccably — the door team makes decisions in seconds.",
     verdict:
       "The most celebrity-dense club in Mayfair by a significant margin. Tape is where the A-list goes when they want to go out but do not want the world to know. The intimate room, the flawless music, and the ironclad privacy make it the top choice for anyone who values exclusivity above everything.",
   },
@@ -99,7 +99,7 @@ const faqs = [
   {
     question: "Will I actually see celebrities at Mayfair clubs?",
     answer:
-      "At the right venue on the right night, yes. Tape London on Thursday and Saturday regularly has recognisable faces. The Box attracts fashion and creative industry celebrities. We never guarantee celebrity sightings — but at these venues, the crowd is genuinely A-list. Do not go expecting to take photos though. Privacy is respected and phones are often discouraged.",
+      "At the right venue on the right night, yes. Tape London on Tuesday and Saturday regularly has recognisable faces. The Box attracts fashion and creative industry celebrities. We never guarantee celebrity sightings — but at these venues, the crowd is genuinely A-list. Do not go expecting to take photos though. Privacy is respected and phones are often discouraged.",
   },
   {
     question: "Is it worth the money to go to a celebrity club?",

@@ -21,7 +21,7 @@ Here's where to find the real thing.
 
 [Tape London](/clubs/tape-london) is the most exclusive hip-hop room in the city. The crowd is A-list, the DJs are handpicked, and the sound system in that intimate room is phenomenal. You'll hear quality hip-hop and RnB all night — no random genre switches, no cheesy mashups.
 
-Tables from £1,500. Open Wednesday to Saturday. This is hip-hop for people who take both the music and the experience seriously.
+Tables from £1,500. Open Tuesday, Friday, Saturday and Sunday. This is hip-hop for people who take both the music and the experience seriously.
 
 ### TABU London — The Fashion Crowd's Pick
 

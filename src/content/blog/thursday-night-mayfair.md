@@ -33,7 +33,6 @@ Not every Mayfair room is open or worth your time on a Thursday. These are the v
 
 - **Hush** is the cleanest Thursday answer in Mayfair. The Thursday programming leans R&B and soul early, then drifts into house after 1am. I went on a Thursday in March and the back-room crowd was a clear step ahead of the Friday crowd: less queue, more conversation, and no one trying too hard.
 - **MNKY HSE** does Latin and Afrobeats on Thursdays, and it is genuinely one of the better midweek rooms in the area. The mezzanine fills up first, then the DJ pulls the floor down around midnight.
-- **Tape London** is not formally headlined for Thursdays in 2026 (Tape Tuesdays remain its midweek anchor), but the room does open for select Thursday events and private bookings. Check the weekly programming.
 - **Reign** stays open most Thursdays for private dining tables and pre-club drinks rather than a full club night, then ramps up around midnight if there is an event on.
 - **Chinawhite** and **Mahiki**, which used to anchor Thursdays in W1, are no longer operating as of 2026, so skip any older guide that puts them on a Thursday list.
 
@@ -67,7 +66,7 @@ Skip the queue, secure your table, and get insider access. Message us on WhatsAp
 As of May 2026, the minimum spends I see on Thursdays in Mayfair sit in a clear band:
 
 - **Mid-tier Mayfair rooms** (Hush, MNKY HSE, Reign on event Thursdays): minimum spend roughly £750 to £1,000 for a small table.
-- **Higher-tier rooms** (Tape on event Thursdays, premium Selene events): roughly £1,000 to £1,500.
+- **Higher-tier rooms** (premium Selene events): roughly £1,000 to £1,500.
 - **Walk-in entry**: usually free to £20 on the door for couples and small groups, far less hassle than Friday or Saturday.
 
 Compare those to Friday and Saturday, where the same tables routinely sit at £1,500 and up, and you can see why a Thursday is the most efficient way to do a proper W1 night. If you are pricing a table for a birthday or a corporate dinner-into-club, see our [bottle service guide](/bottle-service) for what the spend actually covers, and the [Mayfair nightlife guide](/mayfair-nightlife-guide) for context across the week. Sister-site [London Bottle Service](https://londonbottleservice.com) has more on minimum spends if you want a national reference.
@@ -87,7 +86,7 @@ For tonight-led picks across London, [London Clubs Tonight](https://londonclubst
 ## Frequently Asked Questions
 
 ### Q: Do Mayfair clubs actually open on a Thursday?
-**A:** Yes, most of them. Hush and MNKY HSE run full Thursday programming. Reign, Selene, and Tape open on event-led Thursdays. Mahiki and Chinawhite, which used to anchor Thursdays in W1, are no longer operating as of 2026.
+**A:** Yes, most of them. Hush and MNKY HSE run full Thursday programming. Reign and Selene open on event-led Thursdays. Mahiki and Chinawhite, which used to anchor Thursdays in W1, are no longer operating as of 2026.
 
 ### Q: What time should I arrive on a Thursday in Mayfair?
 **A:** From experience, between 11.00pm and 11.30pm is the sweet spot. Earlier and the floors are empty. Later than midnight on a Thursday and you risk hitting the brief queue spike when the post-dinner crowd all moves at once.
