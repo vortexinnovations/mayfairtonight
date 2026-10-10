@@ -1,5 +1,5 @@
 ---
-title: "Corporate Entertaining in Mayfair — The Right Club for Every Client"
+title: "Corporate Entertaining in Mayfair: The Right Club for Every Client"
 metaTitle: "Corporate Entertaining Mayfair"
 metaDescription: "How to entertain clients in Mayfair's best nightclubs. The right venues, table etiquette, dress codes, and how to make business entertaining look effortless."
 date: "2026-03-25"
@@ -11,7 +11,7 @@ readingTime: "6 min read"
 
 ## Why Mayfair Is the Default for Business Entertaining
 
-When you need to take clients out in London — properly out, not just dinner — Mayfair is the only serious postcode. The density of world-class restaurants, private members' clubs, and [premium nightclubs](/mayfair-nightclubs) within walking distance of each other makes it uniquely suited to corporate entertaining.
+When you need to take clients out in London, properly out, not just dinner, Mayfair is the only serious postcode. The density of world-class restaurants, private members' clubs, and [premium nightclubs](/mayfair-nightclubs) within walking distance of each other makes it uniquely suited to corporate entertaining.
 
 Done well, a Mayfair night out leaves a lasting impression. Done badly, it's an expensive embarrassment. The difference comes down to venue selection, timing, and knowing the unwritten rules.
 
@@ -41,18 +41,18 @@ A table is non-negotiable for corporate entertaining. Standing at the bar with c
 
 Key rules:
 
-- **Book well in advance.** Premium tables on Fridays and Saturdays go quickly. Thursday is often the smarter choice for corporate — the room is excellent but less frantic.
-- **Brief your host.** Tell the venue it's a corporate booking. Good clubs will adjust the service accordingly — more attentive, less intrusive.
+- **Book well in advance.** Premium tables on Fridays and Saturdays go quickly. Thursday is often the smarter choice for corporate: the room is excellent but less frantic.
+- **Brief your host.** Tell the venue it's a corporate booking. Good clubs will adjust the service accordingly: more attentive, less intrusive.
 - **Manage the minimum spend.** Table minimums in Mayfair typically start from several hundred pounds and scale based on night and location. Budget accordingly and don't get caught short.
 - **Arrive before your clients.** Be at the table, drinks ordered, everything settled before they walk in. First impressions matter.
 
-For table bookings across Mayfair's best venues, [London Bottle Service](https://londonbottleservice.com) handles the logistics and can advise on which tables suit corporate groups.
+For table bookings across Mayfair's best venues, [our table booking team](/contact) handles the logistics and can advise on which tables suit corporate groups.
 
 ## Dress Code for Business Entertaining
 
 The dress code at [Mayfair clubs](/mayfair-club-dress-code) is always smart, but corporate entertaining raises the bar slightly. You're representing your company, so err on the side of polished.
 
-For men: tailored trousers, quality shoes, a well-fitted shirt. A blazer is rarely wrong. Avoid anything that looks like you came straight from a client meeting in a full suit — you want to look like you chose to be here, not like you were working late.
+For men: tailored trousers, quality shoes, a well-fitted shirt. A blazer is rarely wrong. Avoid anything that looks like you came straight from a client meeting in a full suit. You want to look like you chose to be here, not like you were working late.
 
 For women: cocktail-appropriate. Elegant, confident, and comfortable enough to enjoy the evening.
 
@@ -62,7 +62,7 @@ Brief your team in advance. Nothing undermines a corporate night out faster than
 
 **The wrong volume.** If your client needs to shout to be heard, you've chosen the wrong venue. Prioritise places with table areas where conversation is possible, even if the dance floor is loud.
 
-**The wrong crowd.** Taking a conservative banking client to [Cirque Le Soir](/clubs/cirque-le-soir) might be brilliant or disastrous — know your audience.
+**The wrong crowd.** Taking a conservative banking client to [Cirque Le Soir](/clubs/cirque-le-soir) might be brilliant or disastrous: know your audience.
 
 **Over-staying.** Corporate entertaining is best kept to two or three hours. Arrive around 10:30pm, leave by 1am. You want your clients to leave wanting more, not looking for an exit.
 
@@ -75,7 +75,7 @@ The best corporate nights out appear spontaneous even when they're meticulously 
 1. **Book the table** two weeks in advance minimum.
 2. **Confirm with the venue** on the day.
 3. **Arrive thirty minutes early** to check the table and order the first round.
-4. **Have a backup venue** in case plans change. Mayfair's density makes this easy — if one club isn't working, another is a five-minute walk away.
+4. **Have a backup venue** in case plans change. Mayfair's density makes this easy: if one club isn't working, another is a five-minute walk away.
 5. **Handle the bill discreetly.** Pre-arrange payment or step away from the table to settle up. Never let clients see you calculating.
 
 For more on navigating Mayfair's [VIP nightlife](/mayfair-vip-nightlife) and [table culture](/best-clubs-for-tables-in-mayfair), our guides cover the details.
@@ -89,7 +89,7 @@ Thursday. The clubs are open and excellent, but less hectic than the weekend. Yo
 Varies significantly by venue and night. As a rough guide, expect table minimums from several hundred to well over a thousand pounds. Factor in the table minimum plus tips and incidentals.
 
 **Can I book dinner and a club in the same venue?**
-Yes — [Maddox](/clubs/maddox) is specifically set up for this. Several other Mayfair venues offer adjacent restaurant spaces too.
+Yes: [Maddox](/clubs/maddox) is specifically set up for this. Several other Mayfair venues offer adjacent restaurant spaces too.
 
 **What if my clients aren't clubbers?**
 Choose a venue like [Dear Darling](/clubs/dear-darling) or [Selene London](/clubs/selene-london) where the atmosphere is social and relaxed rather than full-on nightclub. A table with good drinks and a civilised atmosphere works for almost everyone.

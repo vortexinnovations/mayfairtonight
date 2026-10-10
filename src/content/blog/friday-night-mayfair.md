@@ -96,7 +96,7 @@ A Friday night in Mayfair is not cheap. As of May 2026, expect to pay:
 - **Drinks**: £15-£18 for a cocktail, £8-£12 for a beer
 - **Bottle service**: Table minimums start from around £1,000 at most venues, rising to £2,000+ at Tape on peak Fridays
 
-If you're considering [bottle service options](https://londonbottleservice.com), booking midweek versus Friday can save you 30-40% on minimum spends.
+If you're considering [table options](/how-mayfair-nightclub-tables-work), booking midweek versus Friday can save you 30-40% on minimum spends.
 
 ## Frequently Asked Questions
 

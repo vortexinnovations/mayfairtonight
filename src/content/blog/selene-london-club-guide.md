@@ -1,9 +1,9 @@
 ---
-title: "Selene London — Refined Elegance Just North of Mayfair"
-metaTitle: "Selene London — Refined Elegance Just North of Mayfair"
+title: "Selene London: Refined Elegance Just North of Mayfair"
+metaTitle: "Selene London: Refined Elegance Just North of Mayfair"
 metaDescription: "The insider guide to Selene London. Greek goddess-inspired interiors, a serious cocktail programme, and one of the most elegant new nightlife experiences just north of Mayfair."
 date: "2026-03-25"
-excerpt: "Selene London brings a different energy to the West End, just north of Mayfair. Elegant, refined, and effortlessly sophisticated — here's everything you need to know."
+excerpt: "Selene London brings a different energy to the West End, just north of Mayfair. Elegant, refined, and effortlessly sophisticated. Here's everything you need to know."
 category: "Club Guides"
 tags: ["Selene London", "Selene Mayfair", "Selene nightclub", "new clubs Mayfair"]
 readingTime: "5 min read"
@@ -17,7 +17,7 @@ That's [Selene London](/clubs/selene-london), at 4 Winsley Street in Fitzrovia, 
 
 ## The Concept
 
-Selene takes its name and inspiration from the Greek goddess of the moon. That mythology runs through the entire design — crescent motifs, soft lunar lighting, a colour palette of golds, creams, and deep midnight tones.
+Selene takes its name and inspiration from the Greek goddess of the moon. That mythology runs through the entire design: crescent motifs, soft lunar lighting, a colour palette of golds, creams, and deep midnight tones.
 
 But it's not a theme bar. The Greek inspiration is subtle and tasteful, woven into the architecture and the details rather than plastered over everything. Walk in and you'll notice the elegance before you notice the mythology. That's the sign of good design.
 
@@ -25,7 +25,7 @@ The space feels intimate but not cramped. Plush seating, thoughtful table placem
 
 ## The Cocktails
 
-This is where Selene separates itself from the pack. Most Mayfair clubs treat drinks as an afterthought — standard bottles, basic mixers, nothing to write home about. Selene has built a proper cocktail programme.
+This is where Selene separates itself from the pack. Most Mayfair clubs treat drinks as an afterthought: standard bottles, basic mixers, nothing to write home about. Selene has built a proper cocktail programme.
 
 The menu features signature creations alongside well-executed classics. The bartenders clearly know what they're doing. If you appreciate a properly made drink, you'll notice the difference immediately.
 
@@ -33,7 +33,7 @@ Start your night at the bar before moving to the tables or the dance floor. The 
 
 ## The Music
 
-Selene runs a mix of house and commercial music. It's not deep underground house — it's polished, accessible, and designed to keep the room moving without overwhelming conversation.
+Selene runs a mix of house and commercial music. It's not deep underground house. It's polished, accessible, and designed to keep the room moving without overwhelming conversation.
 
 The DJs build the energy gradually. Early in the evening it's smooth and atmospheric, perfect for drinks and conversation. By midnight the tempo lifts and the dance floor fills. It's a well-managed progression that rewards people who arrive early and stay late.
 
@@ -51,11 +51,11 @@ It's the kind of place where you'll have an actual conversation between drinks a
 
 **Saturday** is busier and more high-energy. If you want the full club experience with dancing until close, this is your night.
 
-**Thursday** offers a more intimate setting — perfect if you want the Selene experience at a more relaxed pace.
+**Thursday** offers a more intimate setting, perfect if you want the Selene experience at a more relaxed pace.
 
 ## What to Wear
 
-Selene's crowd dresses well and the venue expects the same. Smart is the minimum. Cocktail attire works perfectly — think of it as dressing for an upscale bar that happens to have a dance floor.
+Selene's crowd dresses well and the venue expects the same. Smart is the minimum. Cocktail attire works perfectly: think of it as dressing for an upscale bar that happens to have a dance floor.
 
 No trainers, no casual wear. This is one of the West End's more refined rooms and the dress code reflects that.
 
@@ -72,7 +72,7 @@ Dear Darling leans more towards opulent cocktail bar that transitions into late-
 
 ## Who Should Go
 
-Selene is perfect for people who love going out but are over the chaos. If you've aged out of the mega-clubs but still want a proper night, this is your venue. Date nights, group celebrations, or just a quality Friday evening — Selene handles all of it with grace.
+Selene is perfect for people who love going out but are over the chaos. If you've aged out of the mega-clubs but still want a proper night, this is your venue. Date nights, group celebrations, or just a quality Friday evening: Selene handles all of it with grace.
 
 For more new venues worth knowing, check our [best new clubs in Mayfair guide](/blog/best-new-clubs-mayfair). And if you're weighing up the full Mayfair scene, our [best clubs in Mayfair ranking](/blog/best-clubs-in-mayfair) covers everything.
 

@@ -1,9 +1,9 @@
 ---
-title: "What to Do in Mayfair at Night — Beyond the Obvious"
-metaTitle: "What to Do in Mayfair at Night — Full Guide"
-metaDescription: "What to do in Mayfair at night — nightclubs, cocktail bars, late-night dining, and how to plan an evening in London's most exclusive neighbourhood."
+title: "What to Do in Mayfair at Night: Beyond the Obvious"
+metaTitle: "What to Do in Mayfair at Night: Full Guide"
+metaDescription: "What to do in Mayfair at night: nightclubs, cocktail bars, late-night dining, and how to plan an evening in London's most exclusive neighbourhood."
 date: "2026-02-20"
-excerpt: "Mayfair after dark is a different world. Here's everything worth doing once the sun goes down — from cocktail bars to world-class clubs to late-night dining."
+excerpt: "Mayfair after dark is a different world. Here's everything worth doing once the sun goes down, from cocktail bars to world-class clubs to late-night dining."
 category: "Guides"
 tags: ["Mayfair at night", "things to do Mayfair", "nightlife", "evening guide"]
 readingTime: "5 min read"
@@ -21,7 +21,7 @@ Before the clubs open, Mayfair's cocktail bars set the tone. The best move is to
 
 [Dear Darling](/clubs/dear-darling) is the standout option. Chandeliers, velvet booths, and a cocktail programme that justifies every penny. It opens at 9pm and transitions into late-night energy as the hours pass. You could make it your whole evening or use it as a launchpad.
 
-For something different, explore the hotel bars along Park Lane and Berkeley Square — some of the best cocktail bars in London are hidden inside Mayfair's five-star hotels.
+For something different, explore the hotel bars along Park Lane and Berkeley Square: some of the best cocktail bars in London are hidden inside Mayfair's five-star hotels.
 
 ## Dinner That Leads Somewhere
 
@@ -39,7 +39,7 @@ Have dinner at any of Mayfair's excellent restaurants (the neighbourhood has som
 
 ## The Main Event: Nightclubs
 
-This is what Mayfair is famous for after dark. The clubs here are world-class — exclusive venues, incredible production, and a standard of nightlife that few cities match.
+This is what Mayfair is famous for after dark. The clubs here are world-class: exclusive venues, incredible production, and a standard of nightlife that few cities match.
 
 ### By Music
 
@@ -78,6 +78,6 @@ This matters. Mayfair enforces dress codes at every venue. Read our [complete dr
 
 ## How to Book
 
-The easiest way to plan a Mayfair evening is to [message us on WhatsApp](/contact). Tell us what kind of night you want, how many people, and we'll put together the perfect evening — venue recommendation, booking, and everything you need to know.
+The easiest way to plan a Mayfair evening is to [message us on WhatsApp](/contact). Tell us what kind of night you want, how many people, and we'll put together the perfect evening: venue recommendation, booking, and everything you need to know.
 
 Or check [what's on tonight](/) and pick your own adventure.

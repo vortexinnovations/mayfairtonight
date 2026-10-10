@@ -58,7 +58,7 @@ Staying out past 3AM in Mayfair takes a bit more planning than a regular night o
 - **Plan your transport home.** The Tube shuts around midnight. After 3AM, your options are Uber, a black cab, or the Night Bus. Mayfair is well-served by taxis on Regent Street and Park Lane.
 - **Dress to last.** Comfortable shoes matter more at 4AM than at 11PM, but still respect the [dress code](/mayfair-club-dress-code). Smart trainers are accepted at most venues listed here.
 
-For live info on what is open tonight, check [London Clubs Tonight](https://londonclubstonight.com) for updated schedules.
+For live info on what is open tonight, check [where to go tonight](/where-to-go-tonight) for updated schedules.
 
 ## Frequently Asked Questions
 

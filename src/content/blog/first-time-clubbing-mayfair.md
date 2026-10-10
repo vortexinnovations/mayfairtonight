@@ -1,9 +1,9 @@
 ---
 title: "First Time Going Out in Mayfair? Here's What You Need to Know"
-metaTitle: "First Time Clubbing in Mayfair — Tips"
-metaDescription: "Going clubbing in Mayfair for the first time? Everything you need to know — dress code, how to get in, what to expect, how much it costs, and which clubs are best for first-timers."
+metaTitle: "First Time Clubbing in Mayfair: Tips"
+metaDescription: "Going clubbing in Mayfair for the first time? Everything you need to know: dress code, how to get in, what to expect, how much it costs, and which clubs are best for first-timers."
 date: "2026-03-18"
-excerpt: "Mayfair nightlife can be intimidating if you've never been. Don't worry — here's everything you need to know so you walk in confident and have a brilliant night."
+excerpt: "Mayfair nightlife can be intimidating if you've never been. Don't worry. Here's everything you need to know so you walk in confident and have a brilliant night."
 category: "Guides"
 tags: ["first time", "Mayfair guide", "nightlife tips", "beginners"]
 readingTime: "6 min read"
@@ -17,7 +17,7 @@ Here's everything you need to know.
 
 ## What to Wear
 
-This is the most important thing. Mayfair clubs enforce dress codes — and they mean it.
+This is the most important thing. Mayfair clubs enforce dress codes, and they mean it.
 
 **For men:** Smart shoes (not trainers), tailored trousers or smart dark jeans, a well-fitted shirt. A blazer is always a safe bet. No sportswear, no t-shirts, no shorts.
 
@@ -35,7 +35,7 @@ This is the easiest and most reliable way. Book a VIP table and you're guarantee
 
 ### 2. Get on the Guestlist
 
-Guestlist gets you entry without a table. It's free or reduced entry, but you'll still need to meet the dress code and arrive at a reasonable time (before midnight is wise). We can arrange guestlist too — just ask.
+Guestlist gets you entry without a table. It's free or reduced entry, but you'll still need to meet the dress code and arrive at a reasonable time (before midnight is wise). We can arrange guestlist too, just ask.
 
 ### 3. Walk Up
 
@@ -50,21 +50,21 @@ Be realistic about the budget:
 - **Drinks at the bar:** Cocktails run £15-£20, beers around £8-£10
 - **Bottles on a table:** Expect £300+ for spirits, £400+ for champagne
 
-It's not cheap. But the experience justifies it — these are some of the best nightlife venues in the world.
+It's not cheap. But the experience justifies it. These are some of the best nightlife venues in the world.
 
 ## Best Clubs for First-Timers
 
 Not every Mayfair club is right for your first time. Here's where we'd send you:
 
-### 99 Regent Street (formerly Cuckoo Club) — If You Want Options
+### 99 Regent Street (formerly Cuckoo Club): If You Want Options
 
 The old Cuckoo Club building now trades as 99 Regent Street, open Wednesday to Saturday. Cuckoo made its name with two floors and two vibes, house downstairs and hip-hop up, which suits groups who cannot agree on music. Ask us how the new venue is splitting its rooms before you go.
 
-### [Cirque Le Soir](/clubs/cirque-le-soir) — If You Want an Experience
+### [Cirque Le Soir](/clubs/cirque-le-soir): If You Want an Experience
 
 Your first time in Mayfair might as well be unforgettable. Cirque's fire breathers, contortionists, and circus performers make it impossible to have a boring night.
 
-### [Dear Darling](/clubs/dear-darling) — If You're Not Sure About Clubs
+### [Dear Darling](/clubs/dear-darling): If You're Not Sure About Clubs
 
 If the idea of a full nightclub is too much, Dear Darling is the perfect middle ground. It's an opulent cocktail bar that transitions into late-night energy. Start here and see where the night takes you.
 
@@ -80,19 +80,19 @@ If the idea of a full nightclub is too much, Dear Darling is the perfect middle 
 ## When to Arrive
 
 - **On a table:** Arrive between 10:30pm and 11:30pm. The table is yours all night.
-- **On guestlist:** Arrive between 10pm and midnight. Earlier is better — after midnight, entry gets tighter.
+- **On guestlist:** Arrive between 10pm and midnight. Earlier is better: after midnight, entry gets tighter.
 - **Peak time:** Most Mayfair clubs hit their stride between midnight and 2am.
 
 ## The Best Nights to Start
 
 **Thursday** is the best night for first-timers. Nearly every club is open, the energy is high, but it's slightly less intense than Friday or Saturday. You get the full Mayfair experience without the absolute peak-time crush.
 
-**Wednesday** is also excellent — fewer people, more relaxed vibe, and the clubs still bring proper energy.
+**Wednesday** is also excellent: fewer people, more relaxed vibe, and the clubs still bring proper energy.
 
 Check our [night-by-night guide](/nights/thursday) for what's open each night.
 
 ## One Last Thing
 
-Don't overthink it. Dress smart, book ahead, arrive with a good attitude, and you'll have a brilliant night. Mayfair nightlife is genuinely world-class — once you've experienced it, you'll understand why people keep coming back.
+Don't overthink it. Dress smart, book ahead, arrive with a good attitude, and you'll have a brilliant night. Mayfair nightlife is genuinely world-class: once you've experienced it, you'll understand why people keep coming back.
 
 Need help planning? [Message us on WhatsApp](/contact). We'll recommend the right club, sort your booking, and make sure your first Mayfair night is one you remember.

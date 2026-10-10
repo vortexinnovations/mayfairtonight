@@ -1,9 +1,9 @@
 ---
-title: "How to Get Into Mayfair Clubs — Door Policy, Guestlists, and What Actually Works"
-metaTitle: "How to Get Into Mayfair Clubs — Door Tips"
-metaDescription: "Honest guide to getting into Mayfair's exclusive nightclubs. Door policies, guestlists, table bookings, and what actually works at the door — from people who do this every week."
+title: "How to Get Into Mayfair Clubs: Door Policy, Guestlists, and What Actually Works"
+metaTitle: "How to Get Into Mayfair Clubs: Door Tips"
+metaDescription: "Honest guide to getting into Mayfair's exclusive nightclubs. Door policies, guestlists, table bookings, and what actually works at the door, from people who do this every week."
 date: "2026-03-10"
-excerpt: "Getting into Mayfair clubs isn't complicated — but it does require some planning. Here's exactly how to make sure you're walking through the door, not standing outside it."
+excerpt: "Getting into Mayfair clubs isn't complicated, but it does require some planning. Here's exactly how to make sure you're walking through the door, not standing outside it."
 category: "Guides"
 tags: ["getting in", "door policy", "guestlist", "Mayfair tips"]
 readingTime: "6 min read"
@@ -33,7 +33,7 @@ Having a table reservation or guestlist placement changes everything. It signals
 
 ### 3. Group Composition
 
-Mayfair clubs generally prefer mixed groups — men and women together. A group of six guys with no booking is going to have a harder time than a mixed group of the same size. It's not universal, but it's a pattern.
+Mayfair clubs generally prefer mixed groups: men and women together. A group of six guys with no booking is going to have a harder time than a mixed group of the same size. It's not universal, but it's a pattern.
 
 This is less of a factor if you have a table booked. A booking overrides most other considerations.
 
@@ -41,33 +41,33 @@ This is less of a factor if you have a table booked. A booking overrides most ot
 
 ### Very Selective
 
-- **[Tape London](/clubs/tape-london)** — Members club. Invite-only most nights. You need a promoter or a table booking. Walking up rarely works.
+- **[Tape London](/clubs/tape-london)**: Members club. Invite-only most nights. You need a promoter or a table booking. Walking up rarely works.
 
 ### Selective but Fair
 
-- **[Cirque Le Soir](/clubs/cirque-le-soir)** — Selective on weekends. Book a table or guestlist for the best chance.
-- **Rumour (formerly TABU London)** — Open Wednesday to Saturday on Dover Street. TABU had a fashion-conscious door; dress well and book ahead through us.
-- **[Reign London](/clubs/reign-london)** — Smart dress code enforced. Bookings get priority. Dinner reservations are a strong route in.
-- **[Maddox](/clubs/maddox)** — Restaurant standard at the door. Dress for dinner.
+- **[Cirque Le Soir](/clubs/cirque-le-soir)**: Selective on weekends. Book a table or guestlist for the best chance.
+- **Rumour (formerly TABU London)**: Open Wednesday to Saturday on Dover Street. TABU had a fashion-conscious door; dress well and book ahead through us.
+- **[Reign London](/clubs/reign-london)**: Smart dress code enforced. Bookings get priority. Dinner reservations are a strong route in.
+- **[Maddox](/clubs/maddox)**: Restaurant standard at the door. Dress for dinner.
 
 ### More Accessible
 
-- **99 Regent Street (formerly Cuckoo Club)** — Open Wednesday to Saturday. Cuckoo was one of the more accessible Mayfair clubs; guestlist recommended on weekends.
-- **[BEAT London](/clubs/beat-london)** — More relaxed door than most. Music-first venue on Margaret Street in Fitzrovia, just north of Mayfair.
-- **[The Box](/clubs/the-box-london)** — More exclusive than most on this tier. Table bookings or guestlist strongly recommended.
-- **[Dear Darling](/clubs/dear-darling)** — Cocktail bar door — smart dress is enough.
-- **[Scotch of St James](/clubs/scotch-of-st-james)** — Elegant crowd but reasonable door.
+- **99 Regent Street (formerly Cuckoo Club)**: Open Wednesday to Saturday. Cuckoo was one of the more accessible Mayfair clubs; guestlist recommended on weekends.
+- **[BEAT London](/clubs/beat-london)**: More relaxed door than most. Music-first venue on Margaret Street in Fitzrovia, just north of Mayfair.
+- **[The Box](/clubs/the-box-london)**: More exclusive than most on this tier. Table bookings or guestlist strongly recommended.
+- **[Dear Darling](/clubs/dear-darling)**: Cocktail bar door, smart dress is enough.
+- **[Scotch of St James](/clubs/scotch-of-st-james)**: Elegant crowd but reasonable door.
 
 ### Worth Knowing
 
-- **[Selene London](/clubs/selene-london)** — Newer venue just north of Oxford Circus, with a welcoming but curated door. Smart dress and a guestlist will see you through.
+- **[Selene London](/clubs/selene-london)**: Newer venue just north of Oxford Circus, with a welcoming but curated door. Smart dress and a guestlist will see you through.
 
 ## What Time to Arrive
 
 Timing matters:
 
-- **10:00 — 11:00pm:** Doors open. If you're on guestlist, this is ideal. Shorter queues, easier entry.
-- **11:00pm — midnight:** The sweet spot. Venues are filling up but you'll still get in smoothly with a booking.
+- **10:00 to 11:00pm:** Doors open. If you're on guestlist, this is ideal. Shorter queues, easier entry.
+- **11:00pm to midnight:** The sweet spot. Venues are filling up but you'll still get in smoothly with a booking.
 - **After midnight:** Guestlist entry gets tighter. Tables are still fine. Walk-ups become significantly harder.
 - **After 1:00am:** Late arrival is risky for guestlist at the busiest venues. If you're not booked, your chances drop fast.
 

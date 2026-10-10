@@ -1,9 +1,9 @@
 ---
-title: "Dinner and Clubbing in Mayfair — The Best Dinner-to-Dance Venues"
-metaTitle: "Dinner and Clubbing in Mayfair — Best Venues"
-metaDescription: "The best venues in Mayfair for dinner and clubbing in one night. Restaurants that transition into nightclubs — no venue-hopping required."
+title: "Dinner and Clubbing in Mayfair: The Best Dinner-to-Dance Venues"
+metaTitle: "Dinner and Clubbing in Mayfair: Best Venues"
+metaDescription: "The best venues in Mayfair for dinner and clubbing in one night. Restaurants that transition into nightclubs, no venue-hopping required."
 date: "2026-02-28"
-excerpt: "The best nights in Mayfair start at the table. These venues do dinner and nightclub under one roof — a seamless transition from fork to dance floor."
+excerpt: "The best nights in Mayfair start at the table. These venues do dinner and nightclub under one roof, a seamless transition from fork to dance floor."
 category: "Club Guides"
 tags: ["dinner and clubbing", "dinner to dance", "restaurant clubs", "Mayfair dining"]
 readingTime: "4 min read"
@@ -17,9 +17,9 @@ The smarter move: book a venue that does both. Mayfair has several venues where 
 
 ## The Best Dinner-to-Dance Venues
 
-### Maddox — Italian Dining into House Music
+### Maddox: Italian Dining into House Music
 
-[Maddox](/clubs/maddox) is the gold standard for dinner-to-dance in Mayfair. Upstairs is a genuine Italian restaurant — not a club that serves food, but a proper restaurant with a serious kitchen. The food is excellent.
+[Maddox](/clubs/maddox) is the gold standard for dinner-to-dance in Mayfair. Upstairs is a genuine Italian restaurant, not a club that serves food, but a proper restaurant with a serious kitchen. The food is excellent.
 
 After dinner, you walk downstairs into one of Mayfair's best house music rooms. The crowd from dinner stays, the energy shifts, and you're dancing by midnight without having stepped outside.
 
@@ -31,9 +31,9 @@ After dinner, you walk downstairs into one of Mayfair's best house music rooms. 
 
 **Best for:** Couples, date nights, and groups who want sophistication.
 
-### Selene London — Elegant Dining into Sophisticated Nightlife
+### Selene London: Elegant Dining into Sophisticated Nightlife
 
-[Selene London](/clubs/selene-london) offers a beautifully curated evening that pairs refined dining with one of London's most atmospheric club spaces. The restaurant sets the tone — elegant, considered, and genuinely good food.
+[Selene London](/clubs/selene-london) offers a beautifully curated evening that pairs refined dining with one of London's most atmospheric club spaces. The restaurant sets the tone: elegant, considered, and genuinely good food.
 
 When the plates are cleared and the music builds, the venue shifts into a sophisticated nightclub with deep house and melodic selections. The crowd stays, the energy evolves, and the transition feels effortless.
 
@@ -41,7 +41,7 @@ When the plates are cleared and the music builds, the venue shifts into a sophis
 
 **The music:** Deep house and melodic house. Warm, sophisticated, and well-programmed.
 
-**The transition:** Smooth and organic. The evening builds gradually — by the time the club is in full swing, you've been eased into it naturally.
+**The transition:** Smooth and organic. The evening builds gradually. By the time the club is in full swing, you've been eased into it naturally.
 
 **Best for:** Couples, stylish groups, and anyone who wants a refined dinner-to-dance experience without the theatrics.
 
@@ -66,9 +66,9 @@ When the plates are cleared and the music builds, the venue shifts into a sophis
 If these venues don't match your vibe, the classic Mayfair dinner-to-club move is:
 
 1. **Dinner** at any of Mayfair's excellent restaurants (the area has some of the best in London)
-2. **Walk to your club of choice** — everything is within 10-15 minutes on foot
+2. **Walk to your club of choice**: everything is within 10-15 minutes on foot
 
-Start with [Dear Darling](/clubs/dear-darling) for cocktails between dinner and club. It bridges the gap beautifully — opulent enough for the early evening, energetic enough for late night.
+Start with [Dear Darling](/clubs/dear-darling) for cocktails between dinner and club. It bridges the gap beautifully: opulent enough for the early evening, energetic enough for late night.
 
 ## Booking
 

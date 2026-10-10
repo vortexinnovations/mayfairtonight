@@ -1,10 +1,10 @@
 ---
-title: "The Complete Mayfair Nightlife Guide — Everything You Need to Know in 2026"
-metaTitle: "Mayfair Nightlife Guide 2026 — Insider Guide"
-metaDescription: "The complete 2026 guide to Mayfair nightlife. Every club, every night, dress codes, prices, music, and insider tips — from people who go out in Mayfair every week."
+title: "The Complete Mayfair Nightlife Guide: Everything You Need to Know in 2026"
+metaTitle: "Mayfair Nightlife Guide 2026: Insider Guide"
+metaDescription: "The complete 2026 guide to Mayfair nightlife. Every club, every night, dress codes, prices, music, and insider tips, from a team that books Mayfair clubs every week."
 date: "2026-03-22"
 updated: "2026-03-22"
-excerpt: "Everything you need to know about going out in Mayfair — from someone who does it every week. Clubs, nights, dress codes, costs, and the honest tips that actually help."
+excerpt: "Everything you need to know about going out in Mayfair, from a team that books Mayfair nights every week. Clubs, nights, dress codes, costs, and the honest tips that actually help."
 category: "Guides"
 tags: ["Mayfair nightlife", "nightlife guide 2026", "London clubs", "going out London"]
 readingTime: "10 min read"
@@ -12,25 +12,25 @@ readingTime: "10 min read"
 
 ## Why Mayfair Nightlife Is Different
 
-Mayfair is London's premium nightlife district. The clubs here are more exclusive, more polished, and more expensive than anywhere else in the city. That's not marketing — it's just true. The venues invest in world-class sound systems, production, and service. The crowds are international and well-heeled. The door policies keep standards high.
+Mayfair is London's premium nightlife district. The clubs here are more exclusive, more polished, and more expensive than anywhere else in the city. That's not marketing. It's just true. The venues invest in world-class sound systems, production, and service. The crowds are international and well-heeled. The door policies keep standards high.
 
 But it's also more accessible than people think. You don't need to be a celebrity or a millionaire to have a great night in Mayfair. You need to dress right, book ahead, and know where to go. That's what this guide is for.
 
-## The Clubs — A Quick Overview
+## The Clubs: A Quick Overview
 
 Mayfair has around a dozen serious nightclubs, each with a different personality. Here's the quick version (read our [full ranking](/blog/best-clubs-in-mayfair) for the detailed breakdown):
 
-**For exclusivity:** [Tape London](/clubs/tape-london) — the most exclusive room in Mayfair. Members club, A-list crowd, tables from £1,500.
+**For exclusivity:** [Tape London](/clubs/tape-london), the most exclusive room in Mayfair. Members club, A-list crowd, tables from £1,500.
 
-**For entertainment:** [Cirque Le Soir](/clubs/cirque-le-soir) and [Reign London](/clubs/reign-london) — fire breathers, aerial acts, live performers.
+**For entertainment:** [Cirque Le Soir](/clubs/cirque-le-soir) and [Reign London](/clubs/reign-london), fire breathers, aerial acts, live performers.
 
 **For hip-hop:** [Tape London](/clubs/tape-london) and [BEAT London](/clubs/beat-london), each with a different flavour.
 
-**For house music:** [Maddox](/clubs/maddox) and [Selene London](/clubs/selene-london) — quality house in refined, intimate settings.
+**For house music:** [Maddox](/clubs/maddox) and [Selene London](/clubs/selene-london), quality house in refined, intimate settings.
 
-**For dinner and dancing:** [Maddox](/clubs/maddox) and [Reign London](/clubs/reign-london) — restaurant-to-club transitions done properly.
+**For dinner and dancing:** [Maddox](/clubs/maddox) and [Reign London](/clubs/reign-london), restaurant-to-club transitions done properly.
 
-**For cocktails and late nights:** [Dear Darling](/clubs/dear-darling) — opulent bar that goes late.
+**For cocktails and late nights:** [Dear Darling](/clubs/dear-darling), opulent bar that goes late.
 
 Browse all clubs on our [clubs page](/clubs).
 
@@ -42,11 +42,11 @@ Every night of the week has a different character. Here's the summary:
 
 **[Wednesday](/nights/wednesday):** Midweek nightlife kicks off. Major clubs open their doors. Smaller crowds, more sociable, often better vibes than weekends.
 
-**[Thursday](/nights/thursday):** The new Friday. Nearly every club is open. Thursday has arguably the best atmosphere — the crowd is genuinely excited, not just going through the motions.
+**[Thursday](/nights/thursday):** The new Friday. Nearly every club is open. Thursday has arguably the best atmosphere: the crowd is genuinely excited, not just going through the motions.
 
 **[Friday](/nights/friday):** The main event. Every club is open, every table is booked. Peak energy, peak crowds.
 
-**[Saturday](/nights/saturday):** The pinnacle. Maximum energy, maximum production, maximum crowds. Book ahead — everything sells out.
+**[Saturday](/nights/saturday):** The pinnacle. Maximum energy, maximum production, maximum crowds. Book ahead. Everything sells out.
 
 **[Sunday](/nights/sunday):** Wind-down. Most Mayfair clubs closed. A few late-night bars stay open for those who aren't ready to call it.
 
@@ -71,7 +71,7 @@ Be honest with yourself about the budget:
 - **Cocktails at the bar:** £15-£20
 - **Bottles on a table:** £300+ spirits, £400+ champagne
 
-Mayfair is not cheap. But the experience is premium — world-class venues, excellent service, and an atmosphere you won't find elsewhere in London.
+Mayfair is not cheap. But the experience is premium: world-class venues, excellent service, and an atmosphere you won't find elsewhere in London.
 
 ## How to Book
 

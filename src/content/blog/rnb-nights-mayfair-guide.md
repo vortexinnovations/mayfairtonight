@@ -1,6 +1,6 @@
 ---
 title: "R&B Nights in Mayfair: The Definitive Guide to London's Smoothest Nights Out"
-metaTitle: "Best R&B Nights in Mayfair — Where to Go in 2026"
+metaTitle: "Best R&B Nights in Mayfair: Where to Go in 2026"
 metaDescription: "Discover the best R&B nights in Mayfair. From Tuesdays at Tape London to the weekend, here's where to hear the smoothest sets in London's most exclusive nightlife district."
 excerpt: "Looking for proper R&B nights in Mayfair? Here's the insider guide to where the best DJs spin R&B, soul, and slow jams across London's most elite clubs."
 date: "2026-04-03"
@@ -12,15 +12,15 @@ readingTime: "6 min read"
 featured: false
 ---
 
-If you've spent any time in Mayfair after dark, you already know the district runs on more than just house beats and chart-toppers. R&B nights in Mayfair are some of the most sought-after midweek and weekend sessions in London — the kind of nights where the music is as polished as the crowd, and the DJ knows the difference between filler and a proper set. Whether you're after old-school R&B, modern slow jams, or that sweet overlap where R&B meets Afrobeats and hip-hop, Mayfair delivers at a level most of London can't touch.
+If you've spent any time in Mayfair after dark, you already know the district runs on more than just house beats and chart-toppers. R&B nights in Mayfair are some of the most sought-after midweek and weekend sessions in London, the kind of nights where the music is as polished as the crowd, and the DJ knows the difference between filler and a proper set. Whether you're after old-school R&B, modern slow jams, or that sweet overlap where R&B meets Afrobeats and hip-hop, Mayfair delivers at a level most of London can't touch.
 
-This guide covers where to go, which nights to target, and how to get in — so you spend less time guessing and more time on the dance floor.
+This guide covers where to go, which nights to target, and how to get in, so you spend less time guessing and more time on the dance floor.
 
 ## Where to Hear R&B in Mayfair
 
 Not every Mayfair club programmes R&B, and the ones that do take it seriously. These are the venues where you'll consistently hear quality R&B sets without wading through two hours of generic EDM to get there.
 
-**Tape London** is the go-to for anyone who wants R&B woven into a broader hip-hop and Afrobeats rotation. Tuesday nights at [Tape](/clubs/tape-london) are legendary — the crowd is industry-heavy, the sound system is world-class, and the DJs lean heavily into R&B deep cuts alongside newer releases. Friday and Saturday nights bring a more mixed crowd, but the music stays rooted in hip-hop and R&B. If you only hit one club for R&B in Mayfair, make it Tape.
+**Tape London** is the go-to for anyone who wants R&B woven into a broader hip-hop and Afrobeats rotation. Tuesday nights at [Tape](/clubs/tape-london) are legendary: the crowd is industry-heavy, the sound system is world-class, and the DJs lean heavily into R&B deep cuts alongside newer releases. Friday and Saturday nights bring a more mixed crowd, but the music stays rooted in hip-hop and R&B. If you only hit one club for R&B in Mayfair, make it Tape.
 
 **Hush** on Lancashire Court and **Juju**, both recommended in earlier versions of this guide for their R&B and soul sets, have closed. For an R&B-leaning night elsewhere in the area, [Reign London](/clubs/reign-london) mixes R&B into its hip-hop and commercial sets on Tuesdays, Thursdays, Fridays and Saturdays; message us and we will tell you which rooms are leaning R&B on the night you want.
 
@@ -34,7 +34,7 @@ Timing matters. Here's how to plan your week if R&B is what you're after:
 
 **Thursday**: With Hush and MNKY HSE both closed, Reign London is the main Thursday option with R&B in the mix.
 
-**Friday and Saturday**: Multiple options. Tape and Reign both run strong weekend sessions. The crowd is bigger and the music typically shifts toward a hip-hop/R&B/Afrobeats blend — but the core R&B sound is always there.
+**Friday and Saturday**: Multiple options. Tape and Reign both run strong weekend sessions. The crowd is bigger and the music typically shifts toward a hip-hop/R&B/Afrobeats blend, but the core R&B sound is always there.
 
 For a full breakdown, see our [Mayfair nightclubs hub](/mayfair-nightclubs) or the night-by-night guides.
 
@@ -51,25 +51,25 @@ Skip the queue, secure your table, and get insider access. Message us on WhatsAp
 
 Mayfair R&B nights aren't the same as what you'll find in Shoreditch or Brixton. The production values are higher, the dress codes are stricter, and the crowd tends to be older and more international. Expect a mix of London professionals, visiting celebrities, and people who are genuinely there for the music.
 
-Most clubs enforce a [smart dress code](/mayfair-club-dress-code) — no trainers, no sportswear, no shorts. For men, that means smart shoes, a well-fitted shirt, and decent trousers. For women, the standard is cocktail-adjacent. If you're unsure, overdress rather than underdress.
+Most clubs enforce a [smart dress code](/mayfair-club-dress-code): no trainers, no sportswear, no shorts. For men, that means smart shoes, a well-fitted shirt, and decent trousers. For women, the standard is cocktail-adjacent. If you're unsure, overdress rather than underdress.
 
-[Bottle service](/bottle-service) is the easiest way to guarantee entry and a good spot in the room. Tables at R&B-heavy nights tend to book fast, especially on Fridays and Saturdays. If you're planning a group night, booking ahead through WhatsApp is the move — walk-ups are possible but never guaranteed at the more popular sessions.
+[Bottle service](/bottle-service) is the easiest way to guarantee entry and a good spot in the room. Tables at R&B-heavy nights tend to book fast, especially on Fridays and Saturdays. If you're planning a group night, booking ahead through WhatsApp is the move: walk-ups are possible but never guaranteed at the more popular sessions.
 
 ## R&B vs Hip-Hop: What Mayfair Actually Programmes
 
-One thing worth clarifying: most Mayfair clubs don't programme pure R&B nights in the way a specialist event might. What you get is a curated blend — R&B sits alongside hip-hop, Afrobeats, and sometimes dancehall or house, depending on the DJ and the night. The R&B-heavy stretches usually come in the earlier part of the evening (before 1am) and during the wind-down after peak hours.
+One thing worth clarifying: most Mayfair clubs don't programme pure R&B nights in the way a specialist event might. What you get is a curated blend: R&B sits alongside hip-hop, Afrobeats, and sometimes dancehall or house, depending on the DJ and the night. The R&B-heavy stretches usually come in the earlier part of the evening (before 1am) and during the wind-down after peak hours.
 
 If you want the most R&B-focused experience, Tape on a Tuesday is where you'll get the highest concentration. Weekend nights at any venue will lean more toward the hip-hop and Afrobeats crossover. For more on the hip-hop side, see our [hip-hop clubs guide](/blog/best-hip-hop-clubs-london).
 
-If you're after something completely different — say, deep house or techno — [Selene](/clubs/selene-london) and [BEAT London](/clubs/beat-london) are better bets. But if R&B is what moves you, stick to the clubs listed above.
+If you're after something completely different, say, deep house or techno, [Selene](/clubs/selene-london) and [BEAT London](/clubs/beat-london) are better bets. But if R&B is what moves you, stick to the clubs listed above.
 
 ## How to Get on the Guestlist
 
 Most Mayfair clubs operate guestlist systems, especially midweek. For R&B nights, getting on the list is straightforward:
 
-1. **Message us on WhatsApp** — we'll add you to the right list for the night you want
-2. **Arrive before midnight** — guestlist entries typically close between 12am and 1am
-3. **Stick to the dress code** — no exceptions, even if you're on the list
+1. **Message us on WhatsApp**: we'll add you to the right list for the night you want
+2. **Arrive before midnight**: guestlist entries typically close between 12am and 1am
+3. **Stick to the dress code**: no exceptions, even if you're on the list
 4. **Groups**: mixed groups have the easiest time; all-male groups should book a table to guarantee entry
 
 For more detail on how the system works, see our [guestlist guide](/blog/how-to-get-into-mayfair-clubs).
@@ -86,13 +86,13 @@ For more detail on how the system works, see our [guestlist guide](/blog/how-to-
 
 ### Q: Do I need to book a table for R&B nights in Mayfair?
 
-**A:** Not always, but it helps. Guestlist entry is available at most venues midweek. On Fridays and Saturdays, booking a table through [London Bottle Service](https://londonbottleservice.com) or messaging us on WhatsApp is the safest way to guarantee entry and a good position in the club.
+**A:** Not always, but it helps. Guestlist entry is available at most venues midweek. On Fridays and Saturdays, booking a table through [our table booking page](/contact) or messaging us on WhatsApp is the safest way to guarantee entry and a good position in the club.
 
 ### Q: What should I wear to an R&B night in Mayfair?
 
 **A:** Smart dress code applies across all Mayfair clubs. For men: collared shirt, smart trousers, dress shoes. For women: heels and cocktail-style outfits. Avoid trainers, sportswear, and casual denim. Check our full [dress code guide](/mayfair-club-dress-code) for specifics.
 
-R&B nights in Mayfair are among the best-kept secrets in London nightlife. The venues are world-class, the DJs know their craft, and the atmosphere is consistently elevated. Whether you're planning a midweek escape or a full weekend session, Mayfair's R&B scene has something for every taste. Message us on WhatsApp to get booked in — we'll sort the guestlist, the table, and everything in between.
+R&B nights in Mayfair are among the best-kept secrets in London nightlife. The venues are world-class, the DJs know their craft, and the atmosphere is consistently elevated. Whether you're planning a midweek escape or a full weekend session, Mayfair's R&B scene has something for every taste. Message us on WhatsApp to get booked in. We'll sort the guestlist, the table, and everything in between.
 
 ---
 
