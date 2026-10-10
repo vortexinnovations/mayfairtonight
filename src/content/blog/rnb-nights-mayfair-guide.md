@@ -53,7 +53,7 @@ Mayfair R&B nights aren't the same as what you'll find in Shoreditch or Brixton.
 
 Most clubs enforce a [smart dress code](/mayfair-club-dress-code): no trainers, no sportswear, no shorts. For men, that means smart shoes, a well-fitted shirt, and decent trousers. For women, the standard is cocktail-adjacent. If you're unsure, overdress rather than underdress.
 
-[Bottle service](/bottle-service) is the easiest way to guarantee entry and a good spot in the room. Tables at R&B-heavy nights tend to book fast, especially on Fridays and Saturdays. If you're planning a group night, booking ahead through WhatsApp is the move: walk-ups are possible but never guaranteed at the more popular sessions.
+[Bottle service](/how-mayfair-nightclub-tables-work) is the easiest way to guarantee entry and a good spot in the room. Tables at R&B-heavy nights tend to book fast, especially on Fridays and Saturdays. If you're planning a group night, booking ahead through WhatsApp is the move: walk-ups are possible but never guaranteed at the more popular sessions.
 
 ## R&B vs Hip-Hop: What Mayfair Actually Programmes
 

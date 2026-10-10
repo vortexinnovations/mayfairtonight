@@ -47,14 +47,14 @@ Skip the queue, secure your table, and get insider access. Message us on WhatsAp
 
 [Reign London](/clubs/reign-london) offers something the other venues on this list do not: scale. The room is large, the production is heavy, and the DJ setup is built for a club that peaks after midnight. Reign programmes hip-hop, EDM, and pop, giving it the broadest musical range of any late-night Mayfair venue. On Fridays and Saturdays, Reign runs late and the energy builds steadily from around 1AM onward.
 
-If you are coming from dinner or drinks elsewhere in Mayfair, Reign works well as a late-night destination because the door is less restrictive than some of the smaller clubs. Groups do well here, and the [bottle service](/bottle-service) setup means you can secure space for the full duration. For anyone who wants a big-room club experience that does not wind down at 2AM, Reign consistently delivers.
+If you are coming from dinner or drinks elsewhere in Mayfair, Reign works well as a late-night destination because the door is less restrictive than some of the smaller clubs. Groups do well here, and the [bottle service](/how-mayfair-nightclub-tables-work) setup means you can secure space for the full duration. For anyone who wants a big-room club experience that does not wind down at 2AM, Reign consistently delivers.
 
 ## How to Plan a Late Night in Mayfair
 
 Staying out past 3AM in Mayfair takes a bit more planning than a regular night out. Check these before heading out:
 
 - **Confirm closing times on your specific night.** Clubs do not always run the same hours every night. Tuesday at Tape is different from Saturday at Tape. Check with your promoter or contact us on WhatsApp for the latest schedules.
-- **Book a table if you plan to stay late.** Walk-ins thin out as the night progresses, but having a table guarantees your spot. See our [bottle service guide](/bottle-service) for what to expect.
+- **Book a table if you plan to stay late.** Walk-ins thin out as the night progresses, but having a table guarantees your spot. See our [bottle service guide](/how-mayfair-nightclub-tables-work) for what to expect.
 - **Plan your transport home.** The Tube shuts around midnight. After 3AM, your options are Uber, a black cab, or the Night Bus. Mayfair is well-served by taxis on Regent Street and Park Lane.
 - **Dress to last.** Comfortable shoes matter more at 4AM than at 11PM, but still respect the [dress code](/mayfair-club-dress-code). Smart trainers are accepted at most venues listed here.
 

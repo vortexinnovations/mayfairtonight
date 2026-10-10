@@ -69,7 +69,7 @@ As of May 2026, the minimum spends we see on Thursdays in Mayfair sit in a clear
 - **Higher-tier rooms** (premium Selene events): roughly £1,000 to £1,500.
 - **Walk-in entry**: usually free to £20 on the door for couples and small groups, far less hassle than Friday or Saturday.
 
-Compare those to Friday and Saturday, where the same tables routinely sit at £1,500 and up, and you can see why a Thursday is the most efficient way to do a proper W1 night. If you are pricing a table for a birthday or a corporate dinner-into-club, see our [bottle service guide](/bottle-service) for what the spend actually covers, and the [Mayfair nightlife guide](/mayfair-nightlife-guide) for context across the week. Our guide to [how Mayfair nightclub tables work](/how-mayfair-nightclub-tables-work) has more on minimum spends.
+Compare those to Friday and Saturday, where the same tables routinely sit at £1,500 and up, and you can see why a Thursday is the most efficient way to do a proper W1 night. If you are pricing a table for a birthday or a corporate dinner-into-club, see our bottle service guide for what the spend actually covers, and the [Mayfair nightlife guide](/mayfair-nightlife-guide) for context across the week. Our guide to [how Mayfair nightclub tables work](/how-mayfair-nightclub-tables-work) has more on minimum spends.
 
 ## A Realistic Thursday Itinerary in Mayfair
 

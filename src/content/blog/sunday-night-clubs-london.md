@@ -51,7 +51,7 @@ Sunday night clubs in London come with a few practical differences worth knowing
 Most venues that open on a Sunday will close earlier than their Friday or Saturday schedule, typically around 2am to 3am rather than the usual 3am to 4am. Plan accordingly and don't arrive too late. Check our [tonight guide](/where-to-go-tonight) for up-to-date opening times.
 
 ### Smaller minimum spends
-If you're considering [bottle service](/bottle-service) on a Sunday, you'll often find that minimum table spends are lower than peak nights. Some venues drop their minimums by 30-50% on quieter nights, making it a smart time to try a VIP experience without the full Saturday price tag. For table pricing details, see [how Mayfair nightclub tables work](/how-mayfair-nightclub-tables-work).
+If you're considering bottle service on a Sunday, you'll often find that minimum table spends are lower than peak nights. Some venues drop their minimums by 30-50% on quieter nights, making it a smart time to try a VIP experience without the full Saturday price tag. For table pricing details, see [how Mayfair nightclub tables work](/how-mayfair-nightclub-tables-work).
 
 ### Transport home
 Night buses run on Sunday nights, but the Tube stops around midnight. Uber surge pricing is typically minimal on Sundays compared to the chaos of a Saturday night, so getting home is rarely a problem.

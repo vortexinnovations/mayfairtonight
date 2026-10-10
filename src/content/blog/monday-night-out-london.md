@@ -69,7 +69,7 @@ The trick to a good Monday night out in London is planning around what's availab
 
 There are a few scenarios where a Monday night out in London genuinely makes sense:
 
-- **Bank holiday Mondays**: everything changes. Many clubs run Sunday-into-Monday events, and the atmosphere rivals a Saturday. Check our [bottle service guide](/bottle-service) for table availability on bank holidays.
+- **Bank holiday Mondays**: everything changes. Many clubs run Sunday-into-Monday events, and the atmosphere rivals a Saturday. Check our [bottle service guide](/how-mayfair-nightclub-tables-work) for table availability on bank holidays.
 - **Fashion Week and major events**: after-parties regularly land on Mondays during London Fashion Week, Art Basel fringe events, and similar cultural moments.
 - **Private celebrations**: if you're booking a venue for a birthday or corporate event, Monday gives you premium Mayfair spaces at a fraction of the weekend cost.
 - **Industry nights**: if you know the right people, Monday is when the nightlife community socialises on their own terms.
