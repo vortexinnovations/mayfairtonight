@@ -7,7 +7,7 @@ import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title:
-    "Best Mayfair Clubs for Table Bookings — Where to Book a Table in 2026",
+    "Best Mayfair Clubs for Table Bookings: Where to Book a Table in 2026",
   description:
     "The best clubs for table bookings in Mayfair, ranked by experience. Compare table layouts, minimum spends, and vibes at Tape, Reign, Cirque Le Soir, Maddox and more.",
   alternates: {
@@ -71,7 +71,7 @@ const tableClubs: TableClub[] = [
     slug: "cirque-le-soir",
     tagline: "Entertainment Surrounds You",
     experience:
-      "At Cirque, the performers don't stay on a stage. They come to your table. Fire-breathers, contortionists, stilt-walkers — they weave through the room and your table becomes part of the show. It's interactive in a way no other club delivers. The energy is relentless and your table is the eye of the storm.",
+      "At Cirque, the performers don't stay on a stage. They come to your table. Fire-breathers, contortionists, stilt-walkers: they weave through the room and your table becomes part of the show. It's interactive in a way no other club delivers. The energy is relentless and your table is the eye of the storm.",
     layout:
       "Intimate room with booths along the walls and a few prime tables near the DJ. The performers use the entire floor space, so every table gets the show.",
     included:
@@ -131,7 +131,7 @@ const tableClubs: TableClub[] = [
     slug: "selene-london",
     tagline: "Refined",
     experience:
-      "Selene, just north of Oxford Circus, offers a refined, elegant table experience that rivals venues with years more heritage. The cocktails are serious, the house music is tasteful, and the crowd is discerning without being pretentious. It's still building its reputation, which means tables are easier to book than the established names — a smart move right now.",
+      "Selene, just north of Oxford Circus, offers a refined, elegant table experience that rivals venues with years more heritage. The cocktails are serious, the house music is tasteful, and the crowd is discerning without being pretentious. It's still building its reputation, which means tables are easier to book than the established names: a smart move right now.",
     layout:
       "Elegant room with well-spaced booths that offer genuine privacy. The design is sophisticated and the lighting creates an intimate atmosphere.",
     included:
@@ -146,27 +146,27 @@ const faqs = [
   {
     question: "What's included with a table booking at a Mayfair club?",
     answer:
-      "A table booking typically includes a reserved booth or table area, a dedicated table host, your choice of premium bottles (spirits and champagne), mixers, ice, and garnishes. Some venues like Cirque Le Soir include live entertainment at your table. The minimum spend covers your bottles — anything above the minimum is additional. Think of it as buying drinks in bulk with guaranteed seating and personal service.",
+      "A table booking typically includes a reserved booth or table area, a dedicated table host, your choice of premium bottles (spirits and champagne), mixers, ice, and garnishes. Some venues like Cirque Le Soir include live entertainment at your table. The minimum spend covers your bottles: anything above the minimum is additional. Think of it as buying drinks in bulk with guaranteed seating and personal service.",
   },
   {
     question: "Can you share a table with another group in Mayfair clubs?",
     answer:
-      "Generally no — your table is your table. However, some venues offer shared VIP areas or standing VIP sections at a lower minimum spend. If your group is small (2-3 people), some promoters can arrange table-sharing, but this depends entirely on the venue and the night. For guaranteed privacy, book your own table through a promoter or directly via londonbottleservice.com.",
+      "Generally no: your table is your table. However, some venues offer shared VIP areas or standing VIP sections at a lower minimum spend. If your group is small (2-3 people), some promoters can arrange table-sharing, but this depends entirely on the venue and the night. For guaranteed privacy, book your own table through a promoter or directly via londonbottleservice.com.",
   },
   {
     question: "How far in advance should I book a table in Mayfair?",
     answer:
-      "For Friday and Saturday nights, book at least a week in advance — premium tables at Tape London and Cirque Le Soir sell out earlier. Thursday bookings can often be made 2-3 days ahead. For special occasions like New Year's Eve or bank holiday weekends, book 2-4 weeks in advance. Midweek tables are usually available with shorter notice.",
+      "For Friday and Saturday nights, book at least a week in advance: premium tables at Tape London and Cirque Le Soir sell out earlier. Thursday bookings can often be made 2-3 days ahead. For special occasions like New Year's Eve or bank holiday weekends, book 2-4 weeks in advance. Midweek tables are usually available with shorter notice.",
   },
   {
     question: "Is a table booking worth it compared to guestlist?",
     answer:
-      "It depends on your group and priorities. A table guarantees entry (no door risk), gives you a home base, includes bottle service, and often means faster entry. For groups of 6+, the per-person cost can be comparable to buying drinks at the bar all night. For smaller groups or budget nights, guestlist is the smarter play. Tables transform the experience at entertainment venues like Cirque Le Soir and Reign — at those clubs, we always recommend booking.",
+      "It depends on your group and priorities. A table guarantees entry (no door risk), gives you a home base, includes bottle service, and often means faster entry. For groups of 6+, the per-person cost can be comparable to buying drinks at the bar all night. For smaller groups or budget nights, guestlist is the smarter play. Tables transform the experience at entertainment venues like Cirque Le Soir and Reign: at those clubs, we always recommend booking.",
   },
   {
     question: "What happens if you don't hit the minimum spend?",
     answer:
-      "You still pay the minimum spend — it's a guarantee, not a target. Your card is charged the minimum regardless of how many bottles you order. Most groups comfortably hit or exceed the minimum. If you're worried about the spend, talk to your promoter beforehand — they can suggest the right venue and table tier for your budget. There's no penalty beyond paying what you agreed to.",
+      "You still pay the minimum spend: it's a guarantee, not a target. Your card is charged the minimum regardless of how many bottles you order. Most groups comfortably hit or exceed the minimum. If you're worried about the spend, talk to your promoter beforehand: they can suggest the right venue and table tier for your budget. There's no penalty beyond paying what you agreed to.",
   },
 ];
 
@@ -189,7 +189,7 @@ export default function BestClubsForTablesPage() {
         <p className="text-gray-300 text-lg max-w-3xl">
           Not all tables are created equal. Some Mayfair clubs are built for
           bottle service. Others just have a roped-off corner. This is the
-          honest breakdown of where to book — ranked by the quality of the
+          honest breakdown of where to book, ranked by the quality of the
           table experience itself.
         </p>
       </HeroImage>
@@ -316,7 +316,7 @@ export default function BestClubsForTablesPage() {
         {/* Tables vs Guestlist */}
         <section className="mt-12 mb-8">
           <h2 className="text-2xl font-bold text-white mb-4">
-            Tables vs Guestlist — Which Is Right for You?
+            Tables vs Guestlist: Which Is Right for You?
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div className="bg-dark-card border border-dark-border rounded-xl p-5">
@@ -326,11 +326,11 @@ export default function BestClubsForTablesPage() {
               <ul className="space-y-2 text-gray-300 text-sm">
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
-                  Your group is 6 or more — the per-person cost starts to make sense
+                  Your group is 6 or more: the per-person cost starts to make sense
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
-                  It&apos;s a special occasion — birthday, celebration, stag/hen
+                  It&apos;s a special occasion: birthday, celebration, stag/hen
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
@@ -338,7 +338,7 @@ export default function BestClubsForTablesPage() {
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
-                  You&apos;re going to Tape, Cirque, or Reign — the table experience defines these venues
+                  You&apos;re going to Tape, Cirque, or Reign: the table experience defines these venues
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
@@ -353,7 +353,7 @@ export default function BestClubsForTablesPage() {
               <ul className="space-y-2 text-gray-300 text-sm">
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
-                  Your group is small — 2-4 people
+                  Your group is small: 2-4 people
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
@@ -361,7 +361,7 @@ export default function BestClubsForTablesPage() {
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
-                  Budget matters — guestlist entry is often free or low cover
+                  Budget matters: guestlist entry is often free or low cover
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
@@ -417,19 +417,19 @@ export default function BestClubsForTablesPage() {
             <div className="bg-dark-card border-l-2 border-gold p-4 rounded-r-lg">
               <h3 className="text-white font-medium mb-1">2. Arrival</h3>
               <p className="text-gray-300 text-sm">
-                Table bookings bypass the main queue. Give your name at the door and you&apos;re walked straight to your table. Arrive within 30 minutes of your confirmed time — venues can release tables that aren&apos;t claimed.
+                Table bookings bypass the main queue. Give your name at the door and you&apos;re walked straight to your table. Arrive within 30 minutes of your confirmed time: venues can release tables that aren&apos;t claimed.
               </p>
             </div>
             <div className="bg-dark-card border-l-2 border-gold p-4 rounded-r-lg">
               <h3 className="text-white font-medium mb-1">3. The Setup</h3>
               <p className="text-gray-300 text-sm">
-                Your host greets you, takes your bottle order, and gets everything set up. Most tables come with ice, mixers, and glassware ready. Bottles are often presented with sparklers — it&apos;s theatre, and it works.
+                Your host greets you, takes your bottle order, and gets everything set up. Most tables come with ice, mixers, and glassware ready. Bottles are often presented with sparklers: it&apos;s theatre, and it works.
               </p>
             </div>
             <div className="bg-dark-card border-l-2 border-gold p-4 rounded-r-lg">
               <h3 className="text-white font-medium mb-1">4. The Night</h3>
               <p className="text-gray-300 text-sm">
-                Your table is yours all night. Come and go from the dance floor as you please. Your host keeps drinks topped up and orders more when you need them. The bill settles at the end — minimum spend applies regardless.
+                Your table is yours all night. Come and go from the dance floor as you please. Your host keeps drinks topped up and orders more when you need them. The bill settles at the end: minimum spend applies regardless.
               </p>
             </div>
           </div>
@@ -447,8 +447,8 @@ export default function BestClubsForTablesPage() {
               className="text-gold hover:text-gold-light"
             >
               dress code guide
-            </Link>{" "}
-            — standards are higher for table guests.
+            </Link>.{" "}
+            Standards are higher for table guests.
           </p>
         </section>
 

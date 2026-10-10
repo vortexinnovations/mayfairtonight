@@ -6,14 +6,14 @@ import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
-  title: "Where Should I Go Tonight? — Quick Picks by Vibe",
+  title: "Where Should I Go Tonight? Quick Picks by Vibe",
   description:
-    "It's tonight and you need a plan. Pick your vibe — hip-hop, house, shows, cocktails — and we'll tell you exactly which Mayfair club to go to right now.",
+    "It's tonight and you need a plan. Pick your vibe (hip-hop, house, shows, cocktails) and we'll tell you exactly which Mayfair club to go to right now.",
   alternates: {
     canonical: "https://mayfairtonight.com/where-to-go-tonight",
   },
   openGraph: {
-    title: "Where Should I Go Tonight? — Instant Club Picks",
+    title: "Where Should I Go Tonight? Instant Club Picks",
     description:
       "Pick a vibe, get a club. The fastest way to decide where to go out tonight in Mayfair.",
     url: "https://mayfairtonight.com/where-to-go-tonight",
@@ -68,7 +68,7 @@ const recommendations: Recommendation[] = [
     vibe: "If you want a show and entertainment",
     emoji: "🎪",
     description:
-      "Some venues go beyond music and create a full experience. Fire breathers, aerial acts, live vocals — these clubs turn nightlife into theatre.",
+      "Some venues go beyond music and create a full experience. Fire breathers, aerial acts, live vocals: these clubs turn nightlife into theatre.",
     clubs: [
       {
         name: "Cirque Le Soir",
@@ -91,7 +91,7 @@ const recommendations: Recommendation[] = [
     vibe: "If you want intimate and exclusive",
     emoji: "🥃",
     description:
-      "Not every great night needs a packed dance floor. These venues offer something more refined — small rooms, handpicked crowds, and an atmosphere you can actually enjoy.",
+      "Not every great night needs a packed dance floor. These venues offer something more refined: small rooms, handpicked crowds, and an atmosphere you can actually enjoy.",
     clubs: [
       {
         name: "Tape London",
@@ -114,7 +114,7 @@ const recommendations: Recommendation[] = [
     vibe: "If you want dinner and dancing",
     emoji: "🍽️",
     description:
-      "The best nights in Mayfair often start at the table. These venues offer a seamless transition from dinner to dancing — no venue-hopping required.",
+      "The best nights in Mayfair often start at the table. These venues offer a seamless transition from dinner to dancing: no venue-hopping required.",
     clubs: [
       {
         name: "Maddox",
@@ -132,7 +132,7 @@ const recommendations: Recommendation[] = [
     vibe: "If you want something visually spectacular",
     emoji: "✨",
     description:
-      "If Instagram is part of your night out — or you just appreciate great design — these venues deliver the visual goods.",
+      "If Instagram is part of your night out, or you just appreciate great design, these venues deliver the visual goods.",
     clubs: [
       {
         name: "Reign London",
@@ -163,7 +163,7 @@ export default function WhereToGoPage() {
         </h1>
         <p className="text-gray-300 text-lg mb-0 max-w-2xl">
           Pick your vibe. We&apos;ll tell you exactly where to go, what to expect,
-          and how to book. No fluff — just honest recommendations.
+          and how to book. No fluff: just honest recommendations.
         </p>
       </HeroImage>
 
@@ -228,8 +228,8 @@ export default function WhereToGoPage() {
               className="text-gold hover:text-gold-light underline"
             >
               London Bottle Service
-            </a>{" "}
-            — they handle bookings across Mayfair.
+            </a>:{" "}
+            they handle bookings across Mayfair.
           </p>
         </div>
 

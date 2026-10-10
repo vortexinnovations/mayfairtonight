@@ -6,14 +6,14 @@ import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
-  title: "Mayfair Nightlife Guide — The Insider Handbook",
+  title: "Mayfair Nightlife Guide: The Insider Handbook",
   description:
     "The complete guide to Mayfair nightlife. Clubs, bars, dress codes, guestlists, best nights, costs, and insider tips. Everything you need for a night out in Mayfair, London.",
   alternates: {
     canonical: "https://mayfairtonight.com/mayfair-nightlife-guide",
   },
   openGraph: {
-    title: "Mayfair Nightlife Guide — The Complete Insider Guide",
+    title: "Mayfair Nightlife Guide: The Complete Insider Guide",
     description:
       "Everything you need to know about nightlife in Mayfair, London. Clubs, dress codes, guestlists, best nights, and insider tips.",
     url: "https://mayfairtonight.com/mayfair-nightlife-guide",
@@ -24,17 +24,17 @@ const faqs = [
   {
     question: "Is Mayfair nightlife expensive?",
     answer:
-      "Guestlist entry is often free. Cocktails run £12–£18 and bottles start from £300. Table minimums start at £1,000 at most venues. You can have a great night on guestlist for £50–£100 per person — you don't need a table to enjoy Mayfair. For table pricing, check londonbottleservice.com.",
+      "Guestlist entry is often free. Cocktails run £12 to £18 and bottles start from £300. Table minimums start at £1,000 at most venues. You can have a great night on guestlist for £50 to £100 per person: you don't need a table to enjoy Mayfair. For table pricing, check londonbottleservice.com.",
   },
   {
     question: "What age group goes to Mayfair clubs?",
     answer:
-      "Most Mayfair clubs attract 23–40 year olds. Venues like Maddox, Scotch of St James, and Dear Darling skew older and more sophisticated. BEAT London attracts a younger crowd. Tape London is ageless — it's about status and connections, not age.",
+      "Most Mayfair clubs attract 23 to 40 year olds. Venues like Maddox, Scotch of St James, and Dear Darling skew older and more sophisticated. BEAT London attracts a younger crowd. Tape London is ageless: it's about status and connections, not age.",
   },
   {
     question: "How do I get on the guestlist at Mayfair clubs?",
     answer:
-      "Contact a promoter. Message us on WhatsApp and we'll add you to the guestlist at any venue. Most clubs require advance booking — walking up without a reservation rarely works, especially on weekends. Some clubs like Tape London are primarily tables and members only.",
+      "Contact a promoter. Message us on WhatsApp and we'll add you to the guestlist at any venue. Most clubs require advance booking: walking up without a reservation rarely works, especially on weekends. Some clubs like Tape London are primarily tables and members only.",
   },
   {
     question: "Is Mayfair nightlife safe?",
@@ -44,7 +44,7 @@ const faqs = [
   {
     question: "What's the best area to stay for Mayfair nightlife?",
     answer:
-      "Mayfair itself, obviously — the Dorchester, Claridge's, and The May Fair Hotel are all within walking distance of every club. Soho is also ideal and slightly more affordable. Marylebone and Fitzrovia work too. Avoid staying in East or South London if Mayfair is your focus — you'll spend too long in taxis.",
+      "Mayfair itself, obviously: the Dorchester, Claridge's, and The May Fair Hotel are all within walking distance of every club. Soho is also ideal and slightly more affordable. Marylebone and Fitzrovia work too. Avoid staying in East or South London if Mayfair is your focus: you'll spend too long in taxis.",
   },
   {
     question: "Can I go to a Mayfair club alone?",
@@ -66,7 +66,7 @@ export default function MayfairNightlifeGuidePage() {
         </nav>
 
         <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">
-          Mayfair Nightlife Guide —{" "}
+          Mayfair Nightlife Guide:{" "}
           <span className="text-gold">The Insider&apos;s Handbook</span>
         </h1>
         <p className="text-dark-muted text-xs mb-3">
@@ -75,7 +75,7 @@ export default function MayfairNightlifeGuidePage() {
         <p className="text-gray-300 text-lg mb-0 max-w-3xl">
           Everything you need to know before going out in Mayfair. From the exclusive
           clubs around Hanover Square to the cocktail bars of Dover Street and the
-          showclubs near Piccadilly — where to go, what to wear, how to get in,
+          showclubs near Piccadilly: where to go, what to wear, how to get in,
           and what to expect.
         </p>
       </HeroImage>
@@ -149,7 +149,7 @@ export default function MayfairNightlifeGuidePage() {
               What makes Mayfair different from Shoreditch or Soho is the
               emphasis on experience. Every venue curates its crowd, its music,
               and its atmosphere deliberately. You&apos;re not just going to a
-              club — you&apos;re choosing a specific type of night. That&apos;s why
+              club: you&apos;re choosing a specific type of night. That&apos;s why
               picking the right venue matters more here than anywhere else in
               London.
             </p>
@@ -172,7 +172,7 @@ export default function MayfairNightlifeGuidePage() {
                 Dear Darling
               </Link>{" "}
               have elevated the cocktail bar into a genuine late-night
-              destination. The best Mayfair nights are not just about partying —
+              destination. The best Mayfair nights are not just about partying:
               they&apos;re about experiencing something memorable.
             </p>
           </div>
@@ -274,7 +274,7 @@ export default function MayfairNightlifeGuidePage() {
               {
                 night: "Wednesday",
                 slug: "wednesday",
-                desc: "Midweek Mayfair kicks off. Cirque Le Soir and The Box both open. Less crowded, more sociable — the savvy choice.",
+                desc: "Midweek Mayfair kicks off. Cirque Le Soir and The Box both open. Less crowded, more sociable: the savvy choice.",
               },
               {
                 night: "Thursday",
@@ -284,12 +284,12 @@ export default function MayfairNightlifeGuidePage() {
               {
                 night: "Friday",
                 slug: "friday",
-                desc: "The big one. Every club at full power. Peak London nightlife. Book ahead — everything sells out.",
+                desc: "The big one. Every club at full power. Peak London nightlife. Book ahead: everything sells out.",
               },
               {
                 night: "Saturday",
                 slug: "saturday",
-                desc: "Maximum energy. Sold-out rooms, full performer lineups, the best DJ sets. Saturday in Mayfair is legendary — but plan it or miss out.",
+                desc: "Maximum energy. Sold-out rooms, full performer lineups, the best DJ sets. Saturday in Mayfair is legendary, but plan it or miss out.",
               },
             ].map((n) => (
               <Link
@@ -329,7 +329,7 @@ export default function MayfairNightlifeGuidePage() {
             </p>
             <p>
               The guestlist system works through promoters. Message us on
-              WhatsApp with your name, group size, and preferred club — we&apos;ll
+              WhatsApp with your name, group size, and preferred club: we&apos;ll
               add you to the list. Arrive before midnight, dress smart, and
               you&apos;re in. It&apos;s that straightforward.
             </p>
@@ -388,7 +388,7 @@ export default function MayfairNightlifeGuidePage() {
           <div className="text-gray-300 space-y-4 leading-relaxed">
             <p>
               Every Mayfair club enforces a dress code. The standard is{" "}
-              <strong className="text-white">smart</strong>{" "}— but what that
+              <strong className="text-white">smart</strong>, but what that
               means varies by venue. The universal truth: you will never get
               turned away for overdressing. When in doubt, go sharper.
             </p>
@@ -439,27 +439,27 @@ export default function MayfairNightlifeGuidePage() {
             <div className="space-y-3 text-sm">
               <div className="flex justify-between items-center py-2 border-b border-dark-border">
                 <span className="text-gray-300">Guestlist entry</span>
-                <span className="text-white font-medium">Free — £20</span>
+                <span className="text-white font-medium">Free to £20</span>
               </div>
               <div className="flex justify-between items-center py-2 border-b border-dark-border">
                 <span className="text-gray-300">Cocktails</span>
-                <span className="text-white font-medium">£12 — £18</span>
+                <span className="text-white font-medium">£12 to £18</span>
               </div>
               <div className="flex justify-between items-center py-2 border-b border-dark-border">
                 <span className="text-gray-300">Bottle of vodka/gin</span>
-                <span className="text-white font-medium">£300 — £500</span>
+                <span className="text-white font-medium">£300 to £500</span>
               </div>
               <div className="flex justify-between items-center py-2 border-b border-dark-border">
                 <span className="text-gray-300">Premium champagne</span>
-                <span className="text-white font-medium">£400 — £1,500+</span>
+                <span className="text-white font-medium">£400 to £1,500+</span>
               </div>
               <div className="flex justify-between items-center py-2 border-b border-dark-border">
                 <span className="text-gray-300">Table minimum spend</span>
-                <span className="text-white font-medium">£1,000 — £1,500</span>
+                <span className="text-white font-medium">£1,000 to £1,500</span>
               </div>
               <div className="flex justify-between items-center py-2">
-                <span className="text-gray-300">Realistic night (guestlist, 4–5 drinks)</span>
-                <span className="text-white font-medium">£60 — £100 per person</span>
+                <span className="text-gray-300">Realistic night (guestlist, 4 to 5 drinks)</span>
+                <span className="text-white font-medium">£60 to £100 per person</span>
               </div>
             </div>
           </div>
@@ -528,7 +528,7 @@ export default function MayfairNightlifeGuidePage() {
               <h3 className="text-white font-semibold mb-1">5. Arrive between 11pm and midnight</h3>
               <p className="text-sm">
                 Too early and the venue is empty. Too late and you risk capacity
-                or a long queue. The sweet spot is 11–11:30pm.
+                or a long queue. The sweet spot is 11 to 11:30pm.
               </p>
             </div>
           </div>
@@ -615,7 +615,7 @@ export default function MayfairNightlifeGuidePage() {
         {/* Section: Area Guide */}
         <section id="area-guide" className="mb-10 scroll-mt-20">
           <h2 className="text-2xl font-bold text-white mb-4">
-            Area Guide — Where the Clubs Are
+            Area Guide: Where the Clubs Are
           </h2>
           <div className="text-gray-300 space-y-4 leading-relaxed">
             <p>
@@ -632,7 +632,7 @@ export default function MayfairNightlifeGuidePage() {
                 <Link href="/clubs/dear-darling" className="text-gold hover:text-gold-light">Dear Darling</Link>,{" "}
                 <Link href="/clubs/maddox" className="text-gold hover:text-gold-light">Maddox</Link>,{" "}
                 <Link href="/clubs/selene-london" className="text-gold hover:text-gold-light">Selene</Link>.
-                This is the heart of Mayfair nightlife — you can walk between
+                This is the heart of Mayfair nightlife: you can walk between
                 all of these.
               </p>
             </div>
@@ -642,7 +642,7 @@ export default function MayfairNightlifeGuidePage() {
               </h3>
               <p className="text-sm">
                 <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">Reign London</Link>.
-                Just off Piccadilly Circus — easy to reach from anywhere in
+                Just off Piccadilly Circus: easy to reach from anywhere in
                 central London.
               </p>
             </div>
@@ -660,7 +660,7 @@ export default function MayfairNightlifeGuidePage() {
           </div>
           <p className="text-sm text-dark-muted mt-3">
             Nearest tubes: Green Park, Bond Street, Piccadilly Circus, Oxford
-            Circus. All within a 5–10 minute walk.
+            Circus. All within a 5 to 10 minute walk.
           </p>
         </section>
 
@@ -708,7 +708,7 @@ export default function MayfairNightlifeGuidePage() {
               href="/best-nightclubs-in-mayfair"
               className="bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors"
             >
-              <p className="font-medium text-white">Best Clubs — Ranked</p>
+              <p className="font-medium text-white">Best Clubs: Ranked</p>
               <p className="text-xs text-dark-muted mt-1">
                 Our opinionated rankings for 2026
               </p>

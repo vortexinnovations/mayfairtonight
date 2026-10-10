@@ -7,14 +7,14 @@ import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title:
-    "Best Mayfair Clubs for Groups — Where to Take Your Crew in 2026",
+    "Best Mayfair Clubs for Groups: Where to Take Your Crew in 2026",
   description:
     "The best clubs in Mayfair for groups, birthdays, work nights out, and big parties. Group size guide, table tips, and honest recommendations for 2026.",
   alternates: {
     canonical: "https://mayfairtonight.com/best-clubs-for-groups-in-mayfair",
   },
   openGraph: {
-    title: "Best Mayfair Clubs for Groups — Where to Take Your Crew",
+    title: "Best Mayfair Clubs for Groups: Where to Take Your Crew",
     description:
       "Insider guide to the best Mayfair clubs for groups of every size. From birthday parties to corporate nights out.",
     url: "https://mayfairtonight.com/best-clubs-for-groups-in-mayfair",
@@ -43,9 +43,9 @@ const groupRecommendations: GroupRecommendation[] = [
       {
         name: "Cirque Le Soir",
         slug: "cirque-le-soir",
-        why: "The performers, the spectacle, the sheer chaos — Cirque turns any birthday into the most memorable night of the year. The entertainment is built into the experience, so you do not need to organise anything. Just book and show up.",
+        why: "The performers, the spectacle, the sheer chaos: Cirque turns any birthday into the most memorable night of the year. The entertainment is built into the experience, so you do not need to organise anything. Just book and show up.",
         guestlistOrTables:
-          "Tables strongly recommended for birthdays. The venue can arrange birthday extras — sparklers, personalised bottle presentations, and announcements. Guestlist works on Wednesdays for smaller birthday groups.",
+          "Tables strongly recommended for birthdays. The venue can arrange birthday extras: sparklers, personalised bottle presentations, and announcements. Guestlist works on Wednesdays for smaller birthday groups.",
         approxGroupCost:
           "Table from ~£1,000 min spend (6-8 guests). Guestlist free but drinks at bar prices (budget £50-80pp).",
         bestNight: "Saturday for the full production. Wednesday for a more intimate celebration.",
@@ -57,7 +57,7 @@ const groupRecommendations: GroupRecommendation[] = [
         guestlistOrTables:
           "Tables are the way to do birthdays here. Reign offers excellent birthday packages with personalised touches. The production value at your table makes the minimum spend feel worth it.",
         approxGroupCost:
-          "Table from ~£1,000 min spend (6-8 guests). Birthday packages available — ask when booking.",
+          "Table from ~£1,000 min spend (6-8 guests). Birthday packages available: ask when booking.",
         bestNight: "Saturday for peak energy. Friday for a slightly more relaxed celebration.",
       },
     ],
@@ -82,14 +82,14 @@ const groupRecommendations: GroupRecommendation[] = [
   {
     category: "Stag / Hen Adjacent",
     description:
-      "Mayfair is not the traditional stag or hen territory — and that is exactly why it works. Skip the generic party bus and give the group a premium night they will actually remember. These clubs deliver high energy without the tourist-trap feeling.",
+      "Mayfair is not the traditional stag or hen territory, and that is exactly why it works. Skip the generic party bus and give the group a premium night they will actually remember. These clubs deliver high energy without the tourist-trap feeling.",
     clubs: [
       {
         name: "BEAT London",
         slug: "beat-london",
-        why: "Pure party energy on Margaret Street, just north of Mayfair, with a younger, high-energy crowd. BEAT does not overthink it — the music is loud, the lights are dynamic, and the atmosphere is built for groups who want to dance. Good value tables compared to the bigger Mayfair names make it a smart choice for larger groups watching the budget.",
+        why: "Pure party energy on Margaret Street, just north of Mayfair, with a younger, high-energy crowd. BEAT does not overthink it: the music is loud, the lights are dynamic, and the atmosphere is built for groups who want to dance. Good value tables compared to the bigger Mayfair names make it a smart choice for larger groups watching the budget.",
         guestlistOrTables:
-          "Guestlist works well. Tables offer great value for the area — more room to celebrate without the premium pricing of the established names. Ideal for groups of 8-12 who want a VIP experience at a reasonable cost.",
+          "Guestlist works well. Tables offer great value for the area: more room to celebrate without the premium pricing of the established names. Ideal for groups of 8-12 who want a VIP experience at a reasonable cost.",
         approxGroupCost:
           "Tables from ~£800 min spend. Guestlist free, budget £40-50pp for drinks.",
         bestNight: "Friday or Saturday.",
@@ -134,12 +134,12 @@ const faqs = [
   {
     question: "Can we split the bill on a table booking?",
     answer:
-      "Most venues require one card on the table for the minimum spend, but your group can settle up internally. Some clubs allow split payments if arranged in advance. The minimum spend is on bottles and drinks — whatever your group orders counts towards it. Any unspent minimum is still charged. Discuss payment arrangements with your table host when you arrive.",
+      "Most venues require one card on the table for the minimum spend, but your group can settle up internally. Some clubs allow split payments if arranged in advance. The minimum spend is on bottles and drinks: whatever your group orders counts towards it. Any unspent minimum is still charged. Discuss payment arrangements with your table host when you arrive.",
   },
   {
     question: "What should a group wear to Mayfair clubs?",
     answer:
-      "Everyone in the group needs to meet the dress code — one person in trainers can turn away the whole group. For men: smart shoes, tailored trousers, collared shirt or smart knitwear. No sportswear. For women: heels, cocktail-appropriate attire. Send the group our dress code guide before the night so nobody gets caught out. The door team judges the group as a whole.",
+      "Everyone in the group needs to meet the dress code: one person in trainers can turn away the whole group. For men: smart shoes, tailored trousers, collared shirt or smart knitwear. No sportswear. For women: heels, cocktail-appropriate attire. Send the group our dress code guide before the night so nobody gets caught out. The door team judges the group as a whole.",
   },
 ];
 
@@ -160,7 +160,7 @@ export default function BestClubsForGroupsPage() {
         </nav>
 
         <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">
-          Best Mayfair Clubs for Groups —{" "}
+          Best Mayfair Clubs for Groups:{" "}
           <span className="text-gold">Where to Take Your Crew</span>
         </h1>
         <p className="text-gray-300 text-lg max-w-3xl">
@@ -315,7 +315,7 @@ export default function BestClubsForGroupsPage() {
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">
-              <h3 className="text-gold font-semibold mb-2">4–6 People</h3>
+              <h3 className="text-gold font-semibold mb-2">4 to 6 People</h3>
               <p className="text-sm text-gray-300 mb-3">
                 The sweet spot for Mayfair. Almost every venue handles this
                 size comfortably on guestlist or with a single table.
@@ -340,7 +340,7 @@ export default function BestClubsForGroupsPage() {
               </ul>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">
-              <h3 className="text-gold font-semibold mb-2">8–12 People</h3>
+              <h3 className="text-gold font-semibold mb-2">8 to 12 People</h3>
               <p className="text-sm text-gray-300 mb-3">
                 Mid-size groups need venues with space and flexible table
                 configurations. These clubs accommodate without feeling
@@ -395,7 +395,7 @@ export default function BestClubsForGroupsPage() {
                 </h3>
                 <p className="text-sm text-gray-300">
                   Groups of 4-6 can work on guestlist at most venues. Groups of
-                  8+ should seriously consider a table — it guarantees entry,
+                  8+ should seriously consider a table: it guarantees entry,
                   gives you a base, and the minimum spend covers your drinks
                   anyway. Read our{" "}
                   <Link href="/how-mayfair-nightclub-tables-work" className="text-gold hover:text-gold-light">
@@ -589,7 +589,7 @@ export default function BestClubsForGroupsPage() {
             Planning a Group Night?
           </h2>
           <p className="text-dark-muted mb-4">
-            Message us on WhatsApp with your group size, date, and vibe — we
+            Message us on WhatsApp with your group size, date, and vibe: we
             will recommend the perfect venue and sort your guestlist or table.
             For group table bookings and pricing, visit{" "}
             <a

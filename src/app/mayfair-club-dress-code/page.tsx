@@ -7,14 +7,14 @@ import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title:
-    "Mayfair Club Dress Code — What to Wear to Every Venue in 2026",
+    "Mayfair Club Dress Code: What to Wear to Every Venue in 2026",
   description:
     "The complete Mayfair nightclub dress code guide. Club-by-club breakdown of what to wear, what gets you turned away, and insider tips for every venue. Updated for 2026.",
   alternates: {
     canonical: "https://mayfairtonight.com/mayfair-club-dress-code",
   },
   openGraph: {
-    title: "Mayfair Club Dress Code — What to Wear to Every Venue",
+    title: "Mayfair Club Dress Code: What to Wear to Every Venue",
     description:
       "Club-by-club dress code breakdown for every Mayfair nightclub. What works, what doesn't, and insider tips from the door.",
     url: "https://mayfairtonight.com/mayfair-club-dress-code",
@@ -37,12 +37,12 @@ const clubDressCodes: ClubDressCode[] = [
     strictness: 5,
     works: [
       "Tailored suit or blazer with smart trousers",
-      "Designer shoes — leather only",
-      "Understated luxury — quality over flash",
+      "Designer shoes: leather only",
+      "Understated luxury: quality over flash",
       "For women: cocktail dress, designer heels",
     ],
     doesnt: [
-      "Anything casual — no jeans of any kind",
+      "Anything casual: no jeans of any kind",
       "Trainers regardless of brand",
       "Open-collar shirts without a jacket",
       "Loud logos or streetwear brands",
@@ -56,7 +56,7 @@ const clubDressCodes: ClubDressCode[] = [
     strictness: 3,
     works: [
       "Smart shirt and trousers with good shoes",
-      "Creative flair is welcome — Cirque rewards personality",
+      "Creative flair is welcome: Cirque rewards personality",
       "For women: anything from cocktail dress to fashion-forward",
       "Bold accessories and statement pieces",
     ],
@@ -64,7 +64,7 @@ const clubDressCodes: ClubDressCode[] = [
       "Sportswear or tracksuits",
       "Trainers or open-toe shoes for men",
       "Overly casual jeans with t-shirts",
-      "Fancy dress — the performers do that part",
+      "Fancy dress: the performers do that part",
     ],
     insiderTip:
       "Cirque is more relaxed than most Mayfair venues. The vibe is theatrical and the door appreciates style over formality. A well-fitted dark shirt with good trousers works perfectly.",
@@ -74,8 +74,8 @@ const clubDressCodes: ClubDressCode[] = [
     slug: "reign-london",
     strictness: 4,
     works: [
-      "Blazer and smart trousers — the Reign standard",
-      "Polished shoes — brogues or Chelsea boots",
+      "Blazer and smart trousers: the Reign standard",
+      "Polished shoes: brogues or Chelsea boots",
       "For women: glamorous cocktail or evening dress",
       "Smart dark denim with a blazer can work midweek",
     ],
@@ -86,7 +86,7 @@ const clubDressCodes: ClubDressCode[] = [
       "Shorts or sandals of any kind",
     ],
     insiderTip:
-      "Reign is a showclub — the audience dresses for the occasion. Think opening-night energy. Women tend to dress up more here than any other Mayfair venue.",
+      "Reign is a showclub: the audience dresses for the occasion. Think opening-night energy. Women tend to dress up more here than any other Mayfair venue.",
   },
   {
     name: "Scotch of St James",
@@ -112,7 +112,7 @@ const clubDressCodes: ClubDressCode[] = [
     slug: "dear-darling",
     strictness: 3,
     works: [
-      "Smart cocktail-bar attire — shirt and trousers",
+      "Smart cocktail-bar attire: shirt and trousers",
       "Clean dark denim with a smart top half",
       "For women: elegant but not necessarily formal",
       "Loafers, brogues, or Chelsea boots",
@@ -120,19 +120,19 @@ const clubDressCodes: ClubDressCode[] = [
     doesnt: [
       "Sportswear or very casual streetwear",
       "Trainers",
-      "Overly casual — remember it is a cocktail bar first",
+      "Overly casual: remember it is a cocktail bar first",
       "Shorts or beachwear",
     ],
     insiderTip:
-      "Dear Darling is a cocktail bar that becomes a late-night venue. The dress code reflects that — sophisticated rather than club-ready. You should look like you appreciate good drinks.",
+      "Dear Darling is a cocktail bar that becomes a late-night venue. The dress code reflects that: sophisticated rather than club-ready. You should look like you appreciate good drinks.",
   },
   {
     name: "Maddox",
     slug: "maddox",
     strictness: 4,
     works: [
-      "Restaurant-smart — blazer and tailored trousers",
-      "Smart shoes are essential — brogues or Oxfords",
+      "Restaurant-smart: blazer and tailored trousers",
+      "Smart shoes are essential: brogues or Oxfords",
       "For women: dinner-to-dance outfits that work for both",
       "Sophisticated, European-influenced style",
     ],
@@ -143,7 +143,7 @@ const clubDressCodes: ClubDressCode[] = [
       "Denim without smart counterbalance",
     ],
     insiderTip:
-      "Most people arrive via the restaurant so the standard is high. Dress as though you are going for dinner at a top Italian restaurant — because you probably should be.",
+      "Most people arrive via the restaurant so the standard is high. Dress as though you are going for dinner at a top Italian restaurant, because you probably should be.",
   },
   {
     name: "The Box",
@@ -151,15 +151,15 @@ const clubDressCodes: ClubDressCode[] = [
     strictness: 4,
     works: [
       "Creative, fashion-forward outfits encouraged",
-      "Dark, stylish looks — all black works well",
+      "Dark, stylish looks: all black works well",
       "For women: bold, artistic, fashion-conscious choices",
       "Statement pieces and unique accessories",
     ],
     doesnt: [
-      "Generic smart casual — The Box wants personality",
+      "Generic smart casual: The Box wants personality",
       "Corporate or conservative looks",
       "Trainers or casual sportswear",
-      "Anything bland — the door rewards effort",
+      "Anything bland: the door rewards effort",
     ],
     insiderTip:
       "The Box curates its crowd visually. Dress like you belong in Soho, not the City. Creative, edgy, and confident wins over expensive and safe. The door staff notice effort over labels.",
@@ -169,10 +169,10 @@ const clubDressCodes: ClubDressCode[] = [
     slug: "selene-london",
     strictness: 3,
     works: [
-      "Refined smart casual — quality fabrics and good fit",
+      "Refined smart casual: quality fabrics and good fit",
       "Dark tones and elegant silhouettes",
       "For women: sophisticated cocktail looks",
-      "Polished shoes — loafers or smart boots",
+      "Polished shoes: loafers or smart boots",
     ],
     doesnt: [
       "Overly casual or unkempt looks",
@@ -181,14 +181,14 @@ const clubDressCodes: ClubDressCode[] = [
       "Anything that looks rushed",
     ],
     insiderTip:
-      "Selene, just north of Oxford Circus, is building a reputation for refined elegance. The crowd dresses well because they want to, not because they have to. Match the energy — think quality cocktail bar with a late-night edge.",
+      "Selene, just north of Oxford Circus, is building a reputation for refined elegance. The crowd dresses well because they want to, not because they have to. Match the energy: think quality cocktail bar with a late-night edge.",
   },
   {
     name: "BEAT London",
     slug: "beat-london",
     strictness: 3,
     works: [
-      "Stylish smart casual — shirt and good trousers",
+      "Stylish smart casual: shirt and good trousers",
       "Fashion-forward pieces are welcome",
       "For women: smart going-out outfits",
       "Clean, well-fitted looks that show effort",
@@ -213,7 +213,7 @@ const faqs = [
   {
     question: "Can I wear jeans to a Mayfair nightclub?",
     answer:
-      "Dark, clean, well-fitted jeans are accepted at most Mayfair clubs on non-peak nights — particularly at Dear Darling and Selene. Pair them with a blazer or smart shirt and leather shoes. Avoid ripped, distressed, or light-wash jeans everywhere. Tape London and Scotch of St James generally expect trousers over jeans.",
+      "Dark, clean, well-fitted jeans are accepted at most Mayfair clubs on non-peak nights, particularly at Dear Darling and Selene. Pair them with a blazer or smart shirt and leather shoes. Avoid ripped, distressed, or light-wash jeans everywhere. Tape London and Scotch of St James generally expect trousers over jeans.",
   },
   {
     question: "What should women wear to Mayfair clubs?",
@@ -233,7 +233,7 @@ const faqs = [
   {
     question: "Will I get turned away for wearing a polo shirt?",
     answer:
-      "It depends on the venue. A high-quality polo shirt can work at Selene and BEAT on quieter nights. It will not pass at Tape London, Scotch, Maddox, or Reign. A collared shirt is always the safer choice — it costs you nothing extra and opens every door.",
+      "It depends on the venue. A high-quality polo shirt can work at Selene and BEAT on quieter nights. It will not pass at Tape London, Scotch, Maddox, or Reign. A collared shirt is always the safer choice: it costs you nothing extra and opens every door.",
   },
 ];
 
@@ -250,12 +250,12 @@ export default function MayfairDressCodePage() {
         </nav>
 
         <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">
-          Mayfair Club Dress Code —{" "}
+          Mayfair Club Dress Code:{" "}
           <span className="text-gold">What to Wear to Every Venue</span>
         </h1>
         <p className="text-gray-300 text-lg max-w-3xl">
           Getting turned away at the door is the worst start to a night out.
-          This guide covers the dress code at every Mayfair nightclub — what
+          This guide covers the dress code at every Mayfair nightclub: what
           works, what gets you refused, and the insider tips that make the
           difference.
         </p>
@@ -293,13 +293,13 @@ export default function MayfairDressCodePage() {
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div className="bg-dark-card border border-dark-border rounded-lg p-5">
-              <h3 className="text-gold font-semibold mb-3">Men — What Works</h3>
+              <h3 className="text-gold font-semibold mb-3">Men: What Works</h3>
               <ul className="space-y-2">
                 {[
                   "Tailored blazer or smart jacket",
                   "Well-fitted dark trousers",
-                  "Collared shirt — no t-shirts",
-                  "Leather shoes — Oxfords, loafers, Chelsea boots",
+                  "Collared shirt: no t-shirts",
+                  "Leather shoes: Oxfords, loafers, Chelsea boots",
                   "Quality watch or subtle accessories",
                   "Clean, well-groomed appearance",
                 ].map((item) => (
@@ -311,10 +311,10 @@ export default function MayfairDressCodePage() {
               </ul>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-5">
-              <h3 className="text-gold font-semibold mb-3">Men — What Doesn&apos;t</h3>
+              <h3 className="text-gold font-semibold mb-3">Men: What Doesn&apos;t</h3>
               <ul className="space-y-2">
                 {[
-                  "Trainers — any brand, any price",
+                  "Trainers: any brand, any price",
                   "Sportswear, tracksuits, athleisure",
                   "Shorts or sandals",
                   "Baseball caps or beanies",
@@ -329,15 +329,15 @@ export default function MayfairDressCodePage() {
               </ul>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-5">
-              <h3 className="text-gold font-semibold mb-3">Women — What Works</h3>
+              <h3 className="text-gold font-semibold mb-3">Women: What Works</h3>
               <ul className="space-y-2">
                 {[
                   "Cocktail dress or evening dress",
-                  "Smart separates — tailored trousers and a quality top",
+                  "Smart separates: tailored trousers and a quality top",
                   "Heels, elegant flats, or smart boots",
                   "Statement jewellery and accessories",
                   "Fashion-forward pieces at style-conscious venues",
-                  "Classic black dress — works everywhere",
+                  "Classic black dress: works everywhere",
                 ].map((item) => (
                   <li key={item} className="text-sm text-gray-300 flex items-start gap-2">
                     <span className="text-green-400 mt-0.5">&#10003;</span>
@@ -347,14 +347,14 @@ export default function MayfairDressCodePage() {
               </ul>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-5">
-              <h3 className="text-gold font-semibold mb-3">Women — What Doesn&apos;t</h3>
+              <h3 className="text-gold font-semibold mb-3">Women: What Doesn&apos;t</h3>
               <ul className="space-y-2">
                 {[
                   "Trainers or casual sneakers",
                   "Sportswear or gym leggings",
                   "Flip-flops or very casual sandals",
                   "Overly casual daywear",
-                  "Heavy coats — use the cloakroom",
+                  "Heavy coats: use the cloakroom",
                   "Fancy dress or costumes",
                 ].map((item) => (
                   <li key={item} className="text-sm text-gray-300 flex items-start gap-2">
@@ -600,7 +600,7 @@ export default function MayfairDressCodePage() {
             >
               <p className="font-medium text-white">Where to Go Out</p>
               <p className="text-xs text-dark-muted mt-1">
-                Decision guide — match your vibe to a venue
+                Decision guide: match your vibe to a venue
               </p>
             </Link>
             <Link
@@ -664,8 +664,8 @@ export default function MayfairDressCodePage() {
               className="text-gold hover:text-gold-light"
             >
               VIP table
-            </a>{" "}
-            — table guests always get priority at the door.
+            </a>:{" "}
+            table guests always get priority at the door.
           </p>
           <WhatsAppCTA size="lg" />
         </div>

@@ -7,9 +7,9 @@ import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title:
-    "Best Hip-Hop & RnB Clubs in Mayfair — Where the Music Actually Hits",
+    "Best Hip-Hop & RnB Clubs in Mayfair: Where the Music Actually Hits",
   description:
-    "The best hip-hop and RnB clubs in Mayfair, London — ranked by music quality, crowd, and vibe. From old school classics to modern trap. Insider picks for 2026.",
+    "The best hip-hop and RnB clubs in Mayfair, London: ranked by music quality, crowd, and vibe. From old school classics to modern trap. Insider picks for 2026.",
   alternates: {
     canonical: "https://mayfairtonight.com/best-hip-hop-clubs-in-mayfair",
   },
@@ -39,14 +39,14 @@ const hipHopClubs: HipHopClub[] = [
     name: "Tape London",
     slug: "tape-london",
     musicStyle:
-      "Old school hip-hop meets modern trap. The DJs here read the room better than anywhere in Mayfair — expect seamless transitions from 90s classics to Drake deep cuts.",
+      "Old school hip-hop meets modern trap. The DJs here read the room better than anywhere in Mayfair: expect seamless transitions from 90s classics to Drake deep cuts.",
     crowd:
       "A-list celebrities, music industry insiders, and well-connected regulars. This is not a casual crowd. Everyone is here because they earned their spot on the list.",
     bestNights: "Tuesday and Saturday",
     vibe:
       "Intimate, high-energy, exclusive. The room is small enough that the bass hits your chest. When the right track drops, the whole room reacts.",
     guestlistOrTables:
-      "Tables strongly recommended. Guestlist is limited and selective. This is a tables-first venue — if you want the full Tape experience, book a table.",
+      "Tables strongly recommended. Guestlist is limited and selective. This is a tables-first venue: if you want the full Tape experience, book a table.",
     verdict:
       "The undisputed king of hip-hop in Mayfair. The music curation is best-in-class, the crowd matches the energy, and the intimate room creates an atmosphere that bigger clubs simply cannot replicate. If hip-hop is your thing, Tape is the benchmark.",
   },
@@ -55,7 +55,7 @@ const hipHopClubs: HipHopClub[] = [
     name: "BEAT London",
     slug: "beat-london",
     musicStyle:
-      "Commercial hip-hop and RnB with Afrobeats influence. The music leans younger and more current — heavy on the playlists that are trending right now.",
+      "Commercial hip-hop and RnB with Afrobeats influence. The music leans younger and more current: heavy on the playlists that are trending right now.",
     crowd:
       "Young professionals, international visitors, and groups celebrating. High energy, diverse, and ready to party.",
     bestNights: "Friday and Saturday",
@@ -64,21 +64,21 @@ const hipHopClubs: HipHopClub[] = [
     guestlistOrTables:
       "Guestlist works well. Tables are good value compared to the bigger Mayfair names. Solid option for groups who want a VIP experience without the premium price tag.",
     verdict:
-      "The newest hip-hop contender just north of Mayfair, on Margaret Street in Fitzrovia. BEAT brings raw energy and a younger crowd. If the established names feel too refined, BEAT strips it back to what matters — good music and a packed dance floor.",
+      "The newest hip-hop contender just north of Mayfair, on Margaret Street in Fitzrovia. BEAT brings raw energy and a younger crowd. If the established names feel too refined, BEAT strips it back to what matters: good music and a packed dance floor.",
   },
   {
     rank: 3,
     name: "Cirque Le Soir",
     slug: "cirque-le-soir",
     musicStyle:
-      "Hip-hop and RnB as the backbone, but the live performers change everything. The music drives the energy between acts — expect anthems that the whole room knows.",
+      "Hip-hop and RnB as the backbone, but the live performers change everything. The music drives the energy between acts: expect anthems that the whole room knows.",
     crowd:
       "International, high-energy, and up for anything. The Cirque crowd comes for an experience, and the hip-hop soundtrack ties the night together.",
     bestNights: "Wednesday and Saturday",
     vibe:
-      "Theatrical chaos meets hip-hop energy. The performers, the fire-breathers, the dancers — it is all set to a hip-hop and RnB soundtrack that keeps the party moving between acts.",
+      "Theatrical chaos meets hip-hop energy. The performers, the fire-breathers, the dancers: it is all set to a hip-hop and RnB soundtrack that keeps the party moving between acts.",
     guestlistOrTables:
-      "Tables recommended for the best experience — they position you right in the action. Guestlist works on Wednesdays. Saturday is tables-only most weeks.",
+      "Tables recommended for the best experience: they position you right in the action. Guestlist works on Wednesdays. Saturday is tables-only most weeks.",
     verdict:
       "Not a pure hip-hop club, but the hip-hop and RnB soundtrack is the thread that ties the Cirque experience together. If you want your hip-hop served with circus performers and genuine spectacle, there is nothing else like it.",
   },
@@ -88,17 +88,17 @@ const faqs = [
   {
     question: "What is the best night for hip-hop in Mayfair?",
     answer:
-      "Thursday and Saturday are the strongest hip-hop nights across Mayfair. Tuesday at Tape London is considered the gold standard — the crowd is up for it and the DJs play deeper cuts. Saturday is peak energy everywhere. Wednesday at Cirque Le Soir is the underrated pick if you want hip-hop with entertainment.",
+      "Thursday and Saturday are the strongest hip-hop nights across Mayfair. Tuesday at Tape London is considered the gold standard: the crowd is up for it and the DJs play deeper cuts. Saturday is peak energy everywhere. Wednesday at Cirque Le Soir is the underrated pick if you want hip-hop with entertainment.",
   },
   {
     question: "What is the dress code for hip-hop clubs in Mayfair?",
     answer:
-      "Smart and stylish — Mayfair hip-hop clubs are not casual. Think designer trainers (clean, premium brands), tailored trousers or quality jeans, and a sharp shirt or fitted top. No sportswear, no shorts, no flip-flops. Women dress up. The vibe is polished streetwear meets smart casual. Read our full dress code guide for specifics.",
+      "Smart and stylish: Mayfair hip-hop clubs are not casual. Think designer trainers (clean, premium brands), tailored trousers or quality jeans, and a sharp shirt or fitted top. No sportswear, no shorts, no flip-flops. Women dress up. The vibe is polished streetwear meets smart casual. Read our full dress code guide for specifics.",
   },
   {
     question: "Can you request songs at Mayfair hip-hop clubs?",
     answer:
-      "At most venues, no. The DJs at Tape London are hired for their curation — they read the room, not request slips. If you book a table, your table host might pass a request to the DJ, but there are no guarantees.",
+      "At most venues, no. The DJs at Tape London are hired for their curation: they read the room, not request slips. If you book a table, your table host might pass a request to the DJ, but there are no guarantees.",
   },
   {
     question: "What age range goes to hip-hop clubs in Mayfair?",
@@ -108,7 +108,7 @@ const faqs = [
   {
     question: "Can I get on the guestlist for hip-hop nights in Mayfair?",
     answer:
-      "Yes — most venues offer guestlist for hip-hop nights, but availability varies. BEAT has the most open guestlist. Tape London is the hardest — guestlist spots are limited and tables are the primary route in. Message us on WhatsApp and we can sort guestlist at any of these venues.",
+      "Yes: most venues offer guestlist for hip-hop nights, but availability varies. BEAT has the most open guestlist. Tape London is the hardest: guestlist spots are limited and tables are the primary route in. Message us on WhatsApp and we can sort guestlist at any of these venues.",
   },
 ];
 
@@ -129,7 +129,7 @@ export default function BestHipHopClubsPage() {
         </nav>
 
         <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">
-          Best Hip-Hop & RnB Clubs in Mayfair —{" "}
+          Best Hip-Hop & RnB Clubs in Mayfair:{" "}
           <span className="text-gold">Ranked for 2026</span>
         </h1>
         <p className="text-gray-300 text-lg max-w-3xl">
@@ -265,7 +265,7 @@ export default function BestHipHopClubsPage() {
         {/* Hip-Hop vs RnB */}
         <section className="mt-12 mb-8">
           <h2 className="text-2xl font-bold text-white mb-4">
-            Hip-Hop vs RnB — Which Clubs Lean Which Way
+            Hip-Hop vs RnB: Which Clubs Lean Which Way
           </h2>
           <p className="text-gray-300 mb-6">
             Not all hip-hop nights are created equal. Some clubs lean harder
@@ -281,15 +281,15 @@ export default function BestHipHopClubsPage() {
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
                   <span>
-                    <Link href="/clubs/tape-london" className="text-gold hover:text-gold-light">Tape London</Link>
-                    {" "}— modern trap mixed with 90s classics
+                    <Link href="/clubs/tape-london" className="text-gold hover:text-gold-light">Tape London</Link>:
+                    {" "}modern trap mixed with 90s classics
                   </span>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
                   <span>
-                    <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">BEAT London</Link>
-                    {" "}— current chart hip-hop and Afrobeats
+                    <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">BEAT London</Link>:
+                    {" "}current chart hip-hop and Afrobeats
                   </span>
                 </li>
               </ul>
@@ -302,8 +302,8 @@ export default function BestHipHopClubsPage() {
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
                   <span>
-                    <Link href="/clubs/cirque-le-soir" className="text-gold hover:text-gold-light">Cirque Le Soir</Link>
-                    {" "}— RnB-heavy sets between performances
+                    <Link href="/clubs/cirque-le-soir" className="text-gold hover:text-gold-light">Cirque Le Soir</Link>:
+                    {" "}RnB-heavy sets between performances
                   </span>
                 </li>
               </ul>
@@ -320,11 +320,11 @@ export default function BestHipHopClubsPage() {
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
               <div>
                 <h3 className="text-gold font-semibold mb-2">
-                  Thursday — The Insider Pick
+                  Thursday: The Insider Pick
                 </h3>
                 <p className="text-sm text-gray-300">
                   Thursday is the best night for hip-hop in Mayfair. The crowd
-                  is genuinely up for it — no tourists, no casual visitors.{" "}
+                  is genuinely up for it: no tourists, no casual visitors.{" "}
                   <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">Reign London</Link>{" "}
                   and{" "}
                   <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">BEAT London</Link>{" "}
@@ -334,14 +334,14 @@ export default function BestHipHopClubsPage() {
               </div>
               <div>
                 <h3 className="text-gold font-semibold mb-2">
-                  Saturday — Peak Energy
+                  Saturday: Peak Energy
                 </h3>
                 <p className="text-sm text-gray-300">
                   Saturday is when every venue is at full capacity. The energy
                   is higher, the rooms are packed, and the music stays
                   commercial and crowd-pleasing. If you want the big-night-out
                   feeling with hip-hop as the soundtrack, Saturday is the move.
-                  Book tables early — Saturday sells out fast.
+                  Book tables early: Saturday sells out fast.
                 </p>
               </div>
             </div>
@@ -527,7 +527,7 @@ export default function BestHipHopClubsPage() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "ItemList",
-            name: "Best Hip-Hop & RnB Clubs in Mayfair — Ranked for 2026",
+            name: "Best Hip-Hop & RnB Clubs in Mayfair: Ranked for 2026",
             itemListElement: hipHopClubs.map((club) => ({
               "@type": "ListItem",
               position: club.rank,

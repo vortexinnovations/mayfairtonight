@@ -7,14 +7,14 @@ import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title:
-    "Mayfair VIP Nightlife — The Insider Guide to Exclusive Clubs",
+    "Mayfair VIP Nightlife: The Insider Guide to Exclusive Clubs",
   description:
     "The complete guide to VIP nightlife in Mayfair. Exclusivity tiers, table booking guide, guestlist vs VIP comparison, and what to expect at every venue. Insider access.",
   alternates: {
     canonical: "https://mayfairtonight.com/mayfair-vip-nightlife",
   },
   openGraph: {
-    title: "Mayfair VIP Nightlife — The Insider Guide",
+    title: "Mayfair VIP Nightlife: The Insider Guide",
     description:
       "Exclusivity tiers, table bookings, and VIP access at every Mayfair club. The insider guide to London's most exclusive nightlife.",
     url: "https://mayfairtonight.com/mayfair-vip-nightlife",
@@ -35,12 +35,12 @@ const faqs = [
   {
     question: "Can I get VIP access without a table?",
     answer:
-      "At most Mayfair clubs VIP simply means table booking — there is no separate VIP section with a cheaper entry fee. Guestlist gets you through the door at standard venues. At members clubs like Scotch of St James and Tape London membership or a members invitation is the alternative to a table.",
+      "At most Mayfair clubs VIP simply means table booking: there is no separate VIP section with a cheaper entry fee. Guestlist gets you through the door at standard venues. At members clubs like Scotch of St James and Tape London membership or a members invitation is the alternative to a table.",
   },
   {
     question: "What is included with a VIP table in Mayfair?",
     answer:
-      "A VIP table booking includes a reserved table and seating area, a dedicated server, and a minimum spend requirement which covers bottles and mixers. Most venues offer champagne and premium spirits. The minimum spend is not a fee on top of drinks — it is the amount you commit to spending on bottles and service.",
+      "A VIP table booking includes a reserved table and seating area, a dedicated server, and a minimum spend requirement which covers bottles and mixers. Most venues offer champagne and premium spirits. The minimum spend is not a fee on top of drinks: it is the amount you commit to spending on bottles and service.",
   },
   {
     question: "How do I book a VIP table in Mayfair?",
@@ -62,7 +62,7 @@ export default function MayfairVIPPage() {
         </nav>
 
         <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">
-          Mayfair VIP Nightlife —{" "}
+          Mayfair VIP Nightlife:{" "}
           <span className="text-gold">The Insider Guide to Exclusive Clubs</span>
         </h1>
         <p className="text-gray-300 text-lg max-w-3xl">
@@ -157,7 +157,7 @@ export default function MayfairVIPPage() {
                 membership elements. Membership gives you priority access,
                 members-only nights, and a personal relationship with the
                 venue. It is the highest tier of access but it is not
-                something you buy online — it requires a connection.
+                something you buy online: it requires a connection.
               </p>
               <p className="text-sm text-dark-muted">
                 Scotch of St James and Tape London have the strongest
@@ -194,7 +194,7 @@ export default function MayfairVIPPage() {
               The pinnacle. These venues operate on exclusivity as their core
               product. The crowds are genuinely A-list, the rooms are intimate,
               and access is earned not bought. A table helps but it is not
-              always enough — you need to look the part and know the right
+              always enough: you need to look the part and know the right
               people.
             </p>
             <div className="space-y-4">
@@ -223,7 +223,7 @@ export default function MayfairVIPPage() {
                   small, the crowd is A-list, and the atmosphere is unlike
                   anything else in London. Celebrities, musicians, and
                   high-net-worth individuals fill the room. Guestlist access
-                  is extremely limited — a{" "}
+                  is extremely limited: a{" "}
                   <a
                     href="https://londonbottleservice.com"
                     target="_blank"
@@ -287,7 +287,7 @@ export default function MayfairVIPPage() {
             </div>
             <p className="text-gray-300 leading-relaxed mb-4">
               These venues deliver genuinely premium experiences with
-              high-calibre crowds. Tables are the play here — guestlist works
+              high-calibre crowds. Tables are the play here: guestlist works
               but the VIP table experience is where these clubs really shine.
               Expect world-class entertainment, fashion-forward crowds, and
               nights you will remember.
@@ -503,7 +503,7 @@ export default function MayfairVIPPage() {
                   <span className="text-gold text-sm ml-2">Refined Newcomer</span>
                 </h4>
                 <p className="text-sm text-gray-300 mb-2">
-                  Still building its reputation which works in your favour —
+                  Still building its reputation which works in your favour:
                   premium experience with easier access than the established
                   names. The cocktail programme is impressive, the house music
                   is tasteful, and the crowd is discerning. One of the
@@ -556,7 +556,7 @@ export default function MayfairVIPPage() {
               </h3>
               <p className="text-sm text-gray-300">
                 You commit to spending a set amount on bottles and drinks.
-                This is not a fee — it is your bar tab. Anything you order
+                This is not a fee: it is your bar tab. Anything you order
                 counts towards it. Most tables for four to six people start
                 around 1,000 to 1,500 pounds.
               </p>
@@ -579,8 +579,8 @@ export default function MayfairVIPPage() {
               <p className="text-sm text-gray-300">
                 Reserved seating, a dedicated server, priority entry, and
                 bottles with mixers. Some venues include a complimentary
-                bottle for special occasions. Your server handles everything
-                — you never queue at the bar.
+                bottle for special occasions. Your server handles everything:
+                you never queue at the bar.
               </p>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">
@@ -608,7 +608,7 @@ export default function MayfairVIPPage() {
         {/* VIP vs Guestlist */}
         <section className="mb-10">
           <h2 className="text-2xl font-bold text-white mb-4">
-            VIP Table vs Guestlist — Which Should You Choose?
+            VIP Table vs Guestlist: Which Should You Choose?
           </h2>
           <p className="text-gray-300 leading-relaxed mb-6">
             The right choice depends on your group size, budget, and what

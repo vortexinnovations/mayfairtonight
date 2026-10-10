@@ -34,7 +34,7 @@ export const clubs: Club[] = [
     location: "Hanover Square, Mayfair",
     area: "Mayfair",
     musicPolicy: ["Hip-Hop", "RnB", "Commercial"],
-    dressCode: "Smart and stylish. No trainers, no sportswear. Think designer — this is Mayfair's most exclusive room.",
+    dressCode: "Smart and stylish. No trainers, no sportswear. Think designer: this is Mayfair's most exclusive room.",
     dressCodeNotes: "Tape has one of the strictest doors in London. Dress to impress or don't bother.",
     tableMinimum: "£1,500",
     openNights: ["Tuesday", "Friday", "Saturday", "Sunday"],
@@ -42,7 +42,7 @@ export const clubs: Club[] = [
     closingTime: "03:45",
     vibe: "Exclusive, celebrity-heavy, intimate",
     insiderTip:
-      "Tape is invite-only most nights. Book a table through a promoter — walking up to the door rarely works.",
+      "Tape is invite-only most nights. Book a table through a promoter: walking up to the door rarely works.",
     whatToExpect:
       "A dark, intimate room with incredible sound. The crowd is small and handpicked. Expect to see faces you recognise. The dance floor is compact but the energy is unmatched when it gets going after 1am.",
     bestFor: "Those who want the most exclusive night possible",
@@ -53,7 +53,7 @@ export const clubs: Club[] = [
     name: "Cirque Le Soir",
     tagline: "The wildest show in London nightlife",
     description:
-      "Cirque Le Soir is not just a nightclub — it's a full-blown circus. Fire breathers, contortionists, snake charmers, and performers roam the venue while you party. The music is hip-hop and RnB, the crowd is international and celebrity-heavy, and every night feels like an event. Based on Ganton Street just off Carnaby, it's one of London's most unique nights out.",
+      "Cirque Le Soir is not just a nightclub: it's a full-blown circus. Fire breathers, contortionists, snake charmers, and performers roam the venue while you party. The music is hip-hop and RnB, the crowd is international and celebrity-heavy, and every night feels like an event. Based on Ganton Street just off Carnaby, it's one of London's most unique nights out.",
     location: "Ganton Street, Soho",
     area: "Soho",
     musicPolicy: ["Hip-Hop", "RnB"],
@@ -67,7 +67,7 @@ export const clubs: Club[] = [
     insiderTip:
       "Get there before midnight to catch the first performances. The shows happen throughout the night but the early ones set the tone.",
     whatToExpect:
-      "You'll walk in and immediately be greeted by performers. The venue is dark and theatrical — think burlesque meets carnival. Tables surround the central dance floor, and performers weave through the crowd all night. It's loud, it's wild, and it's unforgettable.",
+      "You'll walk in and immediately be greeted by performers. The venue is dark and theatrical: think burlesque meets carnival. Tables surround the central dance floor, and performers weave through the crowd all night. It's loud, it's wild, and it's unforgettable.",
     bestFor: "Groups who want entertainment with their night out",
     status: "open",
   },
@@ -76,7 +76,7 @@ export const clubs: Club[] = [
     name: "Reign London",
     tagline: "Mayfair's most extravagant showclub",
     description:
-      "Reign takes nightlife and turns it into theatre. Based on Piccadilly, this showclub features aerial acrobats, live singers, and jaw-dropping performances between DJ sets. The production value is insane — think Las Vegas meets Mayfair. If you want your night to feel like an event, Reign delivers every single time.",
+      "Reign takes nightlife and turns it into theatre. Based on Piccadilly, this showclub features aerial acrobats, live singers, and jaw-dropping performances between DJ sets. The production value is insane: think Las Vegas meets Mayfair. If you want your night to feel like an event, Reign delivers every single time.",
     location: "Piccadilly, Mayfair",
     area: "Mayfair",
     musicPolicy: ["Commercial", "House", "Hip-Hop"],
@@ -90,7 +90,7 @@ export const clubs: Club[] = [
     insiderTip:
       "Book a table near the stage for the best view of the performances. The aerial acts happen directly overhead.",
     whatToExpect:
-      "A grand, multi-level venue with a central stage. Throughout the night, performers take to the stage and the air — aerial silks, fire acts, live vocals. Between performances, the DJ keeps the energy high. The crowd is dressed up and ready for a big night.",
+      "A grand, multi-level venue with a central stage. Throughout the night, performers take to the stage and the air: aerial silks, fire acts, live vocals. Between performances, the DJ keeps the energy high. The crowd is dressed up and ready for a big night.",
     bestFor: "Special occasions and groups who want a show",
     status: "open",
   },
@@ -128,7 +128,7 @@ export const clubs: Club[] = [
     area: "Mayfair",
     musicPolicy: ["Hip-Hop", "RnB", "Funky House"],
     dressCode: "Smart. No trainers, no sportswear. Smart shoes and well-fitted clothes. Mayfair standard applies.",
-    dressCodeNotes: "The door knows its regulars. Dress sharp and be polite — attitude matters here.",
+    dressCodeNotes: "The door knows its regulars. Dress sharp and be polite: attitude matters here.",
     tableMinimum: "£1,000",
     openNights: [],
     openingTime: "22:00",
@@ -171,11 +171,11 @@ export const clubs: Club[] = [
     name: "Scotch of St James",
     tagline: "Mayfair's most storied nightclub",
     description:
-      "Scotch has been a Mayfair institution since the 1960s — Jimi Hendrix played here, The Rolling Stones drank here, and it's been the backdrop to some of London's most legendary nights. Today it carries that heritage with elegant parties, quality DJs, and a crowd that appreciates history. It's intimate, it's classy, and it's timeless.",
+      "Scotch has been a Mayfair institution since the 1960s: Jimi Hendrix played here, The Rolling Stones drank here, and it's been the backdrop to some of London's most legendary nights. Today it carries that heritage with elegant parties, quality DJs, and a crowd that appreciates history. It's intimate, it's classy, and it's timeless.",
     location: "Mayfair",
     area: "Mayfair",
     musicPolicy: ["Mixed", "House", "Disco", "RnB"],
-    dressCode: "Smart and elegant. This is an old-school Mayfair members club — dress like it.",
+    dressCode: "Smart and elegant. This is an old-school Mayfair members club: dress like it.",
     dressCodeNotes: "Elegant is the word. Think classic, not trendy.",
     tableMinimum: "£1,000",
     openNights: ["Thursday", "Friday", "Saturday"],
@@ -194,19 +194,19 @@ export const clubs: Club[] = [
     name: "Dear Darling",
     tagline: "Mayfair's most opulent late-night bar",
     description:
-      "Dear Darling is pure Mayfair opulence — chandeliers, velvet booths, and cocktails that justify their price tag. It straddles the line between high-end bar and late-night venue. The cocktail programme is serious, the atmosphere is intimate, and it transitions beautifully from early evening drinks to late-night energy. Perfect for those who want sophistication without the full nightclub experience.",
+      "Dear Darling is pure Mayfair opulence: chandeliers, velvet booths, and cocktails that justify their price tag. It straddles the line between high-end bar and late-night venue. The cocktail programme is serious, the atmosphere is intimate, and it transitions beautifully from early evening drinks to late-night energy. Perfect for those who want sophistication without the full nightclub experience.",
     location: "91 Jermyn Street, St James's",
     area: "Mayfair",
     musicPolicy: ["House", "Lounge", "Commercial"],
     dressCode: "Smart. Cocktail attire encouraged. No casual wear whatsoever.",
-    dressCodeNotes: "This is an opulent venue — dress the part. Think cocktail bar, not nightclub.",
+    dressCodeNotes: "This is an opulent venue: dress the part. Think cocktail bar, not nightclub.",
     tableMinimum: "£1,000",
     openNights: ["Thursday", "Friday", "Saturday", "Sunday"],
     openingTime: "21:00",
     closingTime: "02:30",
     vibe: "Opulent, intimate, cocktail-focused",
     insiderTip:
-      "Start your evening here with cocktails before heading to a club. Or stay — it gets lively enough after midnight to be the whole night.",
+      "Start your evening here with cocktails before heading to a club. Or stay: it gets lively enough after midnight to be the whole night.",
     whatToExpect:
       "A beautiful, dimly-lit space dripping with glamour. The cocktail menu is extensive and creative. The music starts low and atmospheric, building as the night progresses. By midnight, the dance floor opens up. It's the most civilised way to go out in Mayfair.",
     bestFor: "Date nights and groups who prefer bars to clubs",
@@ -221,7 +221,7 @@ export const clubs: Club[] = [
     location: "Mayfair",
     area: "Mayfair",
     musicPolicy: ["House", "Deep House", "Tech House"],
-    dressCode: "Smart. This is a restaurant-to-club venue — dress for dinner in Mayfair.",
+    dressCode: "Smart. This is a restaurant-to-club venue: dress for dinner in Mayfair.",
     dressCodeNotes: "Think smart dinner attire. No casual wear.",
     tableMinimum: "£1,000",
     openNights: ["Thursday", "Friday", "Saturday"],
@@ -229,9 +229,9 @@ export const clubs: Club[] = [
     closingTime: "03:00",
     vibe: "Sophisticated, dinner-to-dance, house music",
     insiderTip:
-      "Book dinner first, then transition to the club. It's the best way to experience Maddox — and the restaurant is genuinely excellent.",
+      "Book dinner first, then transition to the club. It's the best way to experience Maddox, and the restaurant is genuinely excellent.",
     whatToExpect:
-      "Upstairs is a refined Italian restaurant. Downstairs is a sleek club space with warm lighting and a quality sound system. The crowd is older and more sophisticated than most Mayfair clubs. The music is house — no hip-hop here. It's the grown-up night out in Mayfair.",
+      "Upstairs is a refined Italian restaurant. Downstairs is a sleek club space with warm lighting and a quality sound system. The crowd is older and more sophisticated than most Mayfair clubs. The music is house: no hip-hop here. It's the grown-up night out in Mayfair.",
     bestFor: "Couples and groups who want dinner and dancing",
     status: "open",
   },
@@ -240,11 +240,11 @@ export const clubs: Club[] = [
     name: "The Box",
     tagline: "London's most provocative theatre-nightclub",
     description:
-      "The Box is not for the faint-hearted. This theatrical nightclub pushes boundaries with provocative performances, burlesque acts, and shows that range from jaw-dropping to genuinely shocking. Born in New York, the London outpost brings the same energy — a dark, decadent room where the entertainment is as much the point as the music. If you want a night out that you'll be talking about for weeks, The Box delivers.",
+      "The Box is not for the faint-hearted. This theatrical nightclub pushes boundaries with provocative performances, burlesque acts, and shows that range from jaw-dropping to genuinely shocking. Born in New York, the London outpost brings the same energy: a dark, decadent room where the entertainment is as much the point as the music. If you want a night out that you'll be talking about for weeks, The Box delivers.",
     location: "Soho",
     area: "Soho",
     musicPolicy: ["Commercial", "Hip-Hop", "House"],
-    dressCode: "Smart and creative. The Box appreciates effort — dress to match the theatrical energy.",
+    dressCode: "Smart and creative. The Box appreciates effort: dress to match the theatrical energy.",
     dressCodeNotes: "Think fashionable and bold. This is a venue that celebrates excess and style.",
     tableMinimum: "£1,000",
     openNights: ["Wednesday", "Thursday", "Friday", "Saturday"],
@@ -252,7 +252,7 @@ export const clubs: Club[] = [
     closingTime: "03:30",
     vibe: "Provocative, theatrical, decadent",
     insiderTip:
-      "Don't sit near the stage if you're easily shocked. The performances are designed to push boundaries. Book a booth for the best experience — you'll have the show and the party in one.",
+      "Don't sit near the stage if you're easily shocked. The performances are designed to push boundaries. Book a booth for the best experience: you'll have the show and the party in one.",
     whatToExpect:
       "A dark, opulent room centred around a stage. Throughout the night, performers deliver acts that range from burlesque to avant-garde theatre. Between shows, the DJ keeps the energy high and the dance floor fills. The crowd is a mix of fashionable Londoners, international visitors, and people who've heard the stories and want to see for themselves.",
     bestFor: "Adventurous groups who want a boundary-pushing night out",
@@ -288,21 +288,21 @@ export const clubs: Club[] = [
     name: "Selene London",
     tagline: "Refined elegance just north of Oxford Circus",
     description:
-      "Selene brings understated luxury to Fitzrovia, just north of Oxford Circus and a short walk from Mayfair. Named after the Greek goddess of the moon, the venue is elegant without being over-the-top — think soft lighting, refined interiors, and a cocktail programme that rivals dedicated cocktail bars. The music blends house and commercial, and the atmosphere sits between high-end bar and intimate nightclub. It's the kind of place that makes you feel sophisticated just for walking in.",
+      "Selene brings understated luxury to Fitzrovia, just north of Oxford Circus and a short walk from Mayfair. Named after the Greek goddess of the moon, the venue is elegant without being over-the-top: think soft lighting, refined interiors, and a cocktail programme that rivals dedicated cocktail bars. The music blends house and commercial, and the atmosphere sits between high-end bar and intimate nightclub. It's the kind of place that makes you feel sophisticated just for walking in.",
     location: "4 Winsley Street, Fitzrovia, London W1W 8HF",
     area: "Fitzrovia",
     musicPolicy: ["House", "Commercial", "Deep House"],
     dressCode: "Smart and refined. Cocktail attire. No casual wear.",
-    dressCodeNotes: "Selene is elegant — the dress code reflects it. Think upscale evening out.",
+    dressCodeNotes: "Selene is elegant: the dress code reflects it. Think upscale evening out.",
     tableMinimum: "£1,000",
     openNights: ["Thursday", "Friday", "Saturday", "Sunday"],
     openingTime: "23:00",
     closingTime: "04:00",
     vibe: "Refined, elegant, moonlit luxury",
     insiderTip:
-      "Start with cocktails at the bar before moving to a table. Selene's cocktail menu is genuinely impressive — don't skip it for straight bottles.",
+      "Start with cocktails at the bar before moving to a table. Selene's cocktail menu is genuinely impressive: don't skip it for straight bottles.",
     whatToExpect:
-      "An elegant, softly-lit venue with refined design. The music is tasteful house and commercial — never too loud, never too quiet. The crowd is well-dressed and sociable. Bottle service is polished and attentive. It's the kind of venue that works equally well for a date night or a group celebration. Selene also has private bowling lanes alongside the club rooms, which can be booked together with a table.",
+      "An elegant, softly-lit venue with refined design. The music is tasteful house and commercial: never too loud, never too quiet. The crowd is well-dressed and sociable. Bottle service is polished and attentive. It's the kind of venue that works equally well for a date night or a group celebration. Selene also has private bowling lanes alongside the club rooms, which can be booked together with a table.",
     bestFor: "Those who want elegance and refinement over high-energy partying",
     status: "open",
   },
@@ -311,7 +311,7 @@ export const clubs: Club[] = [
     name: "BEAT London",
     tagline: "High-energy nightclub with serious sound",
     description:
-      "BEAT lives up to its name. Based on Margaret Street, this club is built around its sound system — and it shows. The bass hits different here. The music policy leans towards high-energy sets, the crowd is young and up for it, and the atmosphere is pure nightclub. No gimmicks, no shows — just great music and a proper party.",
+      "BEAT lives up to its name. Based on Margaret Street, this club is built around its sound system, and it shows. The bass hits different here. The music policy leans towards high-energy sets, the crowd is young and up for it, and the atmosphere is pure nightclub. No gimmicks, no shows: just great music and a proper party.",
     location: "Margaret Street",
     area: "Fitzrovia",
     musicPolicy: ["Hip-Hop", "RnB", "Commercial", "House"],
@@ -408,7 +408,7 @@ export const clubs: Club[] = [
     name: "Lio Club London",
     tagline: "Gourmet dining meets Mayfair glamour",
     description:
-      "Lio Club London brought the famous Ibiza-born concept to Mayfair — gourmet dining, live entertainment, and nightclub energy all in one evening. The multi-course dinner with performances between courses, followed by a full nightclub transformation, was one of the most complete nights out in London.",
+      "Lio Club London brought the famous Ibiza-born concept to Mayfair: gourmet dining, live entertainment, and nightclub energy all in one evening. The multi-course dinner with performances between courses, followed by a full nightclub transformation, was one of the most complete nights out in London.",
     location: "Mayfair",
     area: "Mayfair",
     musicPolicy: ["Commercial", "House", "Pop"],
@@ -423,7 +423,7 @@ export const clubs: Club[] = [
     whatToExpect: "Lio Club London has permanently closed. For a dinner-to-dance experience, try Maddox for Italian dining into house music, or Reign London for shows and entertainment.",
     bestFor: "This venue has permanently closed",
     status: "closed",
-    closedMessage: "Lio Club London has permanently closed. For dinner and clubbing in one evening, try Maddox — Italian fine dining upstairs, house music downstairs. For entertainment and shows, Reign London is the best alternative.",
+    closedMessage: "Lio Club London has permanently closed. For dinner and clubbing in one evening, try Maddox: Italian fine dining upstairs, house music downstairs. For entertainment and shows, Reign London is the best alternative.",
   },
 ];
 

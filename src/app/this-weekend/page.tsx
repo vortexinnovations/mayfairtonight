@@ -10,14 +10,14 @@ import eventsData from "@/data/events.json";
 import { getWeekendDates, formatDate } from "@/lib/utils";
 
 export const metadata: Metadata = {
-  title: "This Weekend in Mayfair — London Clubs Friday, Saturday & Sunday",
+  title: "This Weekend in Mayfair: London Clubs Friday, Saturday & Sunday",
   description:
     "Plan your weekend in Mayfair. See what's on this Friday, Saturday, and Sunday at London's best nightclubs. Events, music, and instant table bookings via WhatsApp.",
   alternates: { canonical: "https://mayfairtonight.com/this-weekend" },
   openGraph: {
-    title: "This Weekend in Mayfair — Clubs, Events & Table Bookings",
+    title: "This Weekend in Mayfair: Clubs, Events & Table Bookings",
     description:
-      "Your complete weekend guide to Mayfair's best nightclubs. Friday, Saturday, and Sunday — events, music, and instant bookings.",
+      "Your complete weekend guide to Mayfair's best nightclubs. Friday, Saturday, and Sunday: events, music, and instant bookings.",
     url: "https://mayfairtonight.com/this-weekend",
   },
 };
@@ -44,7 +44,7 @@ export default function WeekendPage() {
           This Weekend in <span className="text-gold">Mayfair</span>
         </h1>
         <p className="text-dark-muted">
-          {formatDate(weekend.friday)} — {formatDate(weekend.sunday)}
+          {formatDate(weekend.friday)} to {formatDate(weekend.sunday)}
         </p>
       </HeroImage>
 
@@ -62,7 +62,7 @@ export default function WeekendPage() {
             <section key={day} className="mb-10">
               <div className="flex items-center justify-between mb-4">
                 <h2 className="text-2xl font-semibold text-white">
-                  {day} — {formatDate(date)}
+                  {day}: {formatDate(date)}
                 </h2>
                 <Link
                   href={`/nights/${slug}`}

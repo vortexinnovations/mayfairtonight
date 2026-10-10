@@ -7,14 +7,14 @@ import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title:
-    "Celebrity Clubs in Mayfair — Where the A-List Actually Goes Out",
+    "Celebrity Clubs in Mayfair: Where the A-List Actually Goes Out",
   description:
     "The most exclusive celebrity clubs in Mayfair, London. Where the A-list goes, how to get in, and what to expect. Honest insider guide for 2026.",
   alternates: {
     canonical: "https://mayfairtonight.com/best-celebrity-clubs-in-mayfair",
   },
   openGraph: {
-    title: "Celebrity Clubs in Mayfair — Where the A-List Goes",
+    title: "Celebrity Clubs in Mayfair: Where the A-List Goes",
     description:
       "Insider guide to Mayfair's most exclusive clubs. Which venues attract the celebrity crowd and how to experience them yourself.",
     url: "https://mayfairtonight.com/best-celebrity-clubs-in-mayfair",
@@ -40,11 +40,11 @@ const celebrityClubs: CelebrityClub[] = [
     whyCelebritiesChooseIt:
       "Privacy. The room is small, the door is iron-clad, and the layout means tables feel genuinely secluded. Celebrities come to Tape because they can actually relax. No phones in faces. No random walk-ups. The staff are trained to protect the room, and it shows.",
     crowd:
-      "Music artists, athletes, models, and the connected crowd that orbits them. On any given Tuesday or Saturday, you are sharing the room with people you have seen on screen or on stage. The crowd is self-selecting — if you are in, you belong.",
+      "Music artists, athletes, models, and the connected crowd that orbits them. On any given Tuesday or Saturday, you are sharing the room with people you have seen on screen or on stage. The crowd is self-selecting: if you are in, you belong.",
     doorExclusivity:
-      "The hardest door in Mayfair. Guestlist is extremely limited and curated. Tables are the primary entry route, and even table bookings are vetted. This is not a club that needs to fill the room — it chooses who gets in.",
+      "The hardest door in Mayfair. Guestlist is extremely limited and curated. Tables are the primary entry route, and even table bookings are vetted. This is not a club that needs to fill the room: it chooses who gets in.",
     insiderTip:
-      "Book a table through a trusted promoter with an established relationship with the venue. Walk-ups almost never work. Tuesday is slightly more accessible than Saturday. Dress impeccably — the door team makes decisions in seconds.",
+      "Book a table through a trusted promoter with an established relationship with the venue. Walk-ups almost never work. Tuesday is slightly more accessible than Saturday. Dress impeccably: the door team makes decisions in seconds.",
     verdict:
       "The most celebrity-dense club in Mayfair by a significant margin. Tape is where the A-list goes when they want to go out but do not want the world to know. The intimate room, the flawless music, and the ironclad privacy make it the top choice for anyone who values exclusivity above everything.",
   },
@@ -53,13 +53,13 @@ const celebrityClubs: CelebrityClub[] = [
     name: "The Box",
     slug: "the-box-london",
     whyCelebritiesChooseIt:
-      "Creative credibility. The Box attracts a different kind of celebrity — the fashion designers, the artists, the actors who want something genuinely provocative. Born in New York, perfected in London. The performances are boundary-pushing, and that attracts people who live outside boundaries.",
+      "Creative credibility. The Box attracts a different kind of celebrity: the fashion designers, the artists, the actors who want something genuinely provocative. Born in New York, perfected in London. The performances are boundary-pushing, and that attracts people who live outside boundaries.",
     crowd:
-      "Fashion industry insiders, creative directors, actors, and the culturally connected. The crowd is not here to be seen — they are here to see something they cannot see anywhere else. It is the most creatively interesting room in Mayfair.",
+      "Fashion industry insiders, creative directors, actors, and the culturally connected. The crowd is not here to be seen: they are here to see something they cannot see anywhere else. It is the most creatively interesting room in Mayfair.",
     doorExclusivity:
-      "Curated, not just exclusive. The Box does not just want wealthy people — it wants interesting people. The door team assesses vibe, style, and energy. Groups that look fun and fashion-forward have better odds than groups that just look expensive.",
+      "Curated, not just exclusive. The Box does not just want wealthy people: it wants interesting people. The door team assesses vibe, style, and energy. Groups that look fun and fashion-forward have better odds than groups that just look expensive.",
     insiderTip:
-      "Dress creatively, not just expensively. The Box rewards individuality. Book a table for guaranteed entry. Arrive between 11pm and midnight. Do not ask about the performances in advance — discovering them live is the whole point.",
+      "Dress creatively, not just expensively. The Box rewards individuality. Book a table for guaranteed entry. Arrive between 11pm and midnight. Do not ask about the performances in advance: discovering them live is the whole point.",
     verdict:
       "The most creatively exclusive club in Mayfair. The Box attracts celebrities who want an experience, not just a night out. The provocative performances, the theatrical atmosphere, and the fashion-forward crowd make this a magnet for the creative A-list.",
   },
@@ -70,7 +70,7 @@ const celebrityClubs: CelebrityClub[] = [
     whyCelebritiesChooseIt:
       "Spectacle. International celebrities and high-net-worth visitors choose Cirque because nothing else exists like it. The live circus performers, the theatrical energy, and the sheer unpredictability create a night that even people who have been everywhere find genuinely surprising.",
     crowd:
-      "International jet-setters, visiting celebrities, high-net-worth groups, and people celebrating in style. The crowd is global — on any night you might hear five languages at the tables around you. Cirque attracts the kind of celebrity that travels the world looking for the next great experience.",
+      "International jet-setters, visiting celebrities, high-net-worth groups, and people celebrating in style. The crowd is global: on any night you might hear five languages at the tables around you. Cirque attracts the kind of celebrity that travels the world looking for the next great experience.",
     doorExclusivity:
       "Tables are the route in. Saturday is particularly exclusive and often tables-only. Wednesday is slightly more accessible via guestlist. The door is managed but the focus is on maintaining energy rather than pure exclusivity.",
     insiderTip:
@@ -83,13 +83,13 @@ const celebrityClubs: CelebrityClub[] = [
     name: "Scotch of St James",
     slug: "scotch-of-st-james",
     whyCelebritiesChooseIt:
-      "Heritage. Scotch has a history that reads like a music documentary. Hendrix. The Rolling Stones. Decades of London nightlife royalty have walked through this door. Today, it attracts people who appreciate that weight of history — musicians, actors, and tastemakers who want substance over flash.",
+      "Heritage. Scotch has a history that reads like a music documentary. Hendrix. The Rolling Stones. Decades of London nightlife royalty have walked through this door. Today, it attracts people who appreciate that weight of history: musicians, actors, and tastemakers who want substance over flash.",
     crowd:
       "Sophisticated, cultured, and discerning. The Scotch crowd values elegance and history. It is an older, more established crowd than most Mayfair venues. Think 30s and above, well-travelled, and genuinely interesting.",
     doorExclusivity:
       "Members club atmosphere without the formal membership. The door is selective but warm. If you look like you belong in an intimate, elegant setting, you will get in. Book through a promoter to be safe.",
     insiderTip:
-      "Mention nothing about celebrity spotting at the door. Scotch values discretion above all else. Dress elegantly — think dinner party, not nightclub. The intimate setting means every person in the room matters. Arrive before midnight for the best atmosphere.",
+      "Mention nothing about celebrity spotting at the door. Scotch values discretion above all else. Dress elegantly: think dinner party, not nightclub. The intimate setting means every person in the room matters. Arrive before midnight for the best atmosphere.",
     verdict:
       "The heritage choice. Scotch of St James carries a celebrity legacy that no other Mayfair club can match. The current incarnation honours that history with elegant parties, quality music, and a crowd that appreciates where they are standing.",
   },
@@ -99,22 +99,22 @@ const faqs = [
   {
     question: "Will I actually see celebrities at Mayfair clubs?",
     answer:
-      "At the right venue on the right night, yes. Tape London on Tuesday and Saturday regularly has recognisable faces. The Box attracts fashion and creative industry celebrities. We never guarantee celebrity sightings — but at these venues, the crowd is genuinely A-list. Do not go expecting to take photos though. Privacy is respected and phones are often discouraged.",
+      "At the right venue on the right night, yes. Tape London on Tuesday and Saturday regularly has recognisable faces. The Box attracts fashion and creative industry celebrities. We never guarantee celebrity sightings, but at these venues, the crowd is genuinely A-list. Do not go expecting to take photos though. Privacy is respected and phones are often discouraged.",
   },
   {
     question: "Is it worth the money to go to a celebrity club?",
     answer:
-      "That depends on what you value. If you want the most exclusive atmosphere, the best music curation, and genuinely world-class service, then yes — these clubs deliver experiences you cannot get elsewhere. Table minimums at Tape London start from around £1,500. Cirque Le Soir from £1,000. For guestlist options, Scotch offers a more accessible entry point. Visit londonbottleservice.com for current table prices.",
+      "That depends on what you value. If you want the most exclusive atmosphere, the best music curation, and genuinely world-class service, then yes, these clubs deliver experiences you cannot get elsewhere. Table minimums at Tape London start from around £1,500. Cirque Le Soir from £1,000. For guestlist options, Scotch offers a more accessible entry point. Visit londonbottleservice.com for current table prices.",
   },
   {
     question: "Do you need to know someone to get into celebrity clubs?",
     answer:
-      "Not necessarily, but connections help enormously. At Tape London, having a promoter relationship is almost essential. At The Box, your look and energy matter as much as who you know. At Scotch, booking through the right promoter gets you in the door. Message us on WhatsApp — we can connect you with the right people at every venue.",
+      "Not necessarily, but connections help enormously. At Tape London, having a promoter relationship is almost essential. At The Box, your look and energy matter as much as who you know. At Scotch, booking through the right promoter gets you in the door. Message us on WhatsApp: we can connect you with the right people at every venue.",
   },
   {
     question: "What is the best night for the celebrity crowd in Mayfair?",
     answer:
-      "Thursday and Saturday. Thursday is the insider night — the crowd is industry-heavy, the atmosphere is more intimate, and celebrities are more relaxed. Saturday is peak energy with the highest-profile tables booked out. Wednesday at Cirque Le Soir and The Box is the midweek alternative. Friday tends to be more corporate across the board.",
+      "Thursday and Saturday. Thursday is the insider night: the crowd is industry-heavy, the atmosphere is more intimate, and celebrities are more relaxed. Saturday is peak energy with the highest-profile tables booked out. Wednesday at Cirque Le Soir and The Box is the midweek alternative. Friday tends to be more corporate across the board.",
   },
   {
     question: "What should I wear to exclusive Mayfair clubs?",
@@ -140,7 +140,7 @@ export default function BestCelebrityClubsPage() {
         </nav>
 
         <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">
-          Celebrity Clubs in Mayfair —{" "}
+          Celebrity Clubs in Mayfair:{" "}
           <span className="text-gold">Where the A-List Goes</span>
         </h1>
         <p className="text-gray-300 text-lg max-w-3xl">
@@ -310,7 +310,7 @@ export default function BestCelebrityClubsPage() {
               <h3 className="text-gold font-semibold mb-2">Door Policy</h3>
               <p className="text-sm text-gray-300">
                 A curated door that protects the atmosphere. Celebrity-friendly
-                clubs do not just let anyone in — the door team builds the room.
+                clubs do not just let anyone in: the door team builds the room.
                 Read our{" "}
                 <Link href="/mayfair-club-entry-rules" className="text-gold hover:text-gold-light">
                   entry rules guide
@@ -324,7 +324,7 @@ export default function BestCelebrityClubsPage() {
         {/* Can You Get In? */}
         <section className="mb-8">
           <h2 className="text-2xl font-bold text-white mb-4">
-            Can You Get In? — Honest Access Guide
+            Can You Get In? Honest Access Guide
           </h2>
           <p className="text-gray-300 mb-6">
             Let us be straight. These are the most exclusive clubs in Mayfair.
@@ -352,13 +352,13 @@ export default function BestCelebrityClubsPage() {
                   <td className="py-3 px-3 text-white font-medium">The Box</td>
                   <td className="py-3 px-3">Curated guestlist</td>
                   <td className="py-3 px-3">~£1,000</td>
-                  <td className="py-3 px-3 text-gold">Hard — vibe matters</td>
+                  <td className="py-3 px-3 text-gold">Hard: vibe matters</td>
                 </tr>
                 <tr className="border-b border-dark-border/50">
                   <td className="py-3 px-3 text-white font-medium">Cirque Le Soir</td>
                   <td className="py-3 px-3">Wed guestlist, Sat tables</td>
                   <td className="py-3 px-3">~£1,000</td>
-                  <td className="py-3 px-3 text-gold">Moderate–Hard</td>
+                  <td className="py-3 px-3 text-gold">Moderate to Hard</td>
                 </tr>
                 <tr>
                   <td className="py-3 px-3 text-white font-medium">Scotch of St James</td>
@@ -526,7 +526,7 @@ export default function BestCelebrityClubsPage() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "ItemList",
-            name: "Celebrity Clubs in Mayfair — Where the A-List Goes",
+            name: "Celebrity Clubs in Mayfair: Where the A-List Goes",
             itemListElement: celebrityClubs.map((club) => ({
               "@type": "ListItem",
               position: club.rank,

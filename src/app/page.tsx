@@ -11,12 +11,12 @@ import Link from "next/link";
 import { heroImages, clubImages, sectionImages } from "@/data/images";
 
 export const metadata: Metadata = {
-  title: "What's On Tonight in Mayfair — Clubs Open Tonight London",
+  title: "What's On Tonight in Mayfair: Clubs Open Tonight London",
   description:
     "Find out what's happening tonight at Mayfair's best nightclubs. See which clubs are open, what music is playing, guest DJs, and book a table instantly via WhatsApp.",
   alternates: { canonical: "https://mayfairtonight.com" },
   openGraph: {
-    title: "What's On Tonight in Mayfair — Clubs Open Tonight London",
+    title: "What's On Tonight in Mayfair: Clubs Open Tonight London",
     description:
       "Live guide to tonight's best clubs in Mayfair. Which clubs are open, music policy, events, and instant table bookings.",
     url: "https://mayfairtonight.com",
@@ -48,7 +48,7 @@ export default function HomePage() {
               What&apos;s On <span className="text-gold">Tonight</span>
             </h1>
             <p className="text-dark-muted mt-2">
-              {todayFormatted} — {dayOfWeek} night in Mayfair
+              {todayFormatted}: {dayOfWeek} night in Mayfair
             </p>
           </div>
           <div className="hidden md:block">
@@ -82,7 +82,7 @@ export default function HomePage() {
       {/* Tonight's listings */}
       <section className="max-w-6xl mx-auto px-4">
         <h2 className="text-xl font-semibold text-white mb-4">
-          {hasEvents ? "Tonight's Events" : `Open Tonight — ${dayOfWeek}`}
+          {hasEvents ? "Tonight's Events" : `Open Tonight: ${dayOfWeek}`}
         </h2>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
@@ -266,8 +266,8 @@ export default function HomePage() {
             our{" "}
             <Link href="/mayfair-nightclubs" className="text-gold hover:text-gold-light">
               Mayfair nightclubs guide
-            </Link>
-            {" "}— from members-only clubs like Tape London to
+            </Link>,
+            {" "}from members-only clubs like Tape London to
             entertainment powerhouses like Cirque Le Soir and Reign London.
           </p>
           <p>
@@ -293,7 +293,7 @@ export default function HomePage() {
           </p>
           <p>
             Updated daily with tonight&apos;s events, guest DJs, and special
-            parties. Check back every evening for the latest — or{" "}
+            parties. Check back every evening for the latest, or{" "}
             <Link href="/this-weekend" className="text-gold hover:text-gold-light">
               see what&apos;s on this weekend
             </Link>
@@ -318,7 +318,7 @@ export default function HomePage() {
           </h2>
           <p className="text-gray-300 mb-6 max-w-2xl mx-auto">
             Skip the queue and guarantee your spot at Mayfair&apos;s best clubs.
-            VIP tables, bottle service, and guestlist — all arranged via WhatsApp.
+            VIP tables, bottle service, and guestlist: all arranged via WhatsApp.
           </p>
           <WhatsAppCTA size="lg" />
         </div>

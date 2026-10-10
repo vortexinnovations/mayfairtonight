@@ -6,16 +6,16 @@ import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
-  title: "Best Nightclubs in Mayfair — Honest Rankings",
+  title: "Best Nightclubs in Mayfair: Honest Rankings",
   description:
-    "The best nightclubs in Mayfair, London — ranked and reviewed. From exclusive members clubs to theatrical showclubs. Honest, insider picks for 2026.",
+    "The best nightclubs in Mayfair, London: ranked and reviewed. From exclusive members clubs to theatrical showclubs. Honest, insider picks for 2026.",
   alternates: {
     canonical: "https://mayfairtonight.com/best-nightclubs-in-mayfair",
   },
   openGraph: {
-    title: "Best Nightclubs in Mayfair — Ranked",
+    title: "Best Nightclubs in Mayfair: Ranked",
     description:
-      "Honest, insider-ranked guide to the best nightclubs in Mayfair. No sponsored placements — just the best clubs right now.",
+      "Honest, insider-ranked guide to the best nightclubs in Mayfair. No sponsored placements: just the best clubs right now.",
     url: "https://mayfairtonight.com/best-nightclubs-in-mayfair",
   },
 };
@@ -56,7 +56,7 @@ const rankedClubs: RankedClub[] = [
     slug: "cirque-le-soir",
     category: "Best Entertainment",
     verdict:
-      "Nothing in London compares to a night at Cirque Le Soir. The performers, the energy, the sheer unpredictability — every night feels like an event. You don't just go to Cirque; you experience it. It ranks this high because it delivers something genuinely unique. There are hip-hop clubs everywhere. There's only one circus nightclub.",
+      "Nothing in London compares to a night at Cirque Le Soir. The performers, the energy, the sheer unpredictability: every night feels like an event. You don't just go to Cirque; you experience it. It ranks this high because it delivers something genuinely unique. There are hip-hop clubs everywhere. There's only one circus nightclub.",
     strengths: [
       "Completely unique experience",
       "World-class live entertainment",
@@ -73,7 +73,7 @@ const rankedClubs: RankedClub[] = [
     slug: "the-box-london",
     category: "Most Provocative",
     verdict:
-      "The Box is the night out you'll tell stories about. The performances push every boundary, the crowd is self-selecting (you know what you're getting into), and the atmosphere is charged with a decadent energy you won't find anywhere else. Not for everyone — and that's exactly the point.",
+      "The Box is the night out you'll tell stories about. The performances push every boundary, the crowd is self-selecting (you know what you're getting into), and the atmosphere is charged with a decadent energy you won't find anywhere else. Not for everyone, and that's exactly the point.",
     strengths: [
       "Boundary-pushing performances",
       "Utterly unique atmosphere",
@@ -90,7 +90,7 @@ const rankedClubs: RankedClub[] = [
     slug: "reign-london",
     category: "Best Showclub",
     verdict:
-      "Reign turns a night out into a spectacle. Aerial acrobats, live singers, jaw-dropping production — it's Las Vegas meets Mayfair. The shows are genuinely impressive, and the atmosphere between performances keeps the energy high. If you want your night to feel like a special event, Reign delivers every time.",
+      "Reign turns a night out into a spectacle. Aerial acrobats, live singers, jaw-dropping production: it's Las Vegas meets Mayfair. The shows are genuinely impressive, and the atmosphere between performances keeps the energy high. If you want your night to feel like a special event, Reign delivers every time.",
     strengths: [
       "World-class production value",
       "Aerial acts and live entertainment",
@@ -107,7 +107,7 @@ const rankedClubs: RankedClub[] = [
     slug: "maddox",
     category: "Best Dinner-to-Dance",
     verdict:
-      "Maddox does two things brilliantly: Italian food and house music. The transition from dinner upstairs to club downstairs is seamless. The music is proper house — no commercial filler — and the crowd is sophisticated enough to appreciate it. It's the grown-up Mayfair night out.",
+      "Maddox does two things brilliantly: Italian food and house music. The transition from dinner upstairs to club downstairs is seamless. The music is proper house, no commercial filler, and the crowd is sophisticated enough to appreciate it. It's the grown-up Mayfair night out.",
     strengths: [
       "Genuine quality restaurant upstairs",
       "Best house music in Mayfair",
@@ -124,7 +124,7 @@ const rankedClubs: RankedClub[] = [
     slug: "scotch-of-st-james",
     category: "Most Historic",
     verdict:
-      "Scotch has heritage that no other Mayfair club can match — Hendrix, the Stones, decades of London nightlife history soaked into the walls. Today it delivers elegant parties with quality music in an intimate setting. It's timeless in a scene that chases trends.",
+      "Scotch has heritage that no other Mayfair club can match: Hendrix, the Stones, decades of London nightlife history soaked into the walls. Today it delivers elegant parties with quality music in an intimate setting. It's timeless in a scene that chases trends.",
     strengths: [
       "Unmatched heritage and history",
       "Intimate, elegant atmosphere",
@@ -158,7 +158,7 @@ const rankedClubs: RankedClub[] = [
     slug: "selene-london",
     category: "Best Newcomer",
     verdict:
-      "Selene, just north of Oxford Circus in Fitzrovia, has quickly carved out a niche for refined, elegant nightlife. The cocktail menu rivals dedicated bars, the house music is tasteful, and the crowd is more discerning than most Mayfair venues. It's still building its reputation, which makes it one of the smartest bookings right now — premium experience, easier access.",
+      "Selene, just north of Oxford Circus in Fitzrovia, has quickly carved out a niche for refined, elegant nightlife. The cocktail menu rivals dedicated bars, the house music is tasteful, and the crowd is more discerning than most Mayfair venues. It's still building its reputation, which makes it one of the smartest bookings right now: premium experience, easier access.",
     strengths: [
       "Refined and elegant atmosphere",
       "Impressive cocktail programme",
@@ -175,27 +175,27 @@ const faqs = [
   {
     question: "What is the best nightclub in Mayfair right now?",
     answer:
-      "Tape London is the most exclusive and prestigious club in Mayfair. For entertainment, Cirque Le Soir is unmatched. The best club for you depends on what you're looking for — our ranked guide breaks down every venue by vibe, music, and crowd.",
+      "Tape London is the most exclusive and prestigious club in Mayfair. For entertainment, Cirque Le Soir is unmatched. The best club for you depends on what you're looking for: our ranked guide breaks down every venue by vibe, music, and crowd.",
   },
   {
     question: "Which Mayfair club is easiest to get into?",
     answer:
-      "Selene London has the most accessible guestlist. Book through a promoter, arrive before midnight, and dress smart — you'll get in. The harder doors are Tape London (members/tables only most nights) and Scotch of St James (members club atmosphere). The Box curates its crowd carefully but guestlist works.",
+      "Selene London has the most accessible guestlist. Book through a promoter, arrive before midnight, and dress smart: you'll get in. The harder doors are Tape London (members/tables only most nights) and Scotch of St James (members club atmosphere). The Box curates its crowd carefully but guestlist works.",
   },
   {
     question: "How much does a night out in Mayfair cost?",
     answer:
-      "Guestlist entry is often free or £10–£20 cover. Drinks range from £12–£18 for cocktails. Table bookings start from £1,000 minimum spend at most venues, with Tape London from £1,500. A typical night on guestlist costs £50–£100 per person including drinks. For table booking prices, check londonbottleservice.com.",
+      "Guestlist entry is often free or £10 to £20 cover. Drinks range from £12 to £18 for cocktails. Table bookings start from £1,000 minimum spend at most venues, with Tape London from £1,500. A typical night on guestlist costs £50 to £100 per person including drinks. For table booking prices, check londonbottleservice.com.",
   },
   {
     question: "Are Mayfair clubs worth the money?",
     answer:
-      "The top Mayfair clubs offer experiences you genuinely cannot get elsewhere. Cirque Le Soir's circus performers, Reign's aerial acts, The Box's theatrical shows, Tape's A-list crowd — these are unique. For a standard night of music and drinks, London has cheaper options. But for a premium, unforgettable experience, Mayfair delivers.",
+      "The top Mayfair clubs offer experiences you genuinely cannot get elsewhere. Cirque Le Soir's circus performers, Reign's aerial acts, The Box's theatrical shows, Tape's A-list crowd: these are unique. For a standard night of music and drinks, London has cheaper options. But for a premium, unforgettable experience, Mayfair delivers.",
   },
   {
     question: "What night should I go to a Mayfair club?",
     answer:
-      "Thursday and Saturday are the standout nights. Thursday has the best atmosphere — the crowd is genuinely up for it and most major clubs are open. Saturday is peak energy with sold-out rooms. Friday is reliable but can be more corporate. Wednesday is the underrated gem for midweek partying.",
+      "Thursday and Saturday are the standout nights. Thursday has the best atmosphere: the crowd is genuinely up for it and most major clubs are open. Saturday is peak energy with sold-out rooms. Friday is reliable but can be more corporate. Wednesday is the underrated gem for midweek partying.",
   },
 ];
 
@@ -212,7 +212,7 @@ export default function BestNightclubsPage() {
         </nav>
 
         <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">
-          Best Nightclubs in Mayfair —{" "}
+          Best Nightclubs in Mayfair:{" "}
           <span className="text-gold">Ranked for 2026</span>
         </h1>
         <p className="text-dark-muted text-xs mb-3">
@@ -369,8 +369,8 @@ export default function BestNightclubsPage() {
               <p className="text-sm text-gray-300">
                 <Link href="/clubs/maddox" className="text-gold hover:text-gold-light">
                   Maddox
-                </Link>{" "}
-                — dinner upstairs, dancing downstairs. Or{" "}
+                </Link>:{" "}
+                dinner upstairs, dancing downstairs. Or{" "}
                 <Link href="/clubs/dear-darling" className="text-gold hover:text-gold-light">
                   Dear Darling
                 </Link>{" "}
@@ -548,7 +548,7 @@ export default function BestNightclubsPage() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "ItemList",
-            name: "Best Nightclubs in Mayfair — Ranked for 2026",
+            name: "Best Nightclubs in Mayfair: Ranked for 2026",
             itemListElement: rankedClubs.map((club) => ({
               "@type": "ListItem",
               position: club.rank,

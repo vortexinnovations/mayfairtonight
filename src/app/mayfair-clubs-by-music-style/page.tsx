@@ -7,16 +7,16 @@ import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title:
-    "Mayfair Clubs by Music Style — Find Your Sound in 2026",
+    "Mayfair Clubs by Music Style: Find Your Sound in 2026",
   description:
     "Which Mayfair clubs play hip-hop, house, RnB, or open format? Complete music guide to every venue by genre. Find the right sound for your night out.",
   alternates: {
     canonical: "https://mayfairtonight.com/mayfair-clubs-by-music-style",
   },
   openGraph: {
-    title: "Mayfair Clubs by Music Style — Find Your Sound",
+    title: "Mayfair Clubs by Music Style: Find Your Sound",
     description:
-      "The definitive guide to music at Mayfair nightclubs. Hip-hop, house, RnB, commercial — find the club that plays what you want to hear.",
+      "The definitive guide to music at Mayfair nightclubs. Hip-hop, house, RnB, commercial: find the club that plays what you want to hear.",
     url: "https://mayfairtonight.com/mayfair-clubs-by-music-style",
   },
 };
@@ -35,16 +35,16 @@ const hipHopClubs: GenreClub[] = [
     name: "Tape London",
     slug: "tape-london",
     description:
-      "The gold standard for hip-hop in Mayfair. Tape's DJs curate sets that blend current hits with classic anthems, and the intimate room means the bass hits properly. The A-list crowd adds to the energy — when a Drake track drops here, the room goes off in a way that bigger venues can't replicate.",
+      "The gold standard for hip-hop in Mayfair. Tape's DJs curate sets that blend current hits with classic anthems, and the intimate room means the bass hits properly. The A-list crowd adds to the energy: when a Drake track drops here, the room goes off in a way that bigger venues can't replicate.",
     style: "Current hip-hop, classic anthems, trap, RnB",
-    bestNight: "Friday and Saturday — the DJs bring their A-game",
+    bestNight: "Friday and Saturday: the DJs bring their A-game",
     djs: "Resident selectors with deep hip-hop knowledge. Guest DJs from the UK urban scene.",
   },
   {
     name: "BEAT London",
     slug: "beat-london",
     description:
-      "BEAT brings a raw, music-first approach to hip-hop. The sound system is serious, the crowd is there for the music, and the atmosphere is closer to a concert than a typical Mayfair club. Expect deeper cuts alongside the hits — the DJs have genuine credibility.",
+      "BEAT brings a raw, music-first approach to hip-hop. The sound system is serious, the crowd is there for the music, and the atmosphere is closer to a concert than a typical Mayfair club. Expect deeper cuts alongside the hits: the DJs have genuine credibility.",
     style: "Hip-hop, UK rap, grime crossovers, RnB",
     bestNight: "Saturday for the fullest programme",
     djs: "Music-focused selectors. BEAT books DJs for their taste, not their Instagram following.",
@@ -65,7 +65,7 @@ const houseClubs: GenreClub[] = [
     name: "Maddox",
     slug: "maddox",
     description:
-      "Maddox is the house music purist's choice in Mayfair. No commercial filler, no crowd-pleasing compromises — just proper house music played on a quality sound system to a crowd that appreciates it. Deep house, tech house, and classic house cuts delivered by DJs who know their craft. This is the grown-up Mayfair night.",
+      "Maddox is the house music purist's choice in Mayfair. No commercial filler, no crowd-pleasing compromises: just proper house music played on a quality sound system to a crowd that appreciates it. Deep house, tech house, and classic house cuts delivered by DJs who know their craft. This is the grown-up Mayfair night.",
     style: "Deep house, tech house, classic house, no commercial",
     bestNight: "Friday and Saturday for the best DJ bookings",
     djs: "Serious house selectors. Maddox books quality over celebrity. Regular guest DJs from the London house scene.",
@@ -74,7 +74,7 @@ const houseClubs: GenreClub[] = [
     name: "Selene London",
     slug: "selene-london",
     description:
-      "Selene's house music is tasteful and refined, matching the elegant atmosphere. Think smooth deep house, melodic house, and carefully selected commercial house that never descends into cheesy territory. The sound complements the cocktail programme perfectly — sophisticated without being inaccessible.",
+      "Selene's house music is tasteful and refined, matching the elegant atmosphere. Think smooth deep house, melodic house, and carefully selected commercial house that never descends into cheesy territory. The sound complements the cocktail programme perfectly: sophisticated without being inaccessible.",
     style: "Melodic house, deep house, refined commercial house",
     bestNight: "Friday for the most curated sets",
     djs: "Residents who understand the Selene brand. Music supports the atmosphere rather than dominating it.",
@@ -83,7 +83,7 @@ const houseClubs: GenreClub[] = [
     name: "Scotch of St James",
     slug: "scotch-of-st-james",
     description:
-      "Scotch blends house with disco and funk in a way that feels timeless. The heritage of the venue — Hendrix played here — infuses the music policy with a sense of history. The DJs draw from deep crates, mixing classic house with disco edits and soulful grooves. It's music for people who love music.",
+      "Scotch blends house with disco and funk in a way that feels timeless. The heritage of the venue (Hendrix played here) infuses the music policy with a sense of history. The DJs draw from deep crates, mixing classic house with disco edits and soulful grooves. It's music for people who love music.",
     style: "House, disco, funk, soulful grooves",
     bestNight: "Saturday for the richest musical programme",
     djs: "Curators with deep record collections. Scotch attracts DJs who appreciate the venue's history.",
@@ -92,7 +92,7 @@ const houseClubs: GenreClub[] = [
     name: "Dear Darling",
     slug: "dear-darling",
     description:
-      "Dear Darling's house music starts subtle and builds through the evening. Early on, it's lounge and deep house that accompanies the cocktail service. As the night progresses, the tempo lifts and the beats become more insistent. The transition is seamless — you don't notice the shift until you're dancing.",
+      "Dear Darling's house music starts subtle and builds through the evening. Early on, it's lounge and deep house that accompanies the cocktail service. As the night progresses, the tempo lifts and the beats become more insistent. The transition is seamless: you don't notice the shift until you're dancing.",
     style: "Lounge, deep house, melodic house, late-night grooves",
     bestNight: "Thursday and Friday for the best cocktail-to-dance transition",
     djs: "Residents who manage the evening's musical arc. The transition from bar to club is a skill and Dear Darling's DJs nail it.",
@@ -104,7 +104,7 @@ const commercialClubs: GenreClub[] = [
     name: "Reign London",
     slug: "reign-london",
     description:
-      "Reign's music policy is broad by design — the shows need a soundtrack that works for the widest possible audience. Commercial hits, current chart toppers, sing-along anthems, and enough hip-hop and house to keep everyone moving. The DJs play between performances, building energy for the next act.",
+      "Reign's music policy is broad by design: the shows need a soundtrack that works for the widest possible audience. Commercial hits, current chart toppers, sing-along anthems, and enough hip-hop and house to keep everyone moving. The DJs play between performances, building energy for the next act.",
     style: "Commercial, chart hits, open format, some hip-hop and house",
     bestNight: "Saturday for the full show programme and the broadest music selection",
     djs: "Residents who work seamlessly with the entertainment schedule. Versatile selectors who read a mixed crowd.",
@@ -125,7 +125,7 @@ const eclecticClubs: GenreClub[] = [
     name: "The Box",
     slug: "the-box-london",
     description:
-      "The Box's music is as unpredictable as its performances. One moment it's hip-hop, the next it's house, then a disco classic, then something you can't quite categorise. The eclecticism matches the venue's ethos — expect the unexpected. The DJs play for the mood, not the genre purists.",
+      "The Box's music is as unpredictable as its performances. One moment it's hip-hop, the next it's house, then a disco classic, then something you can't quite categorise. The eclecticism matches the venue's ethos: expect the unexpected. The DJs play for the mood, not the genre purists.",
     style: "Eclectic, hip-hop, house, disco, unclassifiable",
     bestNight: "Thursday and Saturday for the most adventurous programming",
     djs: "Creative selectors who mirror the theatrical energy. Music that surprises you is the brief.",
@@ -134,8 +134,8 @@ const eclecticClubs: GenreClub[] = [
     name: "Scotch of St James",
     slug: "scotch-of-st-james",
     description:
-      "Scotch's programming spans house, disco, RnB, and everything in between. The intimate setting means the DJ can take risks — dropping a Northern Soul classic into a house set, or weaving funk into RnB. The heritage of the venue encourages musical adventurousness.",
-    style: "Mixed — house, disco, RnB, funk, soul",
+      "Scotch's programming spans house, disco, RnB, and everything in between. The intimate setting means the DJ can take risks: dropping a Northern Soul classic into a house set, or weaving funk into RnB. The heritage of the venue encourages musical adventurousness.",
+    style: "Mixed: house, disco, RnB, funk, soul",
     bestNight: "Different nights bring different flavours. Thursday for RnB-leaning sets, Saturday for the full range.",
     djs: "DJs with eclectic taste and deep collections. Scotch rewards musical curiosity.",
   },
@@ -166,7 +166,7 @@ const faqs = [
   {
     question: "Can you request songs at Mayfair clubs?",
     answer:
-      "It depends on the venue. At most Mayfair clubs, DJs curate their sets and don't take requests from the floor. However, if you have a table booking, your table host can sometimes pass a request to the DJ — though there's no guarantee. Cirque Le Soir and Reign are entertainment-focused, so requests rarely apply.",
+      "It depends on the venue. At most Mayfair clubs, DJs curate their sets and don't take requests from the floor. However, if you have a table booking, your table host can sometimes pass a request to the DJ, though there's no guarantee. Cirque Le Soir and Reign are entertainment-focused, so requests rarely apply.",
   },
   {
     question: "Do DJs change by night at Mayfair clubs?",
@@ -176,12 +176,12 @@ const faqs = [
   {
     question: "Which Mayfair club has the best sound system?",
     answer:
-      "BEAT London is purpose-built for sound quality — it's a music-first venue and the system reflects that. Maddox has an excellent setup for house music in its basement club. Tape London's intimate room means the sound is powerful without needing enormous speakers. For sheer impact during performances, Reign London's production-grade system is impressive.",
+      "BEAT London is purpose-built for sound quality: it's a music-first venue and the system reflects that. Maddox has an excellent setup for house music in its basement club. Tape London's intimate room means the sound is powerful without needing enormous speakers. For sheer impact during performances, Reign London's production-grade system is impressive.",
   },
   {
     question: "Is it the same music every night at Mayfair clubs?",
     answer:
-      "The genre stays consistent but the energy and specific tracks vary. Maddox is always house music, but a Thursday set is different to a Saturday set. Some venues run themed nights — check individual club pages for weekly schedules.",
+      "The genre stays consistent but the energy and specific tracks vary. Maddox is always house music, but a Thursday set is different to a Saturday set. Some venues run themed nights: check individual club pages for weekly schedules.",
   },
   {
     question: "What does open format mean at a nightclub?",
@@ -203,12 +203,12 @@ export default function MayfairClubsByMusicPage() {
         </nav>
 
         <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">
-          Mayfair Clubs by Music Style —{" "}
+          Mayfair Clubs by Music Style:{" "}
           <span className="text-gold">Find Your Sound</span>
         </h1>
         <p className="text-gray-300 text-lg max-w-3xl">
           The wrong music ruins a night out. The right music makes it. Every
-          Mayfair club has a distinct sound — this guide matches you to the
+          Mayfair club has a distinct sound: this guide matches you to the
           venue that plays what you actually want to hear.
         </p>
       </HeroImage>
@@ -247,7 +247,7 @@ export default function MayfairClubsByMusicPage() {
             Hip-Hop & RnB
           </h2>
           <p className="text-gray-300 mb-4">
-            The dominant sound across Mayfair. But not all hip-hop is equal — some venues play chart-friendly commercial hip-hop while others dig deeper into trap, grime, and classic anthems. Here&apos;s where to go for every flavour.
+            The dominant sound across Mayfair. But not all hip-hop is equal: some venues play chart-friendly commercial hip-hop while others dig deeper into trap, grime, and classic anthems. Here&apos;s where to go for every flavour.
           </p>
           <div className="space-y-6">
             {hipHopClubs.map((club) => (
@@ -391,7 +391,7 @@ export default function MayfairClubsByMusicPage() {
             Commercial & Open Format
           </h2>
           <p className="text-gray-300 mb-4">
-            Not everyone wants to commit to one genre. These clubs play across the board — hits, anthems, and whatever gets the floor moving. Ideal for mixed groups where everyone has different taste.
+            Not everyone wants to commit to one genre. These clubs play across the board: hits, anthems, and whatever gets the floor moving. Ideal for mixed groups where everyone has different taste.
           </p>
           <div className="space-y-6">
             {commercialClubs.map((club) => (
@@ -590,28 +590,28 @@ export default function MayfairClubsByMusicPage() {
                       {club.hiphop ? (
                         <span className="text-gold">&#10003;</span>
                       ) : (
-                        <span className="text-dark-muted">—</span>
+                        <span className="text-dark-muted">&#10007;</span>
                       )}
                     </td>
                     <td className="text-center py-3 px-3">
                       {club.house ? (
                         <span className="text-gold">&#10003;</span>
                       ) : (
-                        <span className="text-dark-muted">—</span>
+                        <span className="text-dark-muted">&#10007;</span>
                       )}
                     </td>
                     <td className="text-center py-3 px-3">
                       {club.commercial ? (
                         <span className="text-gold">&#10003;</span>
                       ) : (
-                        <span className="text-dark-muted">—</span>
+                        <span className="text-dark-muted">&#10007;</span>
                       )}
                     </td>
                     <td className="text-center py-3 px-3">
                       {club.eclectic ? (
                         <span className="text-gold">&#10003;</span>
                       ) : (
-                        <span className="text-dark-muted">—</span>
+                        <span className="text-dark-muted">&#10007;</span>
                       )}
                     </td>
                   </tr>
@@ -624,7 +624,7 @@ export default function MayfairClubsByMusicPage() {
         {/* What If You Want Both? */}
         <section className="mb-8">
           <h2 className="text-2xl font-bold text-white mb-4">
-            What If You Want Both? — Club-Hopping by Genre
+            What If You Want Both? Club-Hopping by Genre
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div className="bg-dark-card border border-dark-border rounded-xl p-5">
@@ -656,7 +656,7 @@ export default function MayfairClubsByMusicPage() {
                 <Link href="/clubs/tape-london" className="text-gold hover:text-gold-light">
                   Tape London
                 </Link>{" "}
-                if you can get in — or{" "}
+                if you can get in, or{" "}
                 <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">
                   BEAT London
                 </Link>{" "}
@@ -687,7 +687,7 @@ export default function MayfairClubsByMusicPage() {
                 <Link href="/clubs/maddox" className="text-gold hover:text-gold-light">
                   Maddox
                 </Link>{" "}
-                does this in one venue — Italian dinner upstairs, house music club downstairs. No venue change needed. The transition is seamless and the house music builds as the night progresses.
+                does this in one venue: Italian dinner upstairs, house music club downstairs. No venue change needed. The transition is seamless and the house music builds as the night progresses.
               </p>
             </div>
           </div>

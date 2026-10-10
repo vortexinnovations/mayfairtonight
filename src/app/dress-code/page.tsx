@@ -7,7 +7,7 @@ import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
-  title: "London Nightclub Dress Code — What to Wear Going Out",
+  title: "London Nightclub Dress Code: What to Wear Going Out",
   description:
     "What to wear to London nightclubs in 2026. General dress code rules for men and women, what gets you turned away, and how to dress for any club night. Practical, no-nonsense guide.",
   alternates: { canonical: "https://mayfairtonight.com/dress-code" },
@@ -33,22 +33,22 @@ const faqs = [
   {
     question: "What should men wear to a Mayfair nightclub?",
     answer:
-      "Smart shoes (loafers, Oxfords, or Chelsea boots), tailored trousers or smart dark jeans, and a well-fitted shirt or smart top. A blazer is always a safe choice. Avoid anything casual — no t-shirts, no sportswear, no shorts.",
+      "Smart shoes (loafers, Oxfords, or Chelsea boots), tailored trousers or smart dark jeans, and a well-fitted shirt or smart top. A blazer is always a safe choice. Avoid anything casual: no t-shirts, no sportswear, no shorts.",
   },
   {
     question: "What should women wear to a Mayfair nightclub?",
     answer:
-      "Heels or smart shoes, a dress, smart jumpsuit, or tailored separates. Mayfair clubs expect glamour — think cocktail bar meets fashion week. Avoid casual wear like flat shoes with jeans.",
+      "Heels or smart shoes, a dress, smart jumpsuit, or tailored separates. Mayfair clubs expect glamour: think cocktail bar meets fashion week. Avoid casual wear like flat shoes with jeans.",
   },
   {
     question: "Which Mayfair club has the strictest dress code?",
     answer:
-      "Tape London has the strictest door in Mayfair. It's a members club with an invite-only policy most nights, and the dress code reflects that — think designer labels and serious style. Maddox and Selene London also enforce strict smart dress codes given their refined venues.",
+      "Tape London has the strictest door in Mayfair. It's a members club with an invite-only policy most nights, and the dress code reflects that: think designer labels and serious style. Maddox and Selene London also enforce strict smart dress codes given their refined venues.",
   },
   {
     question: "Does BEAT London have a strict dress code?",
     answer:
-      "BEAT London is more relaxed than most Mayfair venues. It's a music-first club where the focus is on the sound system and the party. Smart casual works — no sportswear, but smart trainers with a sharp outfit are usually fine.",
+      "BEAT London is more relaxed than most Mayfair venues. It's a music-first club where the focus is on the sound system and the party. Smart casual works: no sportswear, but smart trainers with a sharp outfit are usually fine.",
   },
 ];
 
@@ -67,7 +67,7 @@ export default function DressCodePage() {
         </h1>
         <p className="text-gray-300 text-lg max-w-2xl">
           What to wear, what to avoid, and what each club expects. Read this
-          before you leave the house — getting turned away at the door is the
+          before you leave the house: getting turned away at the door is the
           fastest way to ruin a night out.
         </p>
       </HeroImage>
@@ -92,7 +92,7 @@ export default function DressCodePage() {
           <p className="text-gray-300 leading-relaxed">
             When in doubt, overdress. No one has ever been turned away from a
             Mayfair club for looking too smart. The opposite happens every single
-            night. Dress like you&apos;re going somewhere that matters — because
+            night. Dress like you&apos;re going somewhere that matters, because
             you are.
           </p>
         </section>
@@ -109,11 +109,11 @@ export default function DressCodePage() {
                 What Works
               </h3>
               <ul className="space-y-2 text-gray-300 text-sm">
-                <li>• Smart shoes — loafers, Chelsea boots, Oxfords</li>
+                <li>• Smart shoes: loafers, Chelsea boots, Oxfords</li>
                 <li>• Tailored trousers or smart dark jeans</li>
                 <li>• Collared shirt or smart fitted top</li>
                 <li>• Blazer or sport coat (always a safe bet)</li>
-                <li>• Designer pieces — they notice at the door</li>
+                <li>• Designer pieces: they notice at the door</li>
                 <li>• A watch. It signals effort</li>
               </ul>
             </div>
@@ -124,8 +124,8 @@ export default function DressCodePage() {
               </h3>
               <ul className="space-y-2 text-gray-300 text-sm">
                 <li>• Trainers (even expensive ones, at most venues)</li>
-                <li>• Sportswear of any kind — no joggers, no hoodies</li>
-                <li>• Shorts — even in summer</li>
+                <li>• Sportswear of any kind: no joggers, no hoodies</li>
+                <li>• Shorts: even in summer</li>
                 <li>• Casual t-shirts</li>
                 <li>• Flip-flops or sandals</li>
                 <li>• Anything you&apos;d wear to the gym</li>
@@ -157,7 +157,7 @@ export default function DressCodePage() {
                 <li>• Heels or smart shoes/boots</li>
                 <li>• Cocktail dress or evening dress</li>
                 <li>• Smart jumpsuit or co-ord set</li>
-                <li>• Tailored separates — blazer and skirt, etc.</li>
+                <li>• Tailored separates: blazer and skirt, etc.</li>
                 <li>• Statement accessories</li>
                 <li>• Think: cocktail bar meets fashion week</li>
               </ul>
@@ -204,8 +204,8 @@ export default function DressCodePage() {
               className="text-gold hover:text-gold-light underline"
             >
               London Bottle Service
-            </a>{" "}
-            — dress standards are even higher for table bookings.
+            </a>.{" "}
+            Dress standards are even higher for table bookings.
           </p>
           <div className="space-y-3">
             {getOpenClubs().map((club) => (

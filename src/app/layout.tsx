@@ -7,7 +7,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   metadataBase: new URL("https://mayfairtonight.com"),
   title: {
-    default: "Mayfair Tonight — What's On at Mayfair's Best Clubs Tonight",
+    default: "Mayfair Tonight: What's On at Mayfair's Best Clubs Tonight",
     template: "%s | Mayfair Tonight",
   },
   description:
@@ -17,13 +17,13 @@ export const metadata: Metadata = {
     locale: "en_GB",
     url: "https://mayfairtonight.com",
     siteName: "Mayfair Tonight",
-    title: "Mayfair Tonight — What's On at Mayfair's Best Clubs Tonight",
+    title: "Mayfair Tonight: What's On at Mayfair's Best Clubs Tonight",
     description:
       "Find out what's happening tonight at Mayfair's best nightclubs. Live updates, events, and instant table bookings via WhatsApp.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Mayfair Tonight — What's On at Mayfair's Best Clubs Tonight",
+    title: "Mayfair Tonight: What's On at Mayfair's Best Clubs Tonight",
     description:
       "Find out what's happening tonight at Mayfair's best nightclubs. Live updates, events, and instant table bookings.",
   },
@@ -59,7 +59,7 @@ export default function RootLayout({
               "@context": "https://schema.org",
               "@type": "LocalBusiness",
               name: "Mayfair Tonight",
-              description: "The insider guide to Mayfair nightlife — club listings, guestlist guides, dress codes, and instant table bookings via WhatsApp.",
+              description: "The insider guide to Mayfair nightlife: club listings, guestlist guides, dress codes, and instant table bookings via WhatsApp.",
               url: "https://mayfairtonight.com",
               telephone: WHATSAPP_TELEPHONE,
               image: "https://mayfairtonight.com/gallery/images/fe4414_dfa2530f4b3842c6ad4531f28893fd4f.jpg",

@@ -5,14 +5,14 @@ import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
-  title: "Book a Table — WhatsApp Table Bookings for Mayfair Clubs",
+  title: "Book a Table: WhatsApp Table Bookings for Mayfair Clubs",
   description:
     "Book a table at Mayfair's best nightclubs instantly via WhatsApp. No forms, no waiting. Tell us what you want and we'll make it happen.",
   alternates: { canonical: "https://mayfairtonight.com/contact" },
   openGraph: {
-    title: "Book a Table — Mayfair Club Table Bookings via WhatsApp",
+    title: "Book a Table: Mayfair Club Table Bookings via WhatsApp",
     description:
-      "Instant table bookings at Mayfair's top nightclubs. Message us on WhatsApp — no forms, no hassle.",
+      "Instant table bookings at Mayfair's top nightclubs. Message us on WhatsApp: no forms, no hassle.",
     url: "https://mayfairtonight.com/contact",
   },
 };
@@ -50,7 +50,7 @@ export default function ContactPage() {
           </h2>
           <p className="text-dark-muted max-w-md mx-auto">
             Tap the button below and tell us where you want to go, how many
-            people, and what night. We reply fast — usually within minutes.
+            people, and what night. We reply fast, usually within minutes.
           </p>
         </div>
         <WhatsAppCTA size="lg" />
@@ -94,7 +94,7 @@ export default function ContactPage() {
               <h3 className="font-medium text-white">You&apos;re booked</h3>
               <p className="text-sm text-dark-muted mt-0.5">
                 We confirm your table or guestlist spot and send you everything
-                you need — address, dress code, arrival time.
+                you need: address, dress code, arrival time.
               </p>
             </div>
           </div>
@@ -122,7 +122,7 @@ export default function ContactPage() {
           <div className="bg-dark-card border border-dark-border rounded-lg p-4">
             <h3 className="font-medium text-white mb-1">Group Nights Out</h3>
             <p className="text-sm text-dark-muted">
-              Planning for groups — we&apos;ll find the right venue for your crew.
+              Planning for groups: we&apos;ll find the right venue for your crew.
             </p>
           </div>
           <div className="bg-dark-card border border-dark-border rounded-lg p-4">

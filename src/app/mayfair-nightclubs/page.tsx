@@ -7,12 +7,12 @@ import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
-  title: "Mayfair Nightclubs — Complete Club Guide 2026",
+  title: "Mayfair Nightclubs: Complete Club Guide 2026",
   description:
     "The definitive guide to every nightclub in Mayfair, London. Opening nights, music policy, dress code, crowd, vibe, and how to get on the guestlist. Updated weekly.",
   alternates: { canonical: "https://mayfairtonight.com/mayfair-nightclubs" },
   openGraph: {
-    title: "Mayfair Nightclubs — The Complete Guide",
+    title: "Mayfair Nightclubs: The Complete Guide",
     description:
       "Every nightclub in Mayfair covered. Music, dress code, crowd, best nights, and guestlist info. The only guide you need.",
     url: "https://mayfairtonight.com/mayfair-nightclubs",
@@ -27,33 +27,33 @@ const clubInsights: Record<
     crowd:
       "A-list celebrities, high-net-worth individuals, models, and music industry insiders. The most exclusive crowd in Mayfair.",
     bestNight:
-      "Saturday is Tape at its peak — every table booked, the energy is electric. Tuesday offers a more intimate feel with the same quality crowd.",
+      "Saturday is Tape at its peak: every table booked, the energy is electric. Tuesday offers a more intimate feel with the same quality crowd.",
     guestlistTip:
-      "Tape is members and tables only most nights. Guestlist access is extremely limited — booking through a promoter is the only reliable way in.",
+      "Tape is members and tables only most nights. Guestlist access is extremely limited: booking through a promoter is the only reliable way in.",
   },
   "cirque-le-soir": {
     crowd:
       "International party crowd, celebrities, tourists who've heard the legends, and groups celebrating big occasions. Expect a mix of accents and high energy.",
     bestNight:
-      "Saturday is the signature night — full performer lineup, packed room, maximum chaos. Wednesday is wilder than you'd expect for a midweek night.",
+      "Saturday is the signature night: full performer lineup, packed room, maximum chaos. Wednesday is wilder than you'd expect for a midweek night.",
     guestlistTip:
       "Guestlist is available on most nights but arrive before midnight. After that, even guestlist doesn't guarantee entry when it's at capacity.",
   },
   "reign-london": {
     crowd:
-      "Glamorous, well-dressed groups. A lot of birthday celebrations and special occasions. International visitors drawn by the show concept. Mixed ages — older than some Mayfair clubs.",
+      "Glamorous, well-dressed groups. A lot of birthday celebrations and special occasions. International visitors drawn by the show concept. Mixed ages: older than some Mayfair clubs.",
     bestNight:
-      "Saturday is the main event — the full production with aerial acts and live vocals. Friday is equally strong with slightly shorter queues.",
+      "Saturday is the main event: the full production with aerial acts and live vocals. Friday is equally strong with slightly shorter queues.",
     guestlistTip:
-      "Guestlist is available but book early for weekends. Tables near the stage give the best experience — the aerial acts happen directly above you.",
+      "Guestlist is available but book early for weekends. Tables near the stage give the best experience: the aerial acts happen directly above you.",
   },
   "scotch-of-st-james": {
     crowd:
       "Older, more refined Mayfair regulars. Members and their guests. People who appreciate history and don't need the newest, shiniest venue. Understated wealth.",
     bestNight:
-      "Thursday is the sweet spot — intimate, elegant, and the perfect start to a weekend. Saturday is busier but still maintains the Scotch character.",
+      "Thursday is the sweet spot: intimate, elegant, and the perfect start to a weekend. Saturday is busier but still maintains the Scotch character.",
     guestlistTip:
-      "Scotch operates more like a members club. Getting on the guestlist requires a connection or a promoter. It's not impossible — just don't expect to walk up.",
+      "Scotch operates more like a members club. Getting on the guestlist requires a connection or a promoter. It's not impossible: just don't expect to walk up.",
   },
   "dear-darling": {
     crowd:
@@ -61,29 +61,29 @@ const clubInsights: Record<
     bestNight:
       "Friday transitions beautifully from cocktail bar to late-night energy. Saturday is livelier. Thursday for pure cocktail appreciation.",
     guestlistTip:
-      "More accessible than the big clubs. Book a table for the best experience — the cocktail menu deserves your attention before the night gets going.",
+      "More accessible than the big clubs. Book a table for the best experience: the cocktail menu deserves your attention before the night gets going.",
   },
   maddox: {
     crowd:
       "Sophisticated thirty-somethings, food lovers who want the night to continue, house music heads. European visitors who appreciate the dinner-to-dance concept.",
     bestNight:
-      "Saturday is Maddox at peak form — the restaurant is fully booked and the club below fills with quality house music. Friday is equally strong.",
+      "Saturday is Maddox at peak form: the restaurant is fully booked and the club below fills with quality house music. Friday is equally strong.",
     guestlistTip:
-      "Book dinner first and the club entry follows naturally. The restaurant-to-club transition is the real Maddox experience — skipping dinner means missing half the point.",
+      "Book dinner first and the club entry follows naturally. The restaurant-to-club transition is the real Maddox experience: skipping dinner means missing half the point.",
   },
   "the-box-london": {
     crowd:
-      "Fashionable, adventurous, open-minded. Creatives, media types, and people who actively seek out experiences. Not for the easily shocked — the audience is self-selecting.",
+      "Fashionable, adventurous, open-minded. Creatives, media types, and people who actively seek out experiences. Not for the easily shocked: the audience is self-selecting.",
     bestNight:
-      "Saturday is the most complete experience — the full show plus a packed dance floor after. Wednesday has a more intimate, edgier feel.",
+      "Saturday is the most complete experience: the full show plus a packed dance floor after. Wednesday has a more intimate, edgier feel.",
     guestlistTip:
-      "Guestlist works but be prepared for strict door selection. The Box curates its crowd carefully. Dress creatively — this isn't a standard Mayfair door.",
+      "Guestlist works but be prepared for strict door selection. The Box curates its crowd carefully. Dress creatively: this isn't a standard Mayfair door.",
   },
   "selene-london": {
     crowd:
       "Refined, well-dressed professionals. Cocktail enthusiasts and house music lovers. An older, more discerning crowd than the party clubs. Couples and small groups.",
     bestNight:
-      "Friday is the most polished night — the cocktail crowd merges with the house music crowd beautifully. Saturday is busier but equally elegant.",
+      "Friday is the most polished night: the cocktail crowd merges with the house music crowd beautifully. Saturday is busier but equally elegant.",
     guestlistTip:
       "More accessible than the established names. Book in advance and arrive well-dressed. Selene rewards sophistication over status.",
   },
@@ -106,13 +106,13 @@ export default function MayfairNightclubsPage() {
         </nav>
 
         <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">
-          Mayfair Nightclubs — <span className="text-gold">The Complete Guide</span>
+          Mayfair Nightclubs: <span className="text-gold">The Complete Guide</span>
         </h1>
         <p className="text-dark-muted text-xs mb-3">
           Last updated: March 2026 · Covers Berkeley Square, Hanover Square, Dover Street &amp; surrounding Mayfair
         </p>
         <p className="text-gray-300 text-lg mb-0 max-w-3xl">
-          Every nightclub worth knowing about in Mayfair, London — from the exclusive tables of
+          Every nightclub worth knowing about in Mayfair, London: from the exclusive tables of
           Hanover Square to the theatrical clubs near Piccadilly, and the late-night bars around
           Dover Street and Berkeley Square.
         </p>
@@ -252,7 +252,7 @@ export default function MayfairNightclubsPage() {
                   </span>
                   <span>|</span>
                   <span>
-                    Hours: {club.openingTime} — {club.closingTime}
+                    Hours: {club.openingTime} to {club.closingTime}
                   </span>
                   <span>|</span>
                   <span>
@@ -286,7 +286,7 @@ export default function MayfairNightclubsPage() {
         {/* Comparison section */}
         <section className="mt-12 mb-8">
           <h2 className="text-2xl font-bold text-white mb-4">
-            How to Choose — Mayfair Clubs Compared
+            How to Choose: Mayfair Clubs Compared
           </h2>
           <p className="text-gray-300 mb-6">
             Every Mayfair club has a distinct personality. Here&apos;s how they
@@ -316,7 +316,7 @@ export default function MayfairNightclubsPage() {
               </h3>
               <p className="text-sm text-gray-300">
                 <Link href="/clubs/maddox" className="text-gold hover:text-gold-light">Maddox</Link>{" "}is the
-                purist&apos;s choice — deep house and tech house in a
+                purist&apos;s choice: deep house and tech house in a
                 sophisticated setting.{" "}
                 <Link href="/clubs/selene-london" className="text-gold hover:text-gold-light">Selene London</Link>{" "}
                 blends house with elegance.
@@ -333,7 +333,7 @@ export default function MayfairNightclubsPage() {
                 <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">Reign London</Link>{" "}is
                 a Las Vegas showclub.{" "}
                 <Link href="/clubs/the-box-london" className="text-gold hover:text-gold-light">The Box</Link>{" "}is
-                provocative theatre. Three completely different experiences —
+                provocative theatre. Three completely different experiences,
                 all unforgettable.
               </p>
             </div>
@@ -548,12 +548,12 @@ const faqs = [
   {
     question: "How do I get on a Mayfair club guestlist?",
     answer:
-      "The best way to get on a Mayfair club guestlist is through a promoter. Message us on WhatsApp and we'll add you to the guestlist at any venue. Most clubs require advance booking — walking up to the door without a booking or table rarely works, especially on Fridays and Saturdays. Some clubs like Tape London are strictly tables and members only.",
+      "The best way to get on a Mayfair club guestlist is through a promoter. Message us on WhatsApp and we'll add you to the guestlist at any venue. Most clubs require advance booking: walking up to the door without a booking or table rarely works, especially on Fridays and Saturdays. Some clubs like Tape London are strictly tables and members only.",
   },
   {
     question: "What is the dress code for Mayfair nightclubs?",
     answer:
-      "Mayfair clubs enforce a smart dress code. For men: smart shoes (no trainers), well-fitted trousers or smart jeans, and a collared shirt. A blazer never hurts. For women: heels or smart shoes, a cocktail dress or smart separates. When in doubt, overdress — nobody gets turned away for looking too smart. Check our full dress code guide for club-specific details.",
+      "Mayfair clubs enforce a smart dress code. For men: smart shoes (no trainers), well-fitted trousers or smart jeans, and a collared shirt. A blazer never hurts. For women: heels or smart shoes, a cocktail dress or smart separates. When in doubt, overdress: nobody gets turned away for looking too smart. Check our full dress code guide for club-specific details.",
   },
   {
     question: "Which Mayfair club is best for hip-hop?",
@@ -563,12 +563,12 @@ const faqs = [
   {
     question: "Which Mayfair clubs play house music?",
     answer:
-      "Maddox is the best house music venue in Mayfair — deep house and tech house in a sophisticated dinner-to-dance setting. Selene London plays refined house and commercial in an elegant space. Scotch of St James and Dear Darling also lean towards house and lounge music.",
+      "Maddox is the best house music venue in Mayfair: deep house and tech house in a sophisticated dinner-to-dance setting. Selene London plays refined house and commercial in an elegant space. Scotch of St James and Dear Darling also lean towards house and lounge music.",
   },
   {
     question: "How much does it cost to get into a Mayfair nightclub?",
     answer:
-      "Guestlist entry at most Mayfair clubs is free or has a nominal cover charge (£10–£20). Table bookings typically start from £1,000 minimum spend. The real cost is in what you spend inside — bottles, cocktails, and service. For detailed table pricing and VIP bookings, check londonbottleservice.com.",
+      "Guestlist entry at most Mayfair clubs is free or has a nominal cover charge (£10 to £20). Table bookings typically start from £1,000 minimum spend. The real cost is in what you spend inside: bottles, cocktails, and service. For detailed table pricing and VIP bookings, check londonbottleservice.com.",
   },
   {
     question: "Which Mayfair clubs are open on Thursday?",
@@ -578,7 +578,7 @@ const faqs = [
   {
     question: "What time do Mayfair nightclubs open and close?",
     answer:
-      "Most Mayfair nightclubs open between 10pm and 11pm and close between 3am and 3:30am. Dear Darling opens earlier (around 9pm to 9:30pm) as it serves cocktails before switching to late-night mode. Arrive between 11pm and midnight for the best experience — early enough to get in smoothly, late enough for atmosphere.",
+      "Most Mayfair nightclubs open between 10pm and 11pm and close between 3am and 3:30am. Dear Darling opens earlier (around 9pm to 9:30pm) as it serves cocktails before switching to late-night mode. Arrive between 11pm and midnight for the best experience: early enough to get in smoothly, late enough for atmosphere.",
   },
   {
     question: "Are Mayfair nightclubs open on weekdays?",

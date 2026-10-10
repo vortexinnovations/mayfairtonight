@@ -6,12 +6,12 @@ import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
-  title: "Mayfair Club Guestlist Guide — Get On the List",
+  title: "Mayfair Club Guestlist Guide: Get On the List",
   description:
     "Everything you need to know about getting on the guestlist at Mayfair nightclubs. How it works, which venues offer it, arrival times, and insider tips from promoters who manage the lists.",
   alternates: { canonical: "https://mayfairtonight.com/mayfair-club-guestlist-guide" },
   openGraph: {
-    title: "Mayfair Club Guestlist Guide — Get On the List",
+    title: "Mayfair Club Guestlist Guide: Get On the List",
     description: "Step-by-step guide to getting on the guestlist at every Mayfair club. Venue-by-venue breakdown, tips, and what to expect.",
     url: "https://mayfairtonight.com/mayfair-club-guestlist-guide",
   },
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
 
 const faqs = [
   { question: "Is getting on a Mayfair club guestlist free?", answer: "Yes. Guestlist is always free to arrange through a promoter. You may still face a cover charge at the door depending on the venue and the night, but the guestlist itself costs nothing. It simply guarantees your name is expected at the door." },
-  { question: "How far in advance should I book a guestlist?", answer: "For weekends, book at least 24-48 hours ahead. Fridays and Saturdays fill up fast at popular venues like Cirque Le Soir and Reign London. Midweek nights are more flexible — same-day bookings usually work. Message us on WhatsApp for the fastest confirmation." },
+  { question: "How far in advance should I book a guestlist?", answer: "For weekends, book at least 24-48 hours ahead. Fridays and Saturdays fill up fast at popular venues like Cirque Le Soir and Reign London. Midweek nights are more flexible: same-day bookings usually work. Message us on WhatsApp for the fastest confirmation." },
   { question: "Can an all-male group get on the guestlist?", answer: "It depends on the venue. Some clubs, like BEAT London, are more flexible. Others like Tape London and Scotch of St James are very difficult for all-male groups on guestlist alone. A table booking is the most reliable solution for all-male groups at strict venues." },
   { question: "What happens if I arrive late for guestlist?", answer: "Most venues honour guestlist until around midnight. After that, it depends on capacity. If the club is full, even a guestlist name won't get you through the door. Arriving between 11pm and 11:30pm is the safest window." },
   { question: "Do I still need to queue if I'm on the guestlist?", answer: "Usually yes, but the queue is shorter. Guestlist puts you in a priority lane, not a skip-the-queue pass. Table bookings are the only way to genuinely bypass the queue at most Mayfair venues." },
@@ -37,10 +37,10 @@ export default function GuestlistGuidePage() {
         </nav>
 
         <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">
-          Mayfair Club Guestlist Guide — <span className="text-gold">How to Get On the List</span>
+          Mayfair Club Guestlist Guide: <span className="text-gold">How to Get On the List</span>
         </h1>
         <p className="text-gray-300 text-lg max-w-3xl">
-          The guestlist is how most people get into Mayfair clubs without booking a table. It&apos;s free, it&apos;s simple, and it works — if you know the rules.
+          The guestlist is how most people get into Mayfair clubs without booking a table. It&apos;s free, it&apos;s simple, and it works, if you know the rules.
         </p>
       </HeroImage>
 
@@ -53,9 +53,9 @@ export default function GuestlistGuidePage() {
         <section className="mb-10">
           <h2 className="text-2xl font-bold text-white mb-4">What Is a Guestlist?</h2>
           <div className="text-gray-300 space-y-4 leading-relaxed">
-            <p>A guestlist in Mayfair is a pre-arranged entry list managed by promoters and the club&apos;s own team. Your name goes on the list, and when you arrive at the door, the team checks you off. It&apos;s not a ticket and it&apos;s not a reservation — it&apos;s an expectation that you&apos;re coming.</p>
+            <p>A guestlist in Mayfair is a pre-arranged entry list managed by promoters and the club&apos;s own team. Your name goes on the list, and when you arrive at the door, the team checks you off. It&apos;s not a ticket and it&apos;s not a reservation: it&apos;s an expectation that you&apos;re coming.</p>
             <p>In practice, being on the guestlist tells the door team that someone vouches for you. It smooths the entry process, often reduces or eliminates cover charges, and gives you priority over people walking up cold. At busier venues, it can be the difference between getting in and being turned away.</p>
-            <p>Guestlists are arranged through promoters — people who work with the clubs to fill the room with the right crowd. You contact a promoter, give them your name, group size, and arrival time, and they handle the rest. There&apos;s no charge for this service.</p>
+            <p>Guestlists are arranged through promoters, people who work with the clubs to fill the room with the right crowd. You contact a promoter, give them your name, group size, and arrival time, and they handle the rest. There&apos;s no charge for this service.</p>
           </div>
         </section>
 
@@ -66,8 +66,8 @@ export default function GuestlistGuidePage() {
             {[
               { step: "Contact a promoter", detail: "Message us on WhatsApp or reach out to a promoter who works with your target venue. Tell them which club, which night, and your group size. The earlier you do this, the better your chances on busy nights." },
               { step: "Provide your details", detail: "Full name (as it appears on your ID), number of guests, and the ratio of men to women in your group. Some venues ask for surnames of everyone in the group. Have this ready." },
-              { step: "Get confirmation", detail: "A good promoter will confirm your guestlist placement and give you specific instructions — arrival time, which entrance to use, and any cover charge to expect." },
-              { step: "Arrive on time", detail: "The arrival window matters. Most guestlists are honoured between 10:30pm and midnight. Arriving at 11-11:30pm is the sweet spot — the club is open but not yet at capacity." },
+              { step: "Get confirmation", detail: "A good promoter will confirm your guestlist placement and give you specific instructions: arrival time, which entrance to use, and any cover charge to expect." },
+              { step: "Arrive on time", detail: "The arrival window matters. Most guestlists are honoured between 10:30pm and midnight. Arriving at 11-11:30pm is the sweet spot: the club is open but not yet at capacity." },
               { step: "Check in at the door", detail: "Give the door team your full name and mention which promoter arranged your guestlist. Be polite, have your ID ready, and follow the dress code. The door team will check you off and let you through." },
             ].map((item, i) => (
               <div key={i} className="bg-dark-card border border-dark-border rounded-lg p-4">
@@ -114,7 +114,7 @@ export default function GuestlistGuidePage() {
                   <p className="text-green-400 font-medium mb-1">Pros</p>
                   <ul className="text-gray-300 space-y-1">
                     <li>+ No planning required</li>
-                    <li>+ Spontaneous — decide on the night</li>
+                    <li>+ Spontaneous: decide on the night</li>
                     <li>+ Works at some relaxed venues</li>
                   </ul>
                 </div>
@@ -162,13 +162,13 @@ export default function GuestlistGuidePage() {
           <div className="space-y-3">
             {[
               { name: "Tape London", slug: "tape-london", info: "Guestlist is extremely limited. Tape operates primarily on tables and member referrals. If guestlist is available, it will be for small mixed groups only. Arrive by 11pm sharp. Expect a selective door regardless of your list placement." },
-              { name: "Cirque Le Soir", slug: "cirque-le-soir", info: "Guestlist works well here, especially midweek. Weekend guestlists fill fast — book 48 hours ahead. Arrive before midnight. Cover charge may apply on Saturdays even with guestlist. Mixed groups preferred." },
-              { name: "Reign London", slug: "reign-london", info: "Reliable guestlist system. Book through a promoter and you will be looked after. Arrive between 11pm and midnight. Standard Mayfair dress code. Cover charge varies by night — your promoter will confirm." },
+              { name: "Cirque Le Soir", slug: "cirque-le-soir", info: "Guestlist works well here, especially midweek. Weekend guestlists fill fast: book 48 hours ahead. Arrive before midnight. Cover charge may apply on Saturdays even with guestlist. Mixed groups preferred." },
+              { name: "Reign London", slug: "reign-london", info: "Reliable guestlist system. Book through a promoter and you will be looked after. Arrive between 11pm and midnight. Standard Mayfair dress code. Cover charge varies by night: your promoter will confirm." },
               { name: "Scotch of St James", slug: "scotch-of-st-james", info: "Difficult for guestlist. Members-club atmosphere means the door is selective even with a list placement. A strong promoter connection is essential. Small mixed groups only. Dress impeccably." },
               { name: "Dear Darling", slug: "dear-darling", info: "Bar-first atmosphere makes guestlist less critical, but it still helps on busy nights. Walk-ups can work earlier in the evening. Smart dress code. Relaxed but polished vibe." },
-              { name: "Maddox", slug: "maddox", info: "Guestlist is available for the club nights. Dinner guests transition naturally downstairs. For club-only entry, book through a promoter. Arrive by 11pm. House music crowd — dress with intention." },
+              { name: "Maddox", slug: "maddox", info: "Guestlist is available for the club nights. Dinner guests transition naturally downstairs. For club-only entry, book through a promoter. Arrive by 11pm. House music crowd: dress with intention." },
               { name: "The Box", slug: "the-box-london", info: "Guestlist exists but the door is curated by look and energy. Being on the list helps but does not guarantee entry. Creative, bold dressing is rewarded. Book through a promoter and arrive by 11pm." },
-              { name: "Selene London", slug: "selene-london", info: "Guestlist is accessible and the door is welcoming. Newer venue still building its regular crowd. Book through a promoter for the smoothest experience. Elegant dress code — think refined, not flashy." },
+              { name: "Selene London", slug: "selene-london", info: "Guestlist is accessible and the door is welcoming. Newer venue still building its regular crowd. Book through a promoter for the smoothest experience. Elegant dress code: think refined, not flashy." },
               { name: "BEAT London", slug: "beat-london", info: "Most relaxed guestlist in the Mayfair circuit. Smart casual works. Clean designer trainers are acceptable. Book ahead for weekends but same-day guestlist often works midweek." },
             ].map((venue) => (
               <div key={venue.slug} className="bg-dark-card border border-dark-border rounded-lg p-4">

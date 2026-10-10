@@ -6,12 +6,12 @@ import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
-  title: "Mayfair Club Entry Rules — Door Guide 2026",
+  title: "Mayfair Club Entry Rules: Door Guide 2026",
   description:
     "The complete guide to Mayfair nightclub entry rules. Door policies, ID requirements, group ratios, arrival times, and what gets you turned away. Insider tips from someone who knows every door.",
   alternates: { canonical: "https://mayfairtonight.com/mayfair-club-entry-rules" },
   openGraph: {
-    title: "Mayfair Club Entry Rules — Insider Door Guide",
+    title: "Mayfair Club Entry Rules: Insider Door Guide",
     description: "Everything you need to know about getting into Mayfair clubs. Door policies, ID, ratios, and insider tips.",
     url: "https://mayfairtonight.com/mayfair-club-entry-rules",
   },
@@ -19,11 +19,11 @@ export const metadata: Metadata = {
 
 const faqs = [
   { question: "Do Mayfair clubs check ID?", answer: "Yes. Every Mayfair club checks ID at the door. Bring a valid passport or driving licence. Most venues won't accept expired ID or photocopies. If you're visiting from abroad, your passport is the safest bet." },
-  { question: "Can I get into a Mayfair club without a booking?", answer: "It's possible at some venues but risky. Dear Darling is more walk-up friendly. Tape London, Scotch of St James, and The Box are almost impossible without a booking or table. Always book through a promoter — it's free and eliminates the guesswork." },
+  { question: "Can I get into a Mayfair club without a booking?", answer: "It's possible at some venues but risky. Dear Darling is more walk-up friendly. Tape London, Scotch of St James, and The Box are almost impossible without a booking or table. Always book through a promoter: it's free and eliminates the guesswork." },
   { question: "What time should I arrive at a Mayfair club?", answer: "Between 11pm and midnight is the sweet spot. Before 11pm the venue is empty. After midnight you risk capacity limits and longer queues. If you're on guestlist, arriving at 11:15-11:30 is ideal." },
   { question: "Do Mayfair clubs have a gender ratio policy?", answer: "Unofficially, yes. Most Mayfair doors prefer mixed groups or groups with more women. All-male groups of 4+ face the toughest scrutiny. Mixed groups of any size rarely have issues. All-female groups are generally welcomed everywhere." },
   { question: "Can I get in wearing trainers?", answer: "At most Mayfair clubs, no. BEAT London is the most lenient: clean, designer trainers can work. Tape, Scotch, The Box, and Maddox will turn you away regardless of the brand. Smart leather shoes are always the safe choice." },
-  { question: "What happens if I'm denied entry?", answer: "Don't argue — it never helps. The door team's decision is final. If you're turned away for dress code, you can try another venue with a more relaxed policy. If it's a capacity issue, waiting 20-30 minutes sometimes works. The best insurance is booking through a promoter." },
+  { question: "What happens if I'm denied entry?", answer: "Don't argue: it never helps. The door team's decision is final. If you're turned away for dress code, you can try another venue with a more relaxed policy. If it's a capacity issue, waiting 20-30 minutes sometimes works. The best insurance is booking through a promoter." },
 ];
 
 export default function EntryRulesPage() {
@@ -37,7 +37,7 @@ export default function EntryRulesPage() {
         </nav>
 
         <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">
-          Mayfair Club Entry Rules — <span className="text-gold">How to Get Past Every Door</span>
+          Mayfair Club Entry Rules: <span className="text-gold">How to Get Past Every Door</span>
         </h1>
         <p className="text-gray-300 text-lg max-w-3xl">
           Mayfair doors are the toughest in London. The wrong shoes, the wrong attitude, or simply not being on a list can end your night before it starts. This guide covers exactly what every venue expects.
@@ -57,8 +57,8 @@ export default function EntryRulesPage() {
               { rule: "Always have a booking", detail: "Guestlist, table, or promoter contact. Walking up cold to a Mayfair club door is the fastest way to get turned away. Message us on WhatsApp and we'll sort it." },
               { rule: "Dress sharp, not trendy", detail: "Smart shoes, fitted clothes, no sportswear. When in doubt, overdress. Nobody gets rejected for looking too smart. Full guide at our dress code page." },
               { rule: "Arrive between 11pm and midnight", detail: "Too early means an empty room. Too late means capacity issues. The window of 11-11:30pm is when doors are most accommodating." },
-              { rule: "Be polite to door staff", detail: "Mayfair door teams remember faces — for good and bad reasons. A friendly, respectful approach goes further than dropping names or arguing." },
-              { rule: "Bring valid photo ID", detail: "Passport or driving licence. Every venue checks, regardless of how old you look. No ID, no entry — no exceptions." },
+              { rule: "Be polite to door staff", detail: "Mayfair door teams remember faces: for good and bad reasons. A friendly, respectful approach goes further than dropping names or arguing." },
+              { rule: "Bring valid photo ID", detail: "Passport or driving licence. Every venue checks, regardless of how old you look. No ID, no entry: no exceptions." },
             ].map((item, i) => (
               <div key={i} className="bg-dark-card border border-dark-border rounded-lg p-4">
                 <h3 className="text-white font-semibold mb-1">{i + 1}. {item.rule}</h3>
@@ -75,29 +75,29 @@ export default function EntryRulesPage() {
 
           <div className="space-y-4">
             <div className="bg-dark-card border border-dark-border rounded-lg p-5">
-              <h3 className="text-gold font-semibold mb-3">Hardest Doors — Booking Essential</h3>
+              <h3 className="text-gold font-semibold mb-3">Hardest Doors: Booking Essential</h3>
               <div className="space-y-3">
-                <div><Link href="/clubs/tape-london" className="text-white font-medium hover:text-gold">Tape London</Link> <span className="text-dark-muted text-sm">— Members and tables almost exclusively. Guestlist is extremely rare. Book a table through a promoter or know a member. The hardest door in Mayfair.</span></div>
-                <div><Link href="/clubs/scotch-of-st-james" className="text-white font-medium hover:text-gold">Scotch of St James</Link> <span className="text-dark-muted text-sm">— Members club atmosphere. Door knows its regulars. New faces need a connection or promoter. Respectful approach matters enormously here.</span></div>
-                <div><Link href="/clubs/the-box-london" className="text-white font-medium hover:text-gold">The Box</Link> <span className="text-dark-muted text-sm">— Curated door. They select based on look, energy, and group composition. Creative dressing helps. Book through a promoter for the best chance.</span></div>
+                <div><Link href="/clubs/tape-london" className="text-white font-medium hover:text-gold">Tape London</Link>: <span className="text-dark-muted text-sm">Members and tables almost exclusively. Guestlist is extremely rare. Book a table through a promoter or know a member. The hardest door in Mayfair.</span></div>
+                <div><Link href="/clubs/scotch-of-st-james" className="text-white font-medium hover:text-gold">Scotch of St James</Link>: <span className="text-dark-muted text-sm">Members club atmosphere. Door knows its regulars. New faces need a connection or promoter. Respectful approach matters enormously here.</span></div>
+                <div><Link href="/clubs/the-box-london" className="text-white font-medium hover:text-gold">The Box</Link>: <span className="text-dark-muted text-sm">Curated door. They select based on look, energy, and group composition. Creative dressing helps. Book through a promoter for the best chance.</span></div>
               </div>
             </div>
 
             <div className="bg-dark-card border border-dark-border rounded-lg p-5">
-              <h3 className="text-gold font-semibold mb-3">Firm but Fair — Book Ahead</h3>
+              <h3 className="text-gold font-semibold mb-3">Firm but Fair: Book Ahead</h3>
               <div className="space-y-3">
-                <div><Link href="/clubs/cirque-le-soir" className="text-white font-medium hover:text-gold">Cirque Le Soir</Link> <span className="text-dark-muted text-sm">— Guestlist works but arrive before midnight. After that, even guestlist doesn&apos;t guarantee entry at capacity. Weekends book out fast.</span></div>
-                <div><Link href="/clubs/reign-london" className="text-white font-medium hover:text-gold">Reign London</Link> <span className="text-dark-muted text-sm">— Professional door team. Guestlist is available and reliable if you book ahead. Standard Mayfair dress code enforced.</span></div>
-                <div><Link href="/clubs/maddox" className="text-white font-medium hover:text-gold">Maddox</Link> <span className="text-dark-muted text-sm">— Dinner guests transition to the club easily. Club-only entry requires a booking. House music crowd tends to be well-dressed by default.</span></div>
+                <div><Link href="/clubs/cirque-le-soir" className="text-white font-medium hover:text-gold">Cirque Le Soir</Link>: <span className="text-dark-muted text-sm">Guestlist works but arrive before midnight. After that, even guestlist doesn&apos;t guarantee entry at capacity. Weekends book out fast.</span></div>
+                <div><Link href="/clubs/reign-london" className="text-white font-medium hover:text-gold">Reign London</Link>: <span className="text-dark-muted text-sm">Professional door team. Guestlist is available and reliable if you book ahead. Standard Mayfair dress code enforced.</span></div>
+                <div><Link href="/clubs/maddox" className="text-white font-medium hover:text-gold">Maddox</Link>: <span className="text-dark-muted text-sm">Dinner guests transition to the club easily. Club-only entry requires a booking. House music crowd tends to be well-dressed by default.</span></div>
               </div>
             </div>
 
             <div className="bg-dark-card border border-dark-border rounded-lg p-5">
-              <h3 className="text-gold font-semibold mb-3">Most Accessible — Still Book, But Easier</h3>
+              <h3 className="text-gold font-semibold mb-3">Most Accessible: Still Book, But Easier</h3>
               <div className="space-y-3">
-                <div><Link href="/clubs/dear-darling" className="text-white font-medium hover:text-gold">Dear Darling</Link> <span className="text-dark-muted text-sm">— Bar-first atmosphere means the door is more relaxed. Smart dress code still applies. Walk-ups can work earlier in the evening.</span></div>
-                <div><Link href="/clubs/selene-london" className="text-white font-medium hover:text-gold">Selene London</Link> <span className="text-dark-muted text-sm">— Newer venue building its crowd. Guestlist is accessible and the door is welcoming. Dress elegantly and you&apos;ll have no issues.</span></div>
-                <div><Link href="/clubs/beat-london" className="text-white font-medium hover:text-gold">BEAT London</Link> <span className="text-dark-muted text-sm">— More relaxed than central Mayfair clubs. Smart casual works. One of the few venues where clean designer trainers are acceptable.</span></div>
+                <div><Link href="/clubs/dear-darling" className="text-white font-medium hover:text-gold">Dear Darling</Link>: <span className="text-dark-muted text-sm">Bar-first atmosphere means the door is more relaxed. Smart dress code still applies. Walk-ups can work earlier in the evening.</span></div>
+                <div><Link href="/clubs/selene-london" className="text-white font-medium hover:text-gold">Selene London</Link>: <span className="text-dark-muted text-sm">Newer venue building its crowd. Guestlist is accessible and the door is welcoming. Dress elegantly and you&apos;ll have no issues.</span></div>
+                <div><Link href="/clubs/beat-london" className="text-white font-medium hover:text-gold">BEAT London</Link>: <span className="text-dark-muted text-sm">More relaxed than central Mayfair clubs. Smart casual works. One of the few venues where clean designer trainers are acceptable.</span></div>
               </div>
             </div>
           </div>
@@ -143,23 +143,23 @@ export default function EntryRulesPage() {
             <div className="space-y-3 text-sm">
               <div className="flex justify-between items-center py-2 border-b border-dark-border">
                 <span className="text-gray-300">Before 10:30pm</span>
-                <span className="text-dark-muted">Too early — venue nearly empty</span>
+                <span className="text-dark-muted">Too early: venue nearly empty</span>
               </div>
               <div className="flex justify-between items-center py-2 border-b border-dark-border">
-                <span className="text-gray-300">10:30 — 11:00pm</span>
+                <span className="text-gray-300">10:30 to 11:00pm</span>
                 <span className="text-dark-muted">Good for dinner-to-dance venues (Maddox, Selene)</span>
               </div>
               <div className="flex justify-between items-center py-2 border-b border-dark-border">
-                <span className="text-white font-medium">11:00 — 11:30pm</span>
-                <span className="text-gold">Sweet spot — best time to arrive</span>
+                <span className="text-white font-medium">11:00 to 11:30pm</span>
+                <span className="text-gold">Sweet spot: best time to arrive</span>
               </div>
               <div className="flex justify-between items-center py-2 border-b border-dark-border">
-                <span className="text-gray-300">11:30pm — midnight</span>
-                <span className="text-dark-muted">Still good — atmosphere building</span>
+                <span className="text-gray-300">11:30pm to midnight</span>
+                <span className="text-dark-muted">Still good: atmosphere building</span>
               </div>
               <div className="flex justify-between items-center py-2 border-b border-dark-border">
-                <span className="text-gray-300">Midnight — 1:00am</span>
-                <span className="text-dark-muted">Riskier — capacity becomes an issue</span>
+                <span className="text-gray-300">Midnight to 1:00am</span>
+                <span className="text-dark-muted">Riskier: capacity becomes an issue</span>
               </div>
               <div className="flex justify-between items-center py-2">
                 <span className="text-gray-300">After 1:00am</span>
@@ -184,7 +184,7 @@ export default function EntryRulesPage() {
               </ul>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">
-              <h3 className="text-gold font-semibold mb-2">Risky — Depends on Venue</h3>
+              <h3 className="text-gold font-semibold mb-2">Risky: Depends on Venue</h3>
               <ul className="text-sm text-gray-300 space-y-1">
                 <li>• Trainers (even designer at strict venues)</li>
                 <li>• Large all-male groups without booking</li>

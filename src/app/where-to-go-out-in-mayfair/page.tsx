@@ -6,14 +6,14 @@ import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
-  title: "Where to Go Out in Mayfair — Your Night, Sorted",
+  title: "Where to Go Out in Mayfair: Your Night, Sorted",
   description:
-    "Not sure where to go out in Mayfair tonight? Our insider decision guide matches your vibe to the perfect club. Hip-hop, house, shows, cocktails, groups — we cover it all.",
+    "Not sure where to go out in Mayfair tonight? Our insider decision guide matches your vibe to the perfect club. Hip-hop, house, shows, cocktails, groups: we cover it all.",
   alternates: {
     canonical: "https://mayfairtonight.com/where-to-go-out-in-mayfair",
   },
   openGraph: {
-    title: "Where to Go Out in Mayfair — Your Night, Sorted",
+    title: "Where to Go Out in Mayfair: Your Night, Sorted",
     description:
       "The insider decision guide to going out in Mayfair. Tell us what you want, we tell you where to go.",
     url: "https://mayfairtonight.com/where-to-go-out-in-mayfair",
@@ -29,12 +29,12 @@ const faqs = [
   {
     question: "How do I get home from Mayfair after a night out?",
     answer:
-      "Uber and Bolt work well from Mayfair — surge pricing kicks in around 2:30am so order early or wait until 3:30am when it drops. Black cabs are plentiful on Berkeley Street and Park Lane. Green Park and Bond Street tube stations are nearby but close before most clubs let out. Night buses run along Oxford Street and Piccadilly.",
+      "Uber and Bolt work well from Mayfair. Surge pricing kicks in around 2:30am so order early or wait until 3:30am when it drops. Black cabs are plentiful on Berkeley Street and Park Lane. Green Park and Bond Street tube stations are nearby but close before most clubs let out. Night buses run along Oxford Street and Piccadilly.",
   },
   {
     question: "What time should I arrive at a Mayfair club?",
     answer:
-      "Arrive between 11pm and midnight. Before 11pm the room is empty and the energy is flat. After midnight the queues build and guestlist entry becomes harder. The sweet spot is 11:30pm — you walk in smoothly and the night is just getting started.",
+      "Arrive between 11pm and midnight. Before 11pm the room is empty and the energy is flat. After midnight the queues build and guestlist entry becomes harder. The sweet spot is 11:30pm: you walk in smoothly and the night is just getting started.",
   },
   {
     question: "How much does a night out in Mayfair cost?",
@@ -44,7 +44,7 @@ const faqs = [
   {
     question: "Can I go out in Mayfair on my own?",
     answer:
-      "Solo nights in Mayfair are trickier than group nights. Most doors prefer groups or mixed groups. Your best options solo are Dear Darling, which works as a bar early on, or Maddox, where you can start with dinner. Getting on a promoter guestlist helps — message us on WhatsApp.",
+      "Solo nights in Mayfair are trickier than group nights. Most doors prefer groups or mixed groups. Your best options solo are Dear Darling, which works as a bar early on, or Maddox, where you can start with dinner. Getting on a promoter guestlist helps: message us on WhatsApp.",
   },
   {
     question: "What is the age range at Mayfair clubs?",
@@ -66,12 +66,12 @@ export default function WhereToGoOutPage() {
         </nav>
 
         <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">
-          Where to Go Out in Mayfair —{" "}
+          Where to Go Out in Mayfair:{" "}
           <span className="text-gold">Your Night, Sorted</span>
         </h1>
         <p className="text-gray-300 text-lg mb-0 max-w-3xl">
           Thirteen clubs. One square mile. Too many options. This guide cuts
-          through the noise — honest insider recommendations from people who
+          through the noise: honest insider recommendations from people who
           are out in Mayfair every week.
         </p>
       </HeroImage>
@@ -247,7 +247,7 @@ export default function WhereToGoOutPage() {
             <p className="text-gray-300 leading-relaxed mb-4">
               This is what sets Mayfair apart from the rest of London. Three
               venues offer genuine live entertainment that turns a night out
-              into a story. Completely different experiences — pick based on
+              into a story. Completely different experiences: pick based on
               your tolerance for the unexpected.
             </p>
             <div className="space-y-4">
@@ -262,7 +262,7 @@ export default function WhereToGoOutPage() {
                   <span className="text-gold text-sm ml-2">The Circus</span>
                 </h3>
                 <p className="text-sm text-gray-300">
-                  Acrobats, fire breathers, stilt walkers, contortionists —
+                  Acrobats, fire breathers, stilt walkers, contortionists,
                   all while you dance. The most chaotic, joyful, unpredictable
                   night out in London. Perfect for birthdays and celebrations.
                 </p>
@@ -446,8 +446,8 @@ export default function WhereToGoOutPage() {
             </h2>
             <p className="text-gray-300 leading-relaxed mb-4">
               Groups of six or more need a venue that can handle the energy
-              without splitting you up. Table service is usually the play here
-              — it gives your group a base and guaranteed entry. These venues
+              without splitting you up. Table service is usually the play here:
+              it gives your group a base and guaranteed entry. These venues
               handle groups best.
             </p>
             <div className="space-y-4">
@@ -528,7 +528,7 @@ export default function WhereToGoOutPage() {
                 <p className="text-sm text-gray-300">
                   Small room, A-list crowd, no pretence. The most intimate
                   setting in Mayfair with the highest calibre of guest. Tables
-                  only most nights — book through{" "}
+                  only most nights: book through{" "}
                   <a
                     href="https://londonbottleservice.com"
                     target="_blank"
@@ -594,7 +594,7 @@ export default function WhereToGoOutPage() {
                 >
                   guestlist booking
                 </Link>{" "}
-                or table reservation rarely ends well. Get on a list — it
+                or table reservation rarely ends well. Get on a list: it
                 takes two minutes on WhatsApp.
               </p>
             </div>
@@ -630,7 +630,7 @@ export default function WhereToGoOutPage() {
               </h3>
               <p className="text-sm text-gray-300">
                 Passport or driving licence. Every venue checks. No photo
-                of your ID on your phone — it must be the physical document.
+                of your ID on your phone: it must be the physical document.
                 Read the full{" "}
                 <Link
                   href="/mayfair-club-entry-rules"
@@ -720,7 +720,7 @@ export default function WhereToGoOutPage() {
         {/* FAQ */}
         <section className="mb-8">
           <h2 className="text-2xl font-bold text-white mb-4">
-            Going Out in Mayfair — FAQs
+            Going Out in Mayfair: FAQs
           </h2>
           <div className="space-y-4">
             {faqs.map((faq) => (

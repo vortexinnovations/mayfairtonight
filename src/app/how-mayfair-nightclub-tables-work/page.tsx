@@ -6,21 +6,21 @@ import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
-  title: "How Mayfair Nightclub Tables Work — Full Guide",
+  title: "How Mayfair Nightclub Tables Work: Full Guide",
   description:
     "Everything you need to know about booking a table at a Mayfair nightclub. Minimum spends, bottle service, what you get, and what to expect at London's most exclusive venues.",
   alternates: { canonical: "https://mayfairtonight.com/how-mayfair-nightclub-tables-work" },
   openGraph: {
-    title: "How Mayfair Nightclub Tables Work — Full Guide",
-    description: "Minimum spends, bottle service, the VIP experience — an honest breakdown of how table bookings work at every top Mayfair club.",
+    title: "How Mayfair Nightclub Tables Work: Full Guide",
+    description: "Minimum spends, bottle service, the VIP experience: an honest breakdown of how table bookings work at every top Mayfair club.",
     url: "https://mayfairtonight.com/how-mayfair-nightclub-tables-work",
   },
 };
 
 const faqs = [
-  { question: "What is a minimum spend at a Mayfair club?", answer: "A minimum spend is the amount you commit to spending on drinks at your table. It's not an entry fee — it's your drinks budget. You choose bottles and mixers from the menu, and your total needs to hit the agreed minimum. Anything you order counts toward it." },
-  { question: "Can I split the minimum spend across my group?", answer: "Absolutely. Most groups split the cost. A table for 8 people with a £1,500 minimum works out to under £200 per person — which includes all your drinks for the night. When you factor in saved cover charges and drinks at the bar, it can be surprisingly good value." },
-  { question: "What happens if I don't reach the minimum spend?", answer: "You'll still be charged the minimum spend amount. The club will either add the difference to your bill or suggest additional bottles. It's a commitment, not a target — plan to meet it. Your promoter can help you choose the right minimum for your group size." },
+  { question: "What is a minimum spend at a Mayfair club?", answer: "A minimum spend is the amount you commit to spending on drinks at your table. It's not an entry fee: it's your drinks budget. You choose bottles and mixers from the menu, and your total needs to hit the agreed minimum. Anything you order counts toward it." },
+  { question: "Can I split the minimum spend across my group?", answer: "Absolutely. Most groups split the cost. A table for 8 people with a £1,500 minimum works out to under £200 per person, which includes all your drinks for the night. When you factor in saved cover charges and drinks at the bar, it can be surprisingly good value." },
+  { question: "What happens if I don't reach the minimum spend?", answer: "You'll still be charged the minimum spend amount. The club will either add the difference to your bill or suggest additional bottles. It's a commitment, not a target: plan to meet it. Your promoter can help you choose the right minimum for your group size." },
   { question: "Do I need to tip the table host?", answer: "Tipping isn't mandatory but is customary and appreciated. A service charge is usually included on the bill already. Beyond that, tipping your host £20-50 if they've looked after you well is a nice gesture and ensures great service next time." },
   { question: "Can I book a table for just 2 people?", answer: "Yes, but you'll still need to meet the minimum spend. For couples or small groups, some venues offer smaller tables or bar-adjacent positions with lower minimums. Ask your promoter about options suited to smaller parties." },
 ];
@@ -36,10 +36,10 @@ export default function TablesGuidePage() {
         </nav>
 
         <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">
-          How Mayfair Nightclub Tables Work — <span className="text-gold">The Complete Guide</span>
+          How Mayfair Nightclub Tables Work: <span className="text-gold">The Complete Guide</span>
         </h1>
         <p className="text-gray-300 text-lg max-w-3xl">
-          A table at a Mayfair club isn&apos;t just a seat — it&apos;s guaranteed entry, your own space, bottle service, and a completely different night out. This guide explains everything.
+          A table at a Mayfair club isn&apos;t just a seat: it&apos;s guaranteed entry, your own space, bottle service, and a completely different night out. This guide explains everything.
         </p>
       </HeroImage>
 
@@ -52,7 +52,7 @@ export default function TablesGuidePage() {
         <section className="mb-10">
           <h2 className="text-2xl font-bold text-white mb-4">What Is a Table Booking?</h2>
           <div className="text-gray-300 space-y-4 leading-relaxed">
-            <p>A table booking at a Mayfair nightclub means you reserve a dedicated space in the venue for your group, with a committed minimum spend on drinks. It&apos;s not a cover charge — the money goes toward bottles, mixers, and whatever else you order from the table menu.</p>
+            <p>A table booking at a Mayfair nightclub means you reserve a dedicated space in the venue for your group, with a committed minimum spend on drinks. It&apos;s not a cover charge: the money goes toward bottles, mixers, and whatever else you order from the table menu.</p>
             <p>Think of it as pre-committing to your drinks budget for the night. Instead of queuing at the bar and paying per round, everything comes to your table. A dedicated host takes care of you, pours your drinks, keeps your ice fresh, and makes sure your group has everything it needs.</p>
             <p>The real advantage is access. A table booking means guaranteed entry, no queue, and your own area in the club. At venues like <Link href="/clubs/tape-london" className="text-gold hover:text-gold-light">Tape London</Link>{" "}and <Link href="/clubs/scotch-of-st-james" className="text-gold hover:text-gold-light">Scotch of St James</Link>, a table is often the only way in.</p>
           </div>
@@ -66,9 +66,9 @@ export default function TablesGuidePage() {
               { title: "Guaranteed Entry", desc: "No risk of being turned away. Your booking is confirmed, your names are on the list, and you walk straight in." },
               { title: "Queue Skip", desc: "Table guests enter through a separate entrance or priority lane. You won't wait in the main queue." },
               { title: "Dedicated Space", desc: "A booth, sofa area, or raised platform that's yours for the night. Somewhere to sit, dance, and leave your things." },
-              { title: "Bottle Service", desc: "Choose bottles from the menu — vodka, champagne, whisky, tequila. They arrive with mixers, ice, and garnishes." },
+              { title: "Bottle Service", desc: "Choose bottles from the menu: vodka, champagne, whisky, tequila. They arrive with mixers, ice, and garnishes." },
               { title: "Personal Host", desc: "A dedicated member of staff who pours your drinks, clears your table, and handles any requests throughout the night." },
-              { title: "Any Group Works", desc: "All-male, all-female, mixed, couples — table bookings eliminate the group composition concerns that affect guestlist entry." },
+              { title: "Any Group Works", desc: "All-male, all-female, mixed, couples: table bookings eliminate the group composition concerns that affect guestlist entry." },
             ].map((item, i) => (
               <div key={i} className="bg-dark-card border border-dark-border rounded-lg p-4">
                 <h3 className="text-white font-semibold mb-1">{item.title}</h3>
@@ -82,8 +82,8 @@ export default function TablesGuidePage() {
         <section className="mb-10">
           <h2 className="text-2xl font-bold text-white mb-4">Minimum Spend Explained</h2>
           <div className="text-gray-300 space-y-4 leading-relaxed">
-            <p>The minimum spend is the core of every table booking. It&apos;s the amount your group agrees to spend on drinks. This isn&apos;t an entrance fee that disappears — every pound goes toward bottles and drinks on your table.</p>
-            <p>Typical minimum spends at Mayfair clubs range from around £1,000 to £1,500 or more, depending on the venue, the night of the week, and where the table is positioned. Premium spots — closer to the DJ, dance floor, or stage — command higher minimums. Quieter nights and less central tables start lower.</p>
+            <p>The minimum spend is the core of every table booking. It&apos;s the amount your group agrees to spend on drinks. This isn&apos;t an entrance fee that disappears: every pound goes toward bottles and drinks on your table.</p>
+            <p>Typical minimum spends at Mayfair clubs range from around £1,000 to £1,500 or more, depending on the venue, the night of the week, and where the table is positioned. Premium spots (closer to the DJ, dance floor, or stage) command higher minimums. Quieter nights and less central tables start lower.</p>
 
             <div className="bg-dark-card border border-dark-border rounded-lg p-5">
               <h3 className="text-gold font-semibold mb-3">What Counts Toward Your Minimum</h3>
@@ -108,11 +108,11 @@ export default function TablesGuidePage() {
           <p className="text-gray-300 mb-4">Every venue delivers the table experience differently. Here&apos;s what to expect at the top Mayfair clubs.</p>
           <div className="space-y-4">
             {[
-              { name: "Tape London", slug: "tape-london", desc: "The most exclusive table experience in Mayfair. Intimate room with plush booth seating. Tables are positioned around the main floor, close to the action. The sound system is exceptional and the crowd is industry-heavy. Bottles arrive with a sparkler presentation. Service is impeccable — your host anticipates before you ask." },
+              { name: "Tape London", slug: "tape-london", desc: "The most exclusive table experience in Mayfair. Intimate room with plush booth seating. Tables are positioned around the main floor, close to the action. The sound system is exceptional and the crowd is industry-heavy. Bottles arrive with a sparkler presentation. Service is impeccable: your host anticipates before you ask." },
               { name: "Cirque Le Soir", slug: "cirque-le-soir", desc: "Tables here come with entertainment built into the night. Expect circus performers, dancers, and theatrical moments happening around you. Booths line the walls of the main room with clear sightlines to the stage. The atmosphere is high-energy and surreal. The table experience is as much about the spectacle as the drinks." },
               { name: "Reign London", slug: "reign-london", desc: "Expansive space with varied table positions. Some are elevated, giving you a view over the dance floor. The room is large enough to feel like an event. Bottle presentations are dramatic with LED sparklers and music coordination. Good for groups who want space and energy." },
-              { name: "The Box", slug: "the-box-london", desc: "Theatrically designed space over multiple levels. Tables offer different perspectives on the stage shows — some are uncomfortably close, which is part of the appeal. The performances are provocative and unforgettable. Not for the easily shocked. The table experience here is unique in London." },
-              { name: "Maddox", slug: "maddox", desc: "Sophisticated two-level venue. The restaurant upstairs transitions to the club basement. Tables in the club are positioned around the dance floor in a sleek, minimal setting. House music dominates. Dinner-to-dance packages offer a seamless evening — eat upstairs, then descend to your table with the party already started." },
+              { name: "The Box", slug: "the-box-london", desc: "Theatrically designed space over multiple levels. Tables offer different perspectives on the stage shows: some are uncomfortably close, which is part of the appeal. The performances are provocative and unforgettable. Not for the easily shocked. The table experience here is unique in London." },
+              { name: "Maddox", slug: "maddox", desc: "Sophisticated two-level venue. The restaurant upstairs transitions to the club basement. Tables in the club are positioned around the dance floor in a sleek, minimal setting. House music dominates. Dinner-to-dance packages offer a seamless evening: eat upstairs, then descend to your table with the party already started." },
             ].map((venue) => (
               <div key={venue.slug} className="bg-dark-card border border-dark-border rounded-lg p-5">
                 <Link href={`/clubs/${venue.slug}`} className="text-gold font-semibold hover:text-gold-light text-lg">{venue.name}</Link>
@@ -124,7 +124,7 @@ export default function TablesGuidePage() {
 
         {/* Table vs Guestlist */}
         <section className="mb-10">
-          <h2 className="text-2xl font-bold text-white mb-4">Table vs Guestlist — Which Should You Choose?</h2>
+          <h2 className="text-2xl font-bold text-white mb-4">Table vs Guestlist: Which Should You Choose?</h2>
           <div className="text-gray-300 space-y-4 leading-relaxed">
             <div className="bg-dark-card border border-dark-border rounded-lg p-5">
               <h3 className="text-gold font-semibold mb-3">Choose Guestlist If...</h3>
@@ -148,7 +148,7 @@ export default function TablesGuidePage() {
               </ul>
             </div>
             <p className="text-sm text-dark-muted">
-              Not sure? <Link href="/mayfair-club-guestlist-guide" className="text-gold hover:text-gold-light">Read the guestlist guide</Link>{" "}and compare. Or message us on WhatsApp — we&apos;ll recommend the right option for your group.
+              Not sure? <Link href="/mayfair-club-guestlist-guide" className="text-gold hover:text-gold-light">Read the guestlist guide</Link>{" "}and compare. Or message us on WhatsApp: we&apos;ll recommend the right option for your group.
             </p>
           </div>
         </section>
@@ -160,9 +160,9 @@ export default function TablesGuidePage() {
             <p>Booking a table is straightforward once you know what you want. Here&apos;s the process.</p>
             <div className="space-y-3">
               {[
-                { step: "Choose your venue and date", detail: "Consider what kind of night you want — intimate and exclusive, or high-energy and theatrical. Each venue has a distinct character. Our guides can help you choose." },
+                { step: "Choose your venue and date", detail: "Consider what kind of night you want: intimate and exclusive, or high-energy and theatrical. Each venue has a distinct character. Our guides can help you choose." },
                 { step: "Contact a promoter", detail: "Message us on WhatsApp or reach out to a booking specialist. We'll confirm availability, explain the minimum spend options, and help you pick the right table position." },
-                { step: "Confirm your booking", detail: "You'll receive confirmation with all the details — venue, date, table position, minimum spend, and arrival instructions. Some venues require a deposit or credit card to hold the booking." },
+                { step: "Confirm your booking", detail: "You'll receive confirmation with all the details: venue, date, table position, minimum spend, and arrival instructions. Some venues require a deposit or credit card to hold the booking." },
                 { step: "Arrive and enjoy", detail: "On the night, give your name at the door. You'll be escorted to your table where your host is waiting. Order your bottles and the night begins." },
               ].map((item, i) => (
                 <div key={i} className="bg-dark-card border border-dark-border rounded-lg p-4">
@@ -188,7 +188,7 @@ export default function TablesGuidePage() {
                 <li>• Additional tips for your host are appreciated but not required</li>
                 <li>• £20-50 for good service is customary</li>
                 <li>• Cash tips go directly to the person who served you</li>
-                <li>• Great tippers are remembered — and looked after next time</li>
+                <li>• Great tippers are remembered, and looked after next time</li>
               </ul>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">
@@ -196,7 +196,7 @@ export default function TablesGuidePage() {
               <ul className="text-sm text-gray-300 space-y-1">
                 <li>• Don&apos;t invite strangers to your table without checking with your host</li>
                 <li>• Treat your host and security with respect</li>
-                <li>• Keep your area tidy — your host helps, but don&apos;t make their job harder</li>
+                <li>• Keep your area tidy: your host helps, but don&apos;t make their job harder</li>
                 <li>• Don&apos;t stand on the furniture</li>
                 <li>• Settle the bill at the end of the night without fuss</li>
               </ul>

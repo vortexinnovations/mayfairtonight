@@ -8,12 +8,12 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 
 export const metadata: Metadata = {
-  title: "Mayfair Nightlife Blog — Insider Tips, Club Guides & What's On",
+  title: "Mayfair Nightlife Blog: Insider Tips, Club Guides & What's On",
   description:
     "The insider blog for Mayfair nightlife. Club guides, what to expect, how to get in, best nights by genre, and tips from people who go out in Mayfair every week.",
   alternates: { canonical: "https://mayfairtonight.com/blog" },
   openGraph: {
-    title: "Mayfair Nightlife Blog — Insider Tips & Club Guides",
+    title: "Mayfair Nightlife Blog: Insider Tips & Club Guides",
     description:
       "Insider guides to Mayfair's best nightclubs. Tips, recommendations, and everything you need to know before you go out in London.",
     url: "https://mayfairtonight.com/blog",

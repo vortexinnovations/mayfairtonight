@@ -7,14 +7,14 @@ import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
   title:
-    "Girls' Night Mayfair — Best Clubs & Guestlist Guide for 2026",
+    "Girls' Night Mayfair: Best Clubs & Guestlist Guide for 2026",
   description:
     "The best Mayfair clubs for girls' nights out. Guestlist tips, dress code advice, and venue picks for all-female groups. Free entry options and birthday planning.",
   alternates: {
     canonical: "https://mayfairtonight.com/girls-guestlist-clubs-mayfair",
   },
   openGraph: {
-    title: "Girls' Night Mayfair — Best Clubs & Guestlist Guide",
+    title: "Girls' Night Mayfair: Best Clubs & Guestlist Guide",
     description:
       "Insider guide to the best Mayfair clubs for girls' nights. Guestlist access, dress code tips, and the safest, most fun venues for all-female groups.",
     url: "https://mayfairtonight.com/girls-guestlist-clubs-mayfair",
@@ -40,11 +40,11 @@ const girlsClubs: GirlsClub[] = [
     slug: "cirque-le-soir",
     tagline: "The Event Night",
     whyItWorks:
-      "Cirque turns a girls' night into an event. Fire-breathers at your table, contortionists on the dance floor, stilt-walkers through the crowd — it's a show that gives you something to scream about together. The energy is infectious and the performers create moments that become the stories you tell for years. Every birthday group should experience this at least once.",
+      "Cirque turns a girls' night into an event. Fire-breathers at your table, contortionists on the dance floor, stilt-walkers through the crowd: it's a show that gives you something to scream about together. The energy is infectious and the performers create moments that become the stories you tell for years. Every birthday group should experience this at least once.",
     guestlist:
-      "Guestlist works well for female groups. Book through a promoter and arrive on time. Larger groups (8+) should book a table for the best experience — birthday packages are exceptional.",
+      "Guestlist works well for female groups. Book through a promoter and arrive on time. Larger groups (8+) should book a table for the best experience: birthday packages are exceptional.",
     dressTips:
-      "Go all out. Cirque is theatrical and your outfit should match. Sequins, bold colours, statement pieces — this is the night to dress up. Think glamorous, not understated.",
+      "Go all out. Cirque is theatrical and your outfit should match. Sequins, bold colours, statement pieces: this is the night to dress up. Think glamorous, not understated.",
     bestNight:
       "Saturday is the flagship night with the full entertainment programme. Wednesday and Friday are excellent too with slightly easier access.",
     vibe:
@@ -56,11 +56,11 @@ const girlsClubs: GirlsClub[] = [
     slug: "dear-darling",
     tagline: "Cocktails First, Dancing Later",
     whyItWorks:
-      "Dear Darling is perfect for the group that wants proper cocktails before the night kicks off. The cocktail programme is world-class — not just vodka-cranberries. The intimate space means your group stays together, the atmosphere transitions beautifully from sophisticated drinks to late-night energy, and it never feels overwhelming. It's the refined girls' night.",
+      "Dear Darling is perfect for the group that wants proper cocktails before the night kicks off. The cocktail programme is world-class: not just vodka-cranberries. The intimate space means your group stays together, the atmosphere transitions beautifully from sophisticated drinks to late-night energy, and it never feels overwhelming. It's the refined girls' night.",
     guestlist:
       "Book ahead through a promoter. The intimate size means capacity fills quickly. All-female groups are well received.",
     dressTips:
-      "Elegant and sophisticated. Think little black dress territory — classic, polished, put-together. Dear Darling rewards understated glamour over bold statement pieces.",
+      "Elegant and sophisticated. Think little black dress territory: classic, polished, put-together. Dear Darling rewards understated glamour over bold statement pieces.",
     bestNight:
       "Thursday and Friday are ideal. The cocktail-to-party transition is perfectly paced. Saturday is busier and the bar books out faster.",
     vibe:
@@ -76,7 +76,7 @@ const girlsClubs: GirlsClub[] = [
     guestlist:
       "Straightforward guestlist process. Book through a promoter, arrive before midnight. One of the easier premium venues to access for all-female groups.",
     dressTips:
-      "Elegant and refined. Selene attracts a discerning crowd — think polished cocktail attire. Heels, a beautiful dress, minimal but quality accessories.",
+      "Elegant and refined. Selene attracts a discerning crowd: think polished cocktail attire. Heels, a beautiful dress, minimal but quality accessories.",
     bestNight:
       "Friday is the sweet spot. The crowd is engaged, the music is on point, and the atmosphere builds beautifully through the night.",
     vibe:
@@ -88,9 +88,9 @@ const girlsClubs: GirlsClub[] = [
     slug: "reign-london",
     tagline: "The Show Makes It Special",
     whyItWorks:
-      "Reign turns a girls' night into a spectacle. Aerial acrobats, live singers, and production values that feel like Las Vegas. It gives the whole group something to watch, react to, and photograph together. The multi-level venue means you can find your spot — close to the action or overlooking from above. It's the night out that feels like an event without any extra effort.",
+      "Reign turns a girls' night into a spectacle. Aerial acrobats, live singers, and production values that feel like Las Vegas. It gives the whole group something to watch, react to, and photograph together. The multi-level venue means you can find your spot: close to the action or overlooking from above. It's the night out that feels like an event without any extra effort.",
     guestlist:
-      "Guestlist available through promoters. Female groups are welcomed — book ahead for Saturday nights. Table bookings recommended for birthdays to get the best views.",
+      "Guestlist available through promoters. Female groups are welcomed: book ahead for Saturday nights. Table bookings recommended for birthdays to get the best views.",
     dressTips:
       "Glamorous. Reign is a showclub and the audience dresses accordingly. Evening dresses, heels, statement jewellery. Think opening night at the theatre, not casual Friday.",
     bestNight:
@@ -104,12 +104,12 @@ const faqs = [
   {
     question: "Is it free for girls to get into Mayfair clubs?",
     answer:
-      "Many Mayfair clubs offer free guestlist entry for women, particularly on midweek nights (Wednesday and Thursday). Weekend guestlist may have a small cover charge of £10-£20. The key is booking through a promoter — walk-ups without a guestlist or table booking will pay full door prices or may not get in. Free entry is never guaranteed, but all-female groups on a promoter's guestlist have the best chances.",
+      "Many Mayfair clubs offer free guestlist entry for women, particularly on midweek nights (Wednesday and Thursday). Weekend guestlist may have a small cover charge of £10-£20. The key is booking through a promoter: walk-ups without a guestlist or table booking will pay full door prices or may not get in. Free entry is never guaranteed, but all-female groups on a promoter's guestlist have the best chances.",
   },
   {
     question: "Can an all-female group get into Mayfair clubs?",
     answer:
-      "Yes — all-female groups are generally welcomed at Mayfair clubs. You'll have the easiest access at Selene and Dear Darling. The key factors are: book through a promoter, dress smart, arrive before midnight, and keep your group to a manageable size (4-8 is ideal). Very large all-female groups (10+) should consider a table booking for guaranteed entry and a better experience.",
+      "Yes: all-female groups are generally welcomed at Mayfair clubs. You'll have the easiest access at Selene and Dear Darling. The key factors are: book through a promoter, dress smart, arrive before midnight, and keep your group to a manageable size (4-8 is ideal). Very large all-female groups (10+) should consider a table booking for guaranteed entry and a better experience.",
   },
   {
     question: "Which Mayfair clubs are safest for girls' nights?",
@@ -119,7 +119,7 @@ const faqs = [
   {
     question: "What's the best night for a girls' night in Mayfair?",
     answer:
-      "Thursday is the sweet spot. Most major clubs are open, the atmosphere is buzzing, guestlist access is easier, and the crowd is genuinely up for a good time. Saturday is peak energy but busier and harder to access. Wednesday is the underrated option — smaller crowds, easier doors, and the people who come out midweek really want to be there.",
+      "Thursday is the sweet spot. Most major clubs are open, the atmosphere is buzzing, guestlist access is easier, and the crowd is genuinely up for a good time. Saturday is peak energy but busier and harder to access. Wednesday is the underrated option: smaller crowds, easier doors, and the people who come out midweek really want to be there.",
   },
   {
     question: "How do girls get free entry to Mayfair clubs?",
@@ -141,7 +141,7 @@ export default function GirlsGuestlistPage() {
         </nav>
 
         <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">
-          Girls&apos; Night Mayfair —{" "}
+          Girls&apos; Night Mayfair:{" "}
           <span className="text-gold">Best Clubs & Guestlist Guide</span>
         </h1>
         <p className="text-gray-300 text-lg max-w-3xl">
@@ -272,13 +272,13 @@ export default function GirlsGuestlistPage() {
             <div className="bg-dark-card border-l-2 border-gold p-4 rounded-r-lg">
               <h3 className="text-white font-medium mb-1">1. Contact a Promoter</h3>
               <p className="text-gray-300 text-sm">
-                Message us on WhatsApp or reach out through a guestlist service. Give your full names (first and surname for everyone), group size, and the night you want. Promoters manage the guestlist for specific venues — they&apos;re your way in.
+                Message us on WhatsApp or reach out through a guestlist service. Give your full names (first and surname for everyone), group size, and the night you want. Promoters manage the guestlist for specific venues: they&apos;re your way in.
               </p>
             </div>
             <div className="bg-dark-card border-l-2 border-gold p-4 rounded-r-lg">
               <h3 className="text-white font-medium mb-1">2. Group Size Matters</h3>
               <p className="text-gray-300 text-sm">
-                The ideal girls&apos; guestlist group is 4-8 people. Smaller groups (2-3) work fine but may be asked to join a shared table or wait briefly. Very large groups (10+) should book a table — it guarantees entry and gives you a proper base for the night.
+                The ideal girls&apos; guestlist group is 4-8 people. Smaller groups (2-3) work fine but may be asked to join a shared table or wait briefly. Very large groups (10+) should book a table: it guarantees entry and gives you a proper base for the night.
               </p>
             </div>
             <div className="bg-dark-card border-l-2 border-gold p-4 rounded-r-lg">
@@ -316,7 +316,7 @@ export default function GirlsGuestlistPage() {
         {/* What to Wear */}
         <section className="mb-8">
           <h2 className="text-2xl font-bold text-white mb-4">
-            What to Wear — Girls&apos; Night Edition
+            What to Wear: Girls&apos; Night Edition
           </h2>
           <p className="text-gray-300 mb-4">
             Every Mayfair club enforces a dress code, but the interpretation varies. Here&apos;s the venue-by-venue breakdown for women.
@@ -337,7 +337,7 @@ export default function GirlsGuestlistPage() {
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
-                  Tailored separates — blazer, skirt, heels
+                  Tailored separates: blazer, skirt, heels
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
@@ -395,21 +395,21 @@ export default function GirlsGuestlistPage() {
         {/* Planning Your Night */}
         <section className="mb-8">
           <h2 className="text-2xl font-bold text-white mb-4">
-            Planning Your Night — The Timeline
+            Planning Your Night: The Timeline
           </h2>
           <div className="space-y-3">
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">
               <p className="text-gold font-medium text-sm">7:00 - 9:00 PM</p>
               <h3 className="text-white font-medium">Pre-Drinks</h3>
               <p className="text-sm text-gray-300 mt-1">
-                Start at a Mayfair bar or restaurant. The bars along Bruton Street and around Shepherd Market are ideal for pre-drinks before heading to the clubs. Keep it civilised — arriving noticeably drunk is the fastest way to get turned away.
+                Start at a Mayfair bar or restaurant. The bars along Bruton Street and around Shepherd Market are ideal for pre-drinks before heading to the clubs. Keep it civilised: arriving noticeably drunk is the fastest way to get turned away.
               </p>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">
               <p className="text-gold font-medium text-sm">10:00 - 11:00 PM</p>
               <h3 className="text-white font-medium">Arrival</h3>
               <p className="text-sm text-gray-300 mt-1">
-                Arrive at the club between 10:30 and 11:00 PM. This is the sweet spot — guestlist is open, the queue is manageable, and you get settled before the room fills up. Have your names ready and check in confidently.
+                Arrive at the club between 10:30 and 11:00 PM. This is the sweet spot: guestlist is open, the queue is manageable, and you get settled before the room fills up. Have your names ready and check in confidently.
               </p>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">
@@ -423,7 +423,7 @@ export default function GirlsGuestlistPage() {
               <p className="text-gold font-medium text-sm">2:00 - 3:00 AM</p>
               <h3 className="text-white font-medium">Home Time</h3>
               <p className="text-sm text-gray-300 mt-1">
-                Most Mayfair clubs close between 2:00 and 3:00 AM. Pre-book an Uber or Bolt — surge pricing hits hard outside Mayfair clubs. The smarter play is booking your ride at 1:30 AM for a 2:00 AM pickup. Alternatively, the night bus or a short walk to Green Park station covers you.
+                Most Mayfair clubs close between 2:00 and 3:00 AM. Pre-book an Uber or Bolt: surge pricing hits hard outside Mayfair clubs. The smarter play is booking your ride at 1:30 AM for a 2:00 AM pickup. Alternatively, the night bus or a short walk to Green Park station covers you.
               </p>
             </div>
           </div>
@@ -432,7 +432,7 @@ export default function GirlsGuestlistPage() {
         {/* Birthday Girls' Night */}
         <section className="mb-8">
           <h2 className="text-2xl font-bold text-white mb-4">
-            Birthday Girls&apos; Night — Where to Celebrate
+            Birthday Girls&apos; Night: Where to Celebrate
           </h2>
           <p className="text-gray-300 mb-4">
             A birthday changes the calculation. You want guaranteed entry, special treatment, and a night that feels like an event. Here are the top picks.
@@ -441,7 +441,7 @@ export default function GirlsGuestlistPage() {
             <div className="bg-dark-card border border-gold/30 rounded-xl p-5">
               <h3 className="text-gold font-semibold mb-2">Best Overall: Cirque Le Soir</h3>
               <p className="text-sm text-gray-300">
-                Birthday packages with bespoke performances. The performers come to your table, the energy is celebratory, and it turns any birthday into an unforgettable event. Book a table — the experience is completely different.
+                Birthday packages with bespoke performances. The performers come to your table, the energy is celebratory, and it turns any birthday into an unforgettable event. Book a table: the experience is completely different.
               </p>
             </div>
             <div className="bg-dark-card border border-gold/30 rounded-xl p-5">

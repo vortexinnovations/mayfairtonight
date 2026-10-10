@@ -6,12 +6,12 @@ import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
 
 export const metadata: Metadata = {
-  title: "Mayfair Nightlife by Area — Where to Go",
+  title: "Mayfair Nightlife by Area: Where to Go",
   description:
-    "A neighbourhood-by-neighbourhood guide to Mayfair nightlife. Berkeley Square, Hanover Square, Dover Street, Swallow Street, and beyond — where every club is, how to walk between them, and what each area feels like at night.",
+    "A neighbourhood-by-neighbourhood guide to Mayfair nightlife. Berkeley Square, Hanover Square, Dover Street, Swallow Street, and beyond: where every club is, how to walk between them, and what each area feels like at night.",
   alternates: { canonical: "https://mayfairtonight.com/best-areas-around-hanover-square-and-berkeley-square-for-nightlife" },
   openGraph: {
-    title: "Mayfair Nightlife by Area — Where to Go",
+    title: "Mayfair Nightlife by Area: Where to Go",
     description: "Navigate Mayfair's nightlife geography. Club clusters, walking routes, transport, and late-night food by area.",
     url: "https://mayfairtonight.com/best-areas-around-hanover-square-and-berkeley-square-for-nightlife",
   },
@@ -36,10 +36,10 @@ export default function NightlifeAreasPage() {
         </nav>
 
         <h1 className="text-3xl sm:text-4xl font-bold text-white mb-3">
-          Mayfair Nightlife by Area — <span className="text-gold">Hanover Square, Berkeley Square &amp; Beyond</span>
+          Mayfair Nightlife by Area: <span className="text-gold">Hanover Square, Berkeley Square &amp; Beyond</span>
         </h1>
         <p className="text-gray-300 text-lg max-w-3xl">
-          Mayfair&apos;s nightclubs aren&apos;t scattered randomly — they cluster in distinct pockets, each with its own character. Understanding the geography helps you plan a smarter night.
+          Mayfair&apos;s nightclubs aren&apos;t scattered randomly: they cluster in distinct pockets, each with its own character. Understanding the geography helps you plan a smarter night.
         </p>
       </HeroImage>
 
@@ -52,9 +52,9 @@ export default function NightlifeAreasPage() {
         <section className="mb-10">
           <h2 className="text-2xl font-bold text-white mb-4">Mayfair&apos;s Nightlife Geography</h2>
           <div className="text-gray-300 space-y-4 leading-relaxed">
-            <p>Mayfair sits between Oxford Street to the north, Piccadilly to the south, Regent Street to the east, and Park Lane to the west. Within this rectangle, nightlife concentrates in six distinct areas — each accessible on foot from the others.</p>
+            <p>Mayfair sits between Oxford Street to the north, Piccadilly to the south, Regent Street to the east, and Park Lane to the west. Within this rectangle, nightlife concentrates in six distinct areas, each accessible on foot from the others.</p>
             <p>The beauty of Mayfair&apos;s layout is that you can walk from the most exclusive pocket around Hanover Square to the entertainment hub near Piccadilly in under fifteen minutes. Most club-hopping routes are even shorter. A night in Mayfair rewards those who understand the map.</p>
-            <p>Below, we break down each area — what&apos;s there, what it feels like at night, and how it connects to the rest of the circuit.</p>
+            <p>Below, we break down each area: what&apos;s there, what it feels like at night, and how it connects to the rest of the circuit.</p>
           </div>
         </section>
 
@@ -64,7 +64,7 @@ export default function NightlifeAreasPage() {
           <div className="bg-dark-card border border-dark-border rounded-lg p-5">
             <div className="space-y-4">
               <div className="text-gray-300 space-y-3 leading-relaxed">
-                <p>Berkeley Square is one of Mayfair&apos;s most recognisable landmarks — a tree-lined garden square surrounded by grand Georgian townhouses. The square itself is quiet at night, but Berkeley Street, which runs south from it toward Piccadilly, is where the nightlife action happens.</p>
+                <p>Berkeley Square is one of Mayfair&apos;s most recognisable landmarks: a tree-lined garden square surrounded by grand Georgian townhouses. The square itself is quiet at night, but Berkeley Street, which runs south from it toward Piccadilly, is where the nightlife action happens.</p>
                 <p>For years this strip was the hip-hop and R&amp;B corridor of Mayfair, built around Funky Buddha on Berkeley Street and TABU London around the corner on Dover Street. Both have since closed: Itzel has opened in Funky Buddha&apos;s space and Rumour in TABU&apos;s. For a hip-hop club night from here, the nearest venue we cover is Reign London on Piccadilly.</p>
               </div>
               <div className="border-t border-dark-border pt-3">
@@ -88,12 +88,12 @@ export default function NightlifeAreasPage() {
             <div className="space-y-4">
               <div className="text-gray-300 space-y-3 leading-relaxed">
                 <p>Hanover Square sits in the northern part of Mayfair, close to Oxford Street. By day it&apos;s a quiet, elegant square. By night, it&apos;s the address of Mayfair&apos;s most exclusive nightclub.</p>
-                <p>This is where the industry crowd gravitates. The area around Hanover Square feels deliberately quiet — no neon signs, no queues stretching down the block. The exclusivity is the point. If you&apos;re heading here, you already know where you&apos;re going.</p>
+                <p>This is where the industry crowd gravitates. The area around Hanover Square feels deliberately quiet: no neon signs, no queues stretching down the block. The exclusivity is the point. If you&apos;re heading here, you already know where you&apos;re going.</p>
               </div>
               <div className="border-t border-dark-border pt-3">
                 <h3 className="text-gold font-semibold mb-2">Clubs in This Area</h3>
                 <div className="space-y-2">
-                  <div><Link href="/clubs/tape-london" className="text-white font-medium hover:text-gold">Tape London</Link> <span className="text-dark-muted text-sm">— The most exclusive club in Mayfair. Members, tables, and industry connections. The hardest door in the neighbourhood. Worth the effort if you can get in.</span></div>
+                  <div><Link href="/clubs/tape-london" className="text-white font-medium hover:text-gold">Tape London</Link>: <span className="text-dark-muted text-sm">The most exclusive club in Mayfair. Members, tables, and industry connections. The hardest door in the neighbourhood. Worth the effort if you can get in.</span></div>
                 </div>
               </div>
               <div className="border-t border-dark-border pt-3">
@@ -111,20 +111,20 @@ export default function NightlifeAreasPage() {
             <div className="space-y-4">
               <div className="text-gray-300 space-y-3 leading-relaxed">
                 <p>This is the densest nightlife cluster in Mayfair. Four venues within a five-minute walking radius, spanning cocktail bars, supper clubs, and late-night dance floors. If you only have one night in Mayfair, this is where to spend it.</p>
-                <p>The area runs roughly from Dover Street through to Albemarle Street and the surrounding side streets. It&apos;s the heart of Mayfair&apos;s nightlife — sophisticated, varied, and endlessly walkable. You can start with cocktails, move to dinner, and end on a dance floor without ever needing to check a map.</p>
+                <p>The area runs roughly from Dover Street through to Albemarle Street and the surrounding side streets. It&apos;s the heart of Mayfair&apos;s nightlife: sophisticated, varied, and endlessly walkable. You can start with cocktails, move to dinner, and end on a dance floor without ever needing to check a map.</p>
               </div>
               <div className="border-t border-dark-border pt-3">
                 <h3 className="text-gold font-semibold mb-2">Clubs in This Area</h3>
                 <div className="space-y-2">
-                  <div><Link href="/clubs/scotch-of-st-james" className="text-white font-medium hover:text-gold">Scotch of St James</Link> <span className="text-dark-muted text-sm">— Members-club atmosphere on Mason&apos;s Yard. Intimate, exclusive, and loyal to its regulars. The door knows its people.</span></div>
-                  <div><Link href="/clubs/dear-darling" className="text-white font-medium hover:text-gold">Dear Darling</Link> <span className="text-dark-muted text-sm">— Cocktail bar with a refined edge. Perfect for starting the evening. Beautiful interior, impeccable drinks, conversational atmosphere.</span></div>
-                  <div><Link href="/clubs/maddox" className="text-white font-medium hover:text-gold">Maddox</Link> <span className="text-dark-muted text-sm">— Restaurant upstairs, club downstairs. The dinner-to-dance concept done right. House music, sleek design, well-dressed crowd.</span></div>
-                  <div><Link href="/clubs/selene-london" className="text-white font-medium hover:text-gold">Selene London</Link> <span className="text-dark-muted text-sm">— Newer venue with an elegant approach. Building a strong reputation with a welcoming door and refined programming.</span></div>
+                  <div><Link href="/clubs/scotch-of-st-james" className="text-white font-medium hover:text-gold">Scotch of St James</Link>: <span className="text-dark-muted text-sm">Members-club atmosphere on Mason&apos;s Yard. Intimate, exclusive, and loyal to its regulars. The door knows its people.</span></div>
+                  <div><Link href="/clubs/dear-darling" className="text-white font-medium hover:text-gold">Dear Darling</Link>: <span className="text-dark-muted text-sm">Cocktail bar with a refined edge. Perfect for starting the evening. Beautiful interior, impeccable drinks, conversational atmosphere.</span></div>
+                  <div><Link href="/clubs/maddox" className="text-white font-medium hover:text-gold">Maddox</Link>: <span className="text-dark-muted text-sm">Restaurant upstairs, club downstairs. The dinner-to-dance concept done right. House music, sleek design, well-dressed crowd.</span></div>
+                  <div><Link href="/clubs/selene-london" className="text-white font-medium hover:text-gold">Selene London</Link>: <span className="text-dark-muted text-sm">Newer venue with an elegant approach. Building a strong reputation with a welcoming door and refined programming.</span></div>
                 </div>
               </div>
               <div className="border-t border-dark-border pt-3">
                 <p className="text-sm text-dark-muted"><strong>The route:</strong>{" "}Start at Dear Darling for cocktails. Walk two minutes to Maddox for dinner and dancing. Scotch of St James is a five-minute stroll through the backstreets. Selene is a short walk north across Oxford Street, just past Oxford Circus.</p>
-                <p className="text-sm text-dark-muted mt-1"><strong>The vibe:</strong>{" "}Sophisticated and varied. This is Mayfair at its most complete — every element of a great night within walking distance.</p>
+                <p className="text-sm text-dark-muted mt-1"><strong>The vibe:</strong>{" "}Sophisticated and varied. This is Mayfair at its most complete: every element of a great night within walking distance.</p>
               </div>
             </div>
           </div>
@@ -142,7 +142,7 @@ export default function NightlifeAreasPage() {
               <div className="border-t border-dark-border pt-3">
                 <h3 className="text-gold font-semibold mb-2">Clubs in This Area</h3>
                 <div className="space-y-2">
-                  <div><Link href="/clubs/reign-london" className="text-white font-medium hover:text-gold">Reign London</Link> <span className="text-dark-muted text-sm">— Large venue with live entertainment and dramatic production. Professional door, reliable guestlist. The biggest room in this part of Mayfair.</span></div>
+                  <div><Link href="/clubs/reign-london" className="text-white font-medium hover:text-gold">Reign London</Link>: <span className="text-dark-muted text-sm">Large venue with live entertainment and dramatic production. Professional door, reliable guestlist. The biggest room in this part of Mayfair.</span></div>
                 </div>
               </div>
               <div className="border-t border-dark-border pt-3">
@@ -155,18 +155,18 @@ export default function NightlifeAreasPage() {
 
         {/* Area 5: Soho Border */}
         <section className="mb-10">
-          <h2 className="text-2xl font-bold text-white mb-4">Area 5: Soho Border — Ganton Street &amp; Beyond</h2>
+          <h2 className="text-2xl font-bold text-white mb-4">Area 5: Soho Border: Ganton Street &amp; Beyond</h2>
           <div className="bg-dark-card border border-dark-border rounded-lg p-5">
             <div className="space-y-4">
               <div className="text-gray-300 space-y-3 leading-relaxed">
-                <p>Technically in Soho, but very much part of the Mayfair nightlife circuit. The clubs here sit just east of Regent Street — a natural extension of a Mayfair evening, especially for those who start in the Dover Street or Piccadilly area and want something different later.</p>
+                <p>Technically in Soho, but very much part of the Mayfair nightlife circuit. The clubs here sit just east of Regent Street, a natural extension of a Mayfair evening, especially for those who start in the Dover Street or Piccadilly area and want something different later.</p>
                 <p>Soho brings a grittier, more creative edge that contrasts with Mayfair&apos;s polish. The venues here lean into entertainment, performance, and spectacle. The walk from central Mayfair takes 10-15 minutes, crossing Regent Street into a different world.</p>
               </div>
               <div className="border-t border-dark-border pt-3">
                 <h3 className="text-gold font-semibold mb-2">Clubs in This Area</h3>
                 <div className="space-y-2">
-                  <div><Link href="/clubs/cirque-le-soir" className="text-white font-medium hover:text-gold">Cirque Le Soir</Link> <span className="text-dark-muted text-sm">— Circus-themed nightclub with live performers, theatrical production, and a surreal atmosphere. Ganton Street, just off Carnaby. A Mayfair-circuit staple despite the Soho postcode.</span></div>
-                  <div><Link href="/clubs/the-box-london" className="text-white font-medium hover:text-gold">The Box</Link> <span className="text-dark-muted text-sm">— Provocative cabaret and boundary-pushing performances. A venue that divides opinion — you either love it or find it too much. Curated door, creative dress code.</span></div>
+                  <div><Link href="/clubs/cirque-le-soir" className="text-white font-medium hover:text-gold">Cirque Le Soir</Link>: <span className="text-dark-muted text-sm">Circus-themed nightclub with live performers, theatrical production, and a surreal atmosphere. Ganton Street, just off Carnaby. A Mayfair-circuit staple despite the Soho postcode.</span></div>
+                  <div><Link href="/clubs/the-box-london" className="text-white font-medium hover:text-gold">The Box</Link>: <span className="text-dark-muted text-sm">Provocative cabaret and boundary-pushing performances. A venue that divides opinion: you either love it or find it too much. Curated door, creative dress code.</span></div>
                 </div>
               </div>
               <div className="border-t border-dark-border pt-3">
@@ -179,17 +179,17 @@ export default function NightlifeAreasPage() {
 
         {/* Area 6: Fitzrovia */}
         <section className="mb-10">
-          <h2 className="text-2xl font-bold text-white mb-4">Area 6: Fitzrovia — Margaret Street</h2>
+          <h2 className="text-2xl font-bold text-white mb-4">Area 6: Fitzrovia: Margaret Street</h2>
           <div className="bg-dark-card border border-dark-border rounded-lg p-5">
             <div className="space-y-4">
               <div className="text-gray-300 space-y-3 leading-relaxed">
                 <p>North of Oxford Street, in the creative district of Fitzrovia, BEAT London offers something different from the central Mayfair clubs. It&apos;s a slight detour from the main circuit, but worth the trip for anyone who wants a more relaxed, musically-driven experience.</p>
-                <p>Fitzrovia has its own identity — younger, more casual, with a media and creative industry crowd. The walk from Mayfair crosses Oxford Street and enters a neighbourhood that feels distinctly different from the polished streets to the south.</p>
+                <p>Fitzrovia has its own identity: younger, more casual, with a media and creative industry crowd. The walk from Mayfair crosses Oxford Street and enters a neighbourhood that feels distinctly different from the polished streets to the south.</p>
               </div>
               <div className="border-t border-dark-border pt-3">
                 <h3 className="text-gold font-semibold mb-2">Clubs in This Area</h3>
                 <div className="space-y-2">
-                  <div><Link href="/clubs/beat-london" className="text-white font-medium hover:text-gold">BEAT London</Link> <span className="text-dark-muted text-sm">— The most relaxed venue on the Mayfair circuit. Smart casual dress code, designer trainers acceptable. Music-focused programming in a Fitzrovia setting.</span></div>
+                  <div><Link href="/clubs/beat-london" className="text-white font-medium hover:text-gold">BEAT London</Link>: <span className="text-dark-muted text-sm">The most relaxed venue on the Mayfair circuit. Smart casual dress code, designer trainers acceptable. Music-focused programming in a Fitzrovia setting.</span></div>
                 </div>
               </div>
               <div className="border-t border-dark-border pt-3">
@@ -208,7 +208,7 @@ export default function NightlifeAreasPage() {
             <div className="bg-dark-card border border-dark-border rounded-lg p-5">
               <h3 className="text-gold font-semibold mb-2">Route 1: The Core Circuit</h3>
               <p className="text-sm text-gray-300 mb-2">Dear Darling → Maddox → Scotch of St James → Selene</p>
-              <p className="text-sm text-dark-muted">Total walking time: about 10 minutes across the whole route. All four venues are in the Dover Street cluster. This is the tightest circuit in Mayfair — you could visit all four in a single night without breaking stride.</p>
+              <p className="text-sm text-dark-muted">Total walking time: about 10 minutes across the whole route. All four venues are in the Dover Street cluster. This is the tightest circuit in Mayfair: you could visit all four in a single night without breaking stride.</p>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-5">
               <h3 className="text-gold font-semibold mb-2">Route 2: The Hip-Hop to House Crossover</h3>
@@ -230,18 +230,18 @@ export default function NightlifeAreasPage() {
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">
               <h3 className="text-gold font-semibold mb-2">Nearest Tube Stations</h3>
               <ul className="text-sm text-gray-300 space-y-1">
-                <li>• <strong>Green Park</strong>{" "}— Best for Berkeley Square and Dear Darling</li>
-                <li>• <strong>Bond Street</strong>{" "}— Best for Hanover Square, Tape London, Dover Street clubs</li>
-                <li>• <strong>Piccadilly Circus</strong>{" "}— Best for Reign and the Soho border</li>
-                <li>• <strong>Oxford Circus</strong>{" "}— Best for BEAT London, Selene and the northern approach to Mayfair</li>
+                <li>• <strong>Green Park</strong>: Best for Berkeley Square and Dear Darling</li>
+                <li>• <strong>Bond Street</strong>: Best for Hanover Square, Tape London, Dover Street clubs</li>
+                <li>• <strong>Piccadilly Circus</strong>: Best for Reign and the Soho border</li>
+                <li>• <strong>Oxford Circus</strong>: Best for BEAT London, Selene and the northern approach to Mayfair</li>
               </ul>
-              <p className="text-xs text-dark-muted mt-2">All stations close around midnight on most nights. Friday and Saturday Night Tube services run on some lines — check before you go.</p>
+              <p className="text-xs text-dark-muted mt-2">All stations close around midnight on most nights. Friday and Saturday Night Tube services run on some lines: check before you go.</p>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">
               <h3 className="text-gold font-semibold mb-2">Taxis &amp; Ride-Hails</h3>
               <ul className="text-sm text-gray-300 space-y-1">
                 <li>• Black cabs are plentiful on Piccadilly, Berkeley Street, and Park Lane</li>
-                <li>• Uber and Bolt work well — use main roads for pickup to avoid confusion</li>
+                <li>• Uber and Bolt work well: use main roads for pickup to avoid confusion</li>
                 <li>• After 2am, expect surge pricing. Walking to a quieter road can reduce the fare</li>
                 <li>• Park Lane and Piccadilly are the best spots to hail a black cab late at night</li>
               </ul>
@@ -312,7 +312,7 @@ export default function NightlifeAreasPage() {
 
         <div className="bg-dark-card border border-gold/30 rounded-xl p-6 text-center mb-8">
           <h2 className="text-xl font-semibold text-white mb-2">Need Help Navigating Mayfair?</h2>
-          <p className="text-dark-muted mb-4">Message us on WhatsApp and we&apos;ll plan your route — guestlists, tables, and venue recommendations based on where you want to be.</p>
+          <p className="text-dark-muted mb-4">Message us on WhatsApp and we&apos;ll plan your route: guestlists, tables, and venue recommendations based on where you want to be.</p>
           <WhatsAppCTA size="lg" />
         </div>
       </article>

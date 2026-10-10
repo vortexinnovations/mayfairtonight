@@ -9,12 +9,12 @@ import HeroImage from "@/components/HeroImage";
 import { heroImages, clubImages } from "@/data/images";
 
 export const metadata: Metadata = {
-  title: "All Clubs We Cover — Full Venue Directory",
+  title: "All Clubs We Cover: Full Venue Directory",
   description:
     "Browse every nightclub we cover across Mayfair and central London. Quick access to opening nights, music policy, dress code, and booking info for each venue.",
   alternates: { canonical: "https://mayfairtonight.com/clubs" },
   openGraph: {
-    title: "All Clubs We Cover — Full Venue Directory",
+    title: "All Clubs We Cover: Full Venue Directory",
     description:
       "Browse every nightclub we cover across Mayfair and central London. Opening nights, music policy, dress code, and booking info for each venue.",
     url: "https://mayfairtonight.com/clubs",
@@ -32,7 +32,7 @@ export default function ClubsPage() {
           All <span className="text-gold">Clubs</span>
         </h1>
         <p className="text-dark-muted mt-2">
-          Every venue we cover — browse the full directory. For our ranked guide, see{" "}
+          Every venue we cover: browse the full directory. For our ranked guide, see{" "}
           <Link href="/best-nightclubs-in-mayfair" className="text-gold hover:text-gold-light">best nightclubs in Mayfair</Link>.
         </p>
       </HeroImage>

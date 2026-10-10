@@ -26,15 +26,15 @@ export async function generateMetadata({
   return {
     title: isClosed
       ? `${club.name} Has Closed: Mayfair Alternatives`
-      : `${club.name} Tonight — What's On, Events & Table Bookings`,
+      : `${club.name} Tonight: What's On, Events & Table Bookings`,
     description: isClosed
       ? `${club.name} has permanently closed. Find the best alternative clubs in Mayfair and London. Updated guide with similar venues.`
-      : `${club.name} in ${club.area} — ${club.tagline}. Open ${club.openNights.join(", ")}. ${club.musicPolicy.join(", ")} music. Tables from ${club.tableMinimum}. Book instantly via WhatsApp.`,
+      : `${club.name} in ${club.area}: ${club.tagline}. Open ${club.openNights.join(", ")}. ${club.musicPolicy.join(", ")} music. Tables from ${club.tableMinimum}. Book instantly via WhatsApp.`,
     alternates: { canonical: `https://mayfairtonight.com/clubs/${club.slug}` },
     openGraph: {
       title: isClosed
         ? `${club.name} Has Closed: Mayfair Alternatives`
-        : `${club.name} Tonight — Events, Music & Bookings`,
+        : `${club.name} Tonight: Events, Music & Bookings`,
       description: isClosed
         ? `${club.name} has closed. Open Mayfair clubs with a similar crowd and music.`
         : `${club.tagline}. ${club.musicPolicy.join(", ")} music in ${club.area}. Tables from ${club.tableMinimum}.`,
@@ -132,7 +132,7 @@ export default async function ClubPage({
             <div className="bg-dark-card border border-dark-border rounded-lg p-3">
               <p className="text-xs text-dark-muted">Opens</p>
               <p className="text-sm font-medium text-white mt-0.5">
-                {club.openingTime} — {club.closingTime}
+                {club.openingTime} to {club.closingTime}
               </p>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-3">
@@ -193,7 +193,7 @@ export default async function ClubPage({
                 ))}
               </div>
               <p className="text-dark-muted text-sm mt-2">
-                {club.openingTime} — {club.closingTime}
+                {club.openingTime} to {club.closingTime}
               </p>
             </section>
 

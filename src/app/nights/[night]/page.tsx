@@ -127,7 +127,7 @@ export default async function NightPage({
                 Most Mayfair clubs are closed on {nightInfo.day}s
               </p>
               <p className="text-dark-muted mb-4">
-                Check out the big nights — Thursday through Saturday
+                Check out the big nights: Thursday through Saturday
               </p>
               <div className="flex flex-wrap justify-center gap-3">
                 <Link
