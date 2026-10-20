@@ -231,16 +231,8 @@ export default function WhereToGoPage() {
         <div className="bg-dark-card border-l-2 border-gold p-4 rounded-r-lg mt-10">
           <p className="text-gray-300 text-sm">
             <strong className="text-white">Planning a VIP night?</strong>{" "}If you want a table or bottle
-            service at any of these clubs, check availability at{" "}
-            <a
-              href="https://londonbottleservice.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gold hover:text-gold-light underline"
-            >
-              London Bottle Service
-            </a>:{" "}
-            they handle bookings across Mayfair.
+            service at any of these clubs, message us on WhatsApp to check
+            availability: we handle bookings across Mayfair.
           </p>
         </div>
 

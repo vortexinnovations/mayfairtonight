@@ -184,14 +184,12 @@ export default function GirlsGuestlistPage() {
             Read the dress code guide
           </Link>
           . Checking{" "}
-          <a
-            href="https://londonclubstonight.com"
-            target="_blank"
-            rel="noopener noreferrer"
+          <Link
+            href="/where-to-go-tonight"
             className="text-gold hover:text-gold-light"
           >
             what&apos;s on tonight
-          </a>
+          </Link>
           ?
         </p>
 
@@ -483,15 +481,7 @@ export default function GirlsGuestlistPage() {
             </div>
           </div>
           <p className="text-dark-muted text-sm mt-4">
-            For birthday table bookings and packages, visit{" "}
-            <a
-              href="https://londonbottleservice.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gold hover:text-gold-light"
-            >
-              londonbottleservice.com
-            </a>{" "}
+            For birthday table bookings and packages, message us on WhatsApp
             or read our{" "}
             <Link
               href="/best-clubs-for-groups-in-mayfair"

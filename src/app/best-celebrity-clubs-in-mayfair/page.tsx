@@ -104,7 +104,7 @@ const faqs = [
   {
     question: "Is it worth the money to go to a celebrity club?",
     answer:
-      "That depends on what you value. If you want the most exclusive atmosphere, the best music curation, and genuinely world-class service, then yes, these clubs deliver experiences you cannot get elsewhere. Table minimums at Tape London start from around £1,500. Cirque Le Soir from £1,000. For guestlist options, Scotch offers a more accessible entry point. Visit londonbottleservice.com for current table prices.",
+      "That depends on what you value. If you want the most exclusive atmosphere, the best music curation, and genuinely world-class service, then yes, these clubs deliver experiences you cannot get elsewhere. Table minimums at Tape London start from around £1,500. Cirque Le Soir from £1,000. For guestlist options, Scotch offers a more accessible entry point. Message us on WhatsApp for current table prices.",
   },
   {
     question: "Do you need to know someone to get into celebrity clubs?",
@@ -159,24 +159,13 @@ export default function BestCelebrityClubsPage() {
           >
             Read our full rankings
           </Link>
-          . Need{" "}
-          <a
-            href="https://londonbottleservice.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-gold hover:text-gold-light"
-          >
-            VIP table bookings
-          </a>
-          ? Or see{" "}
-          <a
-            href="https://londonclubstonight.com"
-            target="_blank"
-            rel="noopener noreferrer"
+          . Need VIP table bookings? Message us on WhatsApp. Or see{" "}
+          <Link
+            href="/where-to-go-tonight"
             className="text-gold hover:text-gold-light"
           >
             what&apos;s happening tonight
-          </a>
+          </Link>
           .
         </p>
 
@@ -372,16 +361,7 @@ export default function BestCelebrityClubsPage() {
           <p className="text-sm text-dark-muted mt-4">
             Need help getting in? Message us on WhatsApp. We have relationships
             with every venue on this list and can advise on the best route for
-            your group. For table pricing, visit{" "}
-            <a
-              href="https://londonbottleservice.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gold hover:text-gold-light"
-            >
-              londonbottleservice.com
-            </a>
-            .
+            your group, including table pricing.
           </p>
         </section>
 
@@ -453,17 +433,8 @@ export default function BestCelebrityClubsPage() {
           </h2>
           <p className="text-dark-muted mb-4">
             Message us on WhatsApp and we&apos;ll connect you with the right
-            people at Mayfair&apos;s most exclusive venues. For VIP table
-            bookings, visit{" "}
-            <a
-              href="https://londonbottleservice.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gold hover:text-gold-light"
-            >
-              London Bottle Service
-            </a>
-            .
+            people at Mayfair&apos;s most exclusive venues. We book VIP tables
+            too.
           </p>
           <WhatsAppCTA size="lg" />
         </div>

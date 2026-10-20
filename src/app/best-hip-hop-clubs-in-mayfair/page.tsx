@@ -180,24 +180,13 @@ export default function BestHipHopClubsPage() {
           >
             See our ranked guide to all Mayfair nightclubs
           </Link>
-          . Want{" "}
-          <a
-            href="https://londonbottleservice.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-gold hover:text-gold-light"
-          >
-            VIP table bookings
-          </a>
-          ? Or check{" "}
-          <a
-            href="https://londonclubstonight.com"
-            target="_blank"
-            rel="noopener noreferrer"
+          . Want VIP table bookings? Message us on WhatsApp. Or check{" "}
+          <Link
+            href="/where-to-go-tonight"
             className="text-gold hover:text-gold-light"
           >
             what&apos;s on tonight
-          </a>
+          </Link>
           .
         </p>
 
@@ -514,16 +503,7 @@ export default function BestHipHopClubsPage() {
           </h2>
           <p className="text-dark-muted mb-4">
             Message us on WhatsApp and we&apos;ll sort your guestlist or table
-            at any Mayfair hip-hop club. For VIP table bookings, visit{" "}
-            <a
-              href="https://londonbottleservice.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gold hover:text-gold-light"
-            >
-              London Bottle Service
-            </a>
-            .
+            at any Mayfair hip-hop club, VIP tables included.
           </p>
           <WhatsAppCTA size="lg" />
         </div>

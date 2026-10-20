@@ -180,7 +180,7 @@ export default function ItineraryPage() {
               </div>
               <div>
                 <p className="text-gold font-semibold mb-1">11:00pm: <Link href="/clubs/99-regent-street" className="text-gold hover:text-gold-light">99 Regent Street</Link>{" "}or <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">BEAT London</Link></p>
-                <p className="text-sm text-gray-300">99 Regent Street (formerly Cuckoo Club), entered from Swallow Street two minutes from Piccadilly Circus, has two floors of around 200 each: open-format hip hop and RnB upstairs, house downstairs, with both floors running on Friday and Saturday. Its guestlist takes mixed groups, and tables from £600 cover entry for the whole group. BEAT London, just north of Oxford Circus, suits a big group: high-energy hip-hop, RnB, commercial and house, a proper dance floor, and a smart-casual door that is easier for a large party. For big groups, consider a table through <a href="https://londonbottleservice.com" target="_blank" rel="noopener noreferrer" className="text-gold hover:text-gold-light">London Bottle Service</a>{" "}to guarantee everyone gets in.</p>
+                <p className="text-sm text-gray-300">99 Regent Street (formerly Cuckoo Club), entered from Swallow Street two minutes from Piccadilly Circus, has two floors of around 200 each: open-format hip hop and RnB upstairs, house downstairs, with both floors running on Friday and Saturday. Its guestlist takes mixed groups, and tables from £600 cover entry for the whole group. BEAT London, just north of Oxford Circus, suits a big group: high-energy hip-hop, RnB, commercial and house, a proper dance floor, and a smart-casual door that is easier for a large party. For big groups, consider a table to guarantee everyone gets in.</p>
               </div>
               <div>
                 <p className="text-gold font-semibold mb-1">1:30am: Late-night options</p>
@@ -283,7 +283,7 @@ export default function ItineraryPage() {
             </div>
           </div>
           <p className="text-sm text-dark-muted mt-3">
-            Planning for <a href="https://londonclubstonight.com" target="_blank" rel="noopener noreferrer" className="text-gold hover:text-gold-light">tonight specifically</a>? Check what&apos;s on right now.
+            Planning for <Link href="/where-to-go-tonight" className="text-gold hover:text-gold-light">tonight specifically</Link>? Check what&apos;s on right now.
           </p>
         </section>
 

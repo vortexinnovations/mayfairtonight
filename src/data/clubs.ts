@@ -95,11 +95,11 @@ export const clubs: Club[] = [
     metaDescription:
       "Reign London on Piccadilly: open Tuesday, Thursday, Friday and Saturday, with commercial, house and hip-hop around the shows. Tables from £1,000.",
     name: "Reign London",
-    tagline: "Mayfair's most extravagant showclub",
+    tagline: "Piccadilly's most extravagant showclub",
     description:
-      "Reign takes nightlife and turns it into theatre. Based on Piccadilly, this showclub features aerial acrobats, live singers, and jaw-dropping performances between DJ sets. The production value is insane: think Las Vegas meets Mayfair. If you want your night to feel like an event, Reign delivers every single time.",
-    location: "Piccadilly, Mayfair",
-    area: "Mayfair",
+      "Reign takes nightlife and turns it into theatre. Based on Piccadilly, this showclub features aerial acrobats, live singers, and jaw-dropping performances between DJ sets. The production value is insane: think Las Vegas meets Piccadilly. If you want your night to feel like an event, Reign delivers every single time.",
+    location: "215-217 Piccadilly",
+    area: "Piccadilly",
     musicPolicy: ["Commercial", "House", "Hip-Hop"],
     dressCode: "Smart dress code. Collared shirts for men, heels or smart shoes for women. No casual wear.",
     dressCodeNotes: "Standard Mayfair dress code applies. Dress sharp.",

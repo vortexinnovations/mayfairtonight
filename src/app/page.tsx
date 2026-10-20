@@ -276,15 +276,8 @@ export default function HomePage() {
             <Link href="/mayfair-nightlife-guide" className="text-gold hover:text-gold-light">
               Mayfair nightlife guide
             </Link>
-            {" "}will help you find exactly where to go tonight. Need a VIP table?{" "}
-            <a
-              href="https://londonbottleservice.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gold hover:text-gold-light"
-            >
-              Book bottle service and table reservations
-            </a>
+            {" "}will help you find exactly where to go tonight. Need a VIP table? Message us on WhatsApp to book bottle service and a
+            table
             {" "}to guarantee your spot at the{" "}
             <Link href="/best-nightclubs-in-mayfair" className="text-gold hover:text-gold-light">
               best nightclubs in Mayfair

@@ -197,16 +197,8 @@ export default function DressCodePage() {
             <Link href="/best-nightclubs-in-mayfair" className="text-gold hover:text-gold-light underline">
               best nightclubs in Mayfair
             </Link>{" "}
-            guide. If you&apos;re booking a VIP table or bottle service, check availability at{" "}
-            <a
-              href="https://londonbottleservice.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gold hover:text-gold-light underline"
-            >
-              London Bottle Service
-            </a>.{" "}
-            Dress standards are even higher for table bookings.
+            guide. If you&apos;re booking a VIP table or bottle service, message us
+            on WhatsApp to check availability. Dress standards are even higher for table bookings.
           </p>
           <div className="space-y-3">
             {getOpenClubs().map((club) => (

@@ -175,7 +175,7 @@ export default function TablesGuidePage() {
               ))}
             </div>
             <p className="text-sm text-dark-muted">
-              For table bookings at any Mayfair venue, <a href="https://londonbottleservice.com" target="_blank" rel="noopener noreferrer" className="text-gold hover:text-gold-light">London Bottle Service</a>{" "}manages availability and pricing across the board. You can also message us directly on WhatsApp for a quick quote.
+              For table bookings at any Mayfair venue, message us directly on WhatsApp for availability and a quick quote.
             </p>
           </div>
         </section>

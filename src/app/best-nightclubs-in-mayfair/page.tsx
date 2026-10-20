@@ -220,7 +220,7 @@ const faqs = [
   {
     question: "How much does a night out in Mayfair cost?",
     answer:
-      "Guestlist entry is often free or £10 to £20 cover. Drinks range from £12 to £18 for cocktails. Table bookings start from £1,000 minimum spend at most venues, with Tape London from £1,500. A typical night on guestlist costs £50 to £100 per person including drinks. For table booking prices, check londonbottleservice.com.",
+      "Guestlist entry is often free or £10 to £20 cover. Drinks range from £12 to £18 for cocktails. Table bookings start from £1,000 minimum spend at most venues, with Tape London from £1,500. A typical night on guestlist costs £50 to £100 per person including drinks. For table booking prices, message us on WhatsApp.",
   },
   {
     question: "Are Mayfair clubs worth the money?",
@@ -269,24 +269,13 @@ export default function BestNightclubsPage() {
           >
             Read our complete Mayfair nightclubs guide
           </Link>
-          . Looking for{" "}
-          <a
-            href="https://londonbottleservice.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-gold hover:text-gold-light"
-          >
-            VIP table bookings
-          </a>
-          ? Or check{" "}
-          <a
-            href="https://londonclubstonight.com"
-            target="_blank"
-            rel="noopener noreferrer"
+          . Looking for VIP table bookings? Message us on WhatsApp. Or check{" "}
+          <Link
+            href="/where-to-go-tonight"
             className="text-gold hover:text-gold-light"
           >
             what&apos;s on tonight
-          </a>
+          </Link>
           .
         </p>
 
@@ -517,16 +506,7 @@ export default function BestNightclubsPage() {
           </h2>
           <p className="text-dark-muted mb-4">
             Message us on WhatsApp and we&apos;ll sort your guestlist or table
-            at any Mayfair club. For VIP table bookings, visit{" "}
-            <a
-              href="https://londonbottleservice.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gold hover:text-gold-light"
-            >
-              London Bottle Service
-            </a>
-            .
+            at any Mayfair club, VIP tables included.
           </p>
           <WhatsAppCTA size="lg" />
         </div>

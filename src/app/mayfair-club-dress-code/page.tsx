@@ -696,16 +696,8 @@ export default function MayfairDressCodePage() {
           </h2>
           <p className="text-dark-muted mb-4">
             Message us on WhatsApp with the venue you are heading to and we
-            will give you specific advice. Or book a{" "}
-            <a
-              href="https://londonbottleservice.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gold hover:text-gold-light"
-            >
-              VIP table
-            </a>:{" "}
-            table guests always get priority at the door.
+            will give you specific advice. Or book a VIP table: table guests
+            always get priority at the door.
           </p>
           <WhatsAppCTA size="lg" />
         </div>

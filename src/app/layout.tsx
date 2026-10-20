@@ -102,7 +102,6 @@ export default function RootLayout({
                 opens: "22:00",
                 closes: "03:00",
               },
-              sameAs: ["https://londonluxurynightlife.com"],
             }),
           }}
         />

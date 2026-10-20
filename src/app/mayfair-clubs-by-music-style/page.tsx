@@ -259,14 +259,12 @@ export default function MayfairClubsByMusicPage() {
             See the hip-hop clubs guide
           </Link>
           . Checking{" "}
-          <a
-            href="https://londonclubstonight.com"
-            target="_blank"
-            rel="noopener noreferrer"
+          <Link
+            href="/where-to-go-tonight"
             className="text-gold hover:text-gold-light"
           >
             what&apos;s on tonight
-          </a>
+          </Link>
           ?
         </p>
 
@@ -818,16 +816,7 @@ export default function MayfairClubsByMusicPage() {
           </h2>
           <p className="text-dark-muted mb-4">
             Message us on WhatsApp with your music taste and we&apos;ll
-            recommend the right club and the right night. For VIP tables, visit{" "}
-            <a
-              href="https://londonbottleservice.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gold hover:text-gold-light"
-            >
-              London Bottle Service
-            </a>
-            .
+            recommend the right club and the right night, VIP tables included.
           </p>
           <WhatsAppCTA size="lg" />
         </div>
