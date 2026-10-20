@@ -110,7 +110,7 @@ export default function Footer() {
           <div>
             <h3 className="text-sm font-semibold text-white mb-3">Clubs</h3>
             <ul className="space-y-2">
-              {getOpenClubs().slice(0, 8).map((club) => (
+              {getOpenClubs().slice(0, 10).map((club) => (
                 <li key={club.slug}>
                   <Link
                     href={`/clubs/${club.slug}`}

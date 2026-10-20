@@ -18,7 +18,7 @@ export const metadata: Metadata = {
 };
 
 const faqs = [
-  { question: "Do Mayfair clubs check ID?", answer: "Yes. Every Mayfair club checks ID at the door. Bring a valid passport or driving licence. Most venues won't accept expired ID or photocopies. If you're visiting from abroad, your passport is the safest bet." },
+  { question: "Do Mayfair clubs check ID?", answer: "Yes. Every Mayfair club checks ID at the door. Bring a valid passport or driving licence. Most venues won't accept expired ID or photocopies. If you're visiting from abroad, your passport is the safest bet. 99 Regent Street is 19+ and asks for physical photo ID." },
   { question: "Can I get into a Mayfair club without a booking?", answer: "It's possible at some venues but risky. Dear Darling is more walk-up friendly. Tape London, Scotch of St James, and The Box are almost impossible without a booking or table. Always book through a promoter: it's free and eliminates the guesswork." },
   { question: "What time should I arrive at a Mayfair club?", answer: "Between 11pm and midnight is the sweet spot. Before 11pm the venue is empty. After midnight you risk capacity limits and longer queues. If you're on guestlist, arriving at 11:15-11:30 is ideal." },
   { question: "Do Mayfair clubs have a gender ratio policy?", answer: "Unofficially, yes. Most Mayfair doors prefer mixed groups or groups with more women. All-male groups of 4+ face the toughest scrutiny. Mixed groups of any size rarely have issues. All-female groups are generally welcomed everywhere." },
@@ -89,6 +89,8 @@ export default function EntryRulesPage() {
                 <div><Link href="/clubs/cirque-le-soir" className="text-white font-medium hover:text-gold">Cirque Le Soir</Link>: <span className="text-dark-muted text-sm">Guestlist works but arrive before midnight. After that, even guestlist doesn&apos;t guarantee entry at capacity. Weekends book out fast.</span></div>
                 <div><Link href="/clubs/reign-london" className="text-white font-medium hover:text-gold">Reign London</Link>: <span className="text-dark-muted text-sm">Professional door team. Guestlist is available and reliable if you book ahead. Standard Mayfair dress code enforced.</span></div>
                 <div><Link href="/clubs/maddox" className="text-white font-medium hover:text-gold">Maddox</Link>: <span className="text-dark-muted text-sm">Dinner guests transition to the club easily. Club-only entry requires a booking. House music crowd tends to be well-dressed by default.</span></div>
+                <div><Link href="/clubs/rumour-london" className="text-white font-medium hover:text-gold">Rumour</Link>: <span className="text-dark-muted text-sm">Formerly Tabu. 18+ with photo ID and a smart, dressed-up door: heels for ladies, a considered look for men, no sportswear. Ladies&apos; guestlist only, free to &pound;20 on the door; men and mixed groups come in on a booth from &pound;1,000, which covers entry for the group. No photos or video on the dance floor.</span></div>
+                <div><Link href="/clubs/99-regent-street" className="text-white font-medium hover:text-gold">99 Regent Street</Link>: <span className="text-dark-muted text-sm">Formerly Cuckoo Club. 19+ with physical photo ID, a year older than most London doors. Elegant, enforced dress code: no sportswear, running trainers, shorts or caps. Guestlist by request with mixed groups welcome; tables from &pound;600 cover entry for the group.</span></div>
               </div>
             </div>
 

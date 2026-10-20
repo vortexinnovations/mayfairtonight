@@ -159,6 +159,8 @@ const musicGrid = [
   { name: "Scotch of St James", slug: "scotch-of-st-james", hiphop: false, house: true, commercial: false, eclectic: true },
   { name: "Dear Darling", slug: "dear-darling", hiphop: false, house: true, commercial: false, eclectic: true },
   { name: "Reign London", slug: "reign-london", hiphop: false, house: false, commercial: true, eclectic: false },
+  { name: "99 Regent Street", slug: "99-regent-street", hiphop: true, house: true, commercial: false, eclectic: false },
+  { name: "Rumour", slug: "rumour-london", hiphop: true, house: true, commercial: false, eclectic: false },
   { name: "The Box", slug: "the-box-london", hiphop: false, house: false, commercial: false, eclectic: true },
 ];
 
@@ -551,7 +553,14 @@ export default function MayfairClubsByMusicPage() {
               all play hip-hop alongside house and commercial music.
             </p>
             <p className="text-gray-300 leading-relaxed">
-              Cuckoo Club, which used to split house downstairs and hip-hop upstairs, has closed. For a single genre done properly, Maddox is the house room and Tape London the hip-hop one.
+              <Link href="/clubs/99-regent-street" className="text-gold hover:text-gold-light font-medium">
+                99 Regent Street
+              </Link>{" "}
+              (formerly Cuckoo Club) splits the two across its floors: hip hop and RnB in the main room upstairs, house downstairs, with both floors running on Friday and Saturday.{" "}
+              <Link href="/clubs/rumour-london" className="text-gold hover:text-gold-light font-medium">
+                Rumour
+              </Link>{" "}
+              (formerly Tabu) on Dover Street plays open format, hip hop, RnB and house, read to the room. For a single genre done properly, Maddox is the house room and Tape London the hip-hop one.
             </p>
           </div>
         </section>

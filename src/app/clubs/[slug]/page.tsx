@@ -22,19 +22,28 @@ export async function generateMetadata({
   if (!club) return {};
 
   const isClosed = club.status === "closed";
+  // An open venue that changed name keeps the open layout; the old name joins the title.
+  const previousName = isClosed ? undefined : club.previousName;
+  const formerly = previousName ? ` (formerly ${previousName})` : "";
 
   return {
     title: isClosed
       ? `${club.name} Has Closed: Mayfair Alternatives`
-      : `${club.name} Tonight: What's On, Events & Table Bookings`,
+      : previousName
+        ? `${club.name}${formerly} Tonight: Tables & Guestlist`
+        : `${club.name} Tonight: What's On, Events & Table Bookings`,
     description: isClosed
       ? `${club.name} has permanently closed. Find the best alternative clubs in Mayfair and London. Updated guide with similar venues.`
-      : `${club.name} in ${club.area}: ${club.tagline}. Open ${club.openNights.join(", ")}. ${club.musicPolicy.join(", ")} music. Tables from ${club.tableMinimum}. Book instantly via WhatsApp.`,
+      : previousName
+        ? `${club.name}${formerly}, ${club.location}. Open ${club.openNights.join(", ")}, ${club.openingTime} to ${club.closingTime}. ${club.musicPolicy.join(", ")}. Tables from ${club.tableMinimum}. Book via WhatsApp.`
+        : `${club.name} in ${club.area}: ${club.tagline}. Open ${club.openNights.join(", ")}. ${club.musicPolicy.join(", ")} music. Tables from ${club.tableMinimum}. Book instantly via WhatsApp.`,
     alternates: { canonical: `https://mayfairtonight.com/clubs/${club.slug}` },
     openGraph: {
       title: isClosed
         ? `${club.name} Has Closed: Mayfair Alternatives`
-        : `${club.name} Tonight: Events, Music & Bookings`,
+        : previousName
+          ? `${club.name}${formerly}: Mayfair Tables & Guestlist`
+          : `${club.name} Tonight: Events, Music & Bookings`,
       description: isClosed
         ? `${club.name} has closed. Open Mayfair clubs with a similar crowd and music.`
         : `${club.tagline}. ${club.musicPolicy.join(", ")} music in ${club.area}. Tables from ${club.tableMinimum}.`,
@@ -53,9 +62,11 @@ export default async function ClubPage({
   if (!club) notFound();
 
   const isClosed = club.status === "closed";
+  // An open venue that changed name: a "Formerly X" line under the H1, otherwise the open layout.
+  const previousName = isClosed ? undefined : club.previousName;
   const openClubs = getOpenClubs();
-  // A closed venue suggests its chosen open alternatives first.
-  const preferred = isClosed ? club.alternatives ?? [] : [];
+  // A closed venue suggests its chosen open alternatives first; an open one its chosen neighbours.
+  const preferred = isClosed ? club.alternatives ?? [] : club.nearby ?? [];
   const relatedClubs = [
     ...preferred
       .map((s) => openClubs.find((c) => c.slug === s))
@@ -68,7 +79,7 @@ export default async function ClubPage({
     <>
       <HeroImage
         src={images?.hero || "/gallery/images/fe4414_1949bb37981e48da989264fa0d381f0b.jpg"}
-        alt={`${club.name} nightclub interior`}
+        alt={images?.heroAlt ?? `${club.name} nightclub interior`}
         overlay={
           isClosed
             ? "bg-gradient-to-t from-black via-black/80 to-black/60"
@@ -87,6 +98,11 @@ export default async function ClubPage({
             <h1 className="text-3xl sm:text-4xl font-bold text-white">
               {club.name}
             </h1>
+            {previousName && (
+              <p className="text-sm uppercase tracking-wider text-gray-300 mt-1">
+                Formerly {previousName}
+              </p>
+            )}
             {isClosed ? (
               <p className="text-red-400 text-lg font-semibold mt-1">Permanently Closed</p>
             ) : (
@@ -159,7 +175,7 @@ export default async function ClubPage({
             <div className="relative aspect-video overflow-hidden rounded-xl mt-6">
               <Image
                 src={images.interior}
-                alt={`Inside ${club.name}`}
+                alt={images.interiorAlt ?? `Inside ${club.name}`}
                 fill
                 className="object-cover"
                 sizes="(max-width: 768px) 100vw, 768px"
@@ -319,6 +335,7 @@ export default async function ClubPage({
                   "@context": "https://schema.org",
                   "@type": "NightClub",
                   name: club.name,
+                  ...(previousName ? { alternateName: previousName } : {}),
                   description: club.description,
                   address: {
                     "@type": "PostalAddress",

@@ -39,9 +39,9 @@ We book tables and guestlist across Mayfair every week. We know which clubs deli
 
 **Best for:** Special occasions. If you want your night to feel like an event, this is the one.
 
-### 4. Rumour (formerly TABU London): The Cool One
+### 4. Rumour (formerly Tabu): The Cool One
 
-Rumour has taken over the former TABU London space on Dover Street and is open Wednesday to Saturday. TABU was known for a dark, moody room and a fashion-forward crowd, and this corner of Mayfair is still the cooler, more composed alternative to the big party clubs. Ask us what the music is on the night you want.
+[Rumour](/clubs/rumour-london) is the old Tabu room at 1 Dover Street, rebranded with a new design and a new concept, and open Wednesday to Saturday from 11pm to 4am. It is one intimate room of red velvet booths playing open-format hip hop, RnB and house, and there are no photos or video on the dance floor, which keeps this corner of Mayfair the cooler, more composed alternative to the big party clubs. Ladies come in on the guestlist; men and mixed groups book a booth from £1,000.
 
 **Best for:** Fashion-conscious people who want atmosphere over chaos.
 
@@ -65,7 +65,7 @@ Rumour has taken over the former TABU London space on Dover Street and is open W
 
 ### 8. 99 Regent Street (formerly Cuckoo Club): The Two-for-One
 
-The old Cuckoo Club building off Regent Street now trades as 99 Regent Street, open Wednesday to Saturday. Cuckoo built its name on two floors with two different vibes, house downstairs and hip-hop up, which made it one of the more sociable clubs in Mayfair. Ask us what each room is playing at the new venue on the night you want.
+[99 Regent Street](/clubs/99-regent-street) is the Cuckoo Club founders back on the same floor off Swallow Street with a new concept, open Wednesday to Saturday from 11pm to 4am. Two floors, two sounds: hip hop and RnB in the main room upstairs, house downstairs, with both floors running on Friday and Saturday. Tables start from £600, the guestlist welcomes mixed groups, and the door is 19+ with physical photo ID.
 
 **Best for:** Groups who want a sociable night just off Regent Street.
 

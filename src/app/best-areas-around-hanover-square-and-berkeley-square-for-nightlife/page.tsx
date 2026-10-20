@@ -18,9 +18,9 @@ export const metadata: Metadata = {
 };
 
 const faqs = [
-  { question: "Which area of Mayfair has the most clubs?", answer: "The Dover Street and Mayfair core area has the highest density. Scotch of St James, Dear Darling and Maddox are all within a five-minute walk of each other, and Selene London is a short walk north across Oxford Street. You could visit three venues in one night without ever needing a taxi." },
+  { question: "Which area of Mayfair has the most clubs?", answer: "The Dover Street and Mayfair core area has the highest density. Scotch of St James, Dear Darling and Maddox are all within a five-minute walk of each other, Rumour is on Dover Street itself, and Selene London is a short walk north across Oxford Street. You could visit three venues in one night without ever needing a taxi." },
   { question: "Can I walk between all the Mayfair clubs?", answer: "Most of them, yes. The furthest walk is from Berkeley Square to Cirque Le Soir near Soho, which takes about 12-15 minutes. Everything else is within 5-10 minutes on foot. Mayfair is compact and safe to walk at night." },
-  { question: "Which tube station is best for Mayfair nightlife?", answer: "Green Park is the most central for Berkeley Square venues. Bond Street works for Dover Street clubs. Piccadilly Circus is ideal for Reign. Oxford Circus is closest to BEAT London and Selene London. All close around midnight, so plan your return journey by taxi or ride-hail." },
+  { question: "Which tube station is best for Mayfair nightlife?", answer: "Green Park is the most central for Berkeley Square venues and a few minutes from Rumour on Dover Street. Bond Street works for Dover Street clubs. Piccadilly Circus is ideal for Reign and two minutes from 99 Regent Street. Oxford Circus is closest to BEAT London and Selene London. All close around midnight, so plan your return journey by taxi or ride-hail." },
   { question: "Is it safe to walk around Mayfair at night?", answer: "Very safe. Mayfair is one of London's most affluent and well-patrolled neighbourhoods. The streets are well-lit, there are people around throughout the night, and the distances between clubs are short. Standard city awareness applies, but Mayfair is about as safe as it gets." },
   { question: "Where can I eat after clubbing in Mayfair?", answer: "Late-night options include spots around Shepherd Market for casual bites, the kebab and pizza places along Piccadilly, and a few restaurants near Berkeley Square that serve until the early hours. Some hotel restaurants also offer late-night menus." },
 ];
@@ -65,11 +65,12 @@ export default function NightlifeAreasPage() {
             <div className="space-y-4">
               <div className="text-gray-300 space-y-3 leading-relaxed">
                 <p>Berkeley Square is one of Mayfair&apos;s most recognisable landmarks: a tree-lined garden square surrounded by grand Georgian townhouses. The square itself is quiet at night, but Berkeley Street, which runs south from it toward Piccadilly, is where the nightlife action happens.</p>
-                <p>For years this strip was the hip-hop and R&amp;B corridor of Mayfair, built around Funky Buddha on Berkeley Street and TABU London around the corner on Dover Street. Both have since closed: Itzel has opened in Funky Buddha&apos;s space and Rumour in TABU&apos;s. For a hip-hop club night from here, the nearest venue we cover is Reign London on Piccadilly.</p>
+                <p>For years this strip was the hip-hop and R&amp;B corridor of Mayfair, built around Funky Buddha on Berkeley Street and Tabu around the corner on Dover Street. Funky Buddha has closed and Itzel has opened in its space. Tabu is now <Link href="/clubs/rumour-london" className="text-gold hover:text-gold-light">Rumour</Link>, at 1 Dover Street: one intimate booth room playing open-format hip hop, RnB and house, Wednesday to Saturday from 11pm to 4am, and the nearest club we cover from here. Reign London on Piccadilly is the other short walk for a hip-hop night.</p>
               </div>
               <div className="border-t border-dark-border pt-3">
-                <h3 className="text-gold font-semibold mb-2">Nearest Club We Cover</h3>
+                <h3 className="text-gold font-semibold mb-2">Nearest Clubs We Cover</h3>
                 <div className="space-y-2">
+                  <div><Link href="/clubs/rumour-london" className="text-white font-medium hover:text-gold">Rumour</Link> <span className="text-dark-muted text-sm">: 1 Dover Street, formerly Tabu. Red velvet booths, a no-photography policy and open-format hip hop, RnB and house until 4am.</span></div>
                   <div><Link href="/clubs/reign-london" className="text-white font-medium hover:text-gold">Reign London</Link> <span className="text-dark-muted text-sm">: Piccadilly. Shows, production and bottle service, with commercial, hip-hop and house.</span></div>
                 </div>
               </div>
@@ -110,12 +111,13 @@ export default function NightlifeAreasPage() {
           <div className="bg-dark-card border border-dark-border rounded-lg p-5">
             <div className="space-y-4">
               <div className="text-gray-300 space-y-3 leading-relaxed">
-                <p>This is the densest nightlife cluster in Mayfair. Four venues within a five-minute walking radius, spanning cocktail bars, supper clubs, and late-night dance floors. If you only have one night in Mayfair, this is where to spend it.</p>
+                <p>This is the densest nightlife cluster in Mayfair. Five venues within a short walk of each other, spanning cocktail bars, supper clubs, and late-night dance floors. If you only have one night in Mayfair, this is where to spend it.</p>
                 <p>The area runs roughly from Dover Street through to Albemarle Street and the surrounding side streets. It&apos;s the heart of Mayfair&apos;s nightlife: sophisticated, varied, and endlessly walkable. You can start with cocktails, move to dinner, and end on a dance floor without ever needing to check a map.</p>
               </div>
               <div className="border-t border-dark-border pt-3">
                 <h3 className="text-gold font-semibold mb-2">Clubs in This Area</h3>
                 <div className="space-y-2">
+                  <div><Link href="/clubs/rumour-london" className="text-white font-medium hover:text-gold">Rumour</Link>: <span className="text-dark-muted text-sm">Formerly Tabu, at 1 Dover Street. One intimate room of red velvet booths, open-format hip hop, RnB and house, and no photos or video on the dance floor. Wednesday to Saturday until 4am.</span></div>
                   <div><Link href="/clubs/scotch-of-st-james" className="text-white font-medium hover:text-gold">Scotch of St James</Link>: <span className="text-dark-muted text-sm">Members-club atmosphere on Mason&apos;s Yard. Intimate, exclusive, and loyal to its regulars. The door knows its people.</span></div>
                   <div><Link href="/clubs/dear-darling" className="text-white font-medium hover:text-gold">Dear Darling</Link>: <span className="text-dark-muted text-sm">Cocktail bar with a refined edge. Perfect for starting the evening. Beautiful interior, impeccable drinks, conversational atmosphere.</span></div>
                   <div><Link href="/clubs/maddox" className="text-white font-medium hover:text-gold">Maddox</Link>: <span className="text-dark-muted text-sm">Restaurant upstairs, club downstairs. The dinner-to-dance concept done right. House music, sleek design, well-dressed crowd.</span></div>
@@ -142,6 +144,7 @@ export default function NightlifeAreasPage() {
               <div className="border-t border-dark-border pt-3">
                 <h3 className="text-gold font-semibold mb-2">Clubs in This Area</h3>
                 <div className="space-y-2">
+                  <div><Link href="/clubs/99-regent-street" className="text-white font-medium hover:text-gold">99 Regent Street</Link>: <span className="text-dark-muted text-sm">Formerly Cuckoo Club, entered from Swallow Street. Two floors: hip hop and RnB in the main room upstairs, house downstairs. Wednesday to Saturday, 11pm to 4am, 19+ with photo ID.</span></div>
                   <div><Link href="/clubs/reign-london" className="text-white font-medium hover:text-gold">Reign London</Link>: <span className="text-dark-muted text-sm">Large venue with live entertainment and dramatic production. Professional door, reliable guestlist. The biggest room in this part of Mayfair.</span></div>
                 </div>
               </div>
@@ -230,9 +233,9 @@ export default function NightlifeAreasPage() {
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">
               <h3 className="text-gold font-semibold mb-2">Nearest Tube Stations</h3>
               <ul className="text-sm text-gray-300 space-y-1">
-                <li>• <strong>Green Park</strong>: Best for Berkeley Square and Dear Darling</li>
+                <li>• <strong>Green Park</strong>: Best for Berkeley Square, Dear Darling and Rumour on Dover Street</li>
                 <li>• <strong>Bond Street</strong>: Best for Hanover Square, Tape London, Dover Street clubs</li>
-                <li>• <strong>Piccadilly Circus</strong>: Best for Reign and the Soho border</li>
+                <li>• <strong>Piccadilly Circus</strong>: Best for Reign, 99 Regent Street (two minutes) and the Soho border</li>
                 <li>• <strong>Oxford Circus</strong>: Best for BEAT London, Selene and the northern approach to Mayfair</li>
               </ul>
               <p className="text-xs text-dark-muted mt-2">All stations close around midnight on most nights. Friday and Saturday Night Tube services run on some lines: check before you go.</p>

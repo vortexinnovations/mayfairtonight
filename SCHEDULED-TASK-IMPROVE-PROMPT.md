@@ -48,7 +48,7 @@ SITE  /mayfair-club-entry-rules                 2,686 / 26, pos 7.2
 SITE  /dress-code                               2,369 / 28, pos 8.1
 SITE  /clubs/reign-london                       2,283 / 11, pos 11.4
 BLOG  /blog/over-30s-nightlife-mayfair          2,146 / 52, pos 9.8
-BLOG  /blog/best-hip-hop-clubs-london           2,127 / 46, pos 14.7 (its table lists closed venues)
+BLOG  /blog/best-hip-hop-clubs-london           2,127 / 46, pos 14.7 (Rumour and 99 Regent Street rows updated 2026-10-20)
 SITE  /best-nightclubs-in-mayfair               1,931 / 21, pos 17.1
 SITE  /clubs/cirque-le-soir                     1,825 / 3, pos 12.0
 BLOG  /blog/mahiki-london-guide                 1,634 / 4, pos 13.5 (Mahiki is closed)
@@ -60,7 +60,7 @@ BLOG  /blog/funky-buddha-london-guide             996 / 7, pos 10.7 (Funky Buddh
 SITE  /nights/tuesday                             924 / 13, pos 17.2
 BLOG  /blog/best-house-music-clubs-london         672 / 10, pos 26.4
 BLOG  /blog/selene-london-club-guide              603 / 2, pos 9.9
-SITE  /clubs/cuckoo-club                          582 / 2, pos 13.5 (Cuckoo Club is closed)
+SITE  /clubs/99-regent-street                     582 / 2, pos 13.5 (was /clubs/cuckoo-club, now redirected)
 BLOG  /blog/what-to-do-in-mayfair-at-night        432 / 10, pos 12.3
 BLOG  /blog/dinner-and-clubbing-mayfair           428 / 15, pos 19.8
 SITE  /nights/sunday                              475 / 5, pos 9.5
@@ -76,7 +76,8 @@ The homepage is excluded. When the queue is exhausted, run `ppm --queries mayfai
 
 `src/data/clubs.ts` lists venues as `status: "open"` that have closed. Every closed venue page then shows a closure notice (`closedMessage`), and the night pages stop listing it. As of 2026-10-07:
 
-- **Closed per scheduler_venues AND mfnights' venue-closure data (act on these):** Funky Buddha (Itzel has opened at the same Berkeley Street address), TABU London (Rumour has opened at the same Dover Street address), Cuckoo Club (99 Regent Street has opened in the same building). Set `status: "closed"` and write a `closedMessage` that says so plainly and points to open venues THIS site covers. Mention the successor venue by name only as a fact; do not link it or claim we book it unless it is in `clubs.ts`.
+- **Renamed, not closed: RESOLVED (2026-10-20).** TABU London is now Rumour and Cuckoo Club is now 99 Regent Street. Both are open entries in `clubs.ts` that we book (`/clubs/rumour-london`, `/clubs/99-regent-street`, with the former name in `previousName`), and `/clubs/tabu-london` and `/clubs/cuckoo-club` redirect there permanently. Never mark either closed or bring back the old slugs.
+- **Closed per scheduler_venues AND mfnights' venue-closure data (act on these):** Funky Buddha (Itzel has opened at the same Berkeley Street address). Set `status: "closed"` and write a `closedMessage` that says so plainly and points to open venues THIS site covers. Mention the successor venue by name only as a fact; do not link it or claim we book it unless it is in `clubs.ts`.
 - **Luna Club London and Maison Close: RESOLVED (owner, 2026-10-07: both permanently closed).** Both are now `status: "closed"` in `clubs.ts` with a `closedMessage` and an `alternatives` list (open venues shown first under "Open Clubs in Mayfair"), and the hub pages no longer recommend Luna. Their pages stay live and indexable. Treat any page that still presents either as open as a closed-venue fix.
 - **Successors (owner-confirmed 2026-10-07):** Itzel now operates at Funky Buddha's Berkeley Street address and is the successor to Funky Buddha and Luxx; Selene now operates in Libertine's place. State these as facts in the closed entries; never describe them as unconfirmed. Itzel is not in `clubs.ts`, so name it without linking it or claiming we book it.
 - **Already closed here but recommending closed venues:** fix the `closedMessage` / `whatToExpect` of Libertine and Luxx Club so they only recommend open venues.

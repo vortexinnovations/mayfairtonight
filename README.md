@@ -35,12 +35,12 @@ src/data/events.json
    - `tape-london`
    - `cirque-le-soir`
    - `the-london-reign`
-   - `tabu-london`
+   - `rumour-london`
    - `libertine`
    - `luxx-club`
    - `maddox`
    - `scotch-of-st-james`
-   - `cuckoo-club`
+   - `99-regent-street`
    - `dear-darling`
    - `beat-london`
    - `ministry-of-sound`

@@ -36,7 +36,11 @@ export const heroImages = {
 
 // ── CLUB-SPECIFIC IMAGES ────────────────────────────────────
 
-export const clubImages: Record<string, { hero: string; card: string; interior: string }> = {
+// heroAlt / interiorAlt: optional alt text naming the room, for venues whose photos show a named space.
+export const clubImages: Record<
+  string,
+  { hero: string; card: string; interior: string; heroAlt?: string; interiorAlt?: string }
+> = {
   "tape-london": {
     hero: IMG("Tape-1.jpg"),
     card: IMG("Tape-10.jpg"),
@@ -52,20 +56,24 @@ export const clubImages: Record<string, { hero: string; card: string; interior: 
     card: IMG("fe4414_141a8e5a0dc0400caa5217cf2d206ba5.jpg"),
     interior: IMG("fe4414_14215a177bd145bc8a61ed0ee4b18217.jpg"),
   },
-  "tabu-london": {
-    hero: IMG("fe4414_1462f563979d4a04a8a2991d56c3b384.jpg"),
-    card: IMG("fe4414_1016cb8f2f854fcba503d8b29d4ebf9d.jpg"),
-    interior: IMG("fe4414_1036a15d056b412b9726c8b4556052e7.jpg"),
+  "rumour-london": {
+    hero: IMG("rumour-london.jpg"),
+    card: IMG("rumour-london.jpg"),
+    interior: IMG("rumour-london.jpg"),
+    heroAlt: "Rumour at 1 Dover Street, the red velvet booths in the main room",
+    interiorAlt: "Inside Rumour: the red velvet booths of the main room",
   },
   "funky-buddha": {
     hero: IMG("fe4414_10afb3199f46404bb4b1cafdd9ef545d.jpg"),
     card: IMG("fe4414_10b096491888432598b5a27177f140f9.jpg"),
     interior: IMG("fe4414_10d980e9eafe4511aa039df9199cf114.jpg"),
   },
-  "cuckoo-club": {
-    hero: IMG("fe4414_11a552e726fa49a4a469fe4ce46a7272.jpg"),
-    card: IMG("fe4414_12418cd5e5264ad0aaff1cb8bdfe39ba.jpg"),
-    interior: IMG("fe4414_124e349671964aa29f1f68ae2d45d115.jpg"),
+  "99-regent-street": {
+    hero: IMG("99-regent-street-main-room.jpg"),
+    card: IMG("99-regent-street-bar.jpg"),
+    interior: IMG("99-regent-street-downstairs.jpg"),
+    heroAlt: "99 Regent Street, the main room upstairs",
+    interiorAlt: "99 Regent Street, the downstairs house room",
   },
   "scotch-of-st-james": {
     hero: IMG("fe4414_12832d40673b426d9faf3d07656aad64.jpg"),

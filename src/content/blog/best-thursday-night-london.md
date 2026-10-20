@@ -39,9 +39,9 @@ Weekend tables sell out fast. Thursday tables are more available, which means be
 
 ## Where to Go This Thursday
 
-### For Fashion & Cool: Rumour (formerly TABU London)
+### For Fashion & Cool: [Rumour](/clubs/rumour-london) (formerly Tabu)
 
-Rumour has taken over TABU London's old space on Dover Street and opens Wednesday to Saturday, so Thursday is on. TABU's Thursdays drew the fashion crowd, and this is still the stylish, moodier corner of the Mayfair map. Ask us what the music is this week.
+Rumour has taken over Tabu's old space at 1 Dover Street and opens Wednesday to Saturday from 11pm to 4am, so Thursday is on. Thursday is one of its more relaxed nights and among the easiest for the ladies' guestlist; men and mixed groups come in on a booth from £1,000. One intimate room of red velvet booths, no photos or video on the dance floor: still the stylish, moodier corner of the Mayfair map.
 
 ### For Something New: Itzel
 
@@ -59,9 +59,9 @@ Thursday at Scotch is particularly good. The intimate room fills up nicely, the 
 
 Start with dinner, transition to house music downstairs. Thursday at Maddox has a more relaxed, sophisticated crowd than the weekend rush.
 
-### For Two Vibes: 99 Regent Street (formerly Cuckoo Club)
+### For a Late Finish: [99 Regent Street](/clubs/99-regent-street) (formerly Cuckoo Club)
 
-The old Cuckoo Club building now trades as 99 Regent Street, open Wednesday to Saturday. Cuckoo was known for house downstairs and hip-hop up; ask us how the rooms are split at the new venue on the Thursday you want.
+The old Cuckoo Club floor now trades as 99 Regent Street, open Wednesday to Saturday from 11pm to 4am. It has two floors, hip hop and RnB upstairs and house downstairs, and on a Thursday one of them opens, so message us and we will tell you which room is on. Tables start from £600 and the door is 19+ with photo ID.
 
 ## Thursday Night Checklist
 

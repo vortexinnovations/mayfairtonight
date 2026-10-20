@@ -25,9 +25,9 @@ Here's what's close and what's worth your time.
 
 ### 99 Regent Street (formerly Cuckoo Club)
 
-The old Cuckoo Club building on Swallow Street, which runs directly off Piccadilly, now trades as 99 Regent Street. Two minutes from the circus and easy to find. Cuckoo was known for two floors of different music, house downstairs and hip-hop up; ask us what the new venue is playing on your night.
+[99 Regent Street](/clubs/99-regent-street) is the old Cuckoo Club floor at the Piccadilly Circus end of Regent Street, entered from Swallow Street, which runs directly off Piccadilly. Two minutes from the circus and easy to find. Two floors: hip hop and RnB in the main room upstairs, house downstairs, with both floors running on Friday and Saturday and one floor on Wednesday and Thursday.
 
-**Open:** Wednesday to Saturday.
+**Open:** Wednesday to Saturday, 23:00 to 04:00.
 
 ### Dear Darling
 
@@ -43,11 +43,11 @@ Itzel has opened at 15 Berkeley Street, the former Funky Buddha address, a short
 
 **Open:** Thursday to Saturday.
 
-### Rumour (formerly TABU London)
+### Rumour (formerly Tabu)
 
-Rumour has taken over the former TABU London space on Dover Street, in the heart of Mayfair and about an eight-minute walk from Piccadilly. TABU drew a fashion-forward crowd; ask us what Rumour is running on the night you want.
+[Rumour](/clubs/rumour-london) has taken over the former Tabu space at 1 Dover Street, in the heart of Mayfair and about an eight-minute walk from Piccadilly, with Green Park station a few minutes away. One intimate room of red velvet booths, open-format hip hop, RnB and house, and no photos or video on the dance floor.
 
-**Open:** Wednesday to Saturday.
+**Open:** Wednesday to Saturday, 23:00 to 04:00.
 
 ### Tape London
 

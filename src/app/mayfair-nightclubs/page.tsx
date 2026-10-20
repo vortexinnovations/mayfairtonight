@@ -47,6 +47,22 @@ const clubInsights: Record<
     guestlistTip:
       "Guestlist is available but book early for weekends. Tables near the stage give the best experience: the aerial acts happen directly above you.",
   },
+  "rumour-london": {
+    crowd:
+      "Ladies on the guestlist, men and mixed groups on booths. 18+ with photo ID, dressed up, and happy to leave their phones in their pockets: there are no photos or video in the main room or on the dance floor.",
+    bestNight:
+      "Wednesday and Thursday are the more relaxed nights and the easiest for the ladies' guestlist. Friday and Saturday fill out, and the room fills early by design, so arrange a booth in advance.",
+    guestlistTip:
+      "Ladies' guestlist only, free to £20 on the door depending on the night and how busy it is. Men are not added to the guestlist: a booth from £1,000 covers entry for the whole group.",
+  },
+  "99-regent-street": {
+    crowd:
+      "Over 19s with physical photo ID, a year older than most London doors, and mixed groups welcome. A hip hop and RnB crowd in the main room upstairs, a house crowd downstairs.",
+    bestNight:
+      "Friday and Saturday run both floors, so those are the nights for both sounds. Wednesday and Thursday open one floor, so ask us which room is on.",
+    guestlistTip:
+      "Guestlist is by request and mixed groups are welcome, with entry from free to about £50 depending on the night and arrival time. Tables from £600 cover entry for the whole group.",
+  },
   "scotch-of-st-james": {
     crowd:
       "Older, more refined Mayfair regulars. Members and their guests. People who appreciate history and don't need the newest, shiniest venue. Understated wealth.",

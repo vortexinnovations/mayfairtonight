@@ -31,7 +31,7 @@ The crowd is older and more sophisticated than most Mayfair clubs. This is where
 
 ### 99 Regent Street (formerly Cuckoo Club)
 
-The old Cuckoo Club building on Swallow Street, just off Regent Street, now trades as 99 Regent Street, open Wednesday to Saturday. Cuckoo was known for house downstairs and hip-hop upstairs; the music policy at the new venue can change from night to night, so message us before you go and we will tell you what is playing.
+[99 Regent Street](/clubs/99-regent-street), entered from Swallow Street just off Regent Street, is the old Cuckoo Club floor reopened with a new concept, open Wednesday to Saturday from 11pm to 4am. The house room is downstairs: darker and more dance-focused than the hip hop and RnB in the main room upstairs. Both floors run on Friday and Saturday, so those are the nights to count on house; on Wednesday and Thursday one floor opens, so message us and we will tell you which.
 
 ### Dear Darling: House with Cocktails
 

@@ -89,6 +89,44 @@ const clubDressCodes: ClubDressCode[] = [
       "Reign is a showclub: the audience dresses for the occasion. Think opening-night energy. Women tend to dress up more here than any other Mayfair venue.",
   },
   {
+    name: "Rumour",
+    slug: "rumour-london",
+    strictness: 4,
+    works: [
+      "For women: dressed up, with heels",
+      "For men: a considered look, such as a smart shirt or knit with tailored trousers",
+      "Dark, polished outfits that suit a red velvet booth room",
+      "Photo ID: the door is 18+",
+    ],
+    doesnt: [
+      "Sportswear of any kind",
+      "Fancy dress",
+      "Trainers, unless the door allows them on the night",
+      "A casual, thrown-together look",
+    ],
+    insiderTip:
+      "Rumour (formerly Tabu) is one intimate room of booths, so dress up rather than down. Leave the phone in your pocket too: there are no photos or video in the main room or on the dance floor.",
+  },
+  {
+    name: "99 Regent Street",
+    slug: "99-regent-street",
+    strictness: 4,
+    works: [
+      "Black: the safe choice for everyone",
+      "Elegant evening wear: tailored trousers with a smart shirt or knit",
+      "Clean, minimal trainers, at the door's discretion",
+      "Physical photo ID: the door is 19+",
+    ],
+    doesnt: [
+      "Sportswear",
+      "Running trainers",
+      "Shorts or caps",
+      "Fancy dress",
+    ],
+    insiderTip:
+      "99 Regent Street (formerly Cuckoo Club) enforces an elegant dress code and a 19+ door, a year older than most London clubs. Bring physical photo ID rather than a picture of it on your phone, and when in doubt, wear black.",
+  },
+  {
     name: "Scotch of St James",
     slug: "scotch-of-st-james",
     strictness: 4,
@@ -208,7 +246,7 @@ const faqs = [
   {
     question: "Can I wear trainers to a Mayfair club?",
     answer:
-      "No. Every Mayfair nightclub prohibits trainers regardless of brand or price. Even designer trainers from Gucci or Balenciaga will get you turned away. Wear leather shoes, loafers, Chelsea boots, or smart boots. This is the single most common reason people get refused at Mayfair doors.",
+      "Usually not. Most Mayfair nightclubs turn trainers away regardless of brand or price, and even designer trainers from Gucci or Balenciaga can get you refused. At 99 Regent Street and Rumour trainers are at the door's discretion (clean and minimal at 99), but running trainers and sportswear never pass. Wear leather shoes, loafers, Chelsea boots, or smart boots. This is the single most common reason people get refused at Mayfair doors.",
   },
   {
     question: "Can I wear jeans to a Mayfair nightclub?",
@@ -476,8 +514,10 @@ export default function MayfairDressCodePage() {
               </h3>
               <p className="text-sm text-gray-300">
                 The number one cause of rejection. It does not matter if they
-                cost 800 pounds. Trainers are trainers. Every Mayfair door
-                will turn you away. No exceptions.
+                cost 800 pounds. Trainers are trainers, and most Mayfair doors
+                will turn you away. Where trainers are left to the door&apos;s
+                discretion, as at 99 Regent Street and Rumour, running trainers
+                still never pass.
               </p>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">

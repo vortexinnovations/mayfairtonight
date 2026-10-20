@@ -32,7 +32,8 @@ Mayfair has every type of night. Before you book, know what your group actually 
 - **Entertainment and shows?** [Cirque Le Soir](/clubs/cirque-le-soir) or [Reign London](/clubs/reign-london)
 - **House music?** [Maddox](/clubs/maddox) or [Selene London](/clubs/selene-london)
 - **Dinner and dancing?** [Maddox](/clubs/maddox) or [Reign London](/clubs/reign-london)
-- **Cool and moody?** Rumour (formerly TABU London), open Wednesday to Saturday
+- **Cool and moody?** [Rumour](/clubs/rumour-london) (formerly Tabu), open until 4am; arrange a booth ahead on a Saturday
+- **Hip hop and house under one roof?** [99 Regent Street](/clubs/99-regent-street) (formerly Cuckoo Club), both floors open until 4am
 - **Not sure?** Check our [Where Should I Go Tonight](/where-to-go-tonight) guide
 
 ### Step 2: Book Early

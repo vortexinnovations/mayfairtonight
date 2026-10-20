@@ -23,11 +23,11 @@ But Mayfair nightlife is designed around groups and tables, so some venues suit 
 
 Arrive around 9:30pm, take a seat at the bar, and order properly. You'll be in conversation within 20 minutes. As the evening progresses and the music picks up, the bar becomes a natural gathering point. Nobody will notice or care that you arrived alone.
 
-### 99 Regent Street (formerly Cuckoo Club): Sociable and Welcoming
+### [99 Regent Street](/clubs/99-regent-street) (formerly Cuckoo Club): Sociable and Welcoming
 
-The old Cuckoo Club building now trades as 99 Regent Street, open Wednesday to Saturday. Cuckoo was one of the more sociable rooms in Mayfair, the kind of dance floor where strangers become friends, and a Wednesday or Thursday is the easiest time to try the new venue on your own.
+The old Cuckoo Club floor now trades as 99 Regent Street, open Wednesday to Saturday from 11pm to 4am. Cuckoo was one of the more sociable rooms in Mayfair, the kind of dance floor where strangers become friends, and a Wednesday or Thursday, when one floor opens, is the easiest time to try the new venue on your own.
 
-Guest list entry on a weeknight is the simplest route. Arrive before 11pm, head to the bar, and let the atmosphere do the work.
+Guestlist on a weeknight is the simplest route: it is by request, and we confirm your name and the night's terms before you go. Arrive soon after the 11pm doors, head to the long bar, and let the atmosphere do the work.
 
 ### Maddox: Dinner Transitions Naturally
 
@@ -67,7 +67,7 @@ Read our full [Mayfair nightlife guide](/mayfair-nightlife-guide) for background
 
 **Bar venues** (Dear Darling, [Selene London](/clubs/selene-london)): conversation happens naturally at the bar. The format encourages it. Make eye contact, comment on a drink, ask for a recommendation. The bar environment removes the pressure of approaching someone on a dance floor.
 
-**Dance floor venues** (99 Regent Street, [BEAT London](/clubs/beat-london)): the dance floor is the great equaliser. If you can dance (even a little), you'll be absorbed into nearby groups. Energy is infectious. Nobody asks how you arrived.
+**Dance floor venues** ([99 Regent Street](/clubs/99-regent-street), [BEAT London](/clubs/beat-london)): the dance floor is the great equaliser. If you can dance (even a little), you'll be absorbed into nearby groups. Energy is infectious. Nobody asks how you arrived.
 
 ## Table for One vs Guest List Alone
 

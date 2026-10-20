@@ -19,7 +19,7 @@ Mayfair has an embarrassment of riches when it comes to pre-club drinking. The t
 
 [Dear Darling](/clubs/dear-darling) is the most seamless pre-club option in Mayfair because it doesn't force you to leave. The venue transitions from cocktail bar to late-night destination as the evening progresses. Start with cocktails at 9pm, and by midnight the music has lifted and the room has transformed.
 
-This makes Dear Darling ideal for groups who don't want the logistics of moving between venues. It's also excellent for nights when you're undecided: start here and decide later whether to stay or move on to somewhere like 99 Regent Street (formerly Cuckoo Club) or Rumour (formerly TABU London), both within easy walking distance.
+This makes Dear Darling ideal for groups who don't want the logistics of moving between venues. It's also excellent for nights when you're undecided: start here and decide later whether to stay or move on to somewhere like [99 Regent Street](/clubs/99-regent-street) (formerly Cuckoo Club) or [Rumour](/clubs/rumour-london) (formerly Tabu), both within easy walking distance and open until 4am, Wednesday to Saturday.
 
 ## Selene London: Cocktails Before House Music
 

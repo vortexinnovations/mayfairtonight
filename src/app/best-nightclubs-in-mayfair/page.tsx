@@ -103,6 +103,23 @@ const rankedClubs: RankedClub[] = [
   },
   {
     rank: 5,
+    name: "Rumour",
+    slug: "rumour-london",
+    category: "Most Discreet",
+    verdict:
+      "Rumour (formerly Tabu) is one intimate room at 1 Dover Street, built around booths in deep red velvet under a chandelier. What sets it apart is the no-photography policy: no photos or video in the main room or on the dance floor, enforced by the floor team. The music is open format, hip hop, RnB and house, read to the room, and the room fills early by design. Ladies come in on the guestlist; men and mixed groups book a booth from £1,000, which covers entry for the whole group.",
+    strengths: [
+      "No photos or video on the dance floor",
+      "One intimate room of around 200, built around booths",
+      "Open-format hip hop, RnB and house",
+      "Open until 4am, Wednesday to Saturday",
+    ],
+    bestFor: "Groups who want a booth and a night off camera",
+    music: "Hip-Hop, RnB, House",
+    nights: "Wed, Thu, Fri, Sat",
+  },
+  {
+    rank: 6,
     name: "Maddox",
     slug: "maddox",
     category: "Best Dinner-to-Dance",
@@ -119,7 +136,7 @@ const rankedClubs: RankedClub[] = [
     nights: "Thu, Fri, Sat",
   },
   {
-    rank: 6,
+    rank: 7,
     name: "Scotch of St James",
     slug: "scotch-of-st-james",
     category: "Most Historic",
@@ -136,7 +153,7 @@ const rankedClubs: RankedClub[] = [
     nights: "Thu, Fri, Sat",
   },
   {
-    rank: 7,
+    rank: 8,
     name: "Dear Darling",
     slug: "dear-darling",
     category: "Best Bar-Club Hybrid",
@@ -153,7 +170,24 @@ const rankedClubs: RankedClub[] = [
     nights: "Thu, Fri, Sat, Sun",
   },
   {
-    rank: 8,
+    rank: 9,
+    name: "99 Regent Street",
+    slug: "99-regent-street",
+    category: "Most Versatile",
+    verdict:
+      "99 Regent Street (formerly Cuckoo Club) is the Cuckoo founders back on the same floor with a new concept, entered from Swallow Street by Piccadilly Circus. Two floors of around 200 each: open-format hip hop and RnB in the main room upstairs, where most tables sit, and darker, dance-focused house downstairs. Both floors run on Friday and Saturday, one floor on Wednesday and Thursday. Tables from £600 cover entry for the whole group, and the guestlist welcomes mixed groups.",
+    strengths: [
+      "Two floors, two sounds: hip hop and RnB upstairs, house downstairs",
+      "Tables from £600, covering entry for the group",
+      "Guestlist open to mixed groups",
+      "Open until 4am, Wednesday to Saturday",
+    ],
+    bestFor: "Mixed groups who want hip hop and house under one roof",
+    music: "Hip-Hop, RnB, House",
+    nights: "Wed, Thu, Fri, Sat",
+  },
+  {
+    rank: 10,
     name: "Selene London",
     slug: "selene-london",
     category: "Best Newcomer",

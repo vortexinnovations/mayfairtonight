@@ -55,7 +55,7 @@ export const nights: NightInfo[] = [
     vibe: "Midweek buzz, sociable, less crowded than weekends",
     bestFor: "Midweek party people, sociable groups, those who want big-club energy without weekend crowds",
     recommendation:
-      "Wednesday is brilliant in Mayfair. Cirque Le Soir runs its full circus-nightclub experience on Wednesdays, one of the best midweek nights in London. The Box opens for something edgier and theatrical. Note: Reign London is closed on Wednesdays, and BEAT London and Maddox open from Thursday.",
+      "Wednesday is brilliant in Mayfair. Cirque Le Soir runs its full circus-nightclub experience on Wednesdays, one of the best midweek nights in London. The Box opens for something edgier and theatrical. Rumour on Dover Street and 99 Regent Street by Piccadilly Circus both open from 11pm to 4am: Wednesday is one of Rumour's relaxed nights and the easiest for its ladies' guestlist, and 99 opens one of its two floors. Note: Reign London is closed on Wednesdays, and BEAT London and Maddox open from Thursday.",
   },
   {
     slug: "thursday",
@@ -70,7 +70,7 @@ export const nights: NightInfo[] = [
     vibe: "High energy, the weekend starts here, buzzing",
     bestFor: "Everyone: Thursday is the most versatile night in Mayfair",
     recommendation:
-      "Thursday is the sweet spot. Reign London opens for shows and bottle service. For pure party energy, BEAT London is the go-to on the select Thursdays it opens, and The Box is open for something more theatrical. Maddox is the best dinner-to-dance option, Dear Darling suits a cocktail-led night, and Selene is a refined choice for house music and cocktails. Scotch also opens on Thursdays, as well as Friday and Saturday.",
+      "Thursday is the sweet spot. Reign London opens for shows and bottle service. For pure party energy, BEAT London is the go-to on the select Thursdays it opens, and The Box is open for something more theatrical. Maddox is the best dinner-to-dance option, Dear Darling suits a cocktail-led night, and Selene is a refined choice for house music and cocktails. Scotch also opens on Thursdays, as well as Friday and Saturday. Rumour and 99 Regent Street are open too, from 11pm to 4am.",
   },
   {
     slug: "friday",
@@ -85,7 +85,7 @@ export const nights: NightInfo[] = [
     vibe: "Peak nightlife, electric, packed, celebratory",
     bestFor: "Anyone who wants the full London Friday night experience",
     recommendation:
-      "Friday is when you go big. Tape London for exclusivity. Cirque Le Soir for entertainment. BEAT London for pure party energy. If you want something more refined, Maddox's dinner-to-dance offering is perfect for a Friday. The Box for something provocative and unforgettable. Reign London for world-class shows.",
+      "Friday is when you go big. Tape London for exclusivity. Cirque Le Soir for entertainment. BEAT London for pure party energy. If you want something more refined, Maddox's dinner-to-dance offering is perfect for a Friday. The Box for something provocative and unforgettable. Reign London for world-class shows. 99 Regent Street runs both floors, hip hop and RnB upstairs and house downstairs, and Rumour's booth room fills early, so arrange a booth ahead; both go on until 4am.",
   },
   {
     slug: "saturday",
@@ -100,7 +100,7 @@ export const nights: NightInfo[] = [
     vibe: "Peak, sold-out energy, legendary, the big one",
     bestFor: "The main event: this is the night everyone is out",
     recommendation:
-      "Saturday is about going all-in. Tape London is the pinnacle of exclusivity. Reign London delivers spectacular shows with aerial acts. For raw party energy, BEAT London is the pick. Cirque Le Soir's Saturday is the wildest night in London. The Box pushes boundaries. And Selene offers refined elegance for those who want something more sophisticated.",
+      "Saturday is about going all-in. Tape London is the pinnacle of exclusivity. Reign London delivers spectacular shows with aerial acts. For raw party energy, BEAT London is the pick. Cirque Le Soir's Saturday is the wildest night in London. The Box pushes boundaries. And Selene offers refined elegance for those who want something more sophisticated. 99 Regent Street opens both floors until 4am, and Rumour's red velvet booths are worth arranging in advance.",
   },
   {
     slug: "sunday",

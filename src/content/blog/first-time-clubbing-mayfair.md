@@ -56,9 +56,9 @@ It's not cheap. But the experience justifies it. These are some of the best nigh
 
 Not every Mayfair club is right for your first time. Here's where we'd send you:
 
-### 99 Regent Street (formerly Cuckoo Club): If You Want Options
+### [99 Regent Street](/clubs/99-regent-street) (formerly Cuckoo Club): If You Want Options
 
-The old Cuckoo Club building now trades as 99 Regent Street, open Wednesday to Saturday. Cuckoo made its name with two floors and two vibes, house downstairs and hip-hop up, which suits groups who cannot agree on music. Ask us how the new venue is splitting its rooms before you go.
+The old Cuckoo Club floor, reopened by its founders with a new concept, is open Wednesday to Saturday from 11pm to 4am. It has two floors and two sounds, hip hop and RnB in the main room upstairs and house downstairs, which suits groups who cannot agree on music; both floors run on Friday and Saturday. Bring physical photo ID, because the door is 19+, and dress elegantly: no sportswear or running trainers.
 
 ### [Cirque Le Soir](/clubs/cirque-le-soir): If You Want an Experience
 

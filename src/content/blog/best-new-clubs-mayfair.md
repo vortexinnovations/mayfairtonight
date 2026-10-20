@@ -19,7 +19,7 @@ Here's what's new, what's evolved, and where you should be going right now.
 
 ### Itzel, Rumour and 99 Regent Street
 
-Three familiar Mayfair addresses have new names over the door. Itzel has opened at 15 Berkeley Street, the former home of Funky Buddha, and runs Thursday to Saturday. Rumour has taken over the old TABU London space on Dover Street, and 99 Regent Street has replaced Cuckoo Club; both open Wednesday to Saturday. Programming at new venues settles over the first months, so message us before you go and we will tell you what each one is playing that week.
+Three familiar Mayfair addresses have new names over the door. Itzel has opened at 15 Berkeley Street, the former home of Funky Buddha, and runs Thursday to Saturday. [Rumour](/clubs/rumour-london) has taken over the old Tabu space at 1 Dover Street: one intimate room of red velvet booths with a no-photography policy, playing open-format hip hop, RnB and house. [99 Regent Street](/clubs/99-regent-street) has replaced Cuckoo Club, with hip hop and RnB upstairs and house downstairs. Both open Wednesday to Saturday from 11pm to 4am, and we book tables and guestlist at both. Itzel's programming is still settling, so message us before you go and we will tell you what it is playing that week.
 
 **Best for:** People who want to try the newest rooms in the area.
 
@@ -61,7 +61,7 @@ Read our full [Reign London guide](/blog/reign-london-shows-entertainment).
 
 ## How to Choose
 
-If you want **the newest experience**, hit [Selene London](/clubs/selene-london), or ask us about Itzel, Rumour and 99 Regent Street.
+If you want **the newest experience**, hit [Selene London](/clubs/selene-london), [Rumour](/clubs/rumour-london) or [99 Regent Street](/clubs/99-regent-street), or ask us about Itzel.
 
 If you want **proven quality**, [Reign London](/clubs/reign-london) delivers every time.
 

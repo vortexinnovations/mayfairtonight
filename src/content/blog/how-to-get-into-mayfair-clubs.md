@@ -46,13 +46,13 @@ This is less of a factor if you have a table booked. A booking overrides most ot
 ### Selective but Fair
 
 - **[Cirque Le Soir](/clubs/cirque-le-soir)**: Selective on weekends. Book a table or guestlist for the best chance.
-- **Rumour (formerly TABU London)**: Open Wednesday to Saturday on Dover Street. TABU had a fashion-conscious door; dress well and book ahead through us.
+- **[Rumour](/clubs/rumour-london) (formerly Tabu)**: Open Wednesday to Saturday, 11pm to 4am, at 1 Dover Street. 18+ with photo ID and a smart, dressed-up door. Ladies come in on the guestlist; men are not added to it, so men and mixed groups book a booth from £1,000.
 - **[Reign London](/clubs/reign-london)**: Smart dress code enforced. Bookings get priority. Dinner reservations are a strong route in.
 - **[Maddox](/clubs/maddox)**: Restaurant standard at the door. Dress for dinner.
 
 ### More Accessible
 
-- **99 Regent Street (formerly Cuckoo Club)**: Open Wednesday to Saturday. Cuckoo was one of the more accessible Mayfair clubs; guestlist recommended on weekends.
+- **[99 Regent Street](/clubs/99-regent-street) (formerly Cuckoo Club)**: Open Wednesday to Saturday, 11pm to 4am. Guestlist by request with mixed groups welcome, and tables from £600 that cover entry for the group. The door is 19+ with physical photo ID and the dress code is elegant and enforced.
 - **[BEAT London](/clubs/beat-london)**: More relaxed door than most. Music-first venue on Margaret Street in Fitzrovia, just north of Mayfair.
 - **[The Box](/clubs/the-box-london)**: More exclusive than most on this tier. Table bookings or guestlist strongly recommended.
 - **[Dear Darling](/clubs/dear-darling)**: Cocktail bar door, smart dress is enough.

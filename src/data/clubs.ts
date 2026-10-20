@@ -20,6 +20,14 @@ export interface Club {
   closedMessage?: string;
   /** Closed venues only: slugs of open venues on this site to suggest first. */
   alternatives?: string[];
+  /**
+   * Open venues that changed name: the old name people still search for. Shown in the page
+   * title, as a "Formerly X" line under the H1 and as alternateName in structured data.
+   * The page is otherwise a normal open-club page with the booking CTA.
+   */
+  previousName?: string;
+  /** Open venues: slugs of open clubs a short walk away, shown first under "Similar Clubs Nearby". */
+  nearby?: string[];
 }
 
 // ─── OPEN VENUES ────────────────────────────────────────────
@@ -95,28 +103,29 @@ export const clubs: Club[] = [
     status: "open",
   },
   {
-    slug: "tabu-london",
-    name: "TABU London",
-    tagline: "Japanese underground meets Mayfair nightlife",
+    slug: "rumour-london",
+    name: "Rumour",
+    previousName: "Tabu",
+    tagline: "An intimate red velvet booth room on Dover Street, open until 4am",
     description:
-      "TABU London brought a Japanese underground theme to Dover Street in Mayfair: dark, moody decor, hip-hop and RnB, and a fashion-conscious crowd. It has now closed, and Rumour has opened in the same space.",
-    location: "Mayfair",
+      "Rumour (formerly Tabu) is the booth club at 1 Dover Street, in the heart of Mayfair between Piccadilly and Grafton Street, open Wednesday to Saturday from 11pm to 4am. The Tabu name has gone: same ownership, a full rebrand, a new design and a new concept. It is one intimate room of around 200, built around booths in deep red velvet, with dark panelling, a chandelier and low warm lighting, and it fills early by design. The music is open format, hip hop, RnB and house, read to the room on the night. Green Park station is a few minutes away, Piccadilly Circus and Bond Street are walkable, and Dear Darling, Maddox and Tape London are a short walk if the night moves on.",
+    location: "1 Dover Street, Mayfair, London W1S 4LD",
     area: "Mayfair",
-    musicPolicy: ["Hip-Hop", "RnB"],
-    dressCode: "Smart and fashion-forward. Streetwear can work if it's high-end. No basic trainers or sportswear.",
-    dressCodeNotes: "TABU attracts a fashion-conscious crowd. Dress accordingly.",
+    musicPolicy: ["Hip-Hop", "RnB", "House"],
+    dressCode: "Smart and dressed up. Heels for ladies and a considered look for men. No sportswear and no fancy dress; trainers are at the door's discretion.",
+    dressCodeNotes: "Entry is 18+ with photo ID. Heels are the norm for ladies; men should look considered rather than casual.",
     tableMinimum: "£1,000",
-    openNights: [],
-    openingTime: "22:00",
-    closingTime: "03:30",
-    vibe: "Dark, moody, fashion-forward",
-    insiderTip: "TABU London has closed.",
+    openNights: ["Wednesday", "Thursday", "Friday", "Saturday"],
+    openingTime: "23:00",
+    closingTime: "04:00",
+    vibe: "Intimate, red velvet, camera-free",
+    insiderTip:
+      "Phones stay in pockets: there are no photos or video in the main room or on the dance floor, and the floor team enforce it. Wednesday and Thursday are the relaxed nights and the easiest for the ladies' guestlist; for Friday or Saturday, arrange a booth in advance.",
     whatToExpect:
-      "TABU London has closed. For hip-hop and RnB in a dark, stylish room, try Cirque Le Soir or Tape London.",
-    bestFor: "This venue has closed",
-    status: "closed",
-    closedMessage:
-      "TABU London has closed, and Rumour has opened in its place on Dover Street. For hip-hop and RnB in a dark, stylish room, try Cirque Le Soir for a full show or Tape London for Mayfair's most exclusive door.",
+      "One room, booths all round and a dance floor that fills early. Ladies come in on the guestlist, free to £20 on the door depending on the night and how busy it is; men are not added to the guestlist, so men and mixed groups come in on a booth. Booths start from £1,000 minimum spend and cover entry for the whole group: across eight people that is roughly £125 each, spent on drinks. The venue presents itself as a members' club; we book tables and guestlist for non-members, and the 200-capacity room suits private hire and corporate takeovers, with terms on request.",
+    bestFor: "Booths for groups, ladies on the guestlist, and anyone who wants a night off camera",
+    status: "open",
+    nearby: ["99-regent-street", "dear-darling", "maddox", "tape-london"],
   },
   {
     slug: "funky-buddha",
@@ -143,28 +152,29 @@ export const clubs: Club[] = [
       "Funky Buddha has closed, and Itzel has opened at the same Berkeley Street address. For a high-energy night of hip-hop, RnB and house, try BEAT London for a proper dance floor or Reign London for shows and production.",
   },
   {
-    slug: "cuckoo-club",
-    name: "Cuckoo Club",
-    tagline: "Two floors of Mayfair nightlife",
+    slug: "99-regent-street",
+    name: "99 Regent Street",
+    previousName: "Cuckoo Club",
+    tagline: "Two floors off Swallow Street: hip hop and RnB upstairs, house downstairs",
     description:
-      "Cuckoo Club on Swallow Street split two floors between house downstairs and hip-hop and RnB upstairs, with a young, sociable crowd. It has now closed, and 99 Regent Street has opened in the same building.",
-    location: "Swallow Street, Mayfair",
+      "99 Regent Street (formerly Cuckoo Club) is the two-floor club at the Piccadilly Circus end of Regent Street, entered from Swallow Street on the southern edge of Mayfair and open Wednesday to Saturday from 11pm to 4am. The Cuckoo Club name is no longer used: 99, also styled NinetyNine, is the Cuckoo founders reunited on the same floor with a new concept. The address has been a nightlife name since 1954, when Al Burnett's Stork Club drew guests from Harold Macmillan to Frank Sinatra and Elizabeth Taylor. Piccadilly Circus station is two minutes away, Green Park and Oxford Circus are walkable, and Rumour on Dover Street, Dear Darling and Maddox are a short walk into Mayfair.",
+    location: "99 Regent Street, London W1B 4EZ",
     area: "Mayfair",
-    musicPolicy: ["House", "Hip-Hop", "RnB"],
-    dressCode: "Smart casual. No trainers, no sportswear. Smart jeans and a shirt works.",
-    dressCodeNotes: "Keep it clean. Standard Mayfair smart casual.",
-    tableMinimum: "£1,000",
-    openNights: [],
-    openingTime: "22:00",
-    closingTime: "03:00",
-    vibe: "Social, fun, two-floor versatility",
-    insiderTip: "Cuckoo Club has closed.",
+    musicPolicy: ["Hip-Hop", "RnB", "House"],
+    dressCode: "Elegant and enforced. No sportswear, running trainers, shorts, caps or fancy dress; clean minimal trainers are at the door's discretion.",
+    dressCodeNotes: "Black is the safe choice. Entry is 19+ with physical photo ID, a year older than most London doors.",
+    tableMinimum: "£600",
+    openNights: ["Wednesday", "Thursday", "Friday", "Saturday"],
+    openingTime: "23:00",
+    closingTime: "04:00",
+    vibe: "Two rooms, two sounds, late finish",
+    insiderTip:
+      "Bring physical photo ID: the door is 19+. Both floors run on Friday and Saturday; on Wednesday and Thursday one floor opens, so ask us which room is on before you go.",
     whatToExpect:
-      "Cuckoo Club has closed. For a night that mixes house with hip-hop and commercial music, try Reign London or The Box.",
-    bestFor: "This venue has closed",
-    status: "closed",
-    closedMessage:
-      "Cuckoo Club has closed, and 99 Regent Street has opened in the same building. For a night that mixes house with hip-hop and commercial music, try Reign London on Piccadilly or The Box in Soho.",
+      "Two floors of around 200 each, joined by a staircase. Upstairs is the main room, where most of the tables sit, playing open-format hip hop and RnB; downstairs is darker and more dance-focused, with house. Dark panelling, warm low lighting, banquette seating and a long bar set the tone. Tables start from £600 minimum spend, spent on drinks rather than charged on top, and cover entry for the whole group; the minimum rises with the night, the group size and the position, and VIP and larger tables are on request. Guestlist is by request and mixed groups are welcome, with entry from free to about £50 depending on the night and arrival time, and we confirm names and the night's terms before you go. Membership exists at the venue but its details are not published; we book tables and guestlist for non-members, and private events and corporate hire are arranged through us, with terms on request.",
+    bestFor: "Mixed groups who want hip hop and house under one roof, with tables from £600",
+    status: "open",
+    nearby: ["rumour-london", "dear-darling", "maddox", "tape-london"],
   },
   {
     slug: "scotch-of-st-james",
