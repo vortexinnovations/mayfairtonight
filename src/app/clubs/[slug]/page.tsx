@@ -7,6 +7,7 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import HeroImage from "@/components/HeroImage";
 import StickyBookingBar from "@/components/StickyBookingBar";
 import Link from "next/link";
+import { fitTitle } from "@/lib/seo";
 
 export async function generateStaticParams() {
   return clubs.map((club) => ({ slug: club.slug }));
@@ -27,16 +28,21 @@ export async function generateMetadata({
   const formerly = previousName ? ` (formerly ${previousName})` : "";
 
   return {
-    title: isClosed
-      ? `${club.name} Has Closed: Mayfair Alternatives`
-      : previousName
-        ? `${club.name}${formerly} Tonight: Tables & Guestlist`
-        : `${club.name} Tonight: What's On, Events & Table Bookings`,
-    description: isClosed
-      ? `${club.name} has permanently closed. Find the best alternative clubs in Mayfair and London. Updated guide with similar venues.`
-      : previousName
-        ? `${club.name}${formerly}, ${club.location}. Open ${club.openNights.join(", ")}, ${club.openingTime} to ${club.closingTime}. ${club.musicPolicy.join(", ")}. Tables from ${club.tableMinimum}. Book via WhatsApp.`
-        : `${club.name} in ${club.area}: ${club.tagline}. Open ${club.openNights.join(", ")}. ${club.musicPolicy.join(", ")} music. Tables from ${club.tableMinimum}. Book instantly via WhatsApp.`,
+    title: fitTitle(
+      club.metaTitle ??
+        (isClosed
+          ? `${club.name} Has Closed: Mayfair Alternatives`
+          : previousName
+            ? `${club.name}${formerly} Tonight: Tables & Guestlist`
+            : `${club.name} Tonight: What's On, Events & Table Bookings`),
+    ),
+    description:
+      club.metaDescription ??
+      (isClosed
+        ? `${club.name} has permanently closed. Find the best alternative clubs in Mayfair and London. Updated guide with similar venues.`
+        : previousName
+          ? `${club.name}${formerly}, ${club.location}. Open ${club.openNights.join(", ")}, ${club.openingTime} to ${club.closingTime}. ${club.musicPolicy.join(", ")}. Tables from ${club.tableMinimum}. Book via WhatsApp.`
+          : `${club.name} in ${club.area}: ${club.tagline}. Open ${club.openNights.join(", ")}. ${club.musicPolicy.join(", ")} music. Tables from ${club.tableMinimum}. Book instantly via WhatsApp.`),
     alternates: { canonical: `https://mayfairtonight.com/clubs/${club.slug}` },
     openGraph: {
       title: isClosed

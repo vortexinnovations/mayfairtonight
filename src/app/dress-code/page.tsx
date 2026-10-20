@@ -5,9 +5,10 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
+import { fitTitle } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: "London Nightclub Dress Code: What to Wear Going Out",
+  title: fitTitle("London Nightclub Dress Code: What to Wear Going Out"),
   description:
     "What to wear to London nightclubs in 2026. General dress code rules for men and women, what gets you turned away, and how to dress for any club night. Practical, no-nonsense guide.",
   alternates: { canonical: "https://mayfairtonight.com/dress-code" },

@@ -6,9 +6,10 @@ import { heroImages } from "@/data/images";
 import HeroImage from "@/components/HeroImage";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
+import { fitTitle } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: "Mayfair Nightlife Blog: Insider Tips, Club Guides & What's On",
+  title: fitTitle("Mayfair Nightlife Blog: Insider Tips, Club Guides & What's On"),
   description:
     "The insider blog for Mayfair nightlife. Club guides, what to expect, how to get in, best nights by genre, and tips from people who go out in Mayfair every week.",
   alternates: { canonical: "https://mayfairtonight.com/blog" },

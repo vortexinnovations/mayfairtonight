@@ -4,10 +4,10 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
+import { fitTitle } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title:
-    "Best Hip-Hop & RnB Clubs in Mayfair: Where the Music Actually Hits",
+  title: fitTitle("Best Hip-Hop & RnB Clubs in Mayfair: Where the Music Actually Hits"),
   description:
     "The best hip-hop and RnB clubs in Mayfair, London: ranked by music quality, crowd, and vibe. From old school classics to modern trap. Insider picks for 2026.",
   alternates: {

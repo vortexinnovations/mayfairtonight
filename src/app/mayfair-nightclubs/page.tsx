@@ -5,9 +5,10 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
+import { fitTitle } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: "Mayfair Nightclubs: Complete Club Guide 2026",
+  title: fitTitle("Mayfair Nightclubs: Complete Club Guide 2026"),
   description:
     "The definitive guide to every nightclub in Mayfair, London. Opening nights, music policy, dress code, crowd, vibe, and how to get on the guestlist. Updated weekly.",
   alternates: { canonical: "https://mayfairtonight.com/mayfair-nightclubs" },

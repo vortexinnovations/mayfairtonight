@@ -4,10 +4,10 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
+import { fitTitle } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title:
-    "Mayfair VIP Nightlife: The Insider Guide to Exclusive Clubs",
+  title: fitTitle("Mayfair VIP Nightlife: The Insider Guide to Exclusive Clubs"),
   description:
     "The complete guide to VIP nightlife in Mayfair. Exclusivity tiers, table booking guide, guestlist vs VIP comparison, and what to expect at every venue. Insider access.",
   alternates: {

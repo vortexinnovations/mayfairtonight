@@ -4,9 +4,10 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
+import { fitTitle } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: "Mayfair Club Guestlist Guide: Get On the List",
+  title: fitTitle("Mayfair Club Guestlist Guide: Get On the List"),
   description:
     "Everything you need to know about getting on the guestlist at Mayfair nightclubs. How it works, which venues offer it, arrival times, and insider tips from promoters who manage the lists.",
   alternates: { canonical: "https://mayfairtonight.com/mayfair-club-guestlist-guide" },

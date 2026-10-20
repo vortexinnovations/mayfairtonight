@@ -4,9 +4,10 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
+import { fitTitle } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: "Best Nightclubs in Mayfair: Honest Rankings",
+  title: fitTitle("Best Nightclubs in Mayfair: Honest Rankings"),
   description:
     "The best nightclubs in Mayfair, London: ranked and reviewed. From exclusive members clubs to theatrical showclubs. Honest, insider picks for 2026.",
   alternates: {

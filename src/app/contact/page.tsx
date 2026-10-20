@@ -3,9 +3,10 @@ import Link from "next/link";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
+import { fitTitle } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: "Book a Table: WhatsApp Table Bookings for Mayfair Clubs",
+  title: fitTitle("Book a Table: WhatsApp Table Bookings for Mayfair Clubs"),
   description:
     "Book a table at Mayfair's best nightclubs instantly via WhatsApp. No forms, no waiting. Tell us what you want and we'll make it happen.",
   alternates: { canonical: "https://mayfairtonight.com/contact" },

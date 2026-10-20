@@ -28,6 +28,13 @@ export interface Club {
   previousName?: string;
   /** Open venues: slugs of open clubs a short walk away, shown first under "Similar Clubs Nearby". */
   nearby?: string[];
+  /**
+   * Page title without the site name (at most 60 characters). When absent the
+   * club page builds one from the name; the site name is added only if it fits.
+   */
+  metaTitle?: string;
+  /** Meta description, 120 to 155 characters, written from this venue's own facts. */
+  metaDescription?: string;
 }
 
 // ─── OPEN VENUES ────────────────────────────────────────────

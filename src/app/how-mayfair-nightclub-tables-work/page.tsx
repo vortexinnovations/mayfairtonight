@@ -4,9 +4,10 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
+import { fitTitle } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: "How Mayfair Nightclub Tables Work: Full Guide",
+  title: fitTitle("How Mayfair Nightclub Tables Work: Full Guide"),
   description:
     "Everything you need to know about booking a table at a Mayfair nightclub. Minimum spends, bottle service, what you get, and what to expect at London's most exclusive venues.",
   alternates: { canonical: "https://mayfairtonight.com/how-mayfair-nightclub-tables-work" },

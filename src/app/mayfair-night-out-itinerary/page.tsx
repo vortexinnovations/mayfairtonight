@@ -4,9 +4,10 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
+import { fitTitle } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: "Mayfair Night Out Itinerary: Plan Your Evening",
+  title: fitTitle("Mayfair Night Out Itinerary: Plan Your Evening"),
   description:
     "Five ready-made Mayfair night out itineraries: from hip-hop to sophisticated supper clubs. Timelines, venue recommendations, dress codes, and booking tips for the perfect evening in London's most exclusive neighbourhood.",
   alternates: { canonical: "https://mayfairtonight.com/mayfair-night-out-itinerary" },

@@ -8,6 +8,7 @@ import StickyBookingBar from "@/components/StickyBookingBar";
 import HeroImage from "@/components/HeroImage";
 import { nightImages, clubImages } from "@/data/images";
 import Link from "next/link";
+import { fitTitle } from "@/lib/seo";
 
 export async function generateStaticParams() {
   return nights.map((n) => ({ night: n.slug }));
@@ -23,7 +24,7 @@ export async function generateMetadata({
   if (!nightInfo) return {};
 
   return {
-    title: nightInfo.metaTitle,
+    title: fitTitle(nightInfo.metaTitle),
     description: nightInfo.metaDescription,
     alternates: {
       canonical: `https://mayfairtonight.com/nights/${nightInfo.slug}`,

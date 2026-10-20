@@ -8,9 +8,10 @@ import { heroImages } from "@/data/images";
 import { clubs, getOpenClubs } from "@/data/clubs";
 import eventsData from "@/data/events.json";
 import { getWeekendDates, formatDate } from "@/lib/utils";
+import { fitTitle } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: "This Weekend in Mayfair: London Clubs Friday, Saturday & Sunday",
+  title: fitTitle("This Weekend in Mayfair: London Clubs Friday, Saturday & Sunday"),
   description:
     "Plan your weekend in Mayfair. See what's on this Friday, Saturday, and Sunday at London's best nightclubs. Events, music, and instant table bookings via WhatsApp.",
   alternates: { canonical: "https://mayfairtonight.com/this-weekend" },

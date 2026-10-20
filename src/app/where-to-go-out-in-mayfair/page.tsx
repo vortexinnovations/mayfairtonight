@@ -4,9 +4,10 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
+import { fitTitle } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: "Where to Go Out in Mayfair: Your Night, Sorted",
+  title: fitTitle("Where to Go Out in Mayfair: Your Night, Sorted"),
   description:
     "Not sure where to go out in Mayfair tonight? Our insider decision guide matches your vibe to the perfect club. Hip-hop, house, shows, cocktails, groups: we cover it all.",
   alternates: {

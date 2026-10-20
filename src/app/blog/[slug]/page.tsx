@@ -5,6 +5,7 @@ import Image from "next/image";
 import { getAllSlugs, getPostWithHtml, getAllPosts } from "@/lib/blog";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
+import { fitTitle } from "@/lib/seo";
 
 // Posts are prerendered at build and refreshed by /api/revalidate when the
 // content API writes; this is a daily safety net on top.
@@ -28,7 +29,7 @@ export async function generateMetadata({
   if (!post) return {};
 
   return {
-    title: post.metaTitle,
+    title: fitTitle(post.metaTitle),
     description: post.metaDescription,
     alternates: { canonical: `https://mayfairtonight.com/blog/${post.slug}` },
     openGraph: {

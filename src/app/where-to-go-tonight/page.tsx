@@ -4,9 +4,10 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
+import { fitTitle } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: "Where Should I Go Tonight? Quick Picks by Vibe",
+  title: fitTitle("Where Should I Go Tonight? Quick Picks by Vibe"),
   description:
     "It's tonight and you need a plan. Pick your vibe (hip-hop, house, shows, cocktails) and we'll tell you exactly which Mayfair club to go to right now.",
   alternates: {

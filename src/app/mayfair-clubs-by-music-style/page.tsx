@@ -4,10 +4,10 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
+import { fitTitle } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title:
-    "Mayfair Clubs by Music Style: Find Your Sound in 2026",
+  title: fitTitle("Mayfair Clubs by Music Style: Find Your Sound in 2026"),
   description:
     "Which Mayfair clubs play hip-hop, house, RnB, or open format? Complete music guide to every venue by genre. Find the right sound for your night out.",
   alternates: {

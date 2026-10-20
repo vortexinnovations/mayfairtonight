@@ -4,10 +4,10 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
+import { fitTitle } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title:
-    "Mayfair Club Dress Code: What to Wear to Every Venue in 2026",
+  title: fitTitle("Mayfair Club Dress Code: What to Wear to Every Venue in 2026"),
   description:
     "The complete Mayfair nightclub dress code guide. Club-by-club breakdown of what to wear, what gets you turned away, and insider tips for every venue. Updated for 2026.",
   alternates: {

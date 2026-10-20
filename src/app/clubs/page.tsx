@@ -7,9 +7,10 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 import HeroImage from "@/components/HeroImage";
 import { heroImages, clubImages } from "@/data/images";
+import { fitTitle } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: "All Clubs We Cover: Full Venue Directory",
+  title: fitTitle("All Clubs We Cover: Full Venue Directory"),
   description:
     "Browse every nightclub we cover across Mayfair and central London. Quick access to opening nights, music policy, dress code, and booking info for each venue.",
   alternates: { canonical: "https://mayfairtonight.com/clubs" },

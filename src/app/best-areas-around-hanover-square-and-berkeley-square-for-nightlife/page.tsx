@@ -4,9 +4,10 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
+import { fitTitle } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: "Mayfair Nightlife by Area: Where to Go",
+  title: fitTitle("Mayfair Nightlife by Area: Where to Go"),
   description:
     "A neighbourhood-by-neighbourhood guide to Mayfair nightlife. Berkeley Square, Hanover Square, Dover Street, Swallow Street, and beyond: where every club is, how to walk between them, and what each area feels like at night.",
   alternates: { canonical: "https://mayfairtonight.com/best-areas-around-hanover-square-and-berkeley-square-for-nightlife" },

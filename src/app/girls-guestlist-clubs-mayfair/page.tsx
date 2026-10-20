@@ -4,10 +4,10 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
+import { fitTitle } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title:
-    "Girls' Night Mayfair: Best Clubs & Guestlist Guide for 2026",
+  title: fitTitle("Girls' Night Mayfair: Best Clubs & Guestlist Guide for 2026"),
   description:
     "The best Mayfair clubs for girls' nights out. Guestlist tips, dress code advice, and venue picks for all-female groups. Free entry options and birthday planning.",
   alternates: {

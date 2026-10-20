@@ -4,10 +4,10 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
+import { fitTitle } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title:
-    "Best Mayfair Clubs for Table Bookings: Where to Book a Table in 2026",
+  title: fitTitle("Best Mayfair Clubs for Table Bookings: Where to Book a Table in 2026"),
   description:
     "The best clubs for table bookings in Mayfair, ranked by experience. Compare table layouts, minimum spends, and vibes at Tape, Reign, Cirque Le Soir, Maddox and more.",
   alternates: {

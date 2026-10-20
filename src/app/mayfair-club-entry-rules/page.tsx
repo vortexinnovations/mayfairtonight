@@ -4,9 +4,10 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 import HeroImage from "@/components/HeroImage";
 import { heroImages } from "@/data/images";
+import { fitTitle } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: "Mayfair Club Entry Rules: Door Guide 2026",
+  title: fitTitle("Mayfair Club Entry Rules: Door Guide 2026"),
   description:
     "The complete guide to Mayfair nightclub entry rules. Door policies, ID requirements, group ratios, arrival times, and what gets you turned away. Insider tips from someone who knows every door.",
   alternates: { canonical: "https://mayfairtonight.com/mayfair-club-entry-rules" },
