@@ -40,6 +40,11 @@ const recommendations: Recommendation[] = [
         why: "The most exclusive room. Celebrity crowd, incredible sound, invite-only energy.",
       },
       {
+        name: "Rumour",
+        slug: "rumour-london",
+        why: "Formerly Tabu. One intimate room of red velvet booths on Dover Street, open-format hip hop, RnB and house until 4am, and no photos or video on the dance floor.",
+      },
+      {
         name: "BEAT London",
         slug: "beat-london",
         why: "Built around the sound system, just north of Oxford Street. If the music matters more than the scene, go here.",
@@ -56,6 +61,11 @@ const recommendations: Recommendation[] = [
         name: "Maddox",
         slug: "maddox",
         why: "The best house music room in Mayfair. Dinner first, deep house after. Sophisticated crowd.",
+      },
+      {
+        name: "99 Regent Street",
+        slug: "99-regent-street",
+        why: "Formerly Cuckoo Club. The downstairs floor plays house, darker and more dance-focused, with hip hop and RnB upstairs. Both floors run on Friday and Saturday.",
       },
       {
         name: "Selene London",

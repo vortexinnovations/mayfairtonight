@@ -41,6 +41,24 @@ const hipHopClubs: GenreClub[] = [
     djs: "Resident selectors with deep hip-hop knowledge. Guest DJs from the UK urban scene.",
   },
   {
+    name: "Rumour",
+    slug: "rumour-london",
+    description:
+      "Rumour (formerly Tabu) plays open format in one intimate room of around 200 on Dover Street: hip hop, RnB and house, read to the room on the night. The booths in deep red velvet fill early by design, and the no-photography rule keeps phones off the dance floor.",
+    style: "Open format: hip hop, RnB, house",
+    bestNight: "Friday and Saturday for a full room; Wednesday and Thursday are more relaxed",
+    djs: "Open-format sets, read to the room on the night.",
+  },
+  {
+    name: "99 Regent Street",
+    slug: "99-regent-street",
+    description:
+      "Upstairs at 99 Regent Street (formerly Cuckoo Club) is the main room, where most of the tables sit, and it plays open-format hip hop and RnB. Downstairs plays house, so a group that wants both sounds stays under one roof, and on Friday and Saturday both floors run.",
+    style: "Open-format hip hop and RnB (main room upstairs)",
+    bestNight: "Friday and Saturday, when both floors are open",
+    djs: "Open-format hip hop and RnB sets in the main room; house on the floor below.",
+  },
+  {
     name: "BEAT London",
     slug: "beat-london",
     description:
@@ -78,6 +96,15 @@ const houseClubs: GenreClub[] = [
     style: "Melodic house, deep house, refined commercial house",
     bestNight: "Friday for the most curated sets",
     djs: "Residents who understand the Selene brand. Music supports the atmosphere rather than dominating it.",
+  },
+  {
+    name: "99 Regent Street",
+    slug: "99-regent-street",
+    description:
+      "Downstairs at 99 Regent Street is the house floor: darker and more dance-focused than the hip hop and RnB main room upstairs, with a staircase between the two. Both floors run on Friday and Saturday; on Wednesday and Thursday one floor opens, so ask us which room is on.",
+    style: "House, darker and dance-focused (downstairs)",
+    bestNight: "Friday and Saturday, when both floors are open",
+    djs: "House on the downstairs floor; open-format hip hop and RnB upstairs.",
   },
   {
     name: "Scotch of St James",
@@ -153,14 +180,14 @@ const eclecticClubs: GenreClub[] = [
 const musicGrid = [
   { name: "Tape London", slug: "tape-london", hiphop: true, house: false, commercial: false, eclectic: false },
   { name: "Cirque Le Soir", slug: "cirque-le-soir", hiphop: true, house: false, commercial: false, eclectic: false },
+  { name: "Rumour", slug: "rumour-london", hiphop: true, house: true, commercial: false, eclectic: false },
+  { name: "99 Regent Street", slug: "99-regent-street", hiphop: true, house: true, commercial: false, eclectic: false },
   { name: "BEAT London", slug: "beat-london", hiphop: true, house: false, commercial: true, eclectic: false },
   { name: "Maddox", slug: "maddox", hiphop: false, house: true, commercial: false, eclectic: false },
   { name: "Selene London", slug: "selene-london", hiphop: false, house: true, commercial: false, eclectic: false },
   { name: "Scotch of St James", slug: "scotch-of-st-james", hiphop: false, house: true, commercial: false, eclectic: true },
   { name: "Dear Darling", slug: "dear-darling", hiphop: false, house: true, commercial: false, eclectic: true },
   { name: "Reign London", slug: "reign-london", hiphop: false, house: false, commercial: true, eclectic: false },
-  { name: "99 Regent Street", slug: "99-regent-street", hiphop: true, house: true, commercial: false, eclectic: false },
-  { name: "Rumour", slug: "rumour-london", hiphop: true, house: true, commercial: false, eclectic: false },
   { name: "The Box", slug: "the-box-london", hiphop: false, house: false, commercial: false, eclectic: true },
 ];
 
@@ -183,7 +210,7 @@ const faqs = [
   {
     question: "Is it the same music every night at Mayfair clubs?",
     answer:
-      "The genre stays consistent but the energy and specific tracks vary. Maddox is always house music, but a Thursday set is different to a Saturday set. Some venues run themed nights: check individual club pages for weekly schedules.",
+      "The genre stays consistent but the energy and specific tracks vary. Maddox is always house music, but a Thursday set is different to a Saturday set. At 99 Regent Street the main room upstairs plays open-format hip hop and RnB and the floor below plays house, with both floors running on Friday and Saturday. Some venues run themed nights: check individual club pages for weekly schedules.",
   },
   {
     question: "What does open format mean at a nightclub?",
@@ -648,6 +675,10 @@ export default function MayfairClubsByMusicPage() {
                   Maddox
                 </Link>{" "}
                 for proper house music. Or pick a venue that plays both, like{" "}
+                <Link href="/clubs/99-regent-street" className="text-gold hover:text-gold-light">
+                  99 Regent Street
+                </Link>
+                , where you can do both floors on a Friday or Saturday, or{" "}
                 <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">
                   BEAT London
                 </Link>

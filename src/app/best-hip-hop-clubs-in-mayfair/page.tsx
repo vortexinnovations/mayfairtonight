@@ -52,6 +52,38 @@ const hipHopClubs: HipHopClub[] = [
   },
   {
     rank: 2,
+    name: "Rumour",
+    slug: "rumour-london",
+    musicStyle:
+      "Open format: hip hop, RnB and house, read to the room on the night.",
+    crowd:
+      "Ladies on the guestlist, men and mixed groups in the booths, all 18+ with photo ID and dressed up: heels for ladies, a considered look for men. Phones stay in pockets, because there are no photos or video in the main room or on the dance floor.",
+    bestNights: "Friday and Saturday (Wednesday and Thursday are more relaxed)",
+    vibe:
+      "Intimate and off camera. One room of around 200, built around booths in deep red velvet, with dark panelling, a chandelier and low warm lighting. It fills early by design.",
+    guestlistOrTables:
+      "Ladies' guestlist, free to £20 on the door depending on the night and how busy it is. Men are not added to the guestlist, so men and mixed groups book a booth: from £1,000 minimum spend, covering entry for the whole group, roughly £125 each across eight people.",
+    verdict:
+      "Rumour (formerly Tabu) is the one-room booth club at 1 Dover Street, open Wednesday to Saturday from 11pm to 4am. Hip hop and RnB share the night with house, played open format, and the no-photography policy, enforced by the floor team, keeps the dance floor off camera: the clearest difference from the rooms around it.",
+  },
+  {
+    rank: 3,
+    name: "99 Regent Street",
+    slug: "99-regent-street",
+    musicStyle:
+      "Open-format hip hop and RnB in the main room upstairs, house on the darker, dance-focused floor below.",
+    crowd:
+      "Over 19s only, with physical photo ID: a year older than most London doors. Mixed groups are welcome on the guestlist, and the hip hop and RnB crowd fills the main room upstairs, where most of the tables sit.",
+    bestNights: "Friday and Saturday (both floors open)",
+    vibe:
+      "Two floors of around 200 each, joined by a staircase, with dark panelling, warm low lighting, banquette seating and a long bar. Downstairs is darker and more dance-focused.",
+    guestlistOrTables:
+      "Guestlist by request, mixed groups welcome, with entry from free to about £50 depending on the night and arrival time. Tables from £600 minimum spend cover entry for the whole group; VIP and larger tables on request.",
+    verdict:
+      "99 Regent Street (formerly Cuckoo Club) is the Cuckoo founders back on the same floor with a new concept, entered from Swallow Street two minutes from Piccadilly Circus and open Wednesday to Saturday until 4am. Upstairs is the hip hop room: open-format hip hop and RnB in the main room, where most tables sit. On Friday and Saturday, when both floors run, the staircase takes you down to house.",
+  },
+  {
+    rank: 4,
     name: "BEAT London",
     slug: "beat-london",
     musicStyle:
@@ -67,7 +99,7 @@ const hipHopClubs: HipHopClub[] = [
       "The newest hip-hop contender just north of Mayfair, on Margaret Street in Fitzrovia. BEAT brings raw energy and a younger crowd. If the established names feel too refined, BEAT strips it back to what matters: good music and a packed dance floor.",
   },
   {
-    rank: 3,
+    rank: 5,
     name: "Cirque Le Soir",
     slug: "cirque-le-soir",
     musicStyle:
@@ -103,12 +135,12 @@ const faqs = [
   {
     question: "What age range goes to hip-hop clubs in Mayfair?",
     answer:
-      "Most hip-hop clubs in Mayfair attract a 23-35 crowd. BEAT skews slightly younger (21-30). Tape London attracts a more established crowd (25-38). All venues are 18+ but most guestlists prefer 21+. Groups that look underage will struggle at the door regardless of ID.",
+      "Most hip-hop clubs in Mayfair attract a 23-35 crowd. BEAT skews slightly younger (21-30). Tape London attracts a more established crowd (25-38). All venues are 18+, except 99 Regent Street at 19+ with physical photo ID, but most guestlists prefer 21+. Groups that look underage will struggle at the door regardless of ID.",
   },
   {
     question: "Can I get on the guestlist for hip-hop nights in Mayfair?",
     answer:
-      "Yes: most venues offer guestlist for hip-hop nights, but availability varies. BEAT has the most open guestlist. Tape London is the hardest: guestlist spots are limited and tables are the primary route in. Message us on WhatsApp and we can sort guestlist at any of these venues.",
+      "Yes: most venues offer guestlist for hip-hop nights, but availability varies. BEAT has the most open guestlist. 99 Regent Street takes mixed groups on its guestlist by request, while the Rumour guestlist is for ladies only, so men book a booth. Tape London is the hardest: guestlist spots are limited and tables are the primary route in. Message us on WhatsApp and we can sort guestlist at any of these venues.",
   },
 ];
 
@@ -288,6 +320,13 @@ export default function BestHipHopClubsPage() {
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
                   <span>
+                    <Link href="/clubs/rumour-london" className="text-gold hover:text-gold-light">Rumour</Link>:
+                    {" "}open-format hip hop and RnB, with house, read to the room
+                  </span>
+                </li>
+                <li className="flex items-start gap-2">
+                  <span className="text-gold mt-0.5">•</span>
+                  <span>
                     <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">BEAT London</Link>:
                     {" "}current chart hip-hop and Afrobeats
                   </span>
@@ -299,6 +338,13 @@ export default function BestHipHopClubsPage() {
                 Leans RnB / Soul
               </h3>
               <ul className="space-y-2 text-sm text-gray-300">
+                <li className="flex items-start gap-2">
+                  <span className="text-gold mt-0.5">•</span>
+                  <span>
+                    <Link href="/clubs/99-regent-street" className="text-gold hover:text-gold-light">99 Regent Street</Link>:
+                    {" "}hip hop and RnB in the main room upstairs, house downstairs
+                  </span>
+                </li>
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
                   <span>
@@ -325,7 +371,8 @@ export default function BestHipHopClubsPage() {
                 <p className="text-sm text-gray-300">
                   Thursday is the best night for hip-hop in Mayfair. The crowd
                   is genuinely up for it: no tourists, no casual visitors.{" "}
-                  <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">Reign London</Link>{" "}
+                  <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">Reign London</Link>,{" "}
+                  <Link href="/clubs/rumour-london" className="text-gold hover:text-gold-light">Rumour</Link>{" "}
                   and{" "}
                   <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">BEAT London</Link>{" "}
                   deliver on Thursdays (BEAT on select Thursdays). DJs play deeper, the rooms feel
@@ -369,6 +416,18 @@ export default function BestHipHopClubsPage() {
                   <td className="py-3 px-3">Hip-Hop / Trap</td>
                   <td className="py-3 px-3">Tue & Sat</td>
                   <td className="py-3 px-3">Tables preferred</td>
+                </tr>
+                <tr className="border-b border-dark-border/50">
+                  <td className="py-3 px-3 text-white font-medium">Rumour</td>
+                  <td className="py-3 px-3">Hip-Hop / RnB / House (open format)</td>
+                  <td className="py-3 px-3">Fri & Sat</td>
+                  <td className="py-3 px-3">Ladies&apos; guestlist or booths</td>
+                </tr>
+                <tr className="border-b border-dark-border/50">
+                  <td className="py-3 px-3 text-white font-medium">99 Regent Street</td>
+                  <td className="py-3 px-3">Hip-Hop / RnB upstairs, House downstairs</td>
+                  <td className="py-3 px-3">Fri & Sat</td>
+                  <td className="py-3 px-3">Guestlist or tables</td>
                 </tr>
                 <tr className="border-b border-dark-border/50">
                   <td className="py-3 px-3 text-white font-medium">BEAT London</td>

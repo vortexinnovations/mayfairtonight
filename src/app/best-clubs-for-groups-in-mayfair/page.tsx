@@ -68,6 +68,16 @@ const groupRecommendations: GroupRecommendation[] = [
       "The corporate night out needs a venue that is impressive enough to feel like a treat but accessible enough that everyone has a good time. No overly exclusive doors. No intimidating dress codes. Just quality venues where colleagues can actually enjoy themselves.",
     clubs: [
       {
+        name: "99 Regent Street",
+        slug: "99-regent-street",
+        why: "99 Regent Street (formerly Cuckoo Club) gives a work night two floors under one roof, two minutes from Piccadilly Circus: open-format hip hop and RnB in the main room upstairs, house downstairs, with both floors running on Friday and Saturday. For a bigger team, private events and corporate hire are arranged through us.",
+        guestlistOrTables:
+          "Guestlist is by request and mixed groups are welcome. A table from £600 minimum spend, spent on drinks, covers entry for the whole group, and VIP and larger tables are on request. Brief the team before the night: the dress code is elegant and enforced, and everyone needs physical photo ID for the 19+ door.",
+        approxGroupCost:
+          "Tables from £600 min spend, covering entry for the group. Guestlist entry from free to about £50, depending on the night and arrival time. Private hire terms on request.",
+        bestNight: "Friday or Saturday for both floors. Wednesday and Thursday open one floor.",
+      },
+      {
         name: "Maddox",
         slug: "maddox",
         why: "Start with dinner upstairs at the Italian restaurant, then move downstairs to the club. The transition is seamless and it gives the night a natural structure. Colleagues who are not hardcore clubbers appreciate the dinner element. The house music downstairs is sophisticated enough for everyone.",
@@ -102,6 +112,16 @@ const groupRecommendations: GroupRecommendation[] = [
       "Mixed groups need venues that cater to different tastes. The house music purist. The hip-hop head. The person who just wants good cocktails. These clubs have enough variety to keep everyone happy.",
     clubs: [
       {
+        name: "99 Regent Street",
+        slug: "99-regent-street",
+        why: "Two floors, two sounds. The hip-hop fans go upstairs to the main room for open-format hip hop and RnB, the house fans go downstairs to the darker, dance-focused floor, and a staircase joins the two. Both floors run on Friday and Saturday, so nobody has to change venue to hear their kind of night.",
+        guestlistOrTables:
+          "The guestlist welcomes mixed groups: it is not a ladies-only list. A table from £600 gives the group a base in the main room upstairs, where most tables sit, and covers entry for everyone.",
+        approxGroupCost:
+          "Guestlist entry from free to about £50, depending on the night and arrival time. Tables from £600 min spend.",
+        bestNight: "Friday or Saturday, when both floors are open.",
+      },
+      {
         name: "The Box",
         slug: "the-box-london",
         why: "The Box mixes commercial, hip-hop and house between theatrical shows, so the night never depends on one genre. The performances give a mixed group something to talk about, and the dance floor fills between acts.",
@@ -119,7 +139,7 @@ const faqs = [
   {
     question: "What is the minimum spend for group tables in Mayfair?",
     answer:
-      "Most Mayfair clubs start table minimums at around £800-£1,000 for a standard table (6-8 guests). Premium tables and weekend nights can be £1,500-£3,000+. Tape London starts from around £1,500. Cirque Le Soir and Reign from £1,000. BEAT offers tables from around £800. For current table prices and group packages, visit londonbottleservice.com or message us on WhatsApp.",
+      "Most Mayfair clubs start table minimums at around £800-£1,000 for a standard table (6-8 guests). Premium tables and weekend nights can be £1,500-£3,000+. Tape London starts from around £1,500. Cirque Le Soir and Reign from £1,000. 99 Regent Street offers tables from £600, covering entry for the group, and BEAT from around £800. For current table prices and group packages, visit londonbottleservice.com or message us on WhatsApp.",
   },
   {
     question: "Can mixed groups get on the guestlist in Mayfair?",
@@ -129,7 +149,7 @@ const faqs = [
   {
     question: "What is the best night for groups in Mayfair?",
     answer:
-      "Thursday is the best night for groups. Most major clubs are open, the atmosphere is excellent, and guestlists are more available than Saturday. Saturday is peak energy but tables sell out fast and guestlist spots are limited. Wednesday is the underrated option: Cirque Le Soir and The Box both run quality midweek nights with easier access for groups.",
+      "Thursday is the best night for groups. Most major clubs are open, the atmosphere is excellent, and guestlists are more available than Saturday. Saturday is peak energy but tables sell out fast and guestlist spots are limited. Wednesday is the underrated option: Cirque Le Soir and The Box both run quality midweek nights with easier access for groups, and 99 Regent Street opens one of its two floors.",
   },
   {
     question: "Can we split the bill on a table booking?",
@@ -349,6 +369,10 @@ export default function BestClubsForGroupsPage() {
               <ul className="space-y-1 text-sm text-gray-300">
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
+                  <Link href="/clubs/99-regent-street" className="text-gold hover:text-gold-light">99 Regent Street</Link>
+                </li>
+                <li className="flex items-start gap-2">
+                  <span className="text-gold mt-0.5">•</span>
                   <Link href="/clubs/cirque-le-soir" className="text-gold hover:text-gold-light">Cirque Le Soir</Link>
                 </li>
                 <li className="flex items-start gap-2">
@@ -372,6 +396,10 @@ export default function BestClubsForGroupsPage() {
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
                   <Link href="/clubs/cirque-le-soir" className="text-gold hover:text-gold-light">Cirque Le Soir</Link>
+                </li>
+                <li className="flex items-start gap-2">
+                  <span className="text-gold mt-0.5">•</span>
+                  <Link href="/clubs/99-regent-street" className="text-gold hover:text-gold-light">99 Regent Street</Link>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>

@@ -256,7 +256,7 @@ const faqs = [
   {
     question: "What should women wear to Mayfair clubs?",
     answer:
-      "A cocktail dress or smart separates with heels or elegant flats is the standard. Women generally have more flexibility than men at Mayfair doors. The venues that reward fashion effort most are The Box and Tape London. When in doubt, a well-fitted black dress works at every venue.",
+      "A cocktail dress or smart separates with heels or elegant flats is the standard. Women generally have more flexibility than men at Mayfair doors. The venues that reward fashion effort most are Rumour (dressed up, with heels), The Box and Tape London. When in doubt, a well-fitted black dress works at every venue.",
   },
   {
     question: "Do Mayfair clubs have a strict dress code on Thursday?",

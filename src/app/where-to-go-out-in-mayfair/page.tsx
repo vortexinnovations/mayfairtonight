@@ -39,7 +39,7 @@ const faqs = [
   {
     question: "How much does a night out in Mayfair cost?",
     answer:
-      "On guestlist entry is free or up to 20 pounds cover. Cocktails run 14 to 18 pounds each. A realistic budget for a guestlist night is 60 to 120 pounds per person including drinks. Table bookings start from 1,000 pounds minimum spend. For table pricing check londonbottleservice.com.",
+      "On guestlist entry is free or up to 20 pounds cover at most clubs. Cocktails run 14 to 18 pounds each. A realistic budget for a guestlist night is 60 to 120 pounds per person including drinks. Table bookings start from 1,000 pounds minimum spend at most venues, and from 600 pounds at 99 Regent Street. For table pricing check londonbottleservice.com.",
   },
   {
     question: "Can I go out in Mayfair on my own?",
@@ -49,7 +49,7 @@ const faqs = [
   {
     question: "What is the age range at Mayfair clubs?",
     answer:
-      "Most Mayfair clubs attract a 23 to 35 crowd, though it varies by venue. BEAT skews younger, with an early-twenties crowd. Scotch of St James, Maddox, and Dear Darling draw a more mature 28 to 40 crowd. All venues are strictly 18 plus but most prefer 21 plus on weekends.",
+      "Most Mayfair clubs attract a 23 to 35 crowd, though it varies by venue. BEAT skews younger, with an early-twenties crowd. Scotch of St James, Maddox, and Dear Darling draw a more mature 28 to 40 crowd. All venues are strictly 18 plus, except 99 Regent Street at 19 plus with physical photo ID, but most prefer 21 plus on weekends.",
   },
 ];
 
@@ -143,7 +143,7 @@ export default function WhereToGoOutPage() {
             <p className="text-gray-300 leading-relaxed mb-4">
               Mayfair does hip-hop better than anywhere else in London. The
               sound systems are built for bass, the DJs are top tier, and the
-              crowds actually care about the music. Three standout options
+              crowds actually care about the music. Two standout options
               depending on your priorities.
             </p>
             <div className="space-y-4">
@@ -169,6 +169,23 @@ export default function WhereToGoOutPage() {
                     VIP table
                   </a>
                   , nothing else compares for hip-hop.
+                </p>
+              </div>
+              <div className="bg-dark-card border border-dark-border rounded-lg p-4">
+                <h3 className="text-white font-semibold mb-1">
+                  <Link
+                    href="/clubs/rumour-london"
+                    className="hover:text-gold transition-colors"
+                  >
+                    Rumour
+                  </Link>
+                  <span className="text-gold text-sm ml-2">The Off-Camera Pick</span>
+                </h3>
+                <p className="text-sm text-gray-300">
+                  Formerly Tabu, on Dover Street. One intimate room of red
+                  velvet booths playing open-format hip hop, RnB and house,
+                  with no photos or video on the dance floor. Ladies come in
+                  on the guestlist; men and mixed groups book a booth.
                 </p>
               </div>
             </div>
@@ -225,6 +242,23 @@ export default function WhereToGoOutPage() {
                   Refined house music in a beautifully designed space just north of Oxford Circus.
                   Impressive cocktail programme. Still building its reputation
                   so access is easier than the big names.
+                </p>
+              </div>
+              <div className="bg-dark-card border border-dark-border rounded-lg p-4">
+                <h3 className="text-white font-semibold mb-1">
+                  <Link
+                    href="/clubs/99-regent-street"
+                    className="hover:text-gold transition-colors"
+                  >
+                    99 Regent Street
+                  </Link>
+                  <span className="text-gold text-sm ml-2">The Two-Floor Pick</span>
+                </h3>
+                <p className="text-sm text-gray-300">
+                  Formerly Cuckoo Club, entered from Swallow Street. Downstairs
+                  is house, darker and more dance-focused; upstairs is
+                  open-format hip hop and RnB. Both floors run on Friday and
+                  Saturday.
                 </p>
               </div>
             </div>
@@ -474,6 +508,24 @@ export default function WhereToGoOutPage() {
                     table
                   </a>{" "}
                   for guaranteed entry and a home base.
+                </p>
+              </div>
+              <div className="bg-dark-card border border-dark-border rounded-lg p-4">
+                <h3 className="text-white font-semibold mb-1">
+                  <Link
+                    href="/clubs/99-regent-street"
+                    className="hover:text-gold transition-colors"
+                  >
+                    99 Regent Street
+                  </Link>
+                  <span className="text-gold text-sm ml-2">Best for Mixed Tastes</span>
+                </h3>
+                <p className="text-sm text-gray-300">
+                  Two floors of around 200 each: hip hop and RnB in the main
+                  room upstairs, house downstairs, so the group can split by
+                  sound and still share one venue. The guestlist welcomes
+                  mixed groups, and a table from £600 covers entry for
+                  everyone.
                 </p>
               </div>
               <div className="bg-dark-card border border-dark-border rounded-lg p-4">

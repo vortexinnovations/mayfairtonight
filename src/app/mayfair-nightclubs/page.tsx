@@ -321,8 +321,11 @@ export default function MayfairNightclubsPage() {
                 <Link href="/clubs/cirque-le-soir" className="text-gold hover:text-gold-light">Cirque Le Soir</Link>{" "}adds
                 a full circus show.{" "}
                 <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">BEAT London</Link>{" "}is built
-                around its sound system. All three deliver quality hip-hop but the
-                crowd and atmosphere are very different.
+                around its sound system.{" "}
+                <Link href="/clubs/rumour-london" className="text-gold hover:text-gold-light">Rumour</Link>{" "}keeps
+                cameras off its dance floor, with open-format hip hop, RnB and
+                house in one red velvet booth room. All four deliver quality
+                hip-hop but the crowd and atmosphere are very different.
               </p>
             </div>
 
@@ -335,7 +338,10 @@ export default function MayfairNightclubsPage() {
                 purist&apos;s choice: deep house and tech house in a
                 sophisticated setting.{" "}
                 <Link href="/clubs/selene-london" className="text-gold hover:text-gold-light">Selene London</Link>{" "}
-                blends house with elegance.
+                blends house with elegance.{" "}
+                <Link href="/clubs/99-regent-street" className="text-gold hover:text-gold-light">99 Regent Street</Link>&apos;s
+                downstairs floor plays house, darker and more dance-focused
+                than the hip hop and RnB main room upstairs.
               </p>
             </div>
 
@@ -574,12 +580,12 @@ const faqs = [
   {
     question: "Which Mayfair club is best for hip-hop?",
     answer:
-      "Tape London, Cirque Le Soir and BEAT London are the best hip-hop clubs in and around Mayfair. Tape is the most exclusive, with a celebrity crowd. Cirque Le Soir pairs hip-hop and RnB with a full circus show. BEAT London is built around its sound system. Reign London also plays hip-hop alongside its shows.",
+      "Tape London, Rumour, Cirque Le Soir and BEAT London are the best hip-hop clubs in and around Mayfair. Tape is the most exclusive, with a celebrity crowd. Rumour (formerly Tabu) on Dover Street plays open-format hip hop, RnB and house in one red velvet booth room, with no photos or video on the dance floor. Cirque Le Soir pairs hip-hop and RnB with a full circus show. BEAT London is built around its sound system. The main room upstairs at 99 Regent Street (formerly Cuckoo Club) plays open-format hip hop and RnB, and Reign London also plays hip-hop alongside its shows.",
   },
   {
     question: "Which Mayfair clubs play house music?",
     answer:
-      "Maddox is the best house music venue in Mayfair: deep house and tech house in a sophisticated dinner-to-dance setting. Selene London plays refined house and commercial in an elegant space. Scotch of St James and Dear Darling also lean towards house and lounge music.",
+      "Maddox is the best house music venue in Mayfair: deep house and tech house in a sophisticated dinner-to-dance setting. Selene London plays refined house and commercial in an elegant space. The downstairs floor at 99 Regent Street plays house, darker and more dance-focused. Scotch of St James and Dear Darling also lean towards house and lounge music.",
   },
   {
     question: "How much does it cost to get into a Mayfair nightclub?",
@@ -589,7 +595,7 @@ const faqs = [
   {
     question: "Which Mayfair clubs are open on Thursday?",
     answer:
-      "Thursday is when Mayfair really kicks off. Reign London, Dear Darling, Maddox, Scotch of St James, The Box and Selene London are all open on Thursday nights, and BEAT London on select Thursdays. It's the best night for quality atmosphere without full weekend crowds.",
+      "Thursday is when Mayfair really kicks off. Reign London, Rumour, 99 Regent Street, Dear Darling, Maddox, Scotch of St James, The Box and Selene London are all open on Thursday nights, and BEAT London on select Thursdays. It's the best night for quality atmosphere without full weekend crowds.",
   },
   {
     question: "What time do Mayfair nightclubs open and close?",
@@ -599,6 +605,6 @@ const faqs = [
   {
     question: "Are Mayfair nightclubs open on weekdays?",
     answer:
-      "Wednesday is when midweek Mayfair nightlife properly starts: Cirque Le Soir and The Box both open. Thursday is even bigger, with most clubs open. Monday and Tuesday options are very limited in Mayfair. Check our night-by-night guide for full details.",
+      "Wednesday is when midweek Mayfair nightlife properly starts: 99 Regent Street, Cirque Le Soir and The Box all open. Thursday is even bigger, with most clubs open. Monday and Tuesday options are very limited in Mayfair. Check our night-by-night guide for full details.",
   },
 ];

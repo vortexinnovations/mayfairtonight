@@ -232,10 +232,18 @@ export default function MayfairNightlifeGuidePage() {
               </h3>
               <p className="text-sm text-gray-300 mb-2">
                 Pure nightlife energy.{" "}
+                <Link href="/clubs/99-regent-street" className="text-gold hover:text-gold-light">
+                  99 Regent Street
+                </Link>{" "}
+                (formerly Cuckoo Club),{" "}
+                <Link href="/clubs/rumour-london" className="text-gold hover:text-gold-light">
+                  Rumour
+                </Link>{" "}
+                (formerly Tabu) and{" "}
                 <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">
                   BEAT London
                 </Link>{" "}
-                is a traditional nightclub where the music and crowd are the
+                are traditional nightclubs where the music and crowd are the
                 main attraction. No gimmicks, just great nights out.
               </p>
             </div>
@@ -274,7 +282,7 @@ export default function MayfairNightlifeGuidePage() {
               {
                 night: "Wednesday",
                 slug: "wednesday",
-                desc: "Midweek Mayfair kicks off. Cirque Le Soir and The Box both open. Less crowded, more sociable: the savvy choice.",
+                desc: "Midweek Mayfair kicks off. 99 Regent Street, Cirque Le Soir and The Box all open. Less crowded, more sociable: the savvy choice.",
               },
               {
                 night: "Thursday",
@@ -342,6 +350,7 @@ export default function MayfairNightlifeGuidePage() {
                 <div className="flex justify-between">
                   <span className="text-gray-300">Easiest</span>
                   <span className="text-white">
+                    <Link href="/clubs/99-regent-street" className="hover:text-gold">99 Regent Street</Link>,{" "}
                     <Link href="/clubs/selene-london" className="hover:text-gold">Selene</Link>,{" "}
                     <Link href="/clubs/dear-darling" className="hover:text-gold">Dear Darling</Link>
                   </span>
@@ -359,7 +368,9 @@ export default function MayfairNightlifeGuidePage() {
                   <span className="text-white">
                     <Link href="/clubs/tape-london" className="hover:text-gold">Tape London</Link>,{" "}
                     <Link href="/clubs/scotch-of-st-james" className="hover:text-gold">Scotch</Link>,{" "}
-                    <Link href="/clubs/the-box-london" className="hover:text-gold">The Box</Link>
+                    <Link href="/clubs/the-box-london" className="hover:text-gold">The Box</Link>,{" "}
+                    <Link href="/clubs/rumour-london" className="hover:text-gold">Rumour</Link>{" "}
+                    (ladies&apos; list only)
                   </span>
                 </div>
               </div>
@@ -557,7 +568,8 @@ export default function MayfairNightlifeGuidePage() {
               <p className="text-sm text-gray-300">
                 <Link href="/clubs/tape-london" className="text-white hover:text-gold">Tape</Link>{" "}→{" "}
                 <Link href="/clubs/cirque-le-soir" className="text-white hover:text-gold">Cirque Le Soir</Link>{" "}→{" "}
-                <Link href="/clubs/beat-london" className="text-white hover:text-gold">BEAT London</Link>
+                <Link href="/clubs/beat-london" className="text-white hover:text-gold">BEAT London</Link>{" "}→{" "}
+                <Link href="/clubs/rumour-london" className="text-white hover:text-gold">Rumour</Link>
               </p>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">
@@ -566,7 +578,8 @@ export default function MayfairNightlifeGuidePage() {
               </h3>
               <p className="text-sm text-gray-300">
                 <Link href="/clubs/maddox" className="text-white hover:text-gold">Maddox</Link>{" "}→{" "}
-                <Link href="/clubs/selene-london" className="text-white hover:text-gold">Selene</Link>
+                <Link href="/clubs/selene-london" className="text-white hover:text-gold">Selene</Link>{" "}→{" "}
+                <Link href="/clubs/99-regent-street" className="text-white hover:text-gold">99 Regent Street (downstairs)</Link>
               </p>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">
@@ -606,6 +619,7 @@ export default function MayfairNightlifeGuidePage() {
               <p className="text-sm text-gray-300">
                 <Link href="/clubs/beat-london" className="text-white hover:text-gold">BEAT London</Link>{" "}→{" "}
                 <Link href="/clubs/reign-london" className="text-white hover:text-gold">Reign</Link>{" "}→{" "}
+                <Link href="/clubs/99-regent-street" className="text-white hover:text-gold">99 Regent Street</Link>{" "}→{" "}
                 <Link href="/clubs/cirque-le-soir" className="text-white hover:text-gold">Cirque Le Soir</Link>
               </p>
             </div>
@@ -628,6 +642,7 @@ export default function MayfairNightlifeGuidePage() {
               </h3>
               <p className="text-sm">
                 <Link href="/clubs/tape-london" className="text-gold hover:text-gold-light">Tape London</Link>,{" "}
+                <Link href="/clubs/rumour-london" className="text-gold hover:text-gold-light">Rumour</Link>,{" "}
                 <Link href="/clubs/scotch-of-st-james" className="text-gold hover:text-gold-light">Scotch of St James</Link>,{" "}
                 <Link href="/clubs/dear-darling" className="text-gold hover:text-gold-light">Dear Darling</Link>,{" "}
                 <Link href="/clubs/maddox" className="text-gold hover:text-gold-light">Maddox</Link>,{" "}
@@ -638,10 +653,11 @@ export default function MayfairNightlifeGuidePage() {
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">
               <h3 className="text-white font-semibold mb-2">
-                Piccadilly
+                Piccadilly / Swallow Street
               </h3>
               <p className="text-sm">
-                <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">Reign London</Link>.
+                <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">Reign London</Link>,{" "}
+                <Link href="/clubs/99-regent-street" className="text-gold hover:text-gold-light">99 Regent Street</Link>.
                 Just off Piccadilly Circus: easy to reach from anywhere in
                 central London.
               </p>

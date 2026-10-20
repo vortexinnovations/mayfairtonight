@@ -127,6 +127,36 @@ const tableClubs: TableClub[] = [
   },
   {
     rank: 7,
+    name: "Rumour",
+    slug: "rumour-london",
+    tagline: "Red Velvet Booths",
+    experience:
+      "Rumour (formerly Tabu) is one intimate room of around 200 at 1 Dover Street, built around booths in deep red velvet, with dark panelling, a chandelier and low warm lighting. Men are not added to the guestlist, so a booth is the way in for men and mixed groups, and the no-photography policy keeps the night in the room: no photos or video in the main room or on the dance floor. The music is open format, hip hop, RnB and house, read to the room.",
+    layout:
+      "One room, built around its booths, and it fills early by design, so the booth is your base for the night. Friday and Saturday booths are worth arranging in advance.",
+    included:
+      "The minimum spend goes on drinks and covers entry for the whole group: across eight people, a £1,000 booth works out at roughly £125 each.",
+    bestFor: "Men and mixed groups, groups who want a booth and a night off camera",
+    minSpend: "From £1,000",
+    recommendation: "Booths are the route in for men and mixed groups. Ladies can use the guestlist, free to £20 on the door depending on the night.",
+  },
+  {
+    rank: 8,
+    name: "99 Regent Street",
+    slug: "99-regent-street",
+    tagline: "Two Floors, Two Sounds",
+    experience:
+      "99 Regent Street (formerly Cuckoo Club) is two floors of around 200 each, entered from Swallow Street two minutes from Piccadilly Circus. Most tables sit upstairs in the main room, which plays open-format hip hop and RnB; downstairs is house, darker and more dance-focused. A table gives the group a base in one room with the other a staircase away.",
+    layout:
+      "Two floors joined by a staircase, with dark panelling, warm low lighting, banquette seating and a long bar. Both floors run on Friday and Saturday; one floor opens on Wednesday and Thursday.",
+    included:
+      "The minimum spend goes on drinks rather than being charged on top, and it covers entry for the whole group. It rises with the night, the group size and the table position; VIP and larger tables on request.",
+    bestFor: "Mixed groups who want hip hop and house under one roof",
+    minSpend: "From £600",
+    recommendation: "Tables or guestlist both work: the guestlist takes mixed groups by request. Bring physical photo ID, as the door is 19+.",
+  },
+  {
+    rank: 9,
     name: "Selene London",
     slug: "selene-london",
     tagline: "Refined",
@@ -369,7 +399,7 @@ export default function BestClubsForTablesPage() {
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
-                  You&apos;re going to Selene, where guestlist works brilliantly
+                  You&apos;re going to 99 Regent Street, whose guestlist takes mixed groups, or Selene, where guestlist works brilliantly
                 </li>
               </ul>
             </div>

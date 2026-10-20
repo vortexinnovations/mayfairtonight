@@ -75,7 +75,7 @@ export default function NightlifeAreasPage() {
                 </div>
               </div>
               <div className="border-t border-dark-border pt-3">
-                <p className="text-sm text-dark-muted"><strong>The walk:</strong>{" "}Berkeley Square is a short walk from Green Park station; Reign London is south of it on Piccadilly.</p>
+                <p className="text-sm text-dark-muted"><strong>The walk:</strong>{" "}Berkeley Square is a short walk from Green Park station; Reign London is south of it on Piccadilly, and Rumour on Dover Street is a few minutes from the station.</p>
                 <p className="text-sm text-dark-muted mt-1"><strong>The vibe:</strong>{" "}Upscale urban. Well-dressed crowds moving between venues. The street feels alive on weekends from 11pm onward.</p>
               </div>
             </div>
@@ -215,13 +215,13 @@ export default function NightlifeAreasPage() {
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-5">
               <h3 className="text-gold font-semibold mb-2">Route 2: The Hip-Hop to House Crossover</h3>
-              <p className="text-sm text-gray-300 mb-2">Reign London → walk north → Maddox or Scotch</p>
-              <p className="text-sm text-dark-muted">Start on Piccadilly at Reign London for hip-hop and commercial, then walk north through Mayfair to Maddox or Scotch for house music. A great way to experience two sides of Mayfair in one night.</p>
+              <p className="text-sm text-gray-300 mb-2">Reign London or Rumour → walk north → Maddox or Scotch</p>
+              <p className="text-sm text-dark-muted">Start on Piccadilly at Reign London for hip-hop and commercial, or at Rumour on Dover Street for open-format hip hop, RnB and house, then walk north through Mayfair to Maddox or Scotch for house music. A great way to experience two sides of Mayfair in one night.</p>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-5">
               <h3 className="text-gold font-semibold mb-2">Route 3: The Grand Tour</h3>
-              <p className="text-sm text-gray-300 mb-2">Reign London → walk through Mayfair → Dear Darling → Maddox → walk east → Cirque Le Soir</p>
-              <p className="text-sm text-dark-muted">The most ambitious route. Start at Piccadilly with Reign London, walk north through the heart of Mayfair to Dover Street, then cross into Soho for Cirque Le Soir. Total walking time: about 20 minutes end to end, but you&apos;ll be stopping at venues along the way.</p>
+              <p className="text-sm text-gray-300 mb-2">99 Regent Street or Reign London → walk through Mayfair → Dear Darling → Maddox → walk east → Cirque Le Soir</p>
+              <p className="text-sm text-dark-muted">The most ambitious route. Start at Piccadilly with 99 Regent Street, entered from Swallow Street, or Reign London, walk north through the heart of Mayfair to Dover Street, then cross into Soho for Cirque Le Soir. Total walking time: about 20 minutes end to end, but you&apos;ll be stopping at venues along the way.</p>
             </div>
           </div>
         </section>

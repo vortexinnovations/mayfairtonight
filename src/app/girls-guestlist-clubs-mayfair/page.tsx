@@ -36,6 +36,22 @@ interface GirlsClub {
 const girlsClubs: GirlsClub[] = [
   {
     rank: 1,
+    name: "99 Regent Street",
+    slug: "99-regent-street",
+    tagline: "Two Floors, Two Sounds",
+    whyItWorks:
+      "99 Regent Street (formerly Cuckoo Club) gives a girls' night two rooms under one roof, entered from Swallow Street two minutes from Piccadilly Circus. Upstairs is the main room, playing open-format hip hop and RnB; downstairs is house, darker and more dance-focused, with a staircase between the two. Both floors run on Friday and Saturday, and the night goes on until 4am.",
+    guestlist:
+      "Guestlist by request, and it takes girls' groups and mixed groups alike: it is not a ladies-only list. Entry runs from free to about £50 depending on the night and arrival time, and we confirm names and the night's terms before you go.",
+    dressTips:
+      "Elegant, and the door enforces it. Black is the safe choice. No sportswear, running trainers, shorts, caps or fancy dress.",
+    bestNight:
+      "Friday and Saturday, when both floors are open. Wednesday and Thursday open one floor, so ask us which room is on.",
+    vibe:
+      "Dark panelling, warm low lighting, banquette seating and a long bar, across two floors of around 200 each. The door is 19+ with physical photo ID, a year older than most in London, so everyone in the group needs the card itself.",
+  },
+  {
+    rank: 2,
     name: "Cirque Le Soir",
     slug: "cirque-le-soir",
     tagline: "The Event Night",
@@ -51,7 +67,7 @@ const girlsClubs: GirlsClub[] = [
       "High-energy, celebratory, and utterly unique. The performers create a safe, joyful atmosphere. Security is tight and professional. Groups are well looked after.",
   },
   {
-    rank: 2,
+    rank: 3,
     name: "Dear Darling",
     slug: "dear-darling",
     tagline: "Cocktails First, Dancing Later",
@@ -67,7 +83,7 @@ const girlsClubs: GirlsClub[] = [
       "Intimate, elegant, and genuinely welcoming. The bartenders engage with guests, the space feels personal, and the crowd is well-mannered. Excellent for smaller groups of 4-6.",
   },
   {
-    rank: 3,
+    rank: 4,
     name: "Selene London",
     slug: "selene-london",
     tagline: "Refined & Elegant",
@@ -83,7 +99,7 @@ const girlsClubs: GirlsClub[] = [
       "Sophisticated, calm confidence. No chaos, no pushiness, just a well-curated room with excellent music. The newer venue energy means attentive service and a crowd that's there because they want to be.",
   },
   {
-    rank: 4,
+    rank: 5,
     name: "Reign London",
     slug: "reign-london",
     tagline: "The Show Makes It Special",
@@ -375,6 +391,9 @@ export default function GirlsGuestlistPage() {
             </p>
             <p className="text-sm text-gray-300">
               <span className="text-gold font-medium">Dear Darling & Selene:</span>{" "}Classic elegance. Little black dress territory. Understated polish over statement pieces.
+            </p>
+            <p className="text-sm text-gray-300">
+              <span className="text-gold font-medium">99 Regent Street:</span>{" "}Elegant, and enforced at the door. Black is the safe choice. No sportswear, shorts, caps or fancy dress.
             </p>
             <p className="text-sm text-gray-300">
               <span className="text-gold font-medium">Reign London:</span>{" "}Full glamour. Evening dresses and heels. The showclub atmosphere demands it.
