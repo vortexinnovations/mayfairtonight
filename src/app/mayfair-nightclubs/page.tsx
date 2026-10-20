@@ -138,24 +138,14 @@ export default function MayfairNightclubsPage() {
       <article className="max-w-4xl mx-auto px-4 pt-8">
         <p className="text-dark-muted text-sm mb-8">
           Looking for what&apos;s on tonight specifically?{" "}
-          <a
-            href="https://londonclubstonight.com"
-            target="_blank"
-            rel="noopener noreferrer"
+          <Link
+            href="/where-to-go-tonight"
             className="text-gold hover:text-gold-light"
           >
-            Check londonclubstonight.com
-          </a>{" "}
-          for live updates. Want to book a VIP table?{" "}
-          <a
-            href="https://londonbottleservice.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-gold hover:text-gold-light"
-          >
-            London Bottle Service
-          </a>{" "}
-          handles all Mayfair table bookings.
+            See where to go tonight
+          </Link>
+          . Want to book a VIP table? Message us on WhatsApp and we handle the
+          booking.
         </p>
 
         {/* Quick navigation */}
@@ -273,15 +263,7 @@ export default function MayfairNightclubsPage() {
                   </span>
                   <span>|</span>
                   <span>
-                    Tables:{" "}
-                    <a
-                      href="https://londonbottleservice.com"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="text-gray-300 hover:text-gold"
-                    >
-                      from {club.tableMinimum}
-                    </a>
+                    Tables: from {club.tableMinimum}
                   </span>
                 </div>
 
@@ -502,17 +484,8 @@ export default function MayfairNightclubsPage() {
           </h2>
           <p className="text-dark-muted mb-4">
             Message us on WhatsApp with what you&apos;re looking for and
-            we&apos;ll recommend the perfect club for your night. Or book a VIP
-            table through{" "}
-            <a
-              href="https://londonbottleservice.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gold hover:text-gold-light"
-            >
-              London Bottle Service
-            </a>
-            .
+            we&apos;ll recommend the perfect club for your night, or book you a
+            VIP table.
           </p>
           <WhatsAppCTA size="lg" />
         </div>
@@ -591,7 +564,7 @@ const faqs = [
   {
     question: "How much does it cost to get into a Mayfair nightclub?",
     answer:
-      "Guestlist entry at most Mayfair clubs is free or has a nominal cover charge (£10 to £20). Table bookings typically start from £1,000 minimum spend. The real cost is in what you spend inside: bottles, cocktails, and service. For detailed table pricing and VIP bookings, check londonbottleservice.com.",
+      "Guestlist entry at most Mayfair clubs is free or has a nominal cover charge (£10 to £20). Table bookings typically start from £1,000 minimum spend. The real cost is in what you spend inside: bottles, cocktails, and service. For detailed table pricing and VIP bookings, message us on WhatsApp.",
   },
   {
     question: "Which Mayfair clubs are open on Thursday?",

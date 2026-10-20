@@ -59,7 +59,7 @@ We book tables and guestlist across Mayfair every week. We know which clubs deli
 
 ### 7. Scotch of St James: The History
 
-[Scotch](/clubs/scotch-of-st-james) has been a Mayfair institution since the 1960s. The heritage is real, and the intimate room still delivers elegant, quality nights. Thursday is particularly good here.
+[Scotch](/clubs/scotch-of-st-james) has been a St James's institution since the 1960s. The heritage is real, and the intimate room still delivers elegant, quality nights. Thursday is particularly good here.
 
 **Best for:** People who appreciate history and intimate venues over big-room energy.
 
@@ -71,7 +71,7 @@ We book tables and guestlist across Mayfair every week. We know which clubs deli
 
 ### 9. Dear Darling: The Bar That Goes Late
 
-[Dear Darling](/clubs/dear-darling) is more high-end bar than nightclub, but it transitions beautifully into late-night energy. The cocktails are serious, the room is opulent, and it's the most civilised way to go out in Mayfair.
+[Dear Darling](/clubs/dear-darling) is more high-end bar than nightclub, but it transitions beautifully into late-night energy. The cocktails are serious, the room is opulent, and it's the most civilised way to go out in St James's.
 
 **Best for:** Date nights and people who prefer cocktail bars to clubs.
 

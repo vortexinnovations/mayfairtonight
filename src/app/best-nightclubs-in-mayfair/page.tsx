@@ -142,7 +142,7 @@ const rankedClubs: RankedClub[] = [
     slug: "scotch-of-st-james",
     category: "Most Historic",
     verdict:
-      "Scotch has heritage that no other Mayfair club can match: Hendrix, the Stones, decades of London nightlife history soaked into the walls. Today it delivers elegant parties with quality music in an intimate setting. It's timeless in a scene that chases trends.",
+      "Scotch has heritage that no club in or around Mayfair can match: Hendrix, the Stones, decades of London nightlife history soaked into the walls. Today it delivers elegant parties with quality music in an intimate setting. It's timeless in a scene that chases trends.",
     strengths: [
       "Unmatched heritage and history",
       "Intimate, elegant atmosphere",

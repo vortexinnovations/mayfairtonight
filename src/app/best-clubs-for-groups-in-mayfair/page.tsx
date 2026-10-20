@@ -47,7 +47,7 @@ const groupRecommendations: GroupRecommendation[] = [
         guestlistOrTables:
           "Tables strongly recommended for birthdays. The venue can arrange birthday extras: sparklers, personalised bottle presentations, and announcements. Guestlist works on Wednesdays for smaller birthday groups.",
         approxGroupCost:
-          "Table from ~£1,000 min spend (6-8 guests). Guestlist free but drinks at bar prices (budget £50-80pp).",
+          "Table from ~£1,000 min spend (6 to 8 guests). Guestlist free but drinks at bar prices (budget £50 to £80pp).",
         bestNight: "Saturday for the full production. Wednesday for a more intimate celebration.",
       },
       {
@@ -57,7 +57,7 @@ const groupRecommendations: GroupRecommendation[] = [
         guestlistOrTables:
           "Tables are the way to do birthdays here. Reign offers excellent birthday packages with personalised touches. The production value at your table makes the minimum spend feel worth it.",
         approxGroupCost:
-          "Table from ~£1,000 min spend (6-8 guests). Birthday packages available: ask when booking.",
+          "Table from ~£1,000 min spend (6 to 8 guests). Birthday packages available: ask when booking.",
         bestNight: "Saturday for peak energy. Friday for a slightly more relaxed celebration.",
       },
     ],
@@ -84,7 +84,7 @@ const groupRecommendations: GroupRecommendation[] = [
         guestlistOrTables:
           "Book dinner and club as a package for the best value. The restaurant accommodates groups well and the transition to the club feels natural. Tables downstairs available if you want to extend the VIP experience.",
         approxGroupCost:
-          "Dinner ~£60-80pp plus club entry. Club tables from ~£1,000 min spend. Dinner-to-dance packages offer better value.",
+          "Dinner ~£60 to £80pp plus club entry. Club tables from ~£1,000 min spend. Dinner-to-dance packages offer better value.",
         bestNight: "Thursday or Friday. Saturday works but book dinner early.",
       },
     ],
@@ -99,9 +99,9 @@ const groupRecommendations: GroupRecommendation[] = [
         slug: "beat-london",
         why: "Pure party energy on Margaret Street, just north of Mayfair, with a younger, high-energy crowd. BEAT does not overthink it: the music is loud, the lights are dynamic, and the atmosphere is built for groups who want to dance. Good value tables compared to the bigger Mayfair names make it a smart choice for larger groups watching the budget.",
         guestlistOrTables:
-          "Guestlist works well. Tables offer great value for the area: more room to celebrate without the premium pricing of the established names. Ideal for groups of 8-12 who want a VIP experience at a reasonable cost.",
+          "Guestlist works well. Tables offer great value for the area: more room to celebrate without the premium pricing of the established names. Ideal for groups of 8 to 12 who want a VIP experience at a reasonable cost.",
         approxGroupCost:
-          "Tables from ~£800 min spend. Guestlist free, budget £40-50pp for drinks.",
+          "Tables from ~£800 min spend. Guestlist free, budget £40 to £50pp for drinks.",
         bestNight: "Friday or Saturday.",
       },
     ],
@@ -139,12 +139,12 @@ const faqs = [
   {
     question: "What is the minimum spend for group tables in Mayfair?",
     answer:
-      "Most Mayfair clubs start table minimums at around £800-£1,000 for a standard table (6-8 guests). Premium tables and weekend nights can be £1,500-£3,000+. Tape London starts from around £1,500. Cirque Le Soir and Reign from £1,000. 99 Regent Street offers tables from £600, covering entry for the group, and BEAT from around £800. For current table prices and group packages, visit londonbottleservice.com or message us on WhatsApp.",
+      "Most Mayfair clubs start table minimums at around £800 to £1,000 for a standard table (6 to 8 guests). Premium tables and weekend nights can be £1,500 to £3,000+. Tape London starts from around £1,500. Cirque Le Soir and Reign from £1,000. 99 Regent Street offers tables from £600, covering entry for the group, and BEAT from around £800. For current table prices and group packages, message us on WhatsApp.",
   },
   {
     question: "Can mixed groups get on the guestlist in Mayfair?",
     answer:
-      "Yes, but the ratio matters. Most Mayfair clubs prefer an even gender ratio or female-heavy groups on guestlist. All-male groups will struggle at some venues without a table booking. Mixed groups of 4-8 with a good gender balance work best. Book through a promoter for the smoothest experience. For all-female groups, check out our girls guestlist guide.",
+      "Yes, but the ratio matters. Most Mayfair clubs prefer an even gender ratio or female-heavy groups on guestlist. All-male groups will struggle at some venues without a table booking. Mixed groups of 4 to 8 with a good gender balance work best. Book through a promoter for the smoothest experience. For all-female groups, check out our girls guestlist guide.",
   },
   {
     question: "What is the best night for groups in Mayfair?",
@@ -200,24 +200,14 @@ export default function BestClubsForGroupsPage() {
           >
             See all Mayfair nightclubs
           </Link>
-          . For group table bookings and pricing, visit{" "}
-          <a
-            href="https://londonbottleservice.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-gold hover:text-gold-light"
-          >
-            londonbottleservice.com
-          </a>
-          . Or check{" "}
-          <a
-            href="https://londonclubstonight.com"
-            target="_blank"
-            rel="noopener noreferrer"
+          . For group table bookings and pricing, message us on WhatsApp. Or
+          check{" "}
+          <Link
+            href="/where-to-go-tonight"
             className="text-gold hover:text-gold-light"
           >
             what&apos;s on tonight
-          </a>
+          </Link>
           .
         </p>
 
@@ -422,7 +412,7 @@ export default function BestClubsForGroupsPage() {
                   1. Decide on Guestlist or Table
                 </h3>
                 <p className="text-sm text-gray-300">
-                  Groups of 4-6 can work on guestlist at most venues. Groups of
+                  Groups of 4 to 6 can work on guestlist at most venues. Groups of
                   8+ should seriously consider a table: it guarantees entry,
                   gives you a base, and the minimum spend covers your drinks
                   anyway. Read our{" "}
@@ -440,16 +430,7 @@ export default function BestClubsForGroupsPage() {
                   Never try to walk up with a large group. Book through a
                   promoter who knows the venue. They will confirm your numbers,
                   arrange the table configuration, and brief the door team. For
-                  table bookings, visit{" "}
-                  <a
-                    href="https://londonbottleservice.com"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-gold hover:text-gold-light"
-                  >
-                    londonbottleservice.com
-                  </a>
-                  . For guestlist, message us on WhatsApp.
+                  table bookings and guestlist, message us on WhatsApp.
                 </p>
               </div>
               <div>
@@ -535,14 +516,12 @@ export default function BestClubsForGroupsPage() {
                   <strong className="text-white">Have a backup plan.</strong>{" "}
                   Guestlist is never guaranteed. If the room is full, you need a
                   Plan B. Check{" "}
-                  <a
-                    href="https://londonclubstonight.com"
-                    target="_blank"
-                    rel="noopener noreferrer"
+                  <Link
+                    href="/where-to-go-tonight"
                     className="text-gold hover:text-gold-light"
                   >
-                    londonclubstonight.com
-                  </a>{" "}
+                    where to go tonight
+                  </Link>{" "}
                   for alternative options on the night.
                 </span>
               </li>
@@ -619,16 +598,6 @@ export default function BestClubsForGroupsPage() {
           <p className="text-dark-muted mb-4">
             Message us on WhatsApp with your group size, date, and vibe: we
             will recommend the perfect venue and sort your guestlist or table.
-            For group table bookings and pricing, visit{" "}
-            <a
-              href="https://londonbottleservice.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gold hover:text-gold-light"
-            >
-              London Bottle Service
-            </a>
-            .
           </p>
           <WhatsAppCTA size="lg" />
         </div>

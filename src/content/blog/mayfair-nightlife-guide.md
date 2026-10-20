@@ -38,7 +38,7 @@ Browse all clubs on our [clubs page](/clubs).
 
 Every night of the week has a different character. Here's the summary:
 
-**Monday-Tuesday:** Quiet. Most clubs closed. A few bars stay open for the industry crowd. Not worth planning a big night.
+**Monday and Tuesday:** Quieter, but not closed. [Cirque Le Soir](/clubs/cirque-le-soir) opens on Monday, and [Tape London](/clubs/tape-london) and [Reign London](/clubs/reign-london) open on Tuesday. Most other clubs wait until later in the week.
 
 **[Wednesday](/nights/wednesday):** Midweek nightlife kicks off. Major clubs open their doors. Smaller crowds, more sociable, often better vibes than weekends.
 
@@ -48,7 +48,7 @@ Every night of the week has a different character. Here's the summary:
 
 **[Saturday](/nights/saturday):** The pinnacle. Maximum energy, maximum production, maximum crowds. Book ahead. Everything sells out.
 
-**[Sunday](/nights/sunday):** Wind-down. Most Mayfair clubs closed. A few late-night bars stay open for those who aren't ready to call it.
+**[Sunday](/nights/sunday):** Wind-down. Most Mayfair clubs are closed, but [Tape London](/clubs/tape-london), [Dear Darling](/clubs/dear-darling) and [Selene](/clubs/selene-london) stay open for those who aren't ready to call it.
 
 Our recommendation: if it's your first time, go on a **Thursday**. You get the full experience with slightly less intensity than the weekend.
 
@@ -67,8 +67,8 @@ Full details in our [dress code guide](/dress-code), which covers every venue in
 Be honest with yourself about the budget:
 
 - **Entry on guestlist:** Free to £20
-- **VIP table booking:** £1,000-£1,500+ minimum spend
-- **Cocktails at the bar:** £15-£20
+- **VIP table booking:** £1,000 to £1,500+ minimum spend
+- **Cocktails at the bar:** £15 to £20
 - **Bottles on a table:** £300+ spirits, £400+ champagne
 
 Mayfair is not cheap. But the experience is premium: world-class venues, excellent service, and an atmosphere you won't find elsewhere in London.

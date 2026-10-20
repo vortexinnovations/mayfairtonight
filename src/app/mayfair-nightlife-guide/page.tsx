@@ -25,7 +25,7 @@ const faqs = [
   {
     question: "Is Mayfair nightlife expensive?",
     answer:
-      "Guestlist entry is often free. Cocktails run £12 to £18 and bottles start from £300. Table minimums start at £1,000 at most venues. You can have a great night on guestlist for £50 to £100 per person: you don't need a table to enjoy Mayfair. For table pricing, check londonbottleservice.com.",
+      "Guestlist entry is often free. Cocktails run £12 to £18 and bottles start from £300. Table minimums start at £1,000 at most venues. You can have a great night on guestlist for £50 to £100 per person: you don't need a table to enjoy Mayfair. For table pricing, message us on WhatsApp.",
   },
   {
     question: "What age group goes to Mayfair clubs?",
@@ -84,24 +84,11 @@ export default function MayfairNightlifeGuidePage() {
       <article className="max-w-4xl mx-auto px-4 pt-8">
         <p className="text-dark-muted text-sm mb-8">
           Want to know what&apos;s on tonight?{" "}
-          <a
-            href="https://londonclubstonight.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-gold hover:text-gold-light"
-          >
-            Check londonclubstonight.com
-          </a>
-          . Ready to book a VIP table?{" "}
-          <a
-            href="https://londonbottleservice.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-gold hover:text-gold-light"
-          >
-            London Bottle Service
-          </a>{" "}
-          handles all Mayfair bookings.
+          <Link href="/where-to-go-tonight" className="text-gold hover:text-gold-light">
+            See where to go tonight
+          </Link>
+          . Ready to book a VIP table? Message us on WhatsApp and we handle
+          the booking.
         </p>
 
         {/* Table of contents */}
@@ -317,8 +304,9 @@ export default function MayfairNightlifeGuidePage() {
             ))}
           </div>
           <p className="text-sm text-dark-muted mt-3">
-            Monday and Tuesday are quiet in Mayfair. Sunday is limited to
-            occasional events.{" "}
+            Monday and Tuesday are quieter: Cirque Le Soir opens on Monday,
+            and Tape London and Reign London open on Tuesday. On Sunday, Tape
+            London, Dear Darling and Selene are open.{" "}
             <Link href="/nights/sunday" className="text-gold hover:text-gold-light">
               See Sunday options →
             </Link>
@@ -378,16 +366,8 @@ export default function MayfairNightlifeGuidePage() {
             </div>
 
             <p className="text-sm text-dark-muted">
-              For table bookings and VIP service, visit{" "}
-              <a
-                href="https://londonbottleservice.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-gold hover:text-gold-light"
-              >
-                londonbottleservice.com
-              </a>
-              . Tables guarantee entry and usually include queue-skip.
+              For table bookings and VIP service, message us on WhatsApp.
+              Tables guarantee entry and usually include queue-skip.
             </p>
           </div>
         </section>
@@ -476,16 +456,8 @@ export default function MayfairNightlifeGuidePage() {
             </div>
           </div>
           <p className="text-sm text-dark-muted mt-3">
-            For detailed table pricing and VIP packages, visit{" "}
-            <a
-              href="https://londonbottleservice.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gold hover:text-gold-light"
-            >
-              londonbottleservice.com
-            </a>
-            .
+            For current table pricing and VIP packages, message us on
+            WhatsApp.
           </p>
         </section>
 
@@ -749,17 +721,8 @@ export default function MayfairNightlifeGuidePage() {
           </h2>
           <p className="text-dark-muted mb-4">
             Tell us what you&apos;re looking for and we&apos;ll recommend the perfect
-            club, handle the guestlist, and sort your night. Or book a VIP
-            table through{" "}
-            <a
-              href="https://londonbottleservice.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gold hover:text-gold-light"
-            >
-              London Bottle Service
-            </a>
-            .
+            club, handle the guestlist, and sort your night, or book you a VIP
+            table.
           </p>
           <WhatsAppCTA size="lg" />
         </div>

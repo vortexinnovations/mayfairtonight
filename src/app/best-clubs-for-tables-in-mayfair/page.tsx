@@ -181,12 +181,12 @@ const faqs = [
   {
     question: "Can you share a table with another group in Mayfair clubs?",
     answer:
-      "Generally no: your table is your table. However, some venues offer shared VIP areas or standing VIP sections at a lower minimum spend. If your group is small (2-3 people), some promoters can arrange table-sharing, but this depends entirely on the venue and the night. For guaranteed privacy, book your own table through a promoter or directly via londonbottleservice.com.",
+      "Generally no: your table is your table. However, some venues offer shared VIP areas or standing VIP sections at a lower minimum spend. If your group is small (2 to 3 people), some promoters can arrange table-sharing, but this depends entirely on the venue and the night. For guaranteed privacy, book your own table through a promoter or message us on WhatsApp.",
   },
   {
     question: "How far in advance should I book a table in Mayfair?",
     answer:
-      "For Friday and Saturday nights, book at least a week in advance: premium tables at Tape London and Cirque Le Soir sell out earlier. Thursday bookings can often be made 2-3 days ahead. For special occasions like New Year's Eve or bank holiday weekends, book 2-4 weeks in advance. Midweek tables are usually available with shorter notice.",
+      "For Friday and Saturday nights, book at least a week in advance: premium tables at Tape London and Cirque Le Soir sell out earlier. Thursday bookings can often be made 2 to 3 days ahead. For special occasions like New Year's Eve or bank holiday weekends, book 2 to 4 weeks in advance. Midweek tables are usually available with shorter notice.",
   },
   {
     question: "Is a table booking worth it compared to guestlist?",
@@ -233,24 +233,14 @@ export default function BestClubsForTablesPage() {
           >
             Browse all Mayfair nightclubs
           </Link>
-          . For pricing and availability on VIP tables, visit{" "}
-          <a
-            href="https://londonbottleservice.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-gold hover:text-gold-light"
-          >
-            londonbottleservice.com
-          </a>
-          . Or check{" "}
-          <a
-            href="https://londonclubstonight.com"
-            target="_blank"
-            rel="noopener noreferrer"
+          . For pricing and availability on VIP tables, message us on
+          WhatsApp. Or check{" "}
+          <Link
+            href="/where-to-go-tonight"
             className="text-gold hover:text-gold-light"
           >
             what&apos;s on tonight
-          </a>
+          </Link>
           .
         </p>
 
@@ -383,7 +373,7 @@ export default function BestClubsForTablesPage() {
               <ul className="space-y-2 text-gray-300 text-sm">
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
-                  Your group is small: 2-4 people
+                  Your group is small: 2 to 4 people
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-gold mt-0.5">•</span>
@@ -432,16 +422,7 @@ export default function BestClubsForTablesPage() {
             <div className="bg-dark-card border-l-2 border-gold p-4 rounded-r-lg">
               <h3 className="text-white font-medium mb-1">1. The Booking</h3>
               <p className="text-gray-300 text-sm">
-                Contact a promoter or book through{" "}
-                <a
-                  href="https://londonbottleservice.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-gold hover:text-gold-light"
-                >
-                  londonbottleservice.com
-                </a>
-                . You&apos;ll agree a minimum spend, group size, and arrival time. A deposit or card on file is standard.
+                Contact a promoter or message us on WhatsApp. You&apos;ll agree a minimum spend, group size, and arrival time. A deposit or card on file is standard.
               </p>
             </div>
             <div className="bg-dark-card border-l-2 border-gold p-4 rounded-r-lg">
@@ -550,16 +531,7 @@ export default function BestClubsForTablesPage() {
           </h2>
           <p className="text-dark-muted mb-4">
             Message us on WhatsApp and we&apos;ll find the right table at
-            the right club for your group. For full VIP table bookings, visit{" "}
-            <a
-              href="https://londonbottleservice.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gold hover:text-gold-light"
-            >
-              London Bottle Service
-            </a>
-            .
+            the right club for your group.
           </p>
           <WhatsAppCTA size="lg" />
         </div>

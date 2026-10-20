@@ -91,7 +91,7 @@ const celebrityClubs: CelebrityClub[] = [
     insiderTip:
       "Mention nothing about celebrity spotting at the door. Scotch values discretion above all else. Dress elegantly: think dinner party, not nightclub. The intimate setting means every person in the room matters. Arrive before midnight for the best atmosphere.",
     verdict:
-      "The heritage choice. Scotch of St James carries a celebrity legacy that no other Mayfair club can match. The current incarnation honours that history with elegant parties, quality music, and a crowd that appreciates where they are standing.",
+      "The heritage choice. Scotch of St James carries a celebrity legacy that no club in or around Mayfair can match. The current incarnation honours that history with elegant parties, quality music, and a crowd that appreciates where they are standing.",
   },
 ];
 

@@ -25,7 +25,7 @@ const faqs = [
   {
     question: "How much does a VIP table in Mayfair cost?",
     answer:
-      "Table minimums start from 600 pounds at 99 Regent Street and around 1,000 pounds at entry-level venues like BEAT London. Mid-tier venues like Reign, Cirque Le Soir, and Maddox start from 1,500 to 2,000 pounds. Top-tier venues like Tape London start from 2,000 to 3,000 pounds minimum spend. Premium table positions cost more. For exact pricing visit londonbottleservice.com.",
+      "Table minimums start from 600 pounds at 99 Regent Street and around 1,000 pounds at entry-level venues like BEAT London. Mid-tier venues like Reign, Cirque Le Soir, and Maddox start from 1,500 to 2,000 pounds. Top-tier venues like Tape London start from 2,000 to 3,000 pounds minimum spend. Premium table positions cost more. For exact pricing, message us on WhatsApp.",
   },
   {
     question: "Is VIP worth it in Mayfair?",
@@ -45,7 +45,7 @@ const faqs = [
   {
     question: "How do I book a VIP table in Mayfair?",
     answer:
-      "The easiest way is through a booking service like londonbottleservice.com which handles all Mayfair venues. You can also message us on WhatsApp and we will arrange everything. Booking directly with the venue works but you may miss out on promoter perks like priority positioning or complimentary upgrades.",
+      "The easiest way is to message us on WhatsApp and we will arrange everything. Booking directly with the venue works but you may miss out on promoter perks like priority positioning or complimentary upgrades.",
   },
 ];
 
@@ -75,16 +75,8 @@ export default function MayfairVIPPage() {
 
       <article className="max-w-4xl mx-auto px-4 pt-8">
         <p className="text-dark-muted text-sm mb-8">
-          Ready to book a table?{" "}
-          <a
-            href="https://londonbottleservice.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-gold hover:text-gold-light"
-          >
-            London Bottle Service
-          </a>{" "}
-          handles all Mayfair VIP bookings. Need to decide on a venue first?{" "}
+          Ready to book a table? Message us on WhatsApp and we handle the
+          booking. Need to decide on a venue first?{" "}
           <Link
             href="/best-nightclubs-in-mayfair"
             className="text-gold hover:text-gold-light"
@@ -119,16 +111,8 @@ export default function MayfairVIPPage() {
               <p className="text-sm text-dark-muted">
                 Minimums range from 600 to 5,000+ pounds depending on the
                 venue, night, and table position. Premium tables near the DJ
-                or stage cost more. For pricing across all venues, check{" "}
-                <a
-                  href="https://londonbottleservice.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-gold hover:text-gold-light"
-                >
-                  londonbottleservice.com
-                </a>
-                .
+                or stage cost more. For pricing across all venues, message us on
+                WhatsApp.
               </p>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-5">
@@ -223,16 +207,8 @@ export default function MayfairVIPPage() {
                   small, the crowd is A-list, and the atmosphere is unlike
                   anything else in London. Celebrities, musicians, and
                   high-net-worth individuals fill the room. Guestlist access
-                  is extremely limited: a{" "}
-                  <a
-                    href="https://londonbottleservice.com"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-gold hover:text-gold-light"
-                  >
-                    table booking
-                  </a>{" "}
-                  is the most reliable way in.
+                  is extremely limited: a table booking is the most reliable way
+                  in.
                 </p>
                 <p className="text-sm text-dark-muted">
                   Best for: The ultimate exclusive Mayfair experience. Groups
@@ -436,16 +412,8 @@ export default function MayfairVIPPage() {
                   The table experience at Reign is elevated by the live
                   entertainment. Aerial acrobats perform directly above the
                   tables, live vocalists fill the room, and the production
-                  value is genuinely impressive. Book a{" "}
-                  <a
-                    href="https://londonbottleservice.com"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-gold hover:text-gold-light"
-                  >
-                    table near the stage
-                  </a>{" "}
-                  for the best experience.
+                  value is genuinely impressive. Book a table near the stage for
+                  the best experience.
                 </p>
                 <p className="text-sm text-dark-muted">
                   Best for: Special occasions, corporate entertainment, and
@@ -642,18 +610,9 @@ export default function MayfairVIPPage() {
                 How to Book
               </h3>
               <p className="text-sm text-gray-300">
-                Book through{" "}
-                <a
-                  href="https://londonbottleservice.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-gold hover:text-gold-light"
-                >
-                  London Bottle Service
-                </a>{" "}
-                for the best table positions and potential upgrades. Or
-                message us on WhatsApp and we will arrange everything
-                directly.
+                Message us on WhatsApp and we will arrange everything
+                directly, including the best table positions and potential
+                upgrades.
               </p>
             </div>
           </div>
@@ -720,14 +679,12 @@ export default function MayfairVIPPage() {
               Complete Mayfair guestlist guide
             </Link>
             . Need it tonight?{" "}
-            <a
-              href="https://londonclubstonight.com"
-              target="_blank"
-              rel="noopener noreferrer"
+            <Link
+              href="/where-to-go-tonight"
               className="text-gold hover:text-gold-light"
             >
-              Check tonight&apos;s availability
-            </a>
+              See where to go tonight
+            </Link>
             .
           </p>
         </section>
@@ -827,17 +784,7 @@ export default function MayfairVIPPage() {
           </h2>
           <p className="text-dark-muted mb-4">
             Message us on WhatsApp for guestlist access or personalised venue
-            recommendations. For VIP table bookings at any Mayfair club,
-            visit{" "}
-            <a
-              href="https://londonbottleservice.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gold hover:text-gold-light"
-            >
-              London Bottle Service
-            </a>
-            .
+            recommendations. We book VIP tables at Mayfair clubs too.
           </p>
           <WhatsAppCTA size="lg" />
         </div>

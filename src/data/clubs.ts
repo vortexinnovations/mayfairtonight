@@ -200,13 +200,13 @@ export const clubs: Club[] = [
     metaDescription:
       "Scotch of St James: open Thursday to Saturday, 10pm to 3am, for house, disco and RnB in a small, storied room. Tables from £1,000; dress smart and elegant.",
     name: "Scotch of St James",
-    tagline: "Mayfair's most storied nightclub",
+    tagline: "A storied St James's nightclub since the 1960s",
     description:
-      "Scotch has been a Mayfair institution since the 1960s: Jimi Hendrix played here, The Rolling Stones drank here, and it's been the backdrop to some of London's most legendary nights. Today it carries that heritage with elegant parties, quality DJs, and a crowd that appreciates history. It's intimate, it's classy, and it's timeless.",
-    location: "Mayfair",
-    area: "Mayfair",
+      "Scotch has been a St James's institution since the 1960s: Jimi Hendrix played here, The Rolling Stones drank here, and it's been the backdrop to some of London's most legendary nights. Today it carries that heritage with elegant parties, quality DJs, and a crowd that appreciates history. It's intimate, it's classy, and it's timeless.",
+    location: "St James's",
+    area: "St James's",
     musicPolicy: ["Mixed", "House", "Disco", "RnB"],
-    dressCode: "Smart and elegant. This is an old-school Mayfair members club: dress like it.",
+    dressCode: "Smart and elegant. This is an old-school St James's members club: dress like it.",
     dressCodeNotes: "Elegant is the word. Think classic, not trendy.",
     tableMinimum: "£1,000",
     openNights: ["Thursday", "Friday", "Saturday"],
@@ -216,7 +216,7 @@ export const clubs: Club[] = [
     insiderTip:
       "Ask about the history when you're there. The walls could tell stories. Thursday nights tend to be the most intimate.",
     whatToExpect:
-      "A compact, beautifully designed space with a rich sense of history. The room is small enough that it fills quickly and the atmosphere becomes electric. The music varies by night but always has taste. The crowd is a mix of regulars, members, and people who know where to find the real Mayfair.",
+      "A compact, beautifully designed space with a rich sense of history. The room is small enough that it fills quickly and the atmosphere becomes electric. The music varies by night but always has taste. The crowd is a mix of regulars, members, and people who know where to find the real St James's.",
     bestFor: "Those who appreciate history and intimate venues",
     status: "open",
   },
@@ -225,11 +225,11 @@ export const clubs: Club[] = [
     metaDescription:
       "Dear Darling, 91 Jermyn Street, St James's: a late-night cocktail bar open Thursday to Sunday with house and lounge sets. Tables from £1,000.",
     name: "Dear Darling",
-    tagline: "Mayfair's most opulent late-night bar",
+    tagline: "An opulent late-night bar on Jermyn Street",
     description:
-      "Dear Darling is pure Mayfair opulence: chandeliers, velvet booths, and cocktails that justify their price tag. It straddles the line between high-end bar and late-night venue. The cocktail programme is serious, the atmosphere is intimate, and it transitions beautifully from early evening drinks to late-night energy. Perfect for those who want sophistication without the full nightclub experience.",
+      "Dear Darling is pure St James's opulence: chandeliers, velvet booths, and cocktails that justify their price tag. It straddles the line between high-end bar and late-night venue. The cocktail programme is serious, the atmosphere is intimate, and it transitions beautifully from early evening drinks to late-night energy. Perfect for those who want sophistication without the full nightclub experience.",
     location: "91 Jermyn Street, St James's",
-    area: "Mayfair",
+    area: "St James's",
     musicPolicy: ["House", "Lounge", "Commercial"],
     dressCode: "Smart. Cocktail attire encouraged. No casual wear whatsoever.",
     dressCodeNotes: "This is an opulent venue: dress the part. Think cocktail bar, not nightclub.",
@@ -241,7 +241,7 @@ export const clubs: Club[] = [
     insiderTip:
       "Start your evening here with cocktails before heading to a club. Or stay: it gets lively enough after midnight to be the whole night.",
     whatToExpect:
-      "A beautiful, dimly-lit space dripping with glamour. The cocktail menu is extensive and creative. The music starts low and atmospheric, building as the night progresses. By midnight, the dance floor opens up. It's the most civilised way to go out in Mayfair.",
+      "A beautiful, dimly-lit space dripping with glamour. The cocktail menu is extensive and creative. The music starts low and atmospheric, building as the night progresses. By midnight, the dance floor opens up. It's the most civilised way to go out in St James's.",
     bestFor: "Date nights and groups who prefer bars to clubs",
     status: "open",
   },
@@ -393,7 +393,7 @@ export const clubs: Club[] = [
     bestFor: "This venue has closed",
     status: "closed",
     closedMessage:
-      "Maison Close has closed. For house music in an intimate, dressed-up room, try Maddox for dinner upstairs and house music downstairs, Selene London for refined house and commercial sets, or Scotch of St James for a small, storied Mayfair club with elegant parties.",
+      "Maison Close has closed. For house music in an intimate, dressed-up room, try Maddox for dinner upstairs and house music downstairs, Selene London for refined house and commercial sets, or Scotch of St James for a small, storied St James's club with elegant parties.",
     alternatives: ["maddox", "selene-london", "scotch-of-st-james"],
   },
 

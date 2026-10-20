@@ -1,9 +1,9 @@
 ---
 title: "Scotch of St James: History, Vibe & How to Get In"
 metaTitle: "Scotch of St James: Full Guide"
-metaDescription: "The insider guide to Scotch of St James in Mayfair. Its legendary history, what it's like today, who goes, and how to actually get through the door."
+metaDescription: "The insider guide to Scotch of St James, just off Jermyn Street: its legendary history, what it's like today, who goes, and how to get through the door."
 date: "2026-03-25"
-excerpt: "Scotch of St James has been part of London's nightlife since the 1960s. Here's what the legendary Mayfair venue is really like today, and how to get in."
+excerpt: "Scotch of St James has been part of London's nightlife since the 1960s. Here's what the legendary St James's venue is really like today, and how to get in."
 category: "Club Guides"
 tags: ["Scotch of St James", "Scotch Mayfair", "Mayfair clubs", "historic clubs London", "members clubs Mayfair"]
 readingTime: "6 min read"
@@ -19,11 +19,11 @@ That heritage is not a marketing gimmick. It's embedded in the walls. And it sha
 
 ## What It Looks and Feels Like Now
 
-Walking into Scotch today, you're immediately aware this is not a typical Mayfair club. The space is intimate, deliberately so. Low ceilings, warm lighting, and interiors that feel more private members' lounge than nightclub.
+Walking into Scotch today, you're immediately aware this is not a typical West End club. The space is intimate, deliberately so. Low ceilings, warm lighting, and interiors that feel more private members' lounge than nightclub.
 
 There's no bottle parade. No sparklers. No one filming themselves for social media. The energy is slower, more considered, and deeply social. People come here to talk, to drink well, and to enjoy music without shouting over it.
 
-If [Tape London](/clubs/tape-london) is Mayfair's modern members' club (sleek, polished, celebrity-adjacent), Scotch is its vintage counterpart. Less concerned with being seen, more concerned with the quality of the evening.
+If [Tape London](/clubs/tape-london) is Mayfair's modern members' club (sleek, polished, celebrity-adjacent), Scotch, in St James's, is its vintage counterpart. Less concerned with being seen, more concerned with the quality of the evening.
 
 ## The Music
 
@@ -99,4 +99,4 @@ Typically around 3am, though this can vary by night. Don't arrive after 1am expe
 
 ---
 
-Scotch of St James is not for everyone, and that's exactly the point. If you want a [Mayfair club](/mayfair-nightclubs) with real history, genuine atmosphere, and a crowd that doesn't need to prove anything, this is it.
+Scotch of St James is not for everyone, and that's exactly the point. If you want a club [near Mayfair](/mayfair-nightclubs) with real history, genuine atmosphere, and a crowd that doesn't need to prove anything, this is it.

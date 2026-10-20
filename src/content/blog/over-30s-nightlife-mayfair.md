@@ -25,7 +25,7 @@ The dinner-to-dance transition means you never have to stand on a street corner 
 
 ### 2. Scotch of St James: History and Refinement
 
-[Scotch of St James](/clubs/scotch-of-st-james) has been a fixture of Mayfair nightlife for decades. The intimate setting, low ceilings, and soul-infused soundtrack attract a discerning crowd that values atmosphere over volume. This is a venue where conversations happen, connections are made, and nobody is climbing on furniture.
+[Scotch of St James](/clubs/scotch-of-st-james) has been a fixture of St James's nightlife for decades. The intimate setting, low ceilings, and soul-infused soundtrack attract a discerning crowd that values atmosphere over volume. This is a venue where conversations happen, connections are made, and nobody is climbing on furniture.
 
 If you remember when nightclubs were about the experience rather than the Instagram story, Scotch will feel like home. For where else that classic sound lives, see our guide to [disco and funk nights in Mayfair](/blog/disco-funk-nights-mayfair).
 
@@ -75,8 +75,8 @@ The grown-up way to do a night in Mayfair follows a simple formula:
 
 **8:30pm**: Dinner at Maddox or a restaurant on Berkeley Square.
 **10:30pm**: Transition to the club downstairs or walk to your chosen venue.
-**11pm-1am**: The golden hours. Venues are full, music is at its best, and the crowd has arrived.
-**1-2am**: Home in a pre-booked car. No surge pricing, no queue for an Uber.
+**11pm to 1am**: The golden hours. Venues are full, music is at its best, and the crowd has arrived.
+**1am to 2am**: Home in a pre-booked car. No surge pricing, no queue for an Uber.
 
 For the complete evening plan, see our [Mayfair night out itinerary](/mayfair-night-out-itinerary). For a calmer first drink before the club, see our guide to [Mayfair hotel bars](/blog/mayfair-hotel-bars).
 

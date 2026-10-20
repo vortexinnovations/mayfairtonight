@@ -40,7 +40,7 @@ const faqs = [
   {
     question: "How much does a night out in Mayfair cost?",
     answer:
-      "On guestlist entry is free or up to 20 pounds cover at most clubs. Cocktails run 14 to 18 pounds each. A realistic budget for a guestlist night is 60 to 120 pounds per person including drinks. Table bookings start from 1,000 pounds minimum spend at most venues, and from 600 pounds at 99 Regent Street. For table pricing check londonbottleservice.com.",
+      "On guestlist entry is free or up to 20 pounds cover at most clubs. Cocktails run 14 to 18 pounds each. A realistic budget for a guestlist night is 60 to 120 pounds per person including drinks. Table bookings start from 1,000 pounds minimum spend at most venues, and from 600 pounds at 99 Regent Street. For table pricing, message us on WhatsApp.",
   },
   {
     question: "Can I go out in Mayfair on my own?",
@@ -80,15 +80,13 @@ export default function WhereToGoOutPage() {
       <article className="max-w-4xl mx-auto px-4 pt-8">
         <p className="text-dark-muted text-sm mb-8">
           Already know what you want and need it tonight?{" "}
-          <a
-            href="https://londonclubstonight.com"
-            target="_blank"
-            rel="noopener noreferrer"
+          <Link
+            href="/where-to-go-tonight"
             className="text-gold hover:text-gold-light"
           >
-            Check londonclubstonight.com
-          </a>{" "}
-          for live availability. Want the full breakdown of every venue?{" "}
+            See where to go tonight
+          </Link>
+          . Want the full breakdown of every venue?{" "}
           <Link
             href="/mayfair-nightclubs"
             className="text-gold hover:text-gold-light"
@@ -120,16 +118,7 @@ export default function WhereToGoOutPage() {
               Reign London
             </Link>{" "}
             on a Thursday. Both deliver every time. For what is open and
-            available right now, check{" "}
-            <a
-              href="https://londonclubstonight.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gold hover:text-gold-light"
-            >
-              londonclubstonight.com
-            </a>
-            .
+            available right now, message us on WhatsApp.
           </p>
           <WhatsAppCTA size="sm" />
         </div>
@@ -160,16 +149,8 @@ export default function WhereToGoOutPage() {
                 </h3>
                 <p className="text-sm text-gray-300">
                   The hardest door in Mayfair. Celebrity crowd. Intimate room
-                  with immaculate sound. If you can get in or book a{" "}
-                  <a
-                    href="https://londonbottleservice.com"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-gold hover:text-gold-light"
-                  >
-                    VIP table
-                  </a>
-                  , nothing else compares for hip-hop.
+                  with immaculate sound. If you can get in or book a VIP table,
+                  nothing else compares for hip-hop.
                 </p>
               </div>
               <div className="bg-dark-card border border-dark-border rounded-lg p-4">
@@ -315,16 +296,8 @@ export default function WhereToGoOutPage() {
                 <p className="text-sm text-gray-300">
                   Las Vegas meets Mayfair. Aerial acrobats above your table,
                   live vocalists, world-class production. The most visually
-                  impressive night in the area. Book a{" "}
-                  <a
-                    href="https://londonbottleservice.com"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-gold hover:text-gold-light"
-                  >
-                    table near the stage
-                  </a>{" "}
-                  for the full experience.
+                  impressive night in the area. Book a table near the stage for
+                  the full experience.
                 </p>
               </div>
               <div className="bg-dark-card border border-dark-border rounded-lg p-4">
@@ -499,16 +472,7 @@ export default function WhereToGoOutPage() {
                 <p className="text-sm text-gray-300">
                   The entertainment gives everyone something to talk about.
                   Groups of all sizes thrive here because the atmosphere does
-                  the work. Book a{" "}
-                  <a
-                    href="https://londonbottleservice.com"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-gold hover:text-gold-light"
-                  >
-                    table
-                  </a>{" "}
-                  for guaranteed entry and a home base.
+                  the work. Book a table for guaranteed entry and a home base.
                 </p>
               </div>
               <div className="bg-dark-card border border-dark-border rounded-lg p-4">
@@ -581,16 +545,7 @@ export default function WhereToGoOutPage() {
                 <p className="text-sm text-gray-300">
                   Small room, A-list crowd, no pretence. The most intimate
                   setting in Mayfair with the highest calibre of guest. Tables
-                  only most nights: book through{" "}
-                  <a
-                    href="https://londonbottleservice.com"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-gold hover:text-gold-light"
-                  >
-                    London Bottle Service
-                  </a>
-                  .
+                  only most nights: message us on WhatsApp to book one.
                 </p>
               </div>
               <div className="bg-dark-card border border-dark-border rounded-lg p-4">
@@ -802,17 +757,8 @@ export default function WhereToGoOutPage() {
           </h2>
           <p className="text-dark-muted mb-4">
             Message us on WhatsApp with your group size, music taste, and
-            budget. We will put you on the right guestlist within minutes. For
-            VIP tables, visit{" "}
-            <a
-              href="https://londonbottleservice.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gold hover:text-gold-light"
-            >
-              London Bottle Service
-            </a>
-            .
+            budget. We will put you on the right guestlist within minutes, and
+            we book VIP tables too.
           </p>
           <WhatsAppCTA size="lg" />
         </div>
