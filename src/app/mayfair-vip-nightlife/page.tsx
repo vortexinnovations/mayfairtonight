@@ -9,7 +9,7 @@ import { fitTitle } from "@/lib/seo";
 export const metadata: Metadata = {
   title: fitTitle("Mayfair VIP Nightlife: The Insider Guide to Exclusive Clubs"),
   description:
-    "The complete guide to VIP nightlife in Mayfair. Exclusivity tiers, table booking guide, guestlist vs VIP comparison, and what to expect at every venue. Insider access.",
+    "Mayfair VIP tables run from £600 to £5,000+ minimum spend. How tables, guestlist and membership work, and an exclusivity tier list of every club.",
   alternates: {
     canonical: "https://mayfairtonight.com/mayfair-vip-nightlife",
   },

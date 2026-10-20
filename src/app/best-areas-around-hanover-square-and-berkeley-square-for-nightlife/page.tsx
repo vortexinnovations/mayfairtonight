@@ -9,7 +9,7 @@ import { fitTitle } from "@/lib/seo";
 export const metadata: Metadata = {
   title: fitTitle("Mayfair Nightlife by Area: Where to Go"),
   description:
-    "A neighbourhood-by-neighbourhood guide to Mayfair nightlife. Berkeley Square, Hanover Square, Dover Street, Swallow Street, and beyond: where every club is, how to walk between them, and what each area feels like at night.",
+    "Mayfair nightlife in six areas, from Berkeley Square and Hanover Square to Dover Street and Swallow Street: the clubs in each, walking routes and tubes.",
   alternates: { canonical: "https://mayfairtonight.com/best-areas-around-hanover-square-and-berkeley-square-for-nightlife" },
   openGraph: {
     title: "Mayfair Nightlife by Area: Where to Go",

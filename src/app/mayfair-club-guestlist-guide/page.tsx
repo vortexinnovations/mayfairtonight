@@ -9,7 +9,7 @@ import { fitTitle } from "@/lib/seo";
 export const metadata: Metadata = {
   title: fitTitle("Mayfair Club Guestlist Guide: Get On the List"),
   description:
-    "Everything you need to know about getting on the guestlist at Mayfair nightclubs. How it works, which venues offer it, arrival times, and insider tips from promoters who manage the lists.",
+    "A Mayfair guestlist costs nothing through a promoter: send names and your group's ratio, then arrive before midnight. Five steps and every venue's rules.",
   alternates: { canonical: "https://mayfairtonight.com/mayfair-club-guestlist-guide" },
   openGraph: {
     title: "Mayfair Club Guestlist Guide: Get On the List",

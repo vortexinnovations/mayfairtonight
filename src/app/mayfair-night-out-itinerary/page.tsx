@@ -9,7 +9,7 @@ import { fitTitle } from "@/lib/seo";
 export const metadata: Metadata = {
   title: fitTitle("Mayfair Night Out Itinerary: Plan Your Evening"),
   description:
-    "Five ready-made Mayfair night out itineraries: from hip-hop to sophisticated supper clubs. Timelines, venue recommendations, dress codes, and booking tips for the perfect evening in London's most exclusive neighbourhood.",
+    "Five Mayfair night out itineraries, from a hip-hop night to date night: a timeline from 7pm cocktails to a 3am finish, with dress codes and booking tips.",
   alternates: { canonical: "https://mayfairtonight.com/mayfair-night-out-itinerary" },
   openGraph: {
     title: "Mayfair Night Out Itinerary: Plan Your Evening",

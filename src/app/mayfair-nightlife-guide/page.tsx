@@ -9,7 +9,7 @@ import { fitTitle } from "@/lib/seo";
 export const metadata: Metadata = {
   title: fitTitle("Mayfair Nightlife Guide: The Insider Handbook"),
   description:
-    "The complete guide to Mayfair nightlife. Clubs, bars, dress codes, guestlists, best nights, costs, and insider tips. Everything you need for a night out in Mayfair, London.",
+    "Guestlist entry free to £20, tables from £1,000 to £1,500: the Mayfair nightlife guide to the best nights, getting in, dress code, costs and clubs by vibe.",
   alternates: {
     canonical: "https://mayfairtonight.com/mayfair-nightlife-guide",
   },

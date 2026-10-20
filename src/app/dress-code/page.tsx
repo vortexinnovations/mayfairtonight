@@ -10,7 +10,7 @@ import { fitTitle } from "@/lib/seo";
 export const metadata: Metadata = {
   title: fitTitle("London Nightclub Dress Code: What to Wear Going Out"),
   description:
-    "What to wear to London nightclubs in 2026. General dress code rules for men and women, what gets you turned away, and how to dress for any club night. Practical, no-nonsense guide.",
+    "No trainers, sportswear or shorts: what to wear to London nightclubs in 2026 for men and women, what gets you turned away, and the dress code by club.",
   alternates: { canonical: "https://mayfairtonight.com/dress-code" },
   openGraph: {
     title: "London Nightclub Dress Code Guide",

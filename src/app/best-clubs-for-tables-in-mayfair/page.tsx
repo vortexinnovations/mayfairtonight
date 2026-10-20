@@ -7,9 +7,9 @@ import { heroImages } from "@/data/images";
 import { fitTitle } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: fitTitle("Best Mayfair Clubs for Table Bookings: Where to Book a Table in 2026"),
+  title: fitTitle("Best Mayfair Clubs for Table Bookings in 2026, Ranked"),
   description:
-    "The best clubs for table bookings in Mayfair, ranked by experience. Compare table layouts, minimum spends, and vibes at Tape, Reign, Cirque Le Soir, Maddox and more.",
+    "Nine Mayfair clubs ranked for table bookings, with Tape first from £1,500: table layouts, what's included, minimum spends and what to expect on the night.",
   alternates: {
     canonical: "https://mayfairtonight.com/best-clubs-for-tables-in-mayfair",
   },

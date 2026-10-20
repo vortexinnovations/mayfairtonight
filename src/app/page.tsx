@@ -13,7 +13,7 @@ import { heroImages, clubImages, sectionImages } from "@/data/images";
 export const metadata: Metadata = {
   title: "What's On Tonight in Mayfair: Clubs Open Tonight London",
   description:
-    "Find out what's happening tonight at Mayfair's best nightclubs. See which clubs are open, what music is playing, guest DJs, and book a table instantly via WhatsApp.",
+    "Which Mayfair clubs are open tonight, from Tape and Reign to Cirque Le Soir: music, opening times and minimum spends, with tables booked on WhatsApp.",
   alternates: { canonical: "https://mayfairtonight.com" },
   openGraph: {
     title: "What's On Tonight in Mayfair: Clubs Open Tonight London",

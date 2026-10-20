@@ -9,7 +9,7 @@ import { fitTitle } from "@/lib/seo";
 export const metadata: Metadata = {
   title: fitTitle("Girls' Night Mayfair: Best Clubs & Guestlist Guide for 2026"),
   description:
-    "The best Mayfair clubs for girls' nights out. Guestlist tips, dress code advice, and venue picks for all-female groups. Free entry options and birthday planning.",
+    "Girls' night in Mayfair: 99 Regent Street, Cirque Le Soir, Dear Darling, Selene and Reign, how the girls' guestlist works, what to wear and when to arrive.",
   alternates: {
     canonical: "https://mayfairtonight.com/girls-guestlist-clubs-mayfair",
   },

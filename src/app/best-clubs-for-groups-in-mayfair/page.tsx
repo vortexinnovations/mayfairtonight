@@ -7,7 +7,7 @@ import { heroImages } from "@/data/images";
 import { fitTitle } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: fitTitle("Best Mayfair Clubs for Groups: Where to Take Your Crew in 2026"),
+  title: fitTitle("Best Mayfair Clubs for Groups in 2026: Tables and Guestlist"),
   description:
     "The best clubs in Mayfair for groups, birthdays, work nights out, and big parties. Group size guide, table tips, and honest recommendations for 2026.",
   alternates: {

@@ -9,7 +9,7 @@ import { fitTitle } from "@/lib/seo";
 export const metadata: Metadata = {
   title: fitTitle("How Mayfair Nightclub Tables Work: Full Guide"),
   description:
-    "Everything you need to know about booking a table at a Mayfair nightclub. Minimum spends, bottle service, what you get, and what to expect at London's most exclusive venues.",
+    "A Mayfair table is a minimum spend on drinks, not a cover charge: guaranteed entry, your own space, bottle service and a host. How booking and tips work.",
   alternates: { canonical: "https://mayfairtonight.com/how-mayfair-nightclub-tables-work" },
   openGraph: {
     title: "How Mayfair Nightclub Tables Work: Full Guide",

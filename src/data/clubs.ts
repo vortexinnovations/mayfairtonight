@@ -42,6 +42,8 @@ export interface Club {
 export const clubs: Club[] = [
   {
     slug: "tape-london",
+    metaDescription:
+      "Tape London on Hanover Square, Mayfair: open Tuesday, Friday, Saturday and Sunday for hip-hop and RnB. Tables from £1,500, booked with us on WhatsApp.",
     name: "Tape London",
     tagline: "Mayfair's most exclusive members club",
     description:
@@ -65,6 +67,8 @@ export const clubs: Club[] = [
   },
   {
     slug: "cirque-le-soir",
+    metaDescription:
+      "Cirque Le Soir, Ganton Street, Soho: open Monday, Wednesday, Friday and Saturday for hip-hop, RnB and circus acts. Dress code and tables from £1,000.",
     name: "Cirque Le Soir",
     tagline: "The wildest show in London nightlife",
     description:
@@ -88,6 +92,8 @@ export const clubs: Club[] = [
   },
   {
     slug: "reign-london",
+    metaDescription:
+      "Reign London on Piccadilly: open Tuesday, Thursday, Friday and Saturday, with commercial, house and hip-hop around the shows. Tables from £1,000.",
     name: "Reign London",
     tagline: "Mayfair's most extravagant showclub",
     description:
@@ -111,6 +117,8 @@ export const clubs: Club[] = [
   },
   {
     slug: "rumour-london",
+    metaDescription:
+      "Rumour (formerly Tabu), 1 Dover Street: Wednesday to Saturday, 11pm to 4am. Ladies' guestlist free to £20, booths from £1,000 and no photos on the floor.",
     name: "Rumour",
     previousName: "Tabu",
     tagline: "An intimate red velvet booth room on Dover Street, open until 4am",
@@ -160,6 +168,9 @@ export const clubs: Club[] = [
   },
   {
     slug: "99-regent-street",
+    metaTitle: "99 Regent Street (formerly Cuckoo Club) Tables & Guestlist",
+    metaDescription:
+      "99 Regent Street (formerly Cuckoo Club), entered from Swallow Street: Wednesday to Saturday, 11pm to 4am, 19+. Tables from £600, guestlist by request.",
     name: "99 Regent Street",
     previousName: "Cuckoo Club",
     tagline: "Two floors off Swallow Street: hip hop and RnB upstairs, house downstairs",
@@ -185,6 +196,9 @@ export const clubs: Club[] = [
   },
   {
     slug: "scotch-of-st-james",
+    metaTitle: "Scotch of St James Tonight: Tables, Nights and Dress Code",
+    metaDescription:
+      "Scotch of St James: open Thursday to Saturday, 10pm to 3am, for house, disco and RnB in a small, storied room. Tables from £1,000; dress smart and elegant.",
     name: "Scotch of St James",
     tagline: "Mayfair's most storied nightclub",
     description:
@@ -208,6 +222,8 @@ export const clubs: Club[] = [
   },
   {
     slug: "dear-darling",
+    metaDescription:
+      "Dear Darling, 91 Jermyn Street, St James's: a late-night cocktail bar open Thursday to Sunday with house and lounge sets. Tables from £1,000.",
     name: "Dear Darling",
     tagline: "Mayfair's most opulent late-night bar",
     description:
@@ -231,6 +247,8 @@ export const clubs: Club[] = [
   },
   {
     slug: "maddox",
+    metaDescription:
+      "Maddox in Mayfair: Italian dinner upstairs, then house, deep house and tech house downstairs, Thursday to Saturday until 3am. Tables from £1,000.",
     name: "Maddox",
     tagline: "Where Mayfair dining meets nightlife",
     description:
@@ -254,6 +272,8 @@ export const clubs: Club[] = [
   },
   {
     slug: "the-box-london",
+    metaDescription:
+      "The Box in Soho: the theatre nightclub open Wednesday to Saturday, with commercial, hip-hop and house between the performances. Tables from £1,000.",
     name: "The Box",
     tagline: "London's most provocative theatre-nightclub",
     description:
@@ -302,6 +322,8 @@ export const clubs: Club[] = [
   },
   {
     slug: "selene-london",
+    metaDescription:
+      "Selene London, 4 Winsley Street near Oxford Circus: Thursday to Sunday, 11pm to 4am, for house and commercial sets. Cocktail dress, tables from £1,000.",
     name: "Selene London",
     tagline: "Refined elegance just north of Oxford Circus",
     description:
@@ -325,6 +347,8 @@ export const clubs: Club[] = [
   },
   {
     slug: "beat-london",
+    metaDescription:
+      "BEAT London on Margaret Street, Fitzrovia: open Thursday to Saturday with hip-hop, RnB, commercial and house on a serious sound system. Tables from £1,000.",
     name: "BEAT London",
     tagline: "High-energy nightclub with serious sound",
     description:

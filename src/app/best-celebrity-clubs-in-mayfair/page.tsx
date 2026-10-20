@@ -7,7 +7,7 @@ import { heroImages } from "@/data/images";
 import { fitTitle } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: fitTitle("Celebrity Clubs in Mayfair: Where the A-List Actually Goes Out"),
+  title: fitTitle("Celebrity Clubs in Mayfair: Where the A-List Goes Out"),
   description:
     "The most exclusive celebrity clubs in Mayfair, London. Where the A-list goes, how to get in, and what to expect. Honest insider guide for 2026.",
   alternates: {

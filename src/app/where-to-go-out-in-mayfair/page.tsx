@@ -9,7 +9,7 @@ import { fitTitle } from "@/lib/seo";
 export const metadata: Metadata = {
   title: fitTitle("Where to Go Out in Mayfair: Your Night, Sorted"),
   description:
-    "Not sure where to go out in Mayfair tonight? Our insider decision guide matches your vibe to the perfect club. Hip-hop, house, shows, cocktails, groups: we cover it all.",
+    "Tape or Rumour for hip-hop, Maddox for house, Cirque Le Soir and Reign for shows, Dear Darling for cocktails: where to go out in Mayfair tonight.",
   alternates: {
     canonical: "https://mayfairtonight.com/where-to-go-out-in-mayfair",
   },

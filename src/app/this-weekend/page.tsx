@@ -11,9 +11,9 @@ import { getWeekendDates, formatDate } from "@/lib/utils";
 import { fitTitle } from "@/lib/seo";
 
 export const metadata: Metadata = {
-  title: fitTitle("This Weekend in Mayfair: London Clubs Friday, Saturday & Sunday"),
+  title: fitTitle("This Weekend in Mayfair: Clubs Open Friday to Sunday"),
   description:
-    "Plan your weekend in Mayfair. See what's on this Friday, Saturday, and Sunday at London's best nightclubs. Events, music, and instant table bookings via WhatsApp.",
+    "Which Mayfair clubs are open this Friday, Saturday and Sunday, with the music, opening time and minimum spend for each, and tables booked on WhatsApp.",
   alternates: { canonical: "https://mayfairtonight.com/this-weekend" },
   openGraph: {
     title: "This Weekend in Mayfair: Clubs, Events & Table Bookings",

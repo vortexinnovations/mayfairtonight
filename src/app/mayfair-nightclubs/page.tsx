@@ -10,7 +10,7 @@ import { fitTitle } from "@/lib/seo";
 export const metadata: Metadata = {
   title: fitTitle("Mayfair Nightclubs: Complete Club Guide 2026"),
   description:
-    "The definitive guide to every nightclub in Mayfair, London. Opening nights, music policy, dress code, crowd, vibe, and how to get on the guestlist. Updated weekly.",
+    "Mayfair nightclubs club by club: Tape, Rumour, 99 Regent Street, Reign and more, with opening nights, music, dress code, crowd and guestlist for each.",
   alternates: { canonical: "https://mayfairtonight.com/mayfair-nightclubs" },
   openGraph: {
     title: "Mayfair Nightclubs: The Complete Guide",

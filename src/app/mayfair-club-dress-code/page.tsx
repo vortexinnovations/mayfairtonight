@@ -9,7 +9,7 @@ import { fitTitle } from "@/lib/seo";
 export const metadata: Metadata = {
   title: fitTitle("Mayfair Club Dress Code: What to Wear to Every Venue in 2026"),
   description:
-    "The complete Mayfair nightclub dress code guide. Club-by-club breakdown of what to wear, what gets you turned away, and insider tips for every venue. Updated for 2026.",
+    "No trainers, sportswear or caps for men; heels, elegant flats or smart boots for women. The 2026 Mayfair club dress code, venue by venue across 11 doors.",
   alternates: {
     canonical: "https://mayfairtonight.com/mayfair-club-dress-code",
   },
