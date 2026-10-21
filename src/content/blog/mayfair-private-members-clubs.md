@@ -53,7 +53,7 @@ The idea is old. Mayfair and neighbouring St James's have been home to private c
 **Planning an evening in Mayfair?**
 We cannot get you into a private members' club, but we can plan a brilliant night at the premium clubs that welcome guests. Tell us what you are after and we will handle it.
 
-[Plan via WhatsApp →](https://wa.me/447880662708)
+[Plan via WhatsApp →](https://wa.me/447348644054)
 
 ## Why Membership Is the Only Way In
 
@@ -82,4 +82,4 @@ So the private members' club remains the closed heart of Mayfair nightlife, the 
 **Planning an evening in Mayfair?**
 We cannot get you into a private members' club, but we can plan a brilliant night at the premium clubs that welcome guests. Tell us what you are after and we will handle it.
 
-[Plan via WhatsApp →](https://wa.me/447880662708)
+[Plan via WhatsApp →](https://wa.me/447348644054)
