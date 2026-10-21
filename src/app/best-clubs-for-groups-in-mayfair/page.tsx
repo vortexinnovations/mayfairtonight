@@ -97,11 +97,11 @@ const groupRecommendations: GroupRecommendation[] = [
       {
         name: "BEAT London",
         slug: "beat-london",
-        why: "Pure party energy on Margaret Street, just north of Mayfair, with a younger, high-energy crowd. BEAT does not overthink it: the music is loud, the lights are dynamic, and the atmosphere is built for groups who want to dance. Good value tables compared to the bigger Mayfair names make it a smart choice for larger groups watching the budget.",
+        why: "Pure party energy on Margaret Street, just north of Mayfair, with a younger, high-energy crowd. BEAT does not overthink it: the music is loud, the lights are dynamic, and the atmosphere is built for groups who want to dance, which makes it a smart choice for larger groups.",
         guestlistOrTables:
-          "Guestlist works well. Tables offer great value for the area: more room to celebrate without the premium pricing of the established names. Ideal for groups of 8 to 12 who want a VIP experience at a reasonable cost.",
+          "BEAT doesn't run a guestlist: entry is by table booking, so book one table for the whole group. Ideal for groups of 8 to 12 who want a table and a proper dance floor.",
         approxGroupCost:
-          "Tables from ~£800 min spend. Guestlist free, budget £40 to £50pp for drinks.",
+          "Tables from £1,000 min spend.",
         bestNight: "Friday or Saturday.",
       },
     ],
@@ -139,7 +139,7 @@ const faqs = [
   {
     question: "What is the minimum spend for group tables in Mayfair?",
     answer:
-      "Most Mayfair clubs start table minimums at around £800 to £1,000 for a standard table (6 to 8 guests). Premium tables and weekend nights can be £1,500 to £3,000+. Tape London starts from £750. Cirque Le Soir and Reign from £800. 99 Regent Street offers tables from £600, covering entry for the group, and BEAT from around £800. For current table prices and group packages, message us on WhatsApp.",
+      "Most Mayfair clubs start table minimums at around £800 to £1,000 for a standard table (6 to 8 guests). Premium tables and weekend nights can be £1,500 to £3,000+. Tape London starts from £750. Cirque Le Soir and Reign from £800. 99 Regent Street offers tables from £600, covering entry for the group, and BEAT from £1,000. For current table prices and group packages, message us on WhatsApp.",
   },
   {
     question: "Can mixed groups get on the guestlist in Mayfair?",

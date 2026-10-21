@@ -94,7 +94,7 @@ const hipHopClubs: HipHopClub[] = [
     vibe:
       "Pure party energy. BEAT is built for dancing and it does not pretend otherwise. The sound system is loud, the lights are dynamic, and the crowd matches the intensity.",
     guestlistOrTables:
-      "BEAT doesn't run a guestlist. Entry is by table booking, and tables are good value compared to the bigger Mayfair names. Solid option for groups who want a VIP experience without the premium price tag.",
+      "BEAT doesn't run a guestlist. Entry is by table booking, with tables from £1,000 minimum spend. Solid option for groups who want a table and a packed dance floor.",
     verdict:
       "The newest hip-hop contender just north of Mayfair, on Margaret Street in Fitzrovia. BEAT brings raw energy and a younger crowd. If the established names feel too refined, BEAT strips it back to what matters: good music and a packed dance floor.",
   },
