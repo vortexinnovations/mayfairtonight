@@ -224,7 +224,7 @@ export const clubs: Club[] = [
     slug: "dear-darling",
     metaTitle: "Dear Darling Mayfair Tonight: Tables, Nights and Dress Code",
     metaDescription:
-      "Dear Darling Mayfair, 91 Jermyn Street, St James's: a late-night cocktail bar open Thursday to Sunday until 6am, with house and lounge sets. Tables from £1,000.",
+      "Dear Darling Mayfair, 91 Jermyn Street, St James's: a late-night cocktail bar open Thursday to Sunday until 6am, with house and lounge sets. Tables from £800.",
     name: "Dear Darling Mayfair",
     tagline: "An opulent late-night bar on Jermyn Street",
     description:
@@ -234,7 +234,7 @@ export const clubs: Club[] = [
     musicPolicy: ["House", "Lounge", "Commercial"],
     dressCode: "Smart. Cocktail attire encouraged. No casual wear whatsoever.",
     dressCodeNotes: "This is an opulent venue: dress the part. Think cocktail bar, not nightclub.",
-    tableMinimum: "£1,000",
+    tableMinimum: "£800",
     openNights: ["Thursday", "Friday", "Saturday", "Sunday"],
     openingTime: "21:00",
     closingTime: "06:00",

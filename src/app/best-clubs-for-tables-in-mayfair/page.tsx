@@ -122,7 +122,7 @@ const tableClubs: TableClub[] = [
     included:
       "Bottle service or bespoke cocktail packages, dedicated host, and an atmosphere that prioritises quality over volume.",
     bestFor: "Date nights, sophisticated groups, cocktail enthusiasts who want to stay out late",
-    minSpend: "From £500",
+    minSpend: "From £800",
     recommendation: "Tables or premium bar seating both work well here. The cocktail packages are worth exploring.",
   },
   {
