@@ -77,8 +77,8 @@ Technically no. It's on Margaret Street in Fitzrovia. But it's a short walk from
 **What should I wear to BEAT?**
 Smart casual. Designer trainers and well-fitted jeans are fine. Avoid sportswear, shorts, and anything too casual. You should look put-together, just not necessarily formal.
 
-**Do I need a guest list for BEAT?**
-Guest list is recommended for Friday and Saturday to avoid queues and ensure entry. It's less critical on quieter nights, but there's no downside to being on the list.
+**Does BEAT have a guestlist?**
+No. BEAT doesn't run a guestlist. Entry is by table booking, so book ahead for Friday and Saturday.
 
 **What time should I arrive?**
 Before midnight is ideal. The club fills up between midnight and 1am on weekends. Arrive late and you'll face a longer queue.

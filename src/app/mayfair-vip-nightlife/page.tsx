@@ -661,7 +661,7 @@ export default function MayfairVIPPage() {
                   "You are a couple or small group of two to three",
                   "Budget matters and you want to keep costs down",
                   "You prefer being on the dance floor rather than seated",
-                  "You are going to an accessible venue like 99 Regent Street or BEAT London",
+                  "You are going to an accessible venue like 99 Regent Street",
                   "It is a midweek night when the clubs are less busy",
                   "You want the flexibility to venue-hop during the night",
                 ].map((item) => (

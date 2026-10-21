@@ -19,7 +19,15 @@ export function getGeneralBookingLink(): string {
   return getWhatsAppLink(message);
 }
 
+/** Clubs that run no guestlist: entry is by table booking only (owner decisions, 2026-10-21). */
+export const NO_GUESTLIST_CLUBS = new Set(["The Box", "Scotch of St James", "BEAT London"]);
+
 export function getClubBookingLink(clubName: string): string {
+  if (NO_GUESTLIST_CLUBS.has(clubName)) {
+    return getWhatsAppLink(
+      `Hi, I'd like to book a table at ${clubName} tonight. Here are my details:\n\nDate:\nGroup size:\nAny special requests:`,
+    );
+  }
   const message = `Hi, I'd like to book at ${clubName} tonight. Here are my details:\n\nDate:\nGroup size:\nTable or guestlist:\nAny special requests:`;
   return getWhatsAppLink(message);
 }

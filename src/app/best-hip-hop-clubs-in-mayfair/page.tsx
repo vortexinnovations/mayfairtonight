@@ -94,7 +94,7 @@ const hipHopClubs: HipHopClub[] = [
     vibe:
       "Pure party energy. BEAT is built for dancing and it does not pretend otherwise. The sound system is loud, the lights are dynamic, and the crowd matches the intensity.",
     guestlistOrTables:
-      "Guestlist works well. Tables are good value compared to the bigger Mayfair names. Solid option for groups who want a VIP experience without the premium price tag.",
+      "BEAT doesn't run a guestlist. Entry is by table booking, and tables are good value compared to the bigger Mayfair names. Solid option for groups who want a VIP experience without the premium price tag.",
     verdict:
       "The newest hip-hop contender just north of Mayfair, on Margaret Street in Fitzrovia. BEAT brings raw energy and a younger crowd. If the established names feel too refined, BEAT strips it back to what matters: good music and a packed dance floor.",
   },
@@ -140,7 +140,7 @@ const faqs = [
   {
     question: "Can I get on the guestlist for hip-hop nights in Mayfair?",
     answer:
-      "Yes: most venues offer guestlist for hip-hop nights, but availability varies. BEAT has the most open guestlist. 99 Regent Street takes mixed groups on its guestlist by request, while the Rumour guestlist is for ladies only, so men book a booth. Tape London is the hardest: guestlist spots are limited and tables are the primary route in. Message us on WhatsApp and we can sort guestlist at any of these venues.",
+      "Yes: most venues offer guestlist for hip-hop nights, but availability varies. BEAT doesn't run a guestlist: entry is by table booking. 99 Regent Street takes mixed groups on its guestlist by request, while the Rumour guestlist is for ladies only, so men book a booth. Tape London is the hardest: guestlist spots are limited and tables are the primary route in. Message us on WhatsApp and we can sort guestlist at the venues that run one.",
   },
 ];
 
@@ -422,7 +422,7 @@ export default function BestHipHopClubsPage() {
                   <td className="py-3 px-3 text-white font-medium">BEAT London</td>
                   <td className="py-3 px-3">Commercial Hip-Hop / Afrobeats</td>
                   <td className="py-3 px-3">Fri & Sat</td>
-                  <td className="py-3 px-3">Guestlist or tables</td>
+                  <td className="py-3 px-3">Tables only: no guestlist</td>
                 </tr>
                 <tr>
                   <td className="py-3 px-3 text-white font-medium">Cirque Le Soir</td>

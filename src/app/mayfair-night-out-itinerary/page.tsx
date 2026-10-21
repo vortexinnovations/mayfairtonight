@@ -104,7 +104,7 @@ export default function ItineraryPage() {
                   <div><span className="text-dark-muted">Dress code:</span> <span className="text-gray-300">Smart sharp. No trainers. Fitted trousers, good shoes, collared shirt or sharp knitwear.</span></div>
                   <div><span className="text-dark-muted">Budget (no table):</span> <span className="text-gray-300">£100-180 per person including cocktails and club drinks.</span></div>
                   <div><span className="text-dark-muted">Best for:</span> <span className="text-gray-300">Hip-hop lovers, birthday nights, mixed groups.</span></div>
-                  <div><span className="text-dark-muted">Book ahead:</span> <span className="text-gray-300">Guestlist at Reign or BEAT, or a booth at Rumour (its guestlist is for ladies only). Table at Tape if going late.</span></div>
+                  <div><span className="text-dark-muted">Book ahead:</span> <span className="text-gray-300">Guestlist at Reign, a table at BEAT (it has no guestlist), or a booth at Rumour (its guestlist is for ladies only). Table at Tape if going late.</span></div>
                 </div>
               </div>
             </div>
@@ -191,7 +191,7 @@ export default function ItineraryPage() {
                   <div><span className="text-dark-muted">Dress code:</span> <span className="text-gray-300">Elegant at 99 Regent Street, with physical photo ID for everyone at its 19+ door. Smart casual at BEAT, no sportswear. Standard Mayfair smart at Reign. Brief your group in advance: one person in trainers can hold everyone up.</span></div>
                   <div><span className="text-dark-muted">Budget (no table):</span> <span className="text-gray-300">£80-140 per person. Tables recommended for 8+ people.</span></div>
                   <div><span className="text-dark-muted">Best for:</span> <span className="text-gray-300">Birthdays, stag/hen nights, work socials, reunion groups.</span></div>
-                  <div><span className="text-dark-muted">Book ahead:</span> <span className="text-gray-300">Guestlist or table at 99 Regent Street or BEAT. Backup guestlist at Reign.</span></div>
+                  <div><span className="text-dark-muted">Book ahead:</span> <span className="text-gray-300">Guestlist or table at 99 Regent Street, or a table at BEAT, which has no guestlist. Backup guestlist at Reign.</span></div>
                 </div>
               </div>
             </div>
