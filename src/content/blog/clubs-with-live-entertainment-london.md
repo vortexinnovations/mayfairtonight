@@ -63,7 +63,7 @@ If you want your night out to feel like an event, these are the clubs to know.
 |------|-------------------|-------|-----------|-----------|
 | Cirque Le Soir | Circus performers roaming | Hip-Hop & RnB | 22:30 | Full throttle |
 | Reign London | Choreographed shows & aerial | Commercial & House | 22:00 | Grand & glamorous |
-| The Box | Provocative theatre & cabaret | Hip-Hop & Eclectic | 22:00 | Dark & daring |
+| The Box | Provocative theatre & cabaret | Hip-Hop & Eclectic | 23:00 | Dark & daring |
 
 ## Which One?
 

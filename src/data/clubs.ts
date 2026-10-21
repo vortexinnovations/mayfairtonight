@@ -286,7 +286,7 @@ export const clubs: Club[] = [
     dressCodeNotes: "Think fashionable and bold. This is a venue that celebrates excess and style.",
     tableMinimum: "£1,000",
     openNights: ["Wednesday", "Thursday", "Friday", "Saturday"],
-    openingTime: "22:30",
+    openingTime: "23:00",
     closingTime: "04:00",
     vibe: "Provocative, theatrical, decadent",
     insiderTip:
