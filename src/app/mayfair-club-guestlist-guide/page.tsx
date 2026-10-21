@@ -21,7 +21,7 @@ export const metadata: Metadata = {
 const faqs = [
   { question: "Is getting on a Mayfair club guestlist free?", answer: "Yes. Guestlist is always free to arrange through a promoter. You may still face a cover charge at the door depending on the venue and the night, but the guestlist itself costs nothing. It simply guarantees your name is expected at the door." },
   { question: "How far in advance should I book a guestlist?", answer: "For weekends, book at least 24-48 hours ahead. Fridays and Saturdays fill up fast at popular venues like Cirque Le Soir and Reign London. Midweek nights are more flexible: same-day bookings usually work. Message us on WhatsApp for the fastest confirmation." },
-  { question: "Can an all-male group get on the guestlist?", answer: "It depends on the venue. Some clubs, like BEAT London, are more flexible. Others like Tape London and Scotch of St James are very difficult for all-male groups on guestlist alone. A table booking is the most reliable solution for all-male groups at strict venues." },
+  { question: "Can an all-male group get on the guestlist?", answer: "It depends on the venue. Some clubs, like BEAT London, are more flexible. Others like Tape London are very difficult for all-male groups on guestlist alone, and Scotch of St James and The Box have no guestlist at all. A table booking is the most reliable solution for all-male groups at strict venues." },
   { question: "What happens if I arrive late for guestlist?", answer: "Most venues honour guestlist until around midnight. After that, it depends on capacity. If the club is full, even a guestlist name won't get you through the door. Arriving between 11pm and 11:30pm is the safest window." },
   { question: "Do I still need to queue if I'm on the guestlist?", answer: "Usually yes, but the queue is shorter. Guestlist puts you in a priority lane, not a skip-the-queue pass. Table bookings are the only way to genuinely bypass the queue at most Mayfair venues." },
   { question: "Can I add people to the guestlist on the night?", answer: "Sometimes, but don't count on it. Adding names last-minute depends on the venue and how busy the night is. Always confirm your final group size and names with your promoter by early evening to avoid issues at the door." },
@@ -125,7 +125,7 @@ export default function GuestlistGuidePage() {
                     <li>- High rejection risk at top venues</li>
                     <li>- Full cover charge</li>
                     <li>- Longest queue</li>
-                    <li>- Nearly impossible at Tape, Scotch, The Box</li>
+                    <li>- Nearly impossible at Tape; The Box is tables only</li>
                   </ul>
                 </div>
               </div>
@@ -167,10 +167,10 @@ export default function GuestlistGuidePage() {
               { name: "Reign London", slug: "reign-london", info: "Reliable guestlist system. Book through a promoter and you will be looked after. Arrive between 11pm and midnight. Standard Mayfair dress code. Cover charge varies by night: your promoter will confirm." },
               { name: "Rumour", slug: "rumour-london", info: "Formerly Tabu. A ladies' guestlist, free to £20 on the door depending on the night and how busy it is. Men are not added to the guestlist, so men and mixed groups come in on a booth from £1,000, which covers entry for the whole group. Wednesday and Thursday are the more relaxed nights and the easiest for guestlist entry; Friday and Saturday fill out, so arrange them in advance. 18+ with photo ID, and dress up: heels for ladies." },
               { name: "99 Regent Street", slug: "99-regent-street", info: "Formerly Cuckoo Club. Guestlist by request, and mixed groups are welcome: it is not a ladies-only list. Entry runs from free to about £50 depending on the night and arrival time, and we confirm names and the night's terms before you go. 19+ with physical photo ID. Elegant, enforced dress code: black is the safe choice." },
-              { name: "Scotch of St James", slug: "scotch-of-st-james", info: "Difficult for guestlist. Members-club atmosphere means the door is selective even with a list placement. A strong promoter connection is essential. Small mixed groups only. Dress impeccably." },
-              { name: "Dear Darling", slug: "dear-darling", info: "Bar-first atmosphere makes guestlist less critical, but it still helps on busy nights. Walk-ups can work earlier in the evening. Smart dress code. Relaxed but polished vibe." },
+              { name: "Scotch of St James", slug: "scotch-of-st-james", info: "Entry is walk-in at the door; there is no guestlist. Tables can be booked. Members-club atmosphere, so small mixed groups do best. Dress impeccably." },
+              { name: "Dear Darling Mayfair", slug: "dear-darling", info: "Bar-first atmosphere makes guestlist less critical, but it still helps on busy nights. Walk-ups can work earlier in the evening. Smart dress code. Relaxed but polished vibe." },
               { name: "Maddox", slug: "maddox", info: "Guestlist is available for the club nights. Dinner guests transition naturally downstairs. For club-only entry, book through a promoter. Arrive by 11pm. House music crowd: dress with intention." },
-              { name: "The Box", slug: "the-box-london", info: "Guestlist exists but the door is curated by look and energy. Being on the list helps but does not guarantee entry. Creative, bold dressing is rewarded. Book through a promoter and arrive by 11pm." },
+              { name: "The Box", slug: "the-box-london", info: "The Box doesn't run a guestlist. Entry is by table booking, from £1,000, and we book the tables. Creative, bold dressing is rewarded. Arrive by 11pm." },
               { name: "Selene London", slug: "selene-london", info: "Guestlist is accessible and the door is welcoming. Newer venue still building its regular crowd. Book through a promoter for the smoothest experience. Elegant dress code: think refined, not flashy." },
               { name: "BEAT London", slug: "beat-london", info: "Most relaxed guestlist in the Mayfair circuit. Smart casual works. Clean designer trainers are acceptable. Book ahead for weekends but same-day guestlist often works midweek." },
             ].map((venue) => (
@@ -216,7 +216,7 @@ export default function GuestlistGuidePage() {
                 <li>• It&apos;s a peak night (NYE, bank holiday weekends, special events)</li>
                 <li>• You want guaranteed entry regardless of arrival time</li>
                 <li>• Your group is larger than 8 people</li>
-                <li>• You&apos;re targeting Tape London or Scotch of St James specifically</li>
+                <li>• You&apos;re targeting Tape London or The Box (no guestlist) specifically</li>
                 <li>• You want your own space rather than standing on the dance floor</li>
               </ul>
             </div>

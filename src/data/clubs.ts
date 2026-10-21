@@ -43,7 +43,7 @@ export const clubs: Club[] = [
   {
     slug: "tape-london",
     metaDescription:
-      "Tape London on Hanover Square, Mayfair: open Tuesday, Friday, Saturday and Sunday for hip-hop and RnB. Tables from £1,500, booked with us on WhatsApp.",
+      "Tape London on Hanover Square, Mayfair: open Tuesday, Friday, Saturday and Sunday for hip-hop and RnB. Tables from £750, booked with us on WhatsApp.",
     name: "Tape London",
     tagline: "Mayfair's most exclusive members club",
     description:
@@ -53,7 +53,7 @@ export const clubs: Club[] = [
     musicPolicy: ["Hip-Hop", "RnB", "Commercial"],
     dressCode: "Smart and stylish. No trainers, no sportswear. Think designer: this is Mayfair's most exclusive room.",
     dressCodeNotes: "Tape has one of the strictest doors in London. Dress to impress or don't bother.",
-    tableMinimum: "£1,500",
+    tableMinimum: "£750",
     openNights: ["Tuesday", "Friday", "Saturday", "Sunday"],
     openingTime: "22:00",
     closingTime: "03:45",
@@ -68,7 +68,7 @@ export const clubs: Club[] = [
   {
     slug: "cirque-le-soir",
     metaDescription:
-      "Cirque Le Soir, Ganton Street, Soho: open Monday, Wednesday, Friday and Saturday for hip-hop, RnB and circus acts. Dress code and tables from £1,000.",
+      "Cirque Le Soir, Ganton Street, Soho: open Monday, Wednesday, Friday and Saturday for hip-hop, RnB and circus acts. Dress code and tables from £800.",
     name: "Cirque Le Soir",
     tagline: "The wildest show in London nightlife",
     description:
@@ -78,7 +78,7 @@ export const clubs: Club[] = [
     musicPolicy: ["Hip-Hop", "RnB"],
     dressCode: "Smart casual. No sportswear, no shorts. Smart jeans are fine with the right shoes.",
     dressCodeNotes: "The door is firm but fair. Look put-together and you'll be fine.",
-    tableMinimum: "£1,000",
+    tableMinimum: "£800",
     openNights: ["Monday", "Wednesday", "Friday", "Saturday"],
     openingTime: "22:30",
     closingTime: "03:45",
@@ -93,7 +93,7 @@ export const clubs: Club[] = [
   {
     slug: "reign-london",
     metaDescription:
-      "Reign London on Piccadilly: open Tuesday, Thursday, Friday and Saturday, with commercial, house and hip-hop around the shows. Tables from £1,000.",
+      "Reign London on Piccadilly: open Tuesday, Thursday, Friday and Saturday, with commercial, house and hip-hop around the shows. Tables from £800.",
     name: "Reign London",
     tagline: "Piccadilly's most extravagant showclub",
     description:
@@ -103,10 +103,10 @@ export const clubs: Club[] = [
     musicPolicy: ["Commercial", "House", "Hip-Hop"],
     dressCode: "Smart dress code. Collared shirts for men, heels or smart shoes for women. No casual wear.",
     dressCodeNotes: "Standard Mayfair dress code applies. Dress sharp.",
-    tableMinimum: "£1,000",
+    tableMinimum: "£800",
     openNights: ["Tuesday", "Thursday", "Friday", "Saturday"],
     openingTime: "22:00",
-    closingTime: "03:30",
+    closingTime: "04:00",
     vibe: "Extravagant, theatrical, glamorous",
     insiderTip:
       "Book a table near the stage for the best view of the performances. The aerial acts happen directly overhead.",
@@ -198,7 +198,7 @@ export const clubs: Club[] = [
     slug: "scotch-of-st-james",
     metaTitle: "Scotch of St James Tonight: Tables, Nights and Dress Code",
     metaDescription:
-      "Scotch of St James: open Thursday to Saturday, 10pm to 3am, for house, disco and RnB in a small, storied room. Tables from £1,000; dress smart and elegant.",
+      "Scotch of St James: open Thursday to Saturday, 10pm to 5am, for house, disco and RnB in a small, storied room. Tables from £1,000; dress smart and elegant.",
     name: "Scotch of St James",
     tagline: "A storied St James's nightclub since the 1960s",
     description:
@@ -211,7 +211,7 @@ export const clubs: Club[] = [
     tableMinimum: "£1,000",
     openNights: ["Thursday", "Friday", "Saturday"],
     openingTime: "22:00",
-    closingTime: "03:00",
+    closingTime: "05:00",
     vibe: "Historic, elegant, intimate",
     insiderTip:
       "Ask about the history when you're there. The walls could tell stories. Thursday nights tend to be the most intimate.",
@@ -222,9 +222,10 @@ export const clubs: Club[] = [
   },
   {
     slug: "dear-darling",
+    metaTitle: "Dear Darling Mayfair Tonight: Tables, Nights and Dress Code",
     metaDescription:
-      "Dear Darling, 91 Jermyn Street, St James's: a late-night cocktail bar open Thursday to Sunday with house and lounge sets. Tables from £1,000.",
-    name: "Dear Darling",
+      "Dear Darling Mayfair, 91 Jermyn Street, St James's: a late-night cocktail bar open Thursday to Sunday until 6am, with house and lounge sets. Tables from £1,000.",
+    name: "Dear Darling Mayfair",
     tagline: "An opulent late-night bar on Jermyn Street",
     description:
       "Dear Darling is pure St James's opulence: chandeliers, velvet booths, and cocktails that justify their price tag. It straddles the line between high-end bar and late-night venue. The cocktail programme is serious, the atmosphere is intimate, and it transitions beautifully from early evening drinks to late-night energy. Perfect for those who want sophistication without the full nightclub experience.",
@@ -236,7 +237,7 @@ export const clubs: Club[] = [
     tableMinimum: "£1,000",
     openNights: ["Thursday", "Friday", "Saturday", "Sunday"],
     openingTime: "21:00",
-    closingTime: "02:30",
+    closingTime: "06:00",
     vibe: "Opulent, intimate, cocktail-focused",
     insiderTip:
       "Start your evening here with cocktails before heading to a club. Or stay: it gets lively enough after midnight to be the whole night.",
@@ -248,7 +249,7 @@ export const clubs: Club[] = [
   {
     slug: "maddox",
     metaDescription:
-      "Maddox in Mayfair: Italian dinner upstairs, then house, deep house and tech house downstairs, Thursday to Saturday until 3am. Tables from £1,000.",
+      "Maddox in Mayfair: Italian dinner upstairs, then house, deep house and tech house downstairs, Thursday to Saturday until 6am. Tables from £1,000.",
     name: "Maddox",
     tagline: "Where Mayfair dining meets nightlife",
     description:
@@ -261,7 +262,7 @@ export const clubs: Club[] = [
     tableMinimum: "£1,000",
     openNights: ["Thursday", "Friday", "Saturday"],
     openingTime: "22:00",
-    closingTime: "03:00",
+    closingTime: "06:00",
     vibe: "Sophisticated, dinner-to-dance, house music",
     insiderTip:
       "Book dinner first, then transition to the club. It's the best way to experience Maddox, and the restaurant is genuinely excellent.",
@@ -286,7 +287,7 @@ export const clubs: Club[] = [
     tableMinimum: "£1,000",
     openNights: ["Wednesday", "Thursday", "Friday", "Saturday"],
     openingTime: "22:30",
-    closingTime: "03:30",
+    closingTime: "04:00",
     vibe: "Provocative, theatrical, decadent",
     insiderTip:
       "Don't sit near the stage if you're easily shocked. The performances are designed to push boundaries. Book a booth for the best experience: you'll have the show and the party in one.",
@@ -323,7 +324,7 @@ export const clubs: Club[] = [
   {
     slug: "selene-london",
     metaDescription:
-      "Selene London, 4 Winsley Street near Oxford Circus: Thursday to Sunday, 11pm to 4am, for house and commercial sets. Cocktail dress, tables from £1,000.",
+      "Selene London, 4 Winsley Street near Oxford Circus: Thursday to Sunday, 11pm to 4am, for house and commercial sets. Cocktail dress, tables from £800.",
     name: "Selene London",
     tagline: "Refined elegance just north of Oxford Circus",
     description:
@@ -333,7 +334,7 @@ export const clubs: Club[] = [
     musicPolicy: ["House", "Commercial", "Deep House"],
     dressCode: "Smart and refined. Cocktail attire. No casual wear.",
     dressCodeNotes: "Selene is elegant: the dress code reflects it. Think upscale evening out.",
-    tableMinimum: "£1,000",
+    tableMinimum: "£800",
     openNights: ["Thursday", "Friday", "Saturday", "Sunday"],
     openingTime: "23:00",
     closingTime: "04:00",
@@ -361,7 +362,7 @@ export const clubs: Club[] = [
     tableMinimum: "£1,000",
     openNights: ["Thursday", "Friday", "Saturday"],
     openingTime: "22:00",
-    closingTime: "03:30",
+    closingTime: "06:00",
     vibe: "High-energy, music-focused, proper nightclub",
     insiderTip:
       "BEAT's sound system is the star. Get near the speakers and you'll feel it in your chest.",
@@ -442,7 +443,7 @@ export const clubs: Club[] = [
     whatToExpect: "Luxx Club London has permanently closed. For visually impressive Mayfair nightlife, check out Reign London for production value or The Box for theatrical experiences.",
     bestFor: "This venue has permanently closed",
     status: "closed",
-    closedMessage: "Luxx Club London has permanently closed, and Itzel is its successor at the Berkeley Street address. Looking for a visually stunning night? Try Reign London for world-class production or The Box for theatrical nightlife.",
+    closedMessage: "Luxx Club London has permanently closed. The Berkeley Street site was Funky Buddha, then went through several rebrands including Luxx, became Funky Buddha again, and now operates as Itzel. Looking for a visually stunning night? Try Reign London for world-class production or The Box for theatrical nightlife.",
   },
   {
     slug: "lio-london",

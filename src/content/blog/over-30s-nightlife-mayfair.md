@@ -29,7 +29,7 @@ The dinner-to-dance transition means you never have to stand on a street corner 
 
 If you remember when nightclubs were about the experience rather than the Instagram story, Scotch will feel like home. For where else that classic sound lives, see our guide to [disco and funk nights in Mayfair](/blog/disco-funk-nights-mayfair).
 
-### 3. Dear Darling: Cocktail Bar With Depth
+### 3. Dear Darling Mayfair: Cocktail Bar With Depth
 
 [Dear Darling](/clubs/dear-darling) starts as a cocktail bar and evolves as the evening progresses. For over-30s, this format is ideal. You arrive for quality drinks in a civilised setting. If the mood takes you, the venue transitions into something livelier without you having to leave.
 

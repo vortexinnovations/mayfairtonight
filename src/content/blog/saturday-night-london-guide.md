@@ -52,7 +52,7 @@ Read our [dress code guide](/dress-code). Every club on this list enforces a dre
 - **10:00-10:30pm**: Leave for the club
 - **10:30-11:30pm**: Arrive. This is the sweet spot. Early enough to get in smoothly, late enough that the venue is warming up.
 - **Midnight-2:00am**: Peak energy. The dance floor is full, the music is at its best, the night is hitting its stride.
-- **2:30-3:30am**: Last drinks, last dances. Most clubs close at 3:00-3:30am.
+- **3:00 to 4:00am**: Last drinks, last dances. Most clubs close at 3:45am or 4am, and a few run until 5am or 6am.
 
 If you're heading to [Selene London](/clubs/selene-london), their late-night sets run deep: arrive after midnight and ride the wave until close.
 
@@ -64,7 +64,7 @@ If you're heading to [Selene London](/clubs/selene-london), their late-night set
 
 ### For Exclusivity
 
-[Tape London](/clubs/tape-london) Saturday is the pinnacle. The most exclusive room, the best crowd, tables from £1,500. Book through a promoter. This isn't a walk-up venue.
+[Tape London](/clubs/tape-london) Saturday is the pinnacle. The most exclusive room, the best crowd, tables from £750. Book through a promoter. This isn't a walk-up venue.
 
 ### For a Show
 

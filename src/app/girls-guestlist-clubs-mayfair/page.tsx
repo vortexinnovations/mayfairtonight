@@ -68,7 +68,7 @@ const girlsClubs: GirlsClub[] = [
   },
   {
     rank: 3,
-    name: "Dear Darling",
+    name: "Dear Darling Mayfair",
     slug: "dear-darling",
     tagline: "Cocktails First, Dancing Later",
     whyItWorks:
@@ -437,10 +437,10 @@ export default function GirlsGuestlistPage() {
               </p>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">
-              <p className="text-gold font-medium text-sm">2:00 - 3:00 AM</p>
+              <p className="text-gold font-medium text-sm">From 3:45 AM</p>
               <h3 className="text-white font-medium">Home Time</h3>
               <p className="text-sm text-gray-300 mt-1">
-                Most Mayfair clubs close between 2:00 and 3:00 AM. Pre-book an Uber or Bolt: surge pricing hits hard outside Mayfair clubs. The smarter play is booking your ride at 1:30 AM for a 2:00 AM pickup. Alternatively, the night bus or a short walk to Green Park station covers you.
+                Most Mayfair clubs close at 3:45 AM or 4:00 AM, and a few run until 5:00 AM or 6:00 AM. Pre-book an Uber or Bolt: surge pricing hits hard outside Mayfair clubs. The smarter play is booking your ride half an hour before you plan to leave. Alternatively, the night bus or a short walk to Green Park station covers you.
               </p>
             </div>
           </div>
@@ -474,7 +474,7 @@ export default function GirlsGuestlistPage() {
               </p>
             </div>
             <div className="bg-dark-card border border-gold/30 rounded-xl p-5">
-              <h3 className="text-gold font-semibold mb-2">Most Elegant: Dear Darling</h3>
+              <h3 className="text-gold font-semibold mb-2">Most Elegant: Dear Darling Mayfair</h3>
               <p className="text-sm text-gray-300">
                 For the birthday girl who prefers cocktails to chaos. Bespoke cocktail packages, intimate atmosphere, and a level of personal service that makes the night feel truly special.
               </p>

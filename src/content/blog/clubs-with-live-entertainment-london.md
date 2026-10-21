@@ -27,7 +27,7 @@ If you want your night out to feel like an event, these are the clubs to know.
 
 **Best night:** Saturday. The full production is out.
 
-**Tables from:** £1,000. [Book on WhatsApp](/contact).
+**Tables from:** £800. [Book on WhatsApp](/contact).
 
 ## Reign London: The Showclub
 
@@ -41,7 +41,7 @@ If you want your night out to feel like an event, these are the clubs to know.
 
 **Best night:** Saturday for the full production. Thursday is also excellent with a slightly more intimate crowd.
 
-**Tables from:** £1,000. Book tables near the stage for the best view. [Book on WhatsApp](/contact).
+**Tables from:** £800. Book tables near the stage for the best view. [Book on WhatsApp](/contact).
 
 ## The Box: Theatre of the Unexpected
 

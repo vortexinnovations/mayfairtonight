@@ -9,7 +9,7 @@ import { fitTitle } from "@/lib/seo";
 export const metadata: Metadata = {
   title: fitTitle("Best Mayfair Clubs for Table Bookings in 2026, Ranked"),
   description:
-    "Nine Mayfair clubs ranked for table bookings, with Tape first from £1,500: table layouts, what's included, minimum spends and what to expect on the night.",
+    "Nine Mayfair clubs ranked for table bookings, with Tape first from £750: table layouts, what's included, minimum spends and what to expect on the night.",
   alternates: {
     canonical: "https://mayfairtonight.com/best-clubs-for-tables-in-mayfair",
   },
@@ -47,7 +47,7 @@ const tableClubs: TableClub[] = [
     included:
       "Dedicated table host, premium bottle selection, mixers, ice, and a level of personal service that justifies the spend.",
     bestFor: "High-rollers, celebrities, those who want the most exclusive night possible",
-    minSpend: "From £1,500",
+    minSpend: "From £750",
     recommendation: "Tables only. Guestlist is extremely limited.",
   },
   {
@@ -62,7 +62,7 @@ const tableClubs: TableClub[] = [
     included:
       "Table host, premium bottles, mixers, front-row entertainment, and the best vantage point in the house.",
     bestFor: "Birthdays, special occasions, groups who want a show with their night",
-    minSpend: "From £1,000",
+    minSpend: "From £800",
     recommendation: "Tables recommended. Guestlist works but you miss the best views.",
   },
   {
@@ -77,7 +77,7 @@ const tableClubs: TableClub[] = [
     included:
       "Dedicated host, bottles, mixers, and live entertainment that literally comes to you. Birthday packages available with bespoke performances.",
     bestFor: "Birthday groups, international visitors, anyone who wants entertainment woven into their night",
-    minSpend: "From £1,000",
+    minSpend: "From £800",
     recommendation: "Tables strongly recommended. The experience is completely different with a booking.",
   },
   {
@@ -108,11 +108,11 @@ const tableClubs: TableClub[] = [
       "Premium bottles, mixers, table host, and unobstructed views of every performance throughout the night.",
     bestFor: "Adventurous groups, creative industries crowd, those who want stories to tell",
     minSpend: "From £1,000",
-    recommendation: "Tables recommended. The shows hit differently when you have a proper seat.",
+    recommendation: "Tables only: The Box doesn't run a guestlist, so a table booking is the way in. The shows hit differently when you have a proper seat.",
   },
   {
     rank: 6,
-    name: "Dear Darling",
+    name: "Dear Darling Mayfair",
     slug: "dear-darling",
     tagline: "Cocktail-Focused",
     experience:

@@ -5,7 +5,7 @@ metaDescription: "The insider guide to Scotch of St James, just off Jermyn Stree
 date: "2026-03-25"
 excerpt: "Scotch of St James has been part of London's nightlife since the 1960s. Here's what the legendary St James's venue is really like today, and how to get in."
 category: "Club Guides"
-tags: ["Scotch of St James", "Scotch Mayfair", "Mayfair clubs", "historic clubs London", "members clubs Mayfair"]
+tags: ["Scotch of St James", "Mayfair clubs", "historic clubs London", "members clubs Mayfair"]
 readingTime: "6 min read"
 ---
 
@@ -55,11 +55,10 @@ The general rule: if you'd feel comfortable at a smart dinner party in Belgravia
 
 ## How to Get In
 
-Scotch operates with a members' club mentality even though it's technically open to non-members on certain nights. Walking up cold, without any connection, is unlikely to work.
+Entry is walk-in at the door; there is no guestlist. Tables can be booked. The room still has a members' club mentality, so how you arrive matters.
 
 Your best options:
 
-- **Know a promoter.** This is the most reliable route. A good promoter relationship opens the door at Scotch more than almost anywhere else.
 - **Book a table.** Table bookings guarantee entry and give you a foothold in the room. For table enquiries, [our table booking team](/contact) handles bookings across Mayfair.
 - **Arrive at the right time.** Before midnight is significantly easier than after.
 - **Keep your group small and mixed.** All-male groups without a booking won't get far.
@@ -83,19 +82,19 @@ If you want to be impressed, go to [Tape](/clubs/tape-london). If you want to be
 ## Frequently Asked Questions
 
 **Is Scotch of St James a members' club?**
-It has a strong members' culture, but non-members can attend on certain nights, typically through a promoter connection or table booking. It's not open-door in the way most Mayfair clubs are.
+It has a strong members' culture, but entry is walk-in at the door; there is no guestlist. Tables can be booked.
 
 **What's the age range at Scotch?**
 Older than the Mayfair average. Most of the crowd is late twenties to mid-forties. If you're twenty-one and looking for a party, you'll likely feel out of place.
 
 **How much does a table cost at Scotch?**
-Table minimums vary by night and location within the venue. Expect to spend more than the Mayfair baseline given the exclusivity. Contact a promoter or [message us](/contact) for current pricing.
+Table minimums vary by night and location within the venue. Expect to spend more than the Mayfair baseline given the exclusivity. [Message us](/contact) for current pricing.
 
 **Can I just walk in?**
-Technically possible, but realistically difficult. Guest list or table booking is the smart approach.
+Yes. Entry is walk-in at the door; there is no guestlist. Tables can be booked if you want a base in the room.
 
 **What time does Scotch close?**
-Typically around 3am, though this can vary by night. Don't arrive after 1am expecting a long night.
+Scotch closes at 5am. Arrive before midnight for the best of the room.
 
 ---
 

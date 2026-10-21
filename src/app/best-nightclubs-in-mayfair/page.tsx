@@ -155,7 +155,7 @@ const rankedClubs: RankedClub[] = [
   },
   {
     rank: 8,
-    name: "Dear Darling",
+    name: "Dear Darling Mayfair",
     slug: "dear-darling",
     category: "Best Bar-Club Hybrid",
     verdict:
@@ -215,12 +215,12 @@ const faqs = [
   {
     question: "Which Mayfair club is easiest to get into?",
     answer:
-      "Selene London has the most accessible guestlist. Book through a promoter, arrive before midnight, and dress smart: you'll get in. The harder doors are Tape London (members/tables only most nights) and Scotch of St James (members club atmosphere). The Box curates its crowd carefully but guestlist works.",
+      "Selene London has the most accessible guestlist. Book through a promoter, arrive before midnight, and dress smart: you'll get in. The harder door is Tape London (members/tables only most nights). Scotch of St James is walk-in at the door, with no guestlist. The Box has no guestlist either: entry is by table booking, from £1,000.",
   },
   {
     question: "How much does a night out in Mayfair cost?",
     answer:
-      "Guestlist entry is often free or £10 to £20 cover. Drinks range from £12 to £18 for cocktails. Table bookings start from £1,000 minimum spend at most venues, with Tape London from £1,500. A typical night on guestlist costs £50 to £100 per person including drinks. For table booking prices, message us on WhatsApp.",
+      "Guestlist entry is often free or £10 to £20 cover. Drinks range from £12 to £18 for cocktails. Table bookings start from £1,000 minimum spend at most venues, with Tape London from £750. A typical night on guestlist costs £50 to £100 per person including drinks. For table booking prices, message us on WhatsApp.",
   },
   {
     question: "Are Mayfair clubs worth the money?",
@@ -396,7 +396,7 @@ export default function BestNightclubsPage() {
                 </Link>:{" "}
                 dinner upstairs, dancing downstairs. Or{" "}
                 <Link href="/clubs/dear-darling" className="text-gold hover:text-gold-light">
-                  Dear Darling
+                  Dear Darling Mayfair
                 </Link>{" "}
                 for cocktails that transition into a night out.
               </p>

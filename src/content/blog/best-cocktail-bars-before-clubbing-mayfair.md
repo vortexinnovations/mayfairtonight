@@ -15,7 +15,7 @@ The difference between a good night and a great night in Mayfair often comes dow
 
 Mayfair has an embarrassment of riches when it comes to pre-club drinking. The trick is knowing which bars feed naturally into which clubs, and getting the timing right.
 
-## Dear Darling: The Pre-Club Bar That Becomes the Club
+## Dear Darling Mayfair: The Pre-Club Bar That Becomes the Club
 
 [Dear Darling](/clubs/dear-darling), on Jermyn Street in St James's, is the most seamless pre-club option because it doesn't force you to leave. The venue transitions from cocktail bar to late-night destination as the evening progresses. Start with cocktails at 9pm, and by midnight the music has lifted and the room has transformed.
 

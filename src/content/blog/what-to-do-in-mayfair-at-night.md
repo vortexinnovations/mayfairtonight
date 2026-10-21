@@ -58,7 +58,7 @@ Check our [full club rankings](/blog/best-clubs-in-mayfair) or [where to go toni
 
 ## The All-Night Option
 
-Most Mayfair clubs close between 3:00 and 3:30am. If you want to stretch the night, [Selene London](/clubs/selene-london), just north of Oxford Circus, stays open until 4am with late-night house sets in a sleek, low-lit space. The crowd is tuned in and the vibe stays locked until the very end.
+Most Mayfair clubs close at 3:45am or 4am, [Selene London](/clubs/selene-london) included. If you want to stretch the night, [Scotch of St James](/clubs/scotch-of-st-james) runs until 5am, and [Maddox](/clubs/maddox), [Dear Darling Mayfair](/clubs/dear-darling) and [BEAT London](/clubs/beat-london) until 6am.
 
 ## Planning Your Evening
 
@@ -69,8 +69,8 @@ Here's how a great Mayfair night typically flows:
 | 8:00-9:00pm | Dinner (restaurant or Maddox/Reign London) |
 | 9:00-10:30pm | Cocktails (Dear Darling or hotel bars) |
 | 10:30-11:00pm | Arrive at club |
-| 11:00pm-3:00am | Dancing, drinks, bottle service |
-| 3:00am+ | Late-night food or Selene London |
+| 11:00pm to 4:00am | Dancing, drinks, bottle service |
+| 4:00am onwards | Late-night food, or Maddox, Dear Darling Mayfair or BEAT London until 6am |
 
 ## What to Wear
 

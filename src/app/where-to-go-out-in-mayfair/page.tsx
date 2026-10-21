@@ -50,7 +50,7 @@ const faqs = [
   {
     question: "What is the age range at Mayfair clubs?",
     answer:
-      "Most Mayfair clubs attract a 23 to 35 crowd, though it varies by venue. BEAT skews younger, with an early-twenties crowd. Scotch of St James, Maddox, and Dear Darling draw a more mature 28 to 40 crowd. All venues are strictly 18 plus, except 99 Regent Street at 19 plus with physical photo ID, but most prefer 21 plus on weekends.",
+      "Most Mayfair clubs attract a 23 to 35 crowd, though it varies by venue. BEAT skews younger, with an early-twenties crowd. Scotch of St James, Maddox, and Dear Darling draw a more mature 28 to 40 crowd. Most venues are strictly 18 plus; 99 Regent Street is 19 plus with physical photo ID, Maddox is 20 plus, and Cirque Le Soir is 21 plus at weekends.",
   },
 ];
 
@@ -344,7 +344,7 @@ export default function WhereToGoOutPage() {
                     href="/clubs/dear-darling"
                     className="hover:text-gold transition-colors"
                   >
-                    Dear Darling
+                    Dear Darling Mayfair
                   </Link>
                   <span className="text-gold text-sm ml-2">Best Cocktails</span>
                 </h3>
@@ -570,7 +570,7 @@ export default function WhereToGoOutPage() {
                     href="/clubs/dear-darling"
                     className="hover:text-gold transition-colors"
                   >
-                    Dear Darling
+                    Dear Darling Mayfair
                   </Link>
                   <span className="text-gold text-sm ml-2">Cocktail Intimacy</span>
                 </h3>

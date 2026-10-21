@@ -116,7 +116,7 @@ const houseClubs: GenreClub[] = [
     djs: "Curators with deep record collections. Scotch attracts DJs who appreciate the venue's history.",
   },
   {
-    name: "Dear Darling",
+    name: "Dear Darling Mayfair",
     slug: "dear-darling",
     description:
       "Dear Darling's house music starts subtle and builds through the evening. Early on, it's lounge and deep house that accompanies the cocktail service. As the night progresses, the tempo lifts and the beats become more insistent. The transition is seamless: you don't notice the shift until you're dancing.",
@@ -167,7 +167,7 @@ const eclecticClubs: GenreClub[] = [
     djs: "DJs with eclectic taste and deep collections. Scotch rewards musical curiosity.",
   },
   {
-    name: "Dear Darling",
+    name: "Dear Darling Mayfair",
     slug: "dear-darling",
     description:
       "Dear Darling's cocktail bar roots mean the music has to work across moods and moments. Early evening jazz and soul gives way to deep house and disco, which evolves into more energetic house and commercial as the night peaks. The genre shifts with the atmosphere.",
@@ -186,7 +186,7 @@ const musicGrid = [
   { name: "Maddox", slug: "maddox", hiphop: false, house: true, commercial: false, eclectic: false },
   { name: "Selene London", slug: "selene-london", hiphop: false, house: true, commercial: false, eclectic: false },
   { name: "Scotch of St James", slug: "scotch-of-st-james", hiphop: false, house: true, commercial: false, eclectic: true },
-  { name: "Dear Darling", slug: "dear-darling", hiphop: false, house: true, commercial: false, eclectic: true },
+  { name: "Dear Darling Mayfair", slug: "dear-darling", hiphop: false, house: true, commercial: false, eclectic: true },
   { name: "Reign London", slug: "reign-london", hiphop: false, house: false, commercial: true, eclectic: false },
   { name: "The Box", slug: "the-box-london", hiphop: false, house: false, commercial: false, eclectic: true },
 ];
@@ -706,7 +706,7 @@ export default function MayfairClubsByMusicPage() {
               <p className="text-sm text-gray-300">
                 Start at{" "}
                 <Link href="/clubs/dear-darling" className="text-gold hover:text-gold-light">
-                  Dear Darling
+                  Dear Darling Mayfair
                 </Link>{" "}
                 for world-class cocktails with lounge house, then head to{" "}
                 <Link href="/clubs/selene-london" className="text-gold hover:text-gold-light">

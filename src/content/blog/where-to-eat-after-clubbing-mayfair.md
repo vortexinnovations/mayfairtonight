@@ -23,7 +23,7 @@ At this hour, you have genuine restaurant options. Several Mayfair and Soho esta
 
 Chinatown, a fifteen-minute walk south from Berkeley Square through Soho, is your strongest option in this window. Multiple restaurants serve full meals until 1am on weekends. The walk through Soho is part of the experience: the streets are alive, and the transition from Mayfair polish to Soho chaos is entertaining in itself.
 
-If you're leaving a club early, say [Dear Darling](/clubs/dear-darling) or [Selene London](/clubs/selene-london), you have time to reach these spots before the kitchens close.
+If you're leaving a club early, you have time to reach these spots before the kitchens close.
 
 ## 1am to 2am: Options Narrow
 

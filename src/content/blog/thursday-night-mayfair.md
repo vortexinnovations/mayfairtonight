@@ -65,11 +65,11 @@ Skip the queue, secure your table, and get insider access. Message us on WhatsAp
 
 As of May 2026, the minimum spends we see on Thursdays in Mayfair sit in a clear band:
 
-- **Mid-tier Mayfair rooms** (Reign on event Thursdays): minimum spend roughly £750 to £1,000 for a small table.
-- **Higher-tier rooms** (premium Selene events): roughly £1,000 to £1,500.
+- **Reign London**: tables from £800 minimum spend.
+- **Selene London**: tables from £800 minimum spend.
 - **Walk-in entry**: usually free to £20 on the door for couples and small groups, far less hassle than Friday or Saturday.
 
-Compare those to Friday and Saturday, where the same tables routinely sit at £1,500 and up, and you can see why a Thursday is the most efficient way to do a proper W1 night. If you are pricing a table for a birthday or a corporate dinner-into-club, see our bottle service guide for what the spend actually covers, and the [Mayfair nightlife guide](/mayfair-nightlife-guide) for context across the week. Our guide to [how Mayfair nightclub tables work](/how-mayfair-nightclub-tables-work) has more on minimum spends.
+Friday and Saturday are busier and tables are harder to secure, which is why a Thursday is the most efficient way to do a proper W1 night. If you are pricing a table for a birthday or a corporate dinner-into-club, see our bottle service guide for what the spend actually covers, and the [Mayfair nightlife guide](/mayfair-nightlife-guide) for context across the week. Our guide to [how Mayfair nightclub tables work](/how-mayfair-nightclub-tables-work) has more on minimum spends.
 
 ## A Realistic Thursday Itinerary in Mayfair
 
@@ -78,7 +78,7 @@ This is the shape that works almost every Thursday for the groups we book:
 - **8.00pm to 9.30pm**: Dinner on Albemarle Street or in one of the Bruton Place rooms.
 - **9.30pm to 11.00pm**: One bar move, usually somewhere on Berkeley Square or a hotel bar nearby.
 - **11.00pm to 11.30pm**: Walk to the club. Mayfair distances are short enough that a cab is rarely worth it.
-- **11.30pm to 3.00am**: Club. Most Mayfair Thursday programming wraps closer to 3am rather than the 3.30am to 4am you see on a Friday.
+- **11.30pm to 3.00am**: Club.
 - **3.00am onwards**: Late food, usually Soho-side rather than Mayfair-side.
 
 For tonight-led picks, see [where to go tonight](/where-to-go-tonight).

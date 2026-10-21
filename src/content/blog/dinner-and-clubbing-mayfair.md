@@ -52,14 +52,14 @@ When the plates are cleared and the music builds, the venue shifts into a sophis
 1. Book a dinner reservation for 8:30-9:00pm
 2. Enjoy dinner upstairs (allow 1.5-2 hours)
 3. Head downstairs around 10:30-11:00pm
-4. The club runs until 3:00am
+4. The club runs until 6:00am
 
 ### At Selene London
 
 1. Book a dinner reservation for 8:00-8:30pm
 2. Enjoy dinner in the restaurant (allow 1.5-2 hours)
 3. The venue transitions into club mode around 10:30-11:00pm
-4. The club runs until 3:00am
+4. The club runs until 4:00am
 
 ## The Alternative: Two-Venue Move
 

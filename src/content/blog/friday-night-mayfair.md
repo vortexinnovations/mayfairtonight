@@ -94,7 +94,7 @@ A Friday night in Mayfair is not cheap. As of May 2026, expect to pay:
 - **Guestlist entry**: Free at most venues before a cut-off time (usually 11pm-11:30pm)
 - **Walk-in entry**: £20-£30 per person at most venues
 - **Drinks**: £15-£18 for a cocktail, £8-£12 for a beer
-- **Bottle service**: Table minimums start from around £1,000 at most venues, rising to £2,000+ at Tape on peak Fridays
+- **Bottle service**: Table minimums start from around £1,000 at most venues, and from £750 at Tape London
 
 If you're considering [table options](/how-mayfair-nightclub-tables-work), booking midweek versus Friday can save you 30-40% on minimum spends.
 

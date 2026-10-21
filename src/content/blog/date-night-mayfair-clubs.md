@@ -17,7 +17,7 @@ Everything is within a ten-minute walk. You can move from cocktails to dinner to
 
 Here are five date night plans, ranked from safest to most adventurous.
 
-## Plan 1: Cocktails at Dear Darling, Then Stay Late
+## Plan 1: Cocktails at Dear Darling Mayfair, Then Stay Late
 
 Start at [Dear Darling](/clubs/dear-darling) around 8:30pm. The cocktail bar atmosphere makes conversation easy: no shouting over music, no awkward silences drowned out by bass. Order properly. The bartenders know what they're doing.
 

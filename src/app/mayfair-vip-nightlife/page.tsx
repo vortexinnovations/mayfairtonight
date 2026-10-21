@@ -25,7 +25,7 @@ const faqs = [
   {
     question: "How much does a VIP table in Mayfair cost?",
     answer:
-      "Table minimums start from 600 pounds at 99 Regent Street and around 1,000 pounds at entry-level venues like BEAT London. Mid-tier venues like Reign, Cirque Le Soir, and Maddox start from 1,500 to 2,000 pounds. Top-tier venues like Tape London start from 2,000 to 3,000 pounds minimum spend. Premium table positions cost more. For exact pricing, message us on WhatsApp.",
+      "Table minimums start from 600 pounds at 99 Regent Street, 750 pounds at Tape London, 800 pounds at Reign and Cirque Le Soir, and 1,000 pounds at Maddox. Premium table positions cost more. For exact pricing, message us on WhatsApp.",
   },
   {
     question: "Is VIP worth it in Mayfair?",
@@ -35,7 +35,7 @@ const faqs = [
   {
     question: "Can I get VIP access without a table?",
     answer:
-      "At most Mayfair clubs VIP simply means table booking: there is no separate VIP section with a cheaper entry fee. Guestlist gets you through the door at standard venues. At members clubs like Scotch of St James and Tape London membership or a members invitation is the alternative to a table.",
+      "At most Mayfair clubs VIP simply means table booking: there is no separate VIP section with a cheaper entry fee. Guestlist gets you through the door at standard venues. At Tape London, membership or a members invitation is the alternative to a table. Scotch of St James is walk-in at the door, with no guestlist.",
   },
   {
     question: "What is included with a VIP table in Mayfair?",
@@ -128,8 +128,10 @@ export default function MayfairVIPPage() {
               </p>
               <p className="text-sm text-dark-muted">
                 Works well at 99 Regent Street (mixed groups welcome),
-                Cirque Le Soir, Reign, and most mid-tier venues. Less reliable at Tape London
-                and Scotch where tables and membership dominate.
+                Cirque Le Soir, Reign, and most mid-tier venues. Less reliable at Tape London,
+                where tables and membership dominate. Scotch of St James has no
+                guestlist (entry is walk-in at the door), and The Box has none
+                either (entry is by table booking).
               </p>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-5">
@@ -238,8 +240,9 @@ export default function MayfairVIPPage() {
                 <p className="text-sm text-gray-300 mb-3">
                   Scotch has decades of London nightlife history and operates
                   with a members-club mentality. The crowd is older, wealthier,
-                  and more understated than the flashy Mayfair set. Access
-                  requires a connection or a promoter relationship. The
+                  and more understated than the flashy Mayfair set. Entry is
+                  walk-in at the door; there is no guestlist. Tables can be
+                  booked. The
                   intimate basement setting and heritage atmosphere create
                   something money alone cannot buy.
                 </p>
@@ -502,7 +505,7 @@ export default function MayfairVIPPage() {
                     href="/clubs/dear-darling"
                     className="hover:text-gold transition-colors"
                   >
-                    Dear Darling
+                    Dear Darling Mayfair
                   </Link>
                   <span className="text-gold text-sm ml-2">Cocktail Elegance</span>
                 </h4>
@@ -640,7 +643,7 @@ export default function MayfairVIPPage() {
                   "You want guaranteed entry at a top venue",
                   "You prefer having a home base in the club",
                   "You want bottle service without queuing at the bar",
-                  "You are visiting Tape, Scotch, or The Box where guestlist is limited",
+                  "You are visiting The Box, which has no guestlist, or Tape, where guestlist is limited",
                 ].map((item) => (
                   <li key={item} className="text-sm text-gray-300 flex items-start gap-2">
                     <span className="text-gold mt-0.5">&#8226;</span>

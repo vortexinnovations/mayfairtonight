@@ -157,7 +157,7 @@ export default function MayfairNightlifeGuidePage() {
               </Link>{" "}
               and{" "}
               <Link href="/clubs/dear-darling" className="text-gold hover:text-gold-light">
-                Dear Darling
+                Dear Darling Mayfair
               </Link>{" "}
               have elevated the cocktail bar into a genuine late-night
               destination. The best Mayfair nights are not just about partying:
@@ -247,7 +247,7 @@ export default function MayfairNightlifeGuidePage() {
                 </Link>{" "}
                 transitions from Italian restaurant to house music club.{" "}
                 <Link href="/clubs/dear-darling" className="text-gold hover:text-gold-light">
-                  Dear Darling
+                  Dear Darling Mayfair
                 </Link>{" "}
                 and{" "}
                 <Link href="/clubs/selene-london" className="text-gold hover:text-gold-light">

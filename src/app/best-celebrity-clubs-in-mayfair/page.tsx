@@ -57,7 +57,7 @@ const celebrityClubs: CelebrityClub[] = [
     crowd:
       "Fashion industry insiders, creative directors, actors, and the culturally connected. The crowd is not here to be seen: they are here to see something they cannot see anywhere else. It is the most creatively interesting room in Mayfair.",
     doorExclusivity:
-      "Curated, not just exclusive. The Box does not just want wealthy people: it wants interesting people. The door team assesses vibe, style, and energy. Groups that look fun and fashion-forward have better odds than groups that just look expensive.",
+      "Curated, not just exclusive. The Box does not just want wealthy people: it wants interesting people. The door team assesses vibe, style, and energy. Groups that look fun and fashion-forward have better odds than groups that just look expensive. There is no guestlist: entry is by table booking.",
     insiderTip:
       "Dress creatively, not just expensively. The Box rewards individuality. Book a table for guaranteed entry. Arrive between 11pm and midnight. Do not ask about the performances in advance: discovering them live is the whole point.",
     verdict:
@@ -87,7 +87,7 @@ const celebrityClubs: CelebrityClub[] = [
     crowd:
       "Sophisticated, cultured, and discerning. The Scotch crowd values elegance and history. It is an older, more established crowd than most Mayfair venues. Think 30s and above, well-travelled, and genuinely interesting.",
     doorExclusivity:
-      "Members club atmosphere without the formal membership. The door is selective but warm. If you look like you belong in an intimate, elegant setting, you will get in. Book through a promoter to be safe.",
+      "Members club atmosphere without the formal membership. The door is selective but warm. If you look like you belong in an intimate, elegant setting, you will get in. Entry is walk-in at the door; there is no guestlist. Tables can be booked.",
     insiderTip:
       "Mention nothing about celebrity spotting at the door. Scotch values discretion above all else. Dress elegantly: think dinner party, not nightclub. The intimate setting means every person in the room matters. Arrive before midnight for the best atmosphere.",
     verdict:
@@ -104,12 +104,12 @@ const faqs = [
   {
     question: "Is it worth the money to go to a celebrity club?",
     answer:
-      "That depends on what you value. If you want the most exclusive atmosphere, the best music curation, and genuinely world-class service, then yes, these clubs deliver experiences you cannot get elsewhere. Table minimums at Tape London start from around £1,500. Cirque Le Soir from £1,000. For guestlist options, Scotch offers a more accessible entry point. Message us on WhatsApp for current table prices.",
+      "That depends on what you value. If you want the most exclusive atmosphere, the best music curation, and genuinely world-class service, then yes, these clubs deliver experiences you cannot get elsewhere. Table minimums at Tape London start from £750. Cirque Le Soir from £800. For a more accessible entry point, Scotch is walk-in at the door, with no guestlist. Message us on WhatsApp for current table prices.",
   },
   {
     question: "Do you need to know someone to get into celebrity clubs?",
     answer:
-      "Not necessarily, but connections help enormously. At Tape London, having a promoter relationship is almost essential. At The Box, your look and energy matter as much as who you know. At Scotch, booking through the right promoter gets you in the door. Message us on WhatsApp: we can connect you with the right people at every venue.",
+      "Not necessarily, but connections help enormously. At Tape London, having a promoter relationship is almost essential. At The Box, your look and energy matter as much as who you know. At Scotch, entry is walk-in at the door; there is no guestlist, and tables can be booked. Message us on WhatsApp: we can connect you with the right people at every venue.",
   },
   {
     question: "What is the best night for the celebrity crowd in Mayfair?",
@@ -334,24 +334,24 @@ export default function BestCelebrityClubsPage() {
                 <tr className="border-b border-dark-border/50">
                   <td className="py-3 px-3 text-white font-medium">Tape London</td>
                   <td className="py-3 px-3">Very limited</td>
-                  <td className="py-3 px-3">~£1,500</td>
+                  <td className="py-3 px-3">£750</td>
                   <td className="py-3 px-3 text-gold">Hardest in Mayfair</td>
                 </tr>
                 <tr className="border-b border-dark-border/50">
                   <td className="py-3 px-3 text-white font-medium">The Box</td>
-                  <td className="py-3 px-3">Curated guestlist</td>
-                  <td className="py-3 px-3">~£1,000</td>
+                  <td className="py-3 px-3">No guestlist: tables only</td>
+                  <td className="py-3 px-3">£1,000</td>
                   <td className="py-3 px-3 text-gold">Hard: vibe matters</td>
                 </tr>
                 <tr className="border-b border-dark-border/50">
                   <td className="py-3 px-3 text-white font-medium">Cirque Le Soir</td>
                   <td className="py-3 px-3">Wed guestlist, Sat tables</td>
-                  <td className="py-3 px-3">~£1,000</td>
+                  <td className="py-3 px-3">£800</td>
                   <td className="py-3 px-3 text-gold">Moderate to Hard</td>
                 </tr>
                 <tr>
                   <td className="py-3 px-3 text-white font-medium">Scotch of St James</td>
-                  <td className="py-3 px-3">Via promoter</td>
+                  <td className="py-3 px-3">Walk-in only, no guestlist</td>
                   <td className="py-3 px-3">~£800</td>
                   <td className="py-3 px-3 text-gold">Moderate</td>
                 </tr>

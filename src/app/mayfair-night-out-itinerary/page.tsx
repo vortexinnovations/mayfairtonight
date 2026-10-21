@@ -126,14 +126,14 @@ export default function ItineraryPage() {
               </div>
               <div>
                 <p className="text-gold font-semibold mb-1">1:00am: <Link href="/clubs/the-box-london" className="text-gold hover:text-gold-light">The Box</Link>{" "}if you&apos;re feeling bold</p>
-                <p className="text-sm text-gray-300">The Box takes entertainment to another level entirely: provocative, boundary-pushing cabaret that you won&apos;t forget. Not for everyone. Book through a promoter and dress with creative flair. The door curates by look and energy.</p>
+                <p className="text-sm text-gray-300">The Box takes entertainment to another level entirely: provocative, boundary-pushing cabaret that you won&apos;t forget. Not for everyone. There is no guestlist: entry is by table booking, so book ahead and dress with creative flair.</p>
               </div>
               <div className="border-t border-dark-border pt-3 mt-3">
                 <div className="grid grid-cols-2 gap-4 text-sm">
                   <div><span className="text-dark-muted">Dress code:</span> <span className="text-gray-300">Smart at Cirque and Reign. Creative and bold for The Box: they reward individuality.</span></div>
                   <div><span className="text-dark-muted">Budget (no table):</span> <span className="text-gray-300">£120-200 per person including dinner and drinks.</span></div>
                   <div><span className="text-dark-muted">Best for:</span> <span className="text-gray-300">Special occasions, visitors wanting a unique London experience, adventurous groups.</span></div>
-                  <div><span className="text-dark-muted">Book ahead:</span> <span className="text-gray-300">Guestlist at Cirque or Reign. Promoter connection for The Box.</span></div>
+                  <div><span className="text-dark-muted">Book ahead:</span> <span className="text-gray-300">Guestlist at Cirque or Reign. A table for The Box, which has no guestlist.</span></div>
                 </div>
               </div>
             </div>
@@ -162,7 +162,7 @@ export default function ItineraryPage() {
                   <div><span className="text-dark-muted">Dress code:</span> <span className="text-gray-300">Elegant and refined throughout. Smart shoes essential. Women: cocktail attire. Men: tailored trousers, dress shirt, blazer optional.</span></div>
                   <div><span className="text-dark-muted">Budget (no table):</span> <span className="text-gray-300">£150-250 per person including cocktails, dinner, and club.</span></div>
                   <div><span className="text-dark-muted">Best for:</span> <span className="text-gray-300">Couples, anniversaries, impressing someone, refined taste.</span></div>
-                  <div><span className="text-dark-muted">Book ahead:</span> <span className="text-gray-300">Dinner at Maddox. Guestlist at Scotch or Selene.</span></div>
+                  <div><span className="text-dark-muted">Book ahead:</span> <span className="text-gray-300">Dinner at Maddox. Guestlist at Selene; Scotch is walk-in at the door, and tables can be booked.</span></div>
                 </div>
               </div>
             </div>

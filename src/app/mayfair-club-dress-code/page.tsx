@@ -146,7 +146,7 @@ const clubDressCodes: ClubDressCode[] = [
       "Scotch has a members-club feel and the dress code matches. The crowd is older and more refined. Think Mayfair dinner party rather than nightclub. A well-cut blazer solves most problems.",
   },
   {
-    name: "Dear Darling",
+    name: "Dear Darling Mayfair",
     slug: "dear-darling",
     strictness: 3,
     works: [

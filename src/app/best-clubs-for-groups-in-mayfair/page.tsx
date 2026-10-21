@@ -47,7 +47,7 @@ const groupRecommendations: GroupRecommendation[] = [
         guestlistOrTables:
           "Tables strongly recommended for birthdays. The venue can arrange birthday extras: sparklers, personalised bottle presentations, and announcements. Guestlist works on Wednesdays for smaller birthday groups.",
         approxGroupCost:
-          "Table from ~£1,000 min spend (6 to 8 guests). Guestlist free but drinks at bar prices (budget £50 to £80pp).",
+          "Table from £800 min spend (6 to 8 guests). Guestlist free but drinks at bar prices (budget £50 to £80pp).",
         bestNight: "Saturday for the full production. Wednesday for a more intimate celebration.",
       },
       {
@@ -57,7 +57,7 @@ const groupRecommendations: GroupRecommendation[] = [
         guestlistOrTables:
           "Tables are the way to do birthdays here. Reign offers excellent birthday packages with personalised touches. The production value at your table makes the minimum spend feel worth it.",
         approxGroupCost:
-          "Table from ~£1,000 min spend (6 to 8 guests). Birthday packages available: ask when booking.",
+          "Table from £800 min spend (6 to 8 guests). Birthday packages available: ask when booking.",
         bestNight: "Saturday for peak energy. Friday for a slightly more relaxed celebration.",
       },
     ],
@@ -126,9 +126,9 @@ const groupRecommendations: GroupRecommendation[] = [
         slug: "the-box-london",
         why: "The Box mixes commercial, hip-hop and house between theatrical shows, so the night never depends on one genre. The performances give a mixed group something to talk about, and the dance floor fills between acts.",
         guestlistOrTables:
-          "The door is curated by look and energy, so a table is the surest way in for a mixed group. Creative, bold dressing is rewarded. Book through a promoter and arrive by 11pm.",
+          "The Box doesn't run a guestlist: entry is by table booking, from £1,000, so a table is the way in for a mixed group. Creative, bold dressing is rewarded. Arrive by 11pm.",
         approxGroupCost:
-          "Tables from ~£1,000 min spend.",
+          "Tables from £1,000 min spend.",
         bestNight: "Thursday, Friday or Saturday.",
       },
     ],
@@ -139,7 +139,7 @@ const faqs = [
   {
     question: "What is the minimum spend for group tables in Mayfair?",
     answer:
-      "Most Mayfair clubs start table minimums at around £800 to £1,000 for a standard table (6 to 8 guests). Premium tables and weekend nights can be £1,500 to £3,000+. Tape London starts from around £1,500. Cirque Le Soir and Reign from £1,000. 99 Regent Street offers tables from £600, covering entry for the group, and BEAT from around £800. For current table prices and group packages, message us on WhatsApp.",
+      "Most Mayfair clubs start table minimums at around £800 to £1,000 for a standard table (6 to 8 guests). Premium tables and weekend nights can be £1,500 to £3,000+. Tape London starts from £750. Cirque Le Soir and Reign from £800. 99 Regent Street offers tables from £600, covering entry for the group, and BEAT from around £800. For current table prices and group packages, message us on WhatsApp.",
   },
   {
     question: "Can mixed groups get on the guestlist in Mayfair?",

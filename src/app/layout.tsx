@@ -51,32 +51,19 @@ export default function RootLayout({
         <main className="pb-20 md:pb-0">{children}</main>
         <Footer />
 
-        {/* LocalBusiness Schema */}
+        {/* Organization Schema (no business address: the service has no premises) */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
               "@context": "https://schema.org",
-              "@type": "LocalBusiness",
+              "@type": "Organization",
               name: "Mayfair Tonight",
               description: "The insider guide to Mayfair nightlife: club listings, guestlist guides, dress codes, and instant table bookings via WhatsApp.",
               url: "https://mayfairtonight.com",
               telephone: WHATSAPP_TELEPHONE,
               image: "https://mayfairtonight.com/gallery/images/fe4414_dfa2530f4b3842c6ad4531f28893fd4f.jpg",
               logo: "https://mayfairtonight.com/icon.svg",
-              address: {
-                "@type": "PostalAddress",
-                streetAddress: "9 Swallow Street",
-                addressLocality: "London",
-                addressRegion: "Greater London",
-                postalCode: "W1B 4DF",
-                addressCountry: "GB",
-              },
-              geo: {
-                "@type": "GeoCoordinates",
-                latitude: 51.5074,
-                longitude: -0.1278,
-              },
               areaServed: {
                 "@type": "City",
                 name: "London",
@@ -86,21 +73,6 @@ export default function RootLayout({
                 contactType: "reservations",
                 telephone: WHATSAPP_TELEPHONE,
                 availableLanguage: "English",
-              },
-              priceRange: "\u00a3\u00a3\u00a3",
-              openingHoursSpecification: {
-                "@type": "OpeningHoursSpecification",
-                dayOfWeek: [
-                  "Monday",
-                  "Tuesday",
-                  "Wednesday",
-                  "Thursday",
-                  "Friday",
-                  "Saturday",
-                  "Sunday",
-                ],
-                opens: "22:00",
-                closes: "03:00",
               },
             }),
           }}

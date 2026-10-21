@@ -70,7 +70,7 @@ const clubInsights: Record<
     bestNight:
       "Thursday is the sweet spot: intimate, elegant, and the perfect start to a weekend. Saturday is busier but still maintains the Scotch character.",
     guestlistTip:
-      "Scotch operates more like a members club. Getting on the guestlist requires a connection or a promoter. It's not impossible: just don't expect to walk up.",
+      "Entry is walk-in at the door; there is no guestlist. Tables can be booked. Scotch operates more like a members club, so dress elegantly.",
   },
   "dear-darling": {
     crowd:
@@ -94,7 +94,7 @@ const clubInsights: Record<
     bestNight:
       "Saturday is the most complete experience: the full show plus a packed dance floor after. Wednesday has a more intimate, edgier feel.",
     guestlistTip:
-      "Guestlist works but be prepared for strict door selection. The Box curates its crowd carefully. Dress creatively: this isn't a standard Mayfair door.",
+      "The Box doesn't run a guestlist: entry is by table booking, from £1,000, and we book the tables. Dress creatively: this isn't a standard Mayfair door.",
   },
   "selene-london": {
     crowd:
@@ -574,7 +574,7 @@ const faqs = [
   {
     question: "What time do Mayfair nightclubs open and close?",
     answer:
-      "Most Mayfair nightclubs open between 10pm and 11pm and close between 3am and 3:30am. Dear Darling opens earlier (around 9pm to 9:30pm) as it serves cocktails before switching to late-night mode. Arrive between 11pm and midnight for the best experience: early enough to get in smoothly, late enough for atmosphere.",
+      "Most Mayfair nightclubs open between 10pm and 11pm and close at 3:45am or 4am. Scotch of St James runs until 5am, and Maddox, Dear Darling Mayfair and BEAT London until 6am. Dear Darling opens earlier (around 9pm to 9:30pm) as it serves cocktails before switching to late-night mode. Arrive between 11pm and midnight for the best experience: early enough to get in smoothly, late enough for atmosphere.",
   },
   {
     question: "Are Mayfair nightclubs open on weekdays?",

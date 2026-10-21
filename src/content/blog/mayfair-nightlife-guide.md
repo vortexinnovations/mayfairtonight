@@ -20,7 +20,7 @@ But it's also more accessible than people think. You don't need to be a celebrit
 
 Mayfair has around a dozen serious nightclubs, each with a different personality. Here's the quick version (read our [full ranking](/blog/best-clubs-in-mayfair) for the detailed breakdown):
 
-**For exclusivity:** [Tape London](/clubs/tape-london), the most exclusive room in Mayfair. Members club, A-list crowd, tables from £1,500.
+**For exclusivity:** [Tape London](/clubs/tape-london), the most exclusive room in Mayfair. Members club, A-list crowd, tables from £750.
 
 **For entertainment:** [Cirque Le Soir](/clubs/cirque-le-soir) and [Reign London](/clubs/reign-london), fire breathers, aerial acts, live performers.
 

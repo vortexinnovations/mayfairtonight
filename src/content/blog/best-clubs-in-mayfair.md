@@ -19,7 +19,7 @@ We book tables and guestlist across Mayfair every week. We know which clubs deli
 
 ### 1. Tape London: The Most Exclusive Room in Mayfair
 
-[Tape London](/clubs/tape-london) sits at the top because nothing else in Mayfair comes close to its exclusivity. This is a members club where the guest list is genuinely curated. The room is small, the sound is incredible, and the crowd is A-list. Tables start at £1,500 and you need a promoter to get in most nights.
+[Tape London](/clubs/tape-london) sits at the top because nothing else in Mayfair comes close to its exclusivity. This is a members club where the guest list is genuinely curated. The room is small, the sound is incredible, and the crowd is A-list. Tables start at £750 and you need a promoter to get in most nights.
 
 **Best for:** People who want the most exclusive night possible and have the budget to match.
 
@@ -69,7 +69,7 @@ We book tables and guestlist across Mayfair every week. We know which clubs deli
 
 **Best for:** Groups who want a sociable night just off Regent Street.
 
-### 9. Dear Darling: The Bar That Goes Late
+### 9. Dear Darling Mayfair: The Bar That Goes Late
 
 [Dear Darling](/clubs/dear-darling) is more high-end bar than nightclub, but it transitions beautifully into late-night energy. The cocktails are serious, the room is opulent, and it's the most civilised way to go out in St James's.
 

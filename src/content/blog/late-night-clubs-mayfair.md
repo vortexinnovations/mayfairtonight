@@ -30,9 +30,9 @@ Tuesday nights at Tape are a particular standout for anyone chasing a late finis
 
 ## The Box Soho: London's After-Hours Institution
 
-Technically in Soho rather than Mayfair, [The Box](/clubs/the-box-london) deserves a mention in any late-night conversation because it regularly stays open until 5AM or later. This is not your typical nightclub. The Box runs cabaret-style performances, burlesque acts, and theatrical sets that do not even begin until well after midnight. If your group wants something genuinely different after 3AM, this is the move.
+Technically in Soho rather than Mayfair, [The Box](/clubs/the-box-london) deserves a mention in any late-night conversation because it stays open until 4AM. This is not your typical nightclub. The Box runs cabaret-style performances, burlesque acts, and theatrical sets that do not even begin until well after midnight. If your group wants something genuinely different after 3AM, this is the move.
 
-The vibe at The Box is deliberately provocative and unpredictable. You will not find the same crowd as a Mayfair members' club. Entry is selective and the door policy is strict, so arrive well-dressed and with your group together. For anyone who has done the Mayfair circuit and wants to push into something edgier in the small hours, The Box is one of the few venues in central London that truly delivers on the after-hours promise.
+The vibe at The Box is deliberately provocative and unpredictable. You will not find the same crowd as a Mayfair members' club. There is no guestlist: entry is by table booking, from £1,000, so book ahead and arrive well-dressed with your group together. For anyone who has done the Mayfair circuit and wants to push into something edgier in the small hours, The Box is one of the few venues in central London that truly delivers on the after-hours promise.
 
 ---
 
@@ -64,11 +64,11 @@ For live info on what is open tonight, check [where to go tonight](/where-to-go-
 
 ### Q: Which Mayfair clubs are open past 3AM?
 
-**A:** Tape London's main room runs until 3:45AM on its nights, including Tuesdays, with Little Tape next door open until 5:30AM on Fridays and Saturdays. Reign London regularly stays open past 3AM on its main nights (typically Friday and Saturday). The Box in nearby Soho often stays open until 5AM.
+**A:** Tape London's main room runs until 3:45AM on its nights, including Tuesdays, with Little Tape next door open until 5:30AM on Fridays and Saturdays. Reign London and The Box in nearby Soho stay open until 4AM, Scotch of St James until 5AM, and Maddox, Dear Darling Mayfair and BEAT London until 6AM.
 
 ### Q: What is the latest a club stays open in Mayfair?
 
-**A:** Tape London's main room closes at 3:45AM, and Little Tape next door runs until 5:30AM on Fridays and Saturdays. On peak nights, Reign London can run until 4AM or beyond. The Box Soho has been known to stay open until 5AM or later, making it the latest-closing venue in the area.
+**A:** Maddox, Dear Darling Mayfair and BEAT London run until 6AM, the latest of the clubs we book, and Scotch of St James until 5AM. Tape London's main room closes at 3:45AM, and Little Tape next door runs until 5:30AM on Fridays and Saturdays. Reign London and The Box Soho close at 4AM.
 
 ### Q: Do I need a table booking for late-night entry?
 

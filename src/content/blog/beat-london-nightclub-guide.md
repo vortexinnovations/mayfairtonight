@@ -84,4 +84,4 @@ Guest list is recommended for Friday and Saturday to avoid queues and ensure ent
 Before midnight is ideal. The club fills up between midnight and 1am on weekends. Arrive late and you'll face a longer queue.
 
 **How late does BEAT stay open?**
-Typically until 3am on weekends, sometimes later for special events. Check our [BEAT London page](/clubs/beat-london) for the latest schedules.
+Until 6am on the nights it opens. Check our [BEAT London page](/clubs/beat-london) for the latest schedules.

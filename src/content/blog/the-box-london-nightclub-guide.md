@@ -45,10 +45,9 @@ Smart casual is the minimum, but you'll feel out of place if you're dressed like
 
 ## How to Get In
 
-The Box has a firm door policy. Guest list or table booking is strongly recommended.
+The Box doesn't run a guestlist. Entry is by table booking, from £1,000, and we book the tables.
 
 - **Book a table** for guaranteed entry and the best views of the performances.
-- **Guest list** is available but spaces are limited: book early in the week.
 - **Mixed groups** fare better than all-male groups, as with most premium London venues.
 - **Arrive by 11pm** to catch the early acts and avoid the worst of the door queue.
 
@@ -73,4 +72,4 @@ If you're adventurous, open-minded, and looking for a night you'll be talking ab
 
 If you want a more conventional Mayfair night, check out [Tape London](/clubs/tape-london) or [Maddox](/clubs/maddox) instead.
 
-**Ready to experience The Box tonight?** [Message us on WhatsApp](https://wa.me/447348644054) for guest list and table bookings.
+**Ready to experience The Box tonight?** [Message us on WhatsApp](https://wa.me/447348644054) for table bookings.

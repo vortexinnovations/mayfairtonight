@@ -115,7 +115,7 @@ const recommendations: Recommendation[] = [
         why: "Mayfair history in a compact room. Jimi Hendrix played here. Elegant and timeless.",
       },
       {
-        name: "Dear Darling",
+        name: "Dear Darling Mayfair",
         slug: "dear-darling",
         why: "Opulent cocktail bar with late-night energy. Chandeliers, velvet, and serious cocktails.",
       },

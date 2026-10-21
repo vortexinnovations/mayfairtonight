@@ -55,7 +55,7 @@ export default function TablesGuidePage() {
           <div className="text-gray-300 space-y-4 leading-relaxed">
             <p>A table booking at a Mayfair nightclub means you reserve a dedicated space in the venue for your group, with a committed minimum spend on drinks. It&apos;s not a cover charge: the money goes toward bottles, mixers, and whatever else you order from the table menu.</p>
             <p>Think of it as pre-committing to your drinks budget for the night. Instead of queuing at the bar and paying per round, everything comes to your table. A dedicated host takes care of you, pours your drinks, keeps your ice fresh, and makes sure your group has everything it needs.</p>
-            <p>The real advantage is access. A table booking means guaranteed entry, no queue, and your own area in the club. At venues like <Link href="/clubs/tape-london" className="text-gold hover:text-gold-light">Tape London</Link>{" "}and <Link href="/clubs/scotch-of-st-james" className="text-gold hover:text-gold-light">Scotch of St James</Link>, a table is often the only way in.</p>
+            <p>The real advantage is access. A table booking means guaranteed entry, no queue, and your own area in the club. At venues like <Link href="/clubs/tape-london" className="text-gold hover:text-gold-light">Tape London</Link>{" "}and <Link href="/clubs/scotch-of-st-james" className="text-gold hover:text-gold-light">Scotch of St James</Link>, a table is the surest way in.</p>
           </div>
         </section>
 

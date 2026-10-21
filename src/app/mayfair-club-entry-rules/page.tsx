@@ -20,7 +20,7 @@ export const metadata: Metadata = {
 
 const faqs = [
   { question: "Do Mayfair clubs check ID?", answer: "Yes. Every Mayfair club checks ID at the door. Bring a valid passport or driving licence. Most venues won't accept expired ID or photocopies. If you're visiting from abroad, your passport is the safest bet. 99 Regent Street is 19+ and asks for physical photo ID." },
-  { question: "Can I get into a Mayfair club without a booking?", answer: "It's possible at some venues but risky. Dear Darling is more walk-up friendly. Tape London, Scotch of St James, and The Box are almost impossible without a booking or table. Always book through a promoter: it's free and eliminates the guesswork." },
+  { question: "Can I get into a Mayfair club without a booking?", answer: "It's possible at some venues but risky. Dear Darling is more walk-up friendly. Tape London is almost impossible without a booking or table, and The Box has no guestlist, so entry there is by table booking. Scotch of St James is walk-in at the door, with no guestlist. Booking through us is free and eliminates the guesswork." },
   { question: "What time should I arrive at a Mayfair club?", answer: "Between 11pm and midnight is the sweet spot. Before 11pm the venue is empty. After midnight you risk capacity limits and longer queues. If you're on guestlist, arriving at 11:15-11:30 is ideal." },
   { question: "Do Mayfair clubs have a gender ratio policy?", answer: "Unofficially, yes. Most Mayfair doors prefer mixed groups or groups with more women. All-male groups of 4+ face the toughest scrutiny. Mixed groups of any size rarely have issues. All-female groups are generally welcomed everywhere." },
   { question: "Can I get in wearing trainers?", answer: "At most Mayfair clubs, no. BEAT London is the most lenient: clean, designer trainers can work. At 99 Regent Street, clean minimal trainers are at the door's discretion, but running trainers never pass. Tape, Scotch, The Box, and Maddox will turn you away regardless of the brand. Smart leather shoes are always the safe choice." },
@@ -79,8 +79,7 @@ export default function EntryRulesPage() {
               <h3 className="text-gold font-semibold mb-3">Hardest Doors: Booking Essential</h3>
               <div className="space-y-3">
                 <div><Link href="/clubs/tape-london" className="text-white font-medium hover:text-gold">Tape London</Link>: <span className="text-dark-muted text-sm">Members and tables almost exclusively. Guestlist is extremely rare. Book a table through a promoter or know a member. The hardest door in Mayfair.</span></div>
-                <div><Link href="/clubs/scotch-of-st-james" className="text-white font-medium hover:text-gold">Scotch of St James</Link>: <span className="text-dark-muted text-sm">Members club atmosphere. Door knows its regulars. New faces need a connection or promoter. Respectful approach matters enormously here.</span></div>
-                <div><Link href="/clubs/the-box-london" className="text-white font-medium hover:text-gold">The Box</Link>: <span className="text-dark-muted text-sm">Curated door. They select based on look, energy, and group composition. Creative dressing helps. Book through a promoter for the best chance.</span></div>
+                <div><Link href="/clubs/the-box-london" className="text-white font-medium hover:text-gold">The Box</Link>: <span className="text-dark-muted text-sm">No guestlist: entry is by table booking, from &pound;1,000. The door looks at energy and group composition, and creative dressing helps.</span></div>
               </div>
             </div>
 
@@ -98,7 +97,8 @@ export default function EntryRulesPage() {
             <div className="bg-dark-card border border-dark-border rounded-lg p-5">
               <h3 className="text-gold font-semibold mb-3">Most Accessible: Still Book, But Easier</h3>
               <div className="space-y-3">
-                <div><Link href="/clubs/dear-darling" className="text-white font-medium hover:text-gold">Dear Darling</Link>: <span className="text-dark-muted text-sm">Bar-first atmosphere means the door is more relaxed. Smart dress code still applies. Walk-ups can work earlier in the evening.</span></div>
+                <div><Link href="/clubs/scotch-of-st-james" className="text-white font-medium hover:text-gold">Scotch of St James</Link>: <span className="text-dark-muted text-sm">Entry is walk-in at the door; there is no guestlist. Tables can be booked. Members club atmosphere and a door that knows its regulars, so dress elegantly and keep the approach respectful.</span></div>
+                <div><Link href="/clubs/dear-darling" className="text-white font-medium hover:text-gold">Dear Darling Mayfair</Link>: <span className="text-dark-muted text-sm">Bar-first atmosphere means the door is more relaxed. Smart dress code still applies. Walk-ups can work earlier in the evening.</span></div>
                 <div><Link href="/clubs/selene-london" className="text-white font-medium hover:text-gold">Selene London</Link>: <span className="text-dark-muted text-sm">Newer venue building its crowd. Guestlist is accessible and the door is welcoming. Dress elegantly and you&apos;ll have no issues.</span></div>
                 <div><Link href="/clubs/beat-london" className="text-white font-medium hover:text-gold">BEAT London</Link>: <span className="text-dark-muted text-sm">More relaxed than central Mayfair clubs. Smart casual works. One of the few venues where clean designer trainers are acceptable.</span></div>
               </div>

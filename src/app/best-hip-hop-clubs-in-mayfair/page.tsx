@@ -135,7 +135,7 @@ const faqs = [
   {
     question: "What age range goes to hip-hop clubs in Mayfair?",
     answer:
-      "Most hip-hop clubs in Mayfair attract a 23-35 crowd. BEAT skews slightly younger (21-30). Tape London attracts a more established crowd (25-38). All venues are 18+, except 99 Regent Street at 19+ with physical photo ID, but most guestlists prefer 21+. Groups that look underage will struggle at the door regardless of ID.",
+      "Most hip-hop clubs in Mayfair attract a 23-35 crowd. BEAT skews slightly younger (21-30). Tape London attracts a more established crowd (25-38). Most venues are 18+; 99 Regent Street is 19+ with physical photo ID, and Cirque Le Soir is 21+ at weekends. Most guestlists prefer 21+. Groups that look underage will struggle at the door regardless of ID.",
   },
   {
     question: "Can I get on the guestlist for hip-hop nights in Mayfair?",

@@ -17,7 +17,7 @@ But Mayfair nightlife is designed around groups and tables, so some venues suit 
 
 ## Best Venues for Solo Visitors
 
-### Dear Darling: The Easiest Solo Venue
+### Dear Darling Mayfair: The Easiest Solo Venue
 
 [Dear Darling](/clubs/dear-darling) is built around its bar. The cocktail-forward atmosphere means sitting at the bar alone is completely normal. It's what the venue is designed for. The bartenders are engaging, the crowd is sociable, and the layout encourages conversation with whoever is next to you.
 
