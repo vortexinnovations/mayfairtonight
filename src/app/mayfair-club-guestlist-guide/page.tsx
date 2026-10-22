@@ -172,6 +172,7 @@ export default function GuestlistGuidePage() {
               { name: "Maddox", slug: "maddox", info: "Guestlist is available for the club nights. Dinner guests transition naturally downstairs. For club-only entry, book through a promoter. Arrive by 11pm. House music crowd: dress with intention." },
               { name: "The Box", slug: "the-box-london", info: "The Box doesn't run a guestlist. Entry is by table booking, from £1,000, and we book the tables. Creative, bold dressing is rewarded. Arrive by 11pm." },
               { name: "Selene London", slug: "selene-london", info: "Guestlist is accessible and the door is welcoming. Newer venue still building its regular crowd. Book through a promoter for the smoothest experience. Elegant dress code: think refined, not flashy." },
+              { name: "Maya", slug: "luna-club-london", info: "Formerly Luna Club London, beneath Inca London on Argyll Street. Guestlist and tables by request through us, and table prices are confirmed when you book. Open Friday and Saturday, 11pm to 3am. 18+ with photo ID. Smart dress: heels for ladies, smart shoes and shirts for men, no sportswear." },
               { name: "BEAT London", slug: "beat-london", info: "BEAT doesn't run a guestlist. Entry is by table booking, and we book the tables. Smart casual works. Clean designer trainers are acceptable." },
             ].map((venue) => (
               <div key={venue.slug} className="bg-dark-card border border-dark-border rounded-lg p-4">

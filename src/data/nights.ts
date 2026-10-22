@@ -100,7 +100,7 @@ export const nights: NightInfo[] = [
     vibe: "Peak, sold-out energy, legendary, the big one",
     bestFor: "The main event: this is the night everyone is out",
     recommendation:
-      "Saturday is about going all-in. Tape London is the pinnacle of exclusivity. Reign London delivers spectacular shows with aerial acts. For raw party energy, BEAT London is the pick. Cirque Le Soir's Saturday is the wildest night in London. The Box pushes boundaries. And Selene offers refined elegance for those who want something more sophisticated. 99 Regent Street opens both floors until 4am, and Rumour's red velvet booths are worth arranging in advance.",
+      "Saturday is about going all-in. Tape London is the pinnacle of exclusivity. Reign London delivers spectacular shows with aerial acts. For raw party energy, BEAT London is the pick. Cirque Le Soir's Saturday is the wildest night in London. The Box pushes boundaries. And Selene offers refined elegance for those who want something more sophisticated. 99 Regent Street opens both floors until 4am, and Rumour's red velvet booths are worth arranging in advance. Maya, formerly Luna, opens beneath Inca London from 11pm to 3am.",
   },
   {
     slug: "sunday",

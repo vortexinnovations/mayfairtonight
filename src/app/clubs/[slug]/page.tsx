@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Image from "next/image";
-import { clubs, getClubBySlug, getOpenClubs } from "@/data/clubs";
+import { clubs, getClubBySlug, getOpenClubs, tablesFrom } from "@/data/clubs";
 import { clubImages } from "@/data/images";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import HeroImage from "@/components/HeroImage";
@@ -41,8 +41,8 @@ export async function generateMetadata({
       (isClosed
         ? `${club.name} has permanently closed. Find the best alternative clubs in Mayfair and London. Updated guide with similar venues.`
         : previousName
-          ? `${club.name}${formerly}, ${club.location}. Open ${club.openNights.join(", ")}, ${club.openingTime} to ${club.closingTime}. ${club.musicPolicy.join(", ")}. Tables from ${club.tableMinimum}. Book via WhatsApp.`
-          : `${club.name} in ${club.area}: ${club.tagline}. Open ${club.openNights.join(", ")}. ${club.musicPolicy.join(", ")} music. Tables from ${club.tableMinimum}. Book instantly via WhatsApp.`),
+          ? `${club.name}${formerly}, ${club.location}. Open ${club.openNights.join(", ")}, ${club.openingTime} to ${club.closingTime}. ${club.musicPolicy.join(", ")}. ${tablesFrom(club.tableMinimum)}. Book via WhatsApp.`
+          : `${club.name} in ${club.area}: ${club.tagline}. Open ${club.openNights.join(", ")}. ${club.musicPolicy.join(", ")} music. ${tablesFrom(club.tableMinimum)}. Book instantly via WhatsApp.`),
     alternates: { canonical: `https://mayfairtonight.com/clubs/${club.slug}` },
     openGraph: {
       title: isClosed
@@ -52,7 +52,8 @@ export async function generateMetadata({
           : `${club.name} Tonight: Events, Music & Bookings`,
       description: isClosed
         ? `${club.name} has closed. Open Mayfair clubs with a similar crowd and music.`
-        : `${club.tagline}. ${club.musicPolicy.join(", ")} music in ${club.area}. Tables from ${club.tableMinimum}.`,
+        : club.metaDescription ??
+          `${club.tagline}. ${club.musicPolicy.join(", ")} music in ${club.area}. ${tablesFrom(club.tableMinimum)}.`,
       url: `https://mayfairtonight.com/clubs/${club.slug}`,
     },
   };
@@ -158,9 +159,9 @@ export default async function ClubPage({
               </p>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-3">
-              <p className="text-xs text-dark-muted">Tables from</p>
+              <p className="text-xs text-dark-muted">{club.tableMinimum ? "Tables from" : "Tables"}</p>
               <p className="text-sm font-medium text-gold mt-0.5">
-                {club.tableMinimum}
+                {club.tableMinimum || "Price confirmed when you book"}
               </p>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-3">
@@ -249,7 +250,7 @@ export default async function ClubPage({
                 Book a Table at {club.name}
               </h2>
               <p className="text-dark-muted mb-4">
-                Tables from {club.tableMinimum}. Message us on WhatsApp and we&apos;ll
+                {tablesFrom(club.tableMinimum)}. Message us on WhatsApp and we&apos;ll
                 sort everything out.
               </p>
               <WhatsAppCTA variant="club" clubName={club.name} size="lg" />
@@ -353,7 +354,7 @@ export default async function ClubPage({
                     (night) =>
                       `${night.substring(0, 2)} ${club.openingTime}-${club.closingTime}`
                   ),
-                  priceRange: `Tables from ${club.tableMinimum}`,
+                  ...(club.tableMinimum ? { priceRange: `Tables from ${club.tableMinimum}` } : {}),
                   servesCuisine: club.musicPolicy.join(", "),
                 }
           ),

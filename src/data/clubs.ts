@@ -298,28 +298,31 @@ export const clubs: Club[] = [
   },
   {
     slug: "luna-club-london",
-    name: "Luna Club London",
-    tagline: "Mayfair nightclub, now closed",
+    metaTitle: "Luna Club London Is Now Maya: Tables and Guestlist",
+    metaDescription:
+      "Luna Club London is now Maya, the lounge club beneath Inca London on Argyll Street. Open Friday and Saturday, 11pm to 3am. Tables and guestlist with us.",
+    name: "Maya",
+    previousName: "Luna Club London",
+    tagline: "Luna is now Maya: a luxury lounge club beneath Inca London",
     description:
-      "Luna Club London, also known as Luna Mayfair or Club Luna, was a Mayfair nightclub with celestial-inspired interiors, an intimate dance floor and an open-format music policy that leaned towards hip-hop and RnB. Its crowd was young, affluent and well dressed. Luna Club London has closed, so it no longer takes table bookings or guestlist names.",
-    location: "Mayfair",
-    area: "Mayfair",
-    musicPolicy: ["Hip-Hop", "RnB", "Open Format"],
-    dressCode: "Smart. No trainers, no sportswear.",
-    dressCodeNotes: "Standard Mayfair smart dress code.",
-    tableMinimum: "£1,000",
-    openNights: [],
-    openingTime: "22:00",
-    closingTime: "03:30",
-    vibe: "Stylish, atmospheric, young and affluent",
-    insiderTip: "Luna Club London has closed.",
+      "Maya (formerly Luna Club London, also known as Luna London, Luna by INCA or Luna Mayfair) is the club beneath Inca London at 8-9 Argyll Street, next to the London Palladium and a short walk from Oxford Circus. Luna has rebranded as Maya: a luxury lounge and members'-style club inspired by ancient Mayan culture, open on Friday and Saturday nights from 11pm to 3am. We book Maya tables and guestlist; table prices are confirmed when you book.",
+    location: "Beneath Inca London, 8-9 Argyll Street, Soho",
+    area: "Soho",
+    musicPolicy: ["Luxury lounge", "Club"],
+    dressCode: "Smart. Heels for ladies; smart shoes and shirts for men. No sportswear.",
+    dressCodeNotes: "Entry is 18+ with photo ID. Dress up: this is a smart, members'-style room.",
+    tableMinimum: "",
+    openNights: ["Friday", "Saturday"],
+    openingTime: "23:00",
+    closingTime: "03:00",
+    vibe: "Luxury lounge, Mayan-inspired, members'-style",
+    insiderTip:
+      "Inca London upstairs runs a South American dinner show with DJs, so dinner at Inca and a table at Maya downstairs make one night at a single address. Ask us to arrange both.",
     whatToExpect:
-      "Luna Club London has closed. For hip-hop and RnB in Mayfair, try Tape London or Cirque Le Soir; for a high-energy dance floor, try BEAT London.",
-    bestFor: "This venue has closed",
-    status: "closed",
-    closedMessage:
-      "Luna Club London has closed. For the same mix of hip-hop, RnB and open-format music with a young, well-dressed crowd, try Tape London on Hanover Square for Mayfair's most exclusive door, Cirque Le Soir for a full show with your night, or BEAT London for a proper dance floor and serious sound.",
-    alternatives: ["tape-london", "cirque-le-soir", "beat-london"],
+      "A luxury lounge and members'-style club inspired by ancient Mayan culture, in the space beneath Inca London that used to be Luna. Maya opens on Friday and Saturday from 11pm to 3am. Entry is 18+ with photo ID and the dress code is smart. Guestlist and tables are by request through us, and table prices are confirmed when you book. Luna's old prices, music and nights belong to the previous venue, not to Maya.",
+    bestFor: "A dressed-up Friday or Saturday after dinner at Inca London",
+    status: "open",
+    nearby: ["selene-london", "99-regent-street", "the-box-london"],
   },
   {
     slug: "selene-london",
@@ -468,6 +471,14 @@ export const clubs: Club[] = [
     closedMessage: "Lio Club London has permanently closed. For dinner and clubbing in one evening, try Maddox: Italian fine dining upstairs, house music downstairs. For entertainment and shows, Reign London is the best alternative.",
   },
 ];
+
+/**
+ * "Tables from £X", or for a venue whose prices are only confirmed at booking
+ * (an empty tableMinimum), a line that quotes no figure.
+ */
+export function tablesFrom(tableMinimum: string): string {
+  return tableMinimum ? `Tables from ${tableMinimum}` : "Table prices confirmed when you book";
+}
 
 // Helper functions — these only return OPEN venues by default
 

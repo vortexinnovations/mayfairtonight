@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import WhatsAppCTA from "./WhatsAppCTA";
+import { tablesFrom } from "@/data/clubs";
 
 interface ClubCardProps {
   slug: string;
@@ -82,7 +83,7 @@ export default function ClubCard({
             </span>
             <span className="text-dark-muted">Opens {openingTime}</span>
             <span className="text-dark-muted">{area}</span>
-            <span className="text-gold">Tables from {tableMinimum}</span>
+            <span className="text-gold">{tablesFrom(tableMinimum)}</span>
           </div>
 
           {compact && (

@@ -137,6 +137,11 @@ const recommendations: Recommendation[] = [
         slug: "selene-london",
         why: "Start with cocktails and light bites, transition into elegant late-night house music. Seamless.",
       },
+      {
+        name: "Maya (formerly Luna)",
+        slug: "luna-club-london",
+        why: "Dinner show at Inca London upstairs, then the Mayan-inspired lounge club below on Fridays and Saturdays.",
+      },
     ],
   },
   {

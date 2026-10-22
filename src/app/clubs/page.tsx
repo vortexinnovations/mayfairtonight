@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
-import { getOpenClubs } from "@/data/clubs";
+import { getOpenClubs, tablesFrom } from "@/data/clubs";
 import ClubCard from "@/components/ClubCard";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
@@ -72,7 +72,7 @@ export default function ClubsPage() {
                   </span>
                   <span className="text-dark-muted">{club.area}</span>
                 </div>
-                <div className="mt-2 text-xs text-gold">Tables from {club.tableMinimum}</div>
+                <div className="mt-2 text-xs text-gold">{tablesFrom(club.tableMinimum)}</div>
               </div>
             </Link>
           ))}

@@ -1,32 +1,67 @@
 ---
-title: "Luna Club London Has Closed: What It Was and Where to Go Now"
-metaTitle: "Luna Club London Has Closed: Where to Go Now"
-metaDescription: "Luna Club London in Mayfair has closed. What the club was like, its music and crowd, and the open Mayfair clubs with a similar night."
+title: "Luna Club London Is Now Maya: Tables and Guestlist"
+metaTitle: "Luna Club London Is Now Maya: Book a Table"
+metaDescription: "Luna Club London is now Maya, beneath Inca London on Argyll Street. Open Friday and Saturday, 11pm to 3am, smart dress. Book tables and guestlist with us."
 date: "2026-03-25"
-updated: "2026-10-08"
-excerpt: "Luna Club London arrived in Mayfair with celestial interiors and an open-format sound, but it has now closed. Here's what it was like and where to go instead."
+updated: "2026-10-22"
+excerpt: "Luna Club London has rebranded as Maya, the lounge club beneath Inca London. Open Friday and Saturday, 11pm to 3am, with tables and guestlist through us."
 category: "Club Guides"
-tags: ["Luna Club London", "Luna Club Mayfair", "new clubs London", "Mayfair nightlife"]
+tags: ["Luna Club London", "Maya London", "Inca London", "Mayfair nightlife"]
 readingTime: "3 min read"
 ---
 
-## Luna Club London Has Closed
+Luna Club London is now Maya. The club beneath Inca London on Argyll Street, searched for as Luna London, Luna Mayfair, Luna by INCA or simply Luna club, has rebranded and trades as Maya (also written MAYA). It is open, and we book Maya tables and guestlist, so this page covers what has changed and how to plan a night there.
 
-[Luna Club London](/clubs/luna-club-london), also known as Luna Mayfair or Club Luna, has closed, so it no longer takes table bookings or guest list names. If you were planning a night there, the clubs below offer the closest match, and we can book any of them for you.
+## Luna Is Now Maya
 
-## What Luna Was Like
+[Maya](/clubs/luna-club-london) occupies the space that was Luna, beneath Inca London at 8-9 Argyll Street, next to the London Palladium. Oxford Circus is the nearest tube, a couple of minutes on foot, and the Mayfair clubs around Hanover Square and Regent Street are a short walk away.
 
-Luna opened as one of the newer additions to Mayfair nightlife. Its interiors drew on celestial themes: atmospheric lighting, deep blues and silvers, and moon-inspired details, moving from ambient early-evening tones to full club energy by midnight.
+Maya is a luxury lounge and members'-style club inspired by ancient Mayan culture. It is a new concept rather than Luna under another name, so Luna's old prices, music and club nights belong to the previous venue and should not be read as Maya's.
 
-The music was open format, leaning towards hip-hop, RnB and commercial tracks, and the crowd was young, style-conscious and well dressed: less celebrity-heavy than [Tape London](/clubs/tape-london) and less theatrical than [Cirque Le Soir](/clubs/cirque-le-soir).
+## Maya at a Glance
 
-## Where to Go Instead
+As of October 2026, these are the details we confirm with the venue when we book.
 
-- **[Tape London](/clubs/tape-london)** on Hanover Square for hip-hop and RnB with Mayfair's most exclusive door, open Tuesday, Friday, Saturday and Sunday.
-- **[Cirque Le Soir](/clubs/cirque-le-soir)** if you want hip-hop and RnB with a full show, open Monday, Wednesday, Friday and Saturday.
-- **[BEAT London](/clubs/beat-london)** for a proper dance floor and serious sound, on Margaret Street in Fitzrovia, just north of Mayfair.
-- **[Selene London](/clubs/selene-london)** for a newer, more refined room with house and commercial sets, open Thursday to Sunday, 11pm to 4am. Read our [Selene guide](/blog/selene-london-club-guide).
+| | Maya (formerly Luna) |
+|---|---|
+| Where | Beneath Inca London, 8-9 Argyll Street, Soho, near Oxford Circus |
+| Nights | Friday and Saturday |
+| Hours | 11pm to 3am |
+| Entry | 18+ with photo ID |
+| Dress code | Smart: heels for ladies, smart shoes and shirts for men, no sportswear |
+| Guestlist and tables | By request through us; table prices confirmed when you book |
 
-Standard Mayfair dress rules apply at all of them; read our [guide to getting into Mayfair clubs](/blog/how-to-get-into-mayfair-clubs) if you're unsure. For what has opened recently, see our guide to the [best new clubs in Mayfair](/blog/best-new-clubs-mayfair).
+## Dinner at Inca, Then Maya
 
-**Want a table or guest list somewhere similar tonight?** [Message us on WhatsApp](https://wa.me/447348644054) for guest list spots and table bookings.
+Inca London upstairs is open: a South American (Nikkei) restaurant with a dinner show of dancers, acrobats and singers, with DJs as the evening turns into a late lounge. Dinner at Inca and a table at Maya downstairs make a complete Friday or Saturday at one address, and we can arrange both in the same message.
+
+## How to Book Maya
+
+Message us on [WhatsApp](https://wa.me/447348644054) with the night, the size of your group and whether you want a table or guestlist. We confirm the table price and the night's terms before you go. Friday and Saturday are the only nights, so ask early in the week for the best choice of tables.
+
+## Other Clubs Nearby
+
+If you want to compare before you book, [Selene London](/clubs/selene-london) on Winsley Street and [99 Regent Street](/clubs/99-regent-street) are both a short walk away, and the [Friday](/nights/friday) and [Saturday](/nights/saturday) guides show every club we book on those nights. The [Mayfair dress code guide](/mayfair-club-dress-code) covers what each door expects.
+
+## Frequently Asked Questions
+
+### Is Luna Club London still open?
+
+Luna Club London has rebranded as Maya. The venue beneath Inca London on Argyll Street is open on Friday and Saturday from 11pm to 3am under the Maya name.
+
+### Is Maya the same place as Luna London or Luna by INCA?
+
+Yes. Luna Club London, Luna London, Luna Mayfair and Luna by INCA all refer to the club beneath Inca London at 8-9 Argyll Street, which now trades as Maya.
+
+### Can I still book a table at Luna?
+
+Yes, as Maya. We book Maya tables and guestlist by request, and table prices are confirmed when you book. Message us on [WhatsApp](https://wa.me/447348644054).
+
+### What is the dress code at Maya?
+
+Smart. Heels for ladies, smart shoes and shirts for men, and no sportswear. Entry is 18+ with photo ID.
+
+### Is Inca London open?
+
+Yes. Inca London, the restaurant and dinner show above Maya, is open and we book it too.
+

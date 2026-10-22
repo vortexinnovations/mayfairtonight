@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 import Link from "next/link";
-import { getOpenClubs } from "@/data/clubs";
+import { getOpenClubs, tablesFrom } from "@/data/clubs";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 import HeroImage from "@/components/HeroImage";
@@ -263,7 +263,7 @@ export default function MayfairNightclubsPage() {
                   </span>
                   <span>|</span>
                   <span>
-                    Tables: from {club.tableMinimum}
+                    {tablesFrom(club.tableMinimum)}
                   </span>
                 </div>
 
