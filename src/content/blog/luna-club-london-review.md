@@ -20,7 +20,7 @@ Maya is a luxury lounge and members'-style club inspired by ancient Mayan cultur
 
 ## Maya at a Glance
 
-As of October 2026, these are the details we confirm with the venue when we book.
+These are the details we confirm with the venue when we book.
 
 | | Maya (formerly Luna) |
 |---|---|
