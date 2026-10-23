@@ -57,11 +57,12 @@ export const clubImages: Record<
     interior: IMG("fe4414_14215a177bd145bc8a61ed0ee4b18217.jpg"),
   },
   "rumour-london": {
-    hero: IMG("rumour-london.jpg"),
-    card: IMG("rumour-london.jpg"),
-    interior: IMG("rumour-london.jpg"),
-    heroAlt: "Rumour at 1 Dover Street, the red velvet booths in the main room",
-    interiorAlt: "Inside Rumour: the red velvet booths of the main room",
+    // Photos supplied by the venue (owner, 2026-10-23); guests still cannot take photos inside.
+    hero: IMG("rumour-london-doorway-disc-walls.jpg"),
+    card: IMG("rumour-london-booths-glassware.jpg"),
+    interior: IMG("rumour-london-dj-booth.jpg"),
+    heroAlt: "The arched doorway framed by backlit gold disc walls at Rumour, 1 Dover Street, Mayfair",
+    interiorAlt: "The DJ booth at Rumour, Mayfair, with Pioneer decks and a disc wall behind it",
   },
   "funky-buddha": {
     hero: IMG("fe4414_10afb3199f46404bb4b1cafdd9ef545d.jpg"),
