@@ -326,8 +326,9 @@ export default function MayfairVIPPage() {
                 </div>
                 <p className="text-sm text-gray-300 mb-3">
                   Rumour (formerly Tabu) is one intimate room of around 200
-                  at 1 Dover Street, built around booths in deep red velvet,
-                  with dark panelling, a chandelier and low warm lighting. A
+                  at 1 Dover Street, built around red velvet booths beneath
+                  backlit gold disc walls, with red velvet curtains, an arched
+                  doorway and red lighting. A
                   booth from 1,000 pounds minimum spend covers entry for the
                   whole group and is the way in for men and mixed groups. No
                   photos or video in the main room or on the dance floor: the

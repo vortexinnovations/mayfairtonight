@@ -131,7 +131,7 @@ const tableClubs: TableClub[] = [
     slug: "rumour-london",
     tagline: "Red Velvet Booths",
     experience:
-      "Rumour (formerly Tabu) is one intimate room of around 200 at 1 Dover Street, built around booths in deep red velvet, with dark panelling, a chandelier and low warm lighting. Men are not added to the guestlist, so a booth is the way in for men and mixed groups, and the no-photography policy keeps the night in the room: no photos or video in the main room or on the dance floor. The music is open format, hip hop, RnB and house, read to the room.",
+      "Rumour (formerly Tabu) is one intimate room of around 200 at 1 Dover Street, built around red velvet booths beneath backlit gold disc walls, with red velvet curtains, an arched doorway and red lighting. Men are not added to the guestlist, so a booth is the way in for men and mixed groups, and the no-photography policy keeps the night in the room: no photos or video in the main room or on the dance floor. The music is open format, hip hop, RnB and house, read to the room.",
     layout:
       "One room, built around its booths, and it fills early by design, so the booth is your base for the night. Friday and Saturday booths are worth arranging in advance.",
     included:

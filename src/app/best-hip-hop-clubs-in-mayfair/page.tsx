@@ -60,7 +60,7 @@ const hipHopClubs: HipHopClub[] = [
       "Ladies on the guestlist, men and mixed groups in the booths, all 18+ with photo ID and dressed up: heels for ladies, a considered look for men. Phones stay in pockets, because there are no photos or video in the main room or on the dance floor.",
     bestNights: "Friday and Saturday (Wednesday and Thursday are more relaxed)",
     vibe:
-      "Intimate and off camera. One room of around 200, built around booths in deep red velvet, with dark panelling, a chandelier and low warm lighting. It fills early by design.",
+      "Intimate and off camera. One room of around 200, built around red velvet booths beneath backlit gold disc walls, with red velvet curtains, an arched doorway and red lighting. It fills early by design.",
     guestlistOrTables:
       "Ladies' guestlist, free to £20 on the door depending on the night and how busy it is. Men are not added to the guestlist, so men and mixed groups book a booth: from £1,000 minimum spend, covering entry for the whole group, roughly £125 each across eight people.",
     verdict:

@@ -123,7 +123,7 @@ export const clubs: Club[] = [
     previousName: "Tabu",
     tagline: "An intimate red velvet booth room on Dover Street, open until 4am",
     description:
-      "Rumour (formerly Tabu) is the booth club at 1 Dover Street, in the heart of Mayfair between Piccadilly and Grafton Street, open Wednesday to Saturday from 11pm to 4am. The Tabu name has gone: same ownership, a full rebrand, a new design and a new concept. It is one intimate room of around 200, built around booths in deep red velvet, with dark panelling, a chandelier and low warm lighting, and it fills early by design. The music is open format, hip hop, RnB and house, read to the room on the night. Green Park station is a few minutes away, Piccadilly Circus and Bond Street are walkable, and Dear Darling, Maddox and Tape London are a short walk if the night moves on.",
+      "Rumour (formerly Tabu) is the booth club at 1 Dover Street, in the heart of Mayfair between Piccadilly and Grafton Street, open Wednesday to Saturday from 11pm to 4am. The Tabu name has gone: same ownership, a full rebrand, a new design and a new concept. It is one intimate room of around 200, built around red velvet booths beneath backlit gold disc walls, with red velvet curtains, an arched doorway and red lighting, and it fills early by design. The music is open format, hip hop, RnB and house, read to the room on the night. Green Park station is a few minutes away, Piccadilly Circus and Bond Street are walkable, and Dear Darling, Maddox and Tape London are a short walk if the night moves on.",
     location: "1 Dover Street, Mayfair, London W1S 4LD",
     area: "Mayfair",
     musicPolicy: ["Hip-Hop", "RnB", "House"],

@@ -108,7 +108,7 @@ const rankedClubs: RankedClub[] = [
     slug: "rumour-london",
     category: "Most Discreet",
     verdict:
-      "Rumour (formerly Tabu) is one intimate room at 1 Dover Street, built around booths in deep red velvet under a chandelier. What sets it apart is the no-photography policy: no photos or video in the main room or on the dance floor, enforced by the floor team. The music is open format, hip hop, RnB and house, read to the room, and the room fills early by design. Ladies come in on the guestlist; men and mixed groups book a booth from £1,000, which covers entry for the whole group.",
+      "Rumour (formerly Tabu) is one intimate room at 1 Dover Street, built around red velvet booths beneath backlit gold disc walls. What sets it apart is the no-photography policy: no photos or video in the main room or on the dance floor, enforced by the floor team. The music is open format, hip hop, RnB and house, read to the room, and the room fills early by design. Ladies come in on the guestlist; men and mixed groups book a booth from £1,000, which covers entry for the whole group.",
     strengths: [
       "No photos or video on the dance floor",
       "One intimate room of around 200, built around booths",
