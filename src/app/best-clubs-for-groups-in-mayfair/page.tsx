@@ -47,7 +47,7 @@ const groupRecommendations: GroupRecommendation[] = [
         guestlistOrTables:
           "Tables strongly recommended for birthdays. The venue can arrange birthday extras: sparklers, personalised bottle presentations, and announcements. Guestlist works on Wednesdays for smaller birthday groups.",
         approxGroupCost:
-          "Table from £800 min spend (6 to 8 guests). Guestlist free but drinks at bar prices (budget £50 to £80pp).",
+          "Table from £800 min spend (6 to 8 guests). On the guestlist, the entry charge varies based on the night and availability: it can sometimes be complimentary and is often around £20, but it can be more depending on the night or event. Guestlist gets access to a shared host table where drinks are available.",
         bestNight: "Saturday for the full production. Wednesday for a more intimate celebration.",
       },
       {
