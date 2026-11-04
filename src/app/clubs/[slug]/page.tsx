@@ -1,3 +1,4 @@
+import { safeJsonLd } from "@/lib/safe-output";
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Image from "next/image";
@@ -389,7 +390,7 @@ export default async function ClubPage({
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: JSON.stringify(
+          __html: safeJsonLd(
             isClosed
               ? {
                   "@context": "https://schema.org",
@@ -430,7 +431,7 @@ export default async function ClubPage({
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
+            __html: safeJsonLd({
               "@context": "https://schema.org",
               "@type": "FAQPage",
               mainEntity: club.faqs.map((faq) => ({

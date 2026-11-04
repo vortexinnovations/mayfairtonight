@@ -1,3 +1,4 @@
+import { safeJsonLd } from "@/lib/safe-output";
 import { Metadata } from "next";
 import Link from "next/link";
 import { getOpenClubs } from "@/data/clubs";
@@ -320,7 +321,7 @@ export default function DressCodePage() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: JSON.stringify({
+          __html: safeJsonLd({
             "@context": "https://schema.org",
             "@type": "FAQPage",
             mainEntity: faqs.map((faq) => ({

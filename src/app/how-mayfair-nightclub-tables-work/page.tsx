@@ -1,3 +1,4 @@
+import { safeJsonLd } from "@/lib/safe-output";
 import { Metadata } from "next";
 import Link from "next/link";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
@@ -249,8 +250,8 @@ export default function TablesGuidePage() {
         </div>
       </article>
 
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faqs.map((f) => ({ "@type": "Question", name: f.question, acceptedAnswer: { "@type": "Answer", text: f.answer } })) }) }} />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://mayfairtonight.com" }, { "@type": "ListItem", position: 2, name: "Mayfair Nightclubs", item: "https://mayfairtonight.com/mayfair-nightclubs" }, { "@type": "ListItem", position: 3, name: "How Tables Work", item: "https://mayfairtonight.com/how-mayfair-nightclub-tables-work" }] }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: safeJsonLd({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faqs.map((f) => ({ "@type": "Question", name: f.question, acceptedAnswer: { "@type": "Answer", text: f.answer } })) }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: safeJsonLd({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://mayfairtonight.com" }, { "@type": "ListItem", position: 2, name: "Mayfair Nightclubs", item: "https://mayfairtonight.com/mayfair-nightclubs" }, { "@type": "ListItem", position: 3, name: "How Tables Work", item: "https://mayfairtonight.com/how-mayfair-nightclub-tables-work" }] }) }} />
       <StickyBookingBar />
     </>
   );

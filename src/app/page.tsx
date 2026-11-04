@@ -1,3 +1,4 @@
+import { safeJsonLd } from "@/lib/safe-output";
 import { Metadata } from "next";
 import Image from "next/image";
 import ClubCard from "@/components/ClubCard";
@@ -180,7 +181,7 @@ export default function HomePage() {
           <script
             type="application/ld+json"
             dangerouslySetInnerHTML={{
-              __html: JSON.stringify(
+              __html: safeJsonLd(
                 tonightEvents.map((event) => ({
                   "@context": "https://schema.org",
                   "@type": "Event",

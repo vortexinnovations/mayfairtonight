@@ -1,3 +1,4 @@
+import { safeJsonLd } from "@/lib/safe-output";
 import { Metadata } from "next";
 import Link from "next/link";
 import ClubCard from "@/components/ClubCard";
@@ -143,7 +144,7 @@ export default function WeekendPage() {
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: JSON.stringify(
+            __html: safeJsonLd(
               eventsData
                 .filter((e) =>
                   [weekend.friday, weekend.saturday, weekend.sunday].includes(e.date)

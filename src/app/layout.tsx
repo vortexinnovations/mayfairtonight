@@ -1,3 +1,4 @@
+import { safeJsonLd } from "@/lib/safe-output";
 import type { Metadata } from "next";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
@@ -55,7 +56,7 @@ export default function RootLayout({
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
+            __html: safeJsonLd({
               "@context": "https://schema.org",
               "@type": "Organization",
               name: "Mayfair Tonight",
