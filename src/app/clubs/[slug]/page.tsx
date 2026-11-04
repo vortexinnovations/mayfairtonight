@@ -45,11 +45,11 @@ export async function generateMetadata({
           : `${club.name} in ${club.area}: ${club.tagline}. Open ${club.openNights.join(", ")}. ${club.musicPolicy.join(", ")} music. ${tablesFrom(club.tableMinimum)}. Book instantly via WhatsApp.`),
     alternates: { canonical: `https://mayfairtonight.com/clubs/${club.slug}` },
     openGraph: {
-      title: isClosed
+      title: club.ogTitle ?? (isClosed
         ? `${club.name} Has Closed: Mayfair Alternatives`
         : previousName
           ? `${club.name}${formerly}: Mayfair Tables & Guestlist`
-          : `${club.name} Tonight: Events, Music & Bookings`,
+          : `${club.name} Tonight: Events, Music & Bookings`),
       description: isClosed
         ? `${club.name} has closed. Open Mayfair clubs with a similar crowd and music.`
         : club.metaDescription ??
@@ -155,7 +155,7 @@ export default async function ClubPage({
             <div className="bg-dark-card border border-dark-border rounded-lg p-3">
               <p className="text-xs text-dark-muted">Opens</p>
               <p className="text-sm font-medium text-white mt-0.5">
-                {club.openingTime} to {club.closingTime}
+                {club.hoursLabel ?? `${club.openingTime} to ${club.closingTime}`}
               </p>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-3">
@@ -193,6 +193,34 @@ export default async function ClubPage({
 
         {!isClosed && (
           <>
+            {club.hoursTable && (
+              <section className="mb-8">
+                <h2 className="text-xl font-semibold text-white mb-3">
+                  {club.name} Opening Times
+                </h2>
+                <div className="overflow-x-auto">
+                  <table className="w-full text-sm text-left text-gray-300">
+                    <thead>
+                      <tr className="border-b border-dark-border text-white">
+                        <th scope="col" className="py-3 pr-4 font-semibold">Night</th>
+                        <th scope="col" className="py-3 pr-4 font-semibold">Doors</th>
+                        <th scope="col" className="py-3 font-semibold">Closes</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {club.hoursTable.map((row) => (
+                        <tr key={row.night} className="border-b border-dark-border/50">
+                          <th scope="row" className="py-3 pr-4 font-medium text-white">{row.night}</th>
+                          <td className="py-3 pr-4">{row.doors}</td>
+                          <td className="py-3">{row.closes}</td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              </section>
+            )}
+
             <section className="mb-8">
               <h2 className="text-xl font-semibold text-white mb-3">
                 What to Expect
@@ -214,11 +242,31 @@ export default async function ClubPage({
                     {night}
                   </Link>
                 ))}
+                {(club.selectNights ?? []).map((night) => (
+                  <Link
+                    key={night}
+                    href={`/nights/${night.toLowerCase()}`}
+                    className="bg-dark-card border border-dark-border rounded-lg px-4 py-2 text-sm text-white hover:border-gold/30 transition-colors"
+                  >
+                    Select {night}s
+                  </Link>
+                ))}
               </div>
               <p className="text-dark-muted text-sm mt-2">
-                {club.openingTime} to {club.closingTime}
+                {club.hoursLabel ?? `${club.openingTime} to ${club.closingTime}`}
               </p>
             </section>
+
+            {(club.guide ?? []).map((section) => (
+              <section key={section.heading} className="mb-8">
+                <h2 className="text-xl font-semibold text-white mb-3">{section.heading}</h2>
+                <div className="space-y-3">
+                  {section.paragraphs.map((text) => (
+                    <p key={text} className="text-gray-300 leading-relaxed">{text}</p>
+                  ))}
+                </div>
+              </section>
+            ))}
 
             <section className="mb-8">
               <h2 className="text-xl font-semibold text-white mb-3">Dress Code</h2>
@@ -255,6 +303,20 @@ export default async function ClubPage({
               </p>
               <WhatsAppCTA variant="club" clubName={club.name} size="lg" />
             </div>
+
+            {club.faqs && (
+              <section className="mb-8">
+                <h2 className="text-xl font-semibold text-white mb-3">Frequently Asked Questions</h2>
+                <div className="space-y-4">
+                  {club.faqs.map((faq) => (
+                    <div key={faq.question}>
+                      <h3 className="text-white font-medium mb-1">{faq.question}</h3>
+                      <p className="text-gray-300 leading-relaxed">{faq.answer}</p>
+                    </div>
+                  ))}
+                </div>
+              </section>
+            )}
           </>
         )}
 
@@ -360,6 +422,23 @@ export default async function ClubPage({
           ),
         }}
       />
+
+      {!isClosed && club.faqs && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "FAQPage",
+              mainEntity: club.faqs.map((faq) => ({
+                "@type": "Question",
+                name: faq.question,
+                acceptedAnswer: { "@type": "Answer", text: faq.answer },
+              })),
+            }),
+          }}
+        />
+      )}
 
       {!isClosed && <StickyBookingBar variant="club" clubName={club.name} />}
     </>

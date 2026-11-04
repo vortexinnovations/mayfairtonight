@@ -1,6 +1,6 @@
 import { Metadata } from "next";
 import Link from "next/link";
-import { getOpenClubs, tablesFrom } from "@/data/clubs";
+import { getOpenClubs, openNightsLabel, tablesFrom } from "@/data/clubs";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 import HeroImage from "@/components/HeroImage";
@@ -229,7 +229,7 @@ export default function MayfairNightclubsPage() {
                     </h3>
                     <p className="text-sm text-gray-300">
                       <span className="text-white font-medium">
-                        Open: {club.openNights.join(", ")}
+                        Open: {openNightsLabel(club)}
                       </span>
                     </p>
                     <p className="text-sm text-dark-muted mt-1">
@@ -303,11 +303,9 @@ export default function MayfairNightclubsPage() {
                 the most exclusive.{" "}
                 <Link href="/clubs/cirque-le-soir" className="text-gold hover:text-gold-light">Cirque Le Soir</Link>{" "}adds
                 a full circus show.{" "}
-                <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">BEAT London</Link>{" "}is built
-                around its sound system.{" "}
                 <Link href="/clubs/rumour-london" className="text-gold hover:text-gold-light">Rumour</Link>{" "}keeps
                 cameras off its dance floor, with open-format hip hop, RnB and
-                house in one red velvet booth room. All four deliver quality
+                house in one red velvet booth room. All three deliver quality
                 hip-hop but the crowd and atmosphere are very different.
               </p>
             </div>
@@ -554,7 +552,7 @@ const faqs = [
   {
     question: "Which Mayfair club is best for hip-hop?",
     answer:
-      "Tape London, Rumour, Cirque Le Soir and BEAT London are the best hip-hop clubs in and around Mayfair. Tape is the most exclusive, with a celebrity crowd. Rumour (formerly Tabu) on Dover Street plays open-format hip hop, RnB and house in one red velvet booth room, with no photos or video on the dance floor. Cirque Le Soir pairs hip-hop and RnB with a full circus show. BEAT London is built around its sound system. The main room upstairs at 99 Regent Street (formerly Cuckoo Club) plays open-format hip hop and RnB, and Reign London also plays hip-hop alongside its shows.",
+      "Tape London, Rumour and Cirque Le Soir are the best hip-hop clubs in and around Mayfair. Tape is the most exclusive, with a celebrity crowd. Rumour (formerly Tabu) on Dover Street plays open-format hip hop, RnB and house in one red velvet booth room, with no photos or video on the dance floor. Cirque Le Soir pairs hip-hop and RnB with a full circus show. The main room upstairs at 99 Regent Street (formerly Cuckoo Club) plays open-format hip hop and RnB, and Reign London also plays hip-hop alongside its shows.",
   },
   {
     question: "Which Mayfair clubs play house music?",
@@ -574,7 +572,7 @@ const faqs = [
   {
     question: "What time do Mayfair nightclubs open and close?",
     answer:
-      "Most Mayfair nightclubs open between 10pm and 11pm and close at 3:45am or 4am. Scotch of St James runs until 5am, and Maddox, Dear Darling Mayfair and BEAT London until 6am. Dear Darling opens earlier (around 9pm to 9:30pm) as it serves cocktails before switching to late-night mode. Arrive between 11pm and midnight for the best experience: early enough to get in smoothly, late enough for atmosphere.",
+      "Most Mayfair nightclubs open between 10pm and 11pm and close at 3:45am or 4am. Scotch of St James runs until 5am, and Maddox, Dear Darling Mayfair and BEAT London until 6am. BEAT London, just north in Fitzrovia, opens later, at 1am. Dear Darling opens earlier (around 9pm to 9:30pm) as it serves cocktails before switching to late-night mode. Arrive between 11pm and midnight for the best experience: early enough to get in smoothly, late enough for atmosphere.",
   },
   {
     question: "Are Mayfair nightclubs open on weekdays?",

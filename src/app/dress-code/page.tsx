@@ -29,7 +29,7 @@ const faqs = [
   {
     question: "Can I wear trainers to a Mayfair club?",
     answer:
-      "Generally no. Most Mayfair clubs do not allow trainers. Some more relaxed venues like BEAT London may accept clean, designer trainers as part of a smart outfit, but casual trainers will get you turned away at every door in Mayfair.",
+      "Generally no. Most Mayfair clubs do not allow trainers. At BEAT London, trainers are accepted only if clean and smart, at the door's discretion, but casual trainers will get you turned away at every door in Mayfair.",
   },
   {
     question: "What should men wear to a Mayfair nightclub?",
@@ -49,7 +49,7 @@ const faqs = [
   {
     question: "Does BEAT London have a strict dress code?",
     answer:
-      "BEAT London is more relaxed than most Mayfair venues. It's a music-first club where the focus is on the sound system and the party. Smart casual works: no sportswear, but smart trainers with a sharp outfit are usually fine.",
+      "BEAT London, in Fitzrovia, is smart casual with no sportswear. Trainers only if clean and smart, at the door's discretion.",
   },
 ];
 

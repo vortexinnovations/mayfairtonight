@@ -84,22 +84,6 @@ const hipHopClubs: HipHopClub[] = [
   },
   {
     rank: 4,
-    name: "BEAT London",
-    slug: "beat-london",
-    musicStyle:
-      "Commercial hip-hop and RnB with Afrobeats influence. The music leans younger and more current: heavy on the playlists that are trending right now.",
-    crowd:
-      "Young professionals, international visitors, and groups celebrating. High energy, diverse, and ready to party.",
-    bestNights: "Friday and Saturday",
-    vibe:
-      "Pure party energy. BEAT is built for dancing and it does not pretend otherwise. The sound system is loud, the lights are dynamic, and the crowd matches the intensity.",
-    guestlistOrTables:
-      "BEAT doesn't run a guestlist. Entry is by table booking, with tables from £1,000 minimum spend. Solid option for groups who want a table and a packed dance floor.",
-    verdict:
-      "The newest hip-hop contender just north of Mayfair, on Margaret Street in Fitzrovia. BEAT brings raw energy and a younger crowd. If the established names feel too refined, BEAT strips it back to what matters: good music and a packed dance floor.",
-  },
-  {
-    rank: 5,
     name: "Cirque Le Soir",
     slug: "cirque-le-soir",
     musicStyle:
@@ -135,12 +119,12 @@ const faqs = [
   {
     question: "What age range goes to hip-hop clubs in Mayfair?",
     answer:
-      "Most hip-hop clubs in Mayfair attract a 23-35 crowd. BEAT skews slightly younger (21-30). Tape London attracts a more established crowd (25-38). Most venues are 18+; 99 Regent Street is 19+ with physical photo ID, and Cirque Le Soir is 21+ at weekends. Most guestlists prefer 21+. Groups that look underage will struggle at the door regardless of ID.",
+      "Most hip-hop clubs in Mayfair attract a 23-35 crowd. Tape London attracts a more established crowd (25-38). Most venues are 18+; 99 Regent Street is 19+ with physical photo ID, and Cirque Le Soir is 21+ at weekends. Most guestlists prefer 21+. Groups that look underage will struggle at the door regardless of ID.",
   },
   {
     question: "Can I get on the guestlist for hip-hop nights in Mayfair?",
     answer:
-      "Yes: most venues offer guestlist for hip-hop nights, but availability varies. BEAT doesn't run a guestlist: entry is by table booking. 99 Regent Street takes mixed groups on its guestlist by request, while the Rumour guestlist is for ladies only, so men book a booth. Tape London is the hardest: guestlist spots are limited and tables are the primary route in. Message us on WhatsApp and we can sort guestlist at the venues that run one.",
+      "Yes: most venues offer guestlist for hip-hop nights, but availability varies. 99 Regent Street takes mixed groups on its guestlist by request, while the Rumour guestlist is for ladies only, so men book a booth. Tape London is the hardest: guestlist spots are limited and tables are the primary route in. Message us on WhatsApp and we can sort guestlist at the venues that run one.",
   },
 ];
 
@@ -313,13 +297,6 @@ export default function BestHipHopClubsPage() {
                     {" "}open-format hip hop and RnB, with house, read to the room
                   </span>
                 </li>
-                <li className="flex items-start gap-2">
-                  <span className="text-gold mt-0.5">•</span>
-                  <span>
-                    <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">BEAT London</Link>:
-                    {" "}current chart hip-hop and Afrobeats
-                  </span>
-                </li>
               </ul>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">
@@ -360,11 +337,10 @@ export default function BestHipHopClubsPage() {
                 <p className="text-sm text-gray-300">
                   Thursday is the best night for hip-hop in Mayfair. The crowd
                   is genuinely up for it: no tourists, no casual visitors.{" "}
-                  <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">Reign London</Link>,{" "}
-                  <Link href="/clubs/rumour-london" className="text-gold hover:text-gold-light">Rumour</Link>{" "}
+                  <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">Reign London</Link>{" "}
                   and{" "}
-                  <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">BEAT London</Link>{" "}
-                  deliver on Thursdays (BEAT on select Thursdays). DJs play deeper, the rooms feel
+                  <Link href="/clubs/rumour-london" className="text-gold hover:text-gold-light">Rumour</Link>{" "}
+                  deliver on Thursdays. DJs play deeper, the rooms feel
                   more intimate, and the atmosphere is electric.
                 </p>
               </div>
@@ -417,12 +393,6 @@ export default function BestHipHopClubsPage() {
                   <td className="py-3 px-3">Hip-Hop / RnB upstairs, House downstairs</td>
                   <td className="py-3 px-3">Fri & Sat</td>
                   <td className="py-3 px-3">Guestlist or tables</td>
-                </tr>
-                <tr className="border-b border-dark-border/50">
-                  <td className="py-3 px-3 text-white font-medium">BEAT London</td>
-                  <td className="py-3 px-3">Commercial Hip-Hop / Afrobeats</td>
-                  <td className="py-3 px-3">Fri & Sat</td>
-                  <td className="py-3 px-3">Tables only: no guestlist</td>
                 </tr>
                 <tr>
                   <td className="py-3 px-3 text-white font-medium">Cirque Le Soir</td>

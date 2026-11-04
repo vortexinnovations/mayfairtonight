@@ -43,11 +43,9 @@ The cocktail programme is serious, the staff are knowledgeable, and the bar itse
 
 [Tape London](/clubs/tape-london) attracts an older, well-connected crowd. The music credibility is genuine: industry people, artists, and music lovers gravitate here. It's table-focused and members-driven, so access requires some planning. But if you can get in, the quality of the evening is exceptional.
 
-## Venues That Skew Younger
+## A Later Option
 
-[BEAT London](/clubs/beat-london) draws a younger demographic with louder, more bass-heavy music. It is a quality venue, but the crowd and energy lean early-to-mid-20s.
-
-It is not off-limits to over-30s. You just won't be in the majority.
+[BEAT London](/clubs/beat-london) is a house music club in Fitzrovia that does not open until 1am, so it suits a much later night than the venues above. Entry is by table booking.
 
 ## Why Thursday Is Your Night
 

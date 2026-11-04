@@ -59,15 +59,6 @@ const hipHopClubs: GenreClub[] = [
     djs: "Open-format hip hop and RnB sets in the main room; house on the floor below.",
   },
   {
-    name: "BEAT London",
-    slug: "beat-london",
-    description:
-      "BEAT brings a raw, music-first approach to hip-hop. The sound system is serious, the crowd is there for the music, and the atmosphere is closer to a concert than a typical Mayfair club. Expect deeper cuts alongside the hits: the DJs have genuine credibility.",
-    style: "Hip-hop, UK rap, grime crossovers, RnB",
-    bestNight: "Saturday for the fullest programme",
-    djs: "Music-focused selectors. BEAT books DJs for their taste, not their Instagram following.",
-  },
-  {
     name: "Cirque Le Soir",
     slug: "cirque-le-soir",
     description:
@@ -124,6 +115,15 @@ const houseClubs: GenreClub[] = [
     bestNight: "Thursday and Friday for the best cocktail-to-dance transition",
     djs: "Residents who manage the evening's musical arc. The transition from bar to club is a skill and Dear Darling's DJs nail it.",
   },
+  {
+    name: "BEAT London",
+    slug: "beat-london",
+    description:
+      "An after-hours house music club on Margaret Street in Fitzrovia, open from 1am to 6am on Friday, Saturday and select Thursdays. The venue's own account is that it has one of London's finest sound systems. Entry is by table booking.",
+    style: "House",
+    bestNight: "Friday or Saturday, from 1am",
+    djs: "House sets through the night. Ask us when you book.",
+  },
 ];
 
 const commercialClubs: GenreClub[] = [
@@ -135,15 +135,6 @@ const commercialClubs: GenreClub[] = [
     style: "Commercial, chart hits, open format, some hip-hop and house",
     bestNight: "Saturday for the full show programme and the broadest music selection",
     djs: "Residents who work seamlessly with the entertainment schedule. Versatile selectors who read a mixed crowd.",
-  },
-  {
-    name: "BEAT London",
-    slug: "beat-london",
-    description:
-      "BEAT blends commercial appeal with genuine musical credibility. The open format sets lean heavier on hip-hop and UK sounds than pure pop, giving it an edge that separates it from generic commercial clubs. The sound system ensures everything hits properly.",
-    style: "Open format, hip-hop heavy, UK sounds, commercial",
-    bestNight: "Saturday for the broadest programme",
-    djs: "Selectors who balance commercial appeal with musical taste. The sound system makes everything sound better.",
   },
 ];
 
@@ -182,7 +173,7 @@ const musicGrid = [
   { name: "Cirque Le Soir", slug: "cirque-le-soir", hiphop: true, house: false, commercial: false, eclectic: false },
   { name: "Rumour", slug: "rumour-london", hiphop: true, house: true, commercial: false, eclectic: false },
   { name: "99 Regent Street", slug: "99-regent-street", hiphop: true, house: true, commercial: false, eclectic: false },
-  { name: "BEAT London", slug: "beat-london", hiphop: true, house: false, commercial: true, eclectic: false },
+  { name: "BEAT London", slug: "beat-london", hiphop: false, house: true, commercial: false, eclectic: false },
   { name: "Maddox", slug: "maddox", hiphop: false, house: true, commercial: false, eclectic: false },
   { name: "Selene London", slug: "selene-london", hiphop: false, house: true, commercial: false, eclectic: false },
   { name: "Scotch of St James", slug: "scotch-of-st-james", hiphop: false, house: true, commercial: false, eclectic: true },
@@ -205,7 +196,7 @@ const faqs = [
   {
     question: "Which Mayfair club has the best sound system?",
     answer:
-      "BEAT London is purpose-built for sound quality: it's a music-first venue and the system reflects that. Maddox has an excellent setup for house music in its basement club. Tape London's intimate room means the sound is powerful without needing enormous speakers. For sheer impact during performances, Reign London's production-grade system is impressive.",
+      "BEAT London's own account is that it has one of London's finest sound systems. Maddox has an excellent setup for house music in its basement club. Tape London's intimate room means the sound is powerful without needing enormous speakers. For sheer impact during performances, Reign London's production-grade system is impressive.",
   },
   {
     question: "Is it the same music every night at Mayfair clubs?",
@@ -215,7 +206,7 @@ const faqs = [
   {
     question: "What does open format mean at a nightclub?",
     answer:
-      "Open format means the DJ plays across multiple genres rather than sticking to one. They might blend hip-hop into house, throw in a pop remix, then switch to a classic anthem. Reign London and BEAT London are the main open-format venues in and around Mayfair. It's designed to keep a mixed crowd happy rather than catering to genre purists.",
+      "Open format means the DJ plays across multiple genres rather than sticking to one. They might blend hip-hop into house, throw in a pop remix, then switch to a classic anthem. Reign London is the main open-format venue in and around Mayfair. It's designed to keep a mixed crowd happy rather than catering to genre purists.",
   },
 ];
 
@@ -567,13 +558,9 @@ export default function MayfairClubsByMusicPage() {
               <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light font-medium">
                 Reign London
               </Link>
-              ,{" "}
+              {" "}and{" "}
               <Link href="/clubs/the-box-london" className="text-gold hover:text-gold-light font-medium">
                 The Box
-              </Link>{" "}
-              and{" "}
-              <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light font-medium">
-                BEAT London
               </Link>{" "}
               all play hip-hop alongside house and commercial music.
             </p>
@@ -676,11 +663,7 @@ export default function MayfairClubsByMusicPage() {
                 <Link href="/clubs/99-regent-street" className="text-gold hover:text-gold-light">
                   99 Regent Street
                 </Link>
-                , where you can do both floors on a Friday or Saturday, or{" "}
-                <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">
-                  BEAT London
-                </Link>
-                .
+                , where you can do both floors on a Friday or Saturday.
               </p>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-xl p-5">
@@ -698,7 +681,7 @@ export default function MayfairClubsByMusicPage() {
                 <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">
                   BEAT London
                 </Link>{" "}
-                for a dance-floor finish.
+                for house music from 1am.
               </p>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-xl p-5">

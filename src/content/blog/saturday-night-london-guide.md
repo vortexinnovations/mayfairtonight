@@ -72,7 +72,7 @@ If you're heading to [Selene London](/clubs/selene-london), their late-night set
 
 ### For Pure Party
 
-[BEAT London](/clubs/beat-london) on Saturday is built for it: a serious sound system and a crowd that is there to dance. This is where you go when you want to dance until they turn the lights on.
+[BEAT London](/clubs/beat-london) on Saturday is built for it: house music from 1am and a crowd that is there to dance. This is where you go when you want to dance until they turn the lights on at 6am.
 
 ### For Something Different
 

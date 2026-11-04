@@ -74,7 +74,7 @@ Full details in our [Mayfair dress code guide](/mayfair-club-dress-code).
 
 [Cirque Le Soir](/clubs/cirque-le-soir): incredible venue, wrong energy for a date. Too chaotic, too loud, too much happening around you.
 
-[BEAT London](/clubs/beat-london): great club but skews younger and louder. Not the atmosphere for conversation.
+[BEAT London](/clubs/beat-london): house music from 1am to 6am. Not the atmosphere for conversation.
 
 Large table-focused nights at any venue: unless you're joining a group, a table for two in a sea of birthday celebrations can feel isolating.
 

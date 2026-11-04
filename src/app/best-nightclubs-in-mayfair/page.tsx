@@ -424,7 +424,7 @@ export default function BestNightclubsPage() {
                 <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">
                   BEAT London
                 </Link>{" "}
-                for hip-hop purists.{" "}
+                for house from 1am to 6am.{" "}
                 <Link href="/clubs/the-box-london" className="text-gold hover:text-gold-light">
                   The Box
                 </Link>{" "}

@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { nights, getNightBySlug } from "@/data/nights";
-import { getClubsByNight, clubs } from "@/data/clubs";
+import { getClubsByNight, getSelectClubsByNight, clubs } from "@/data/clubs";
 import ClubCard from "@/components/ClubCard";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
@@ -49,6 +49,7 @@ export default async function NightPage({
   if (!nightInfo) notFound();
 
   const openClubs = getClubsByNight(nightInfo.day);
+  const selectClubs = getSelectClubsByNight(nightInfo.day);
 
   return (
     <>
@@ -114,6 +115,19 @@ export default async function NightPage({
                   slug={club.slug}
                   name={club.name}
                   tagline={club.tagline}
+                  musicPolicy={club.musicPolicy}
+                  openingTime={club.openingTime}
+                  area={club.area}
+                  tableMinimum={club.tableMinimum}
+                  imageSrc={clubImages[club.slug]?.card}
+                />
+              ))}
+              {selectClubs.map((club) => (
+                <ClubCard
+                  key={club.slug}
+                  slug={club.slug}
+                  name={club.name}
+                  tagline={`Select ${nightInfo.day}s only. ${club.tagline}`}
                   musicPolicy={club.musicPolicy}
                   openingTime={club.openingTime}
                   area={club.area}

@@ -67,7 +67,7 @@ Read our full [Mayfair nightlife guide](/mayfair-nightlife-guide) for background
 
 **Bar venues** (Dear Darling, [Selene London](/clubs/selene-london)): conversation happens naturally at the bar. The format encourages it. Make eye contact, comment on a drink, ask for a recommendation. The bar environment removes the pressure of approaching someone on a dance floor.
 
-**Dance floor venues** ([99 Regent Street](/clubs/99-regent-street), [BEAT London](/clubs/beat-london)): the dance floor is the great equaliser. If you can dance (even a little), you'll be absorbed into nearby groups. Energy is infectious. Nobody asks how you arrived.
+**Dance floor venues** ([99 Regent Street](/clubs/99-regent-street)): the dance floor is the great equaliser. If you can dance (even a little), you'll be absorbed into nearby groups. Energy is infectious. Nobody asks how you arrived.
 
 ## Table for One vs Guest List Alone
 

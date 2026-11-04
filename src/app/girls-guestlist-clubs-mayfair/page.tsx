@@ -468,9 +468,9 @@ export default function GirlsGuestlistPage() {
               </p>
             </div>
             <div className="bg-dark-card border border-gold/30 rounded-xl p-5">
-              <h3 className="text-gold font-semibold mb-2">Most Fun: BEAT London</h3>
+              <h3 className="text-gold font-semibold mb-2">Latest Finish: BEAT London</h3>
               <p className="text-sm text-gray-300">
-                High-energy music and a proper dance floor. BEAT&apos;s smart-casual door is one of the more relaxed in the area, so a whole group of friends gets in without fuss.
+                House music from 1am to 6am. BEAT has no guestlist: entry is by table booking, so book one table for the whole group.
               </p>
             </div>
             <div className="bg-dark-card border border-gold/30 rounded-xl p-5">

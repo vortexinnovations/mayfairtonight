@@ -10,6 +10,8 @@ export interface Club {
   dressCodeNotes: string;
   tableMinimum: string;
   openNights: string[];
+  /** Nights the venue opens only some weeks. Kept out of openNights so "open tonight" lists and structured data do not claim them. */
+  selectNights?: string[];
   openingTime: string;
   closingTime: string;
   vibe: string;
@@ -35,6 +37,16 @@ export interface Club {
   metaTitle?: string;
   /** Meta description, 120 to 155 characters, written from this venue's own facts. */
   metaDescription?: string;
+  /** Shared-link title, when the template's would promise something the page does not cover. */
+  ogTitle?: string;
+  /** Hours as shown on the page when the 24-hour times would read poorly, e.g. "1am to 6am". */
+  hoursLabel?: string;
+  /** A plain night-by-night hours table on the club page. */
+  hoursTable?: { night: string; doors: string; closes: string }[];
+  /** Extra sections on the club page, for venues with a dedicated search lane. */
+  guide?: { heading: string; paragraphs: string[] }[];
+  /** Questions shown on the club page and sent as FAQPage structured data. */
+  faqs?: { question: string; answer: string }[];
 }
 
 // ─── OPEN VENUES ────────────────────────────────────────────
@@ -160,11 +172,11 @@ export const clubs: Club[] = [
     vibe: "Legendary, celebrity-favourite, high-energy",
     insiderTip: "Funky Buddha has closed.",
     whatToExpect:
-      "Funky Buddha has closed. For a high-energy night of hip-hop, RnB and house, try BEAT London or Reign London.",
+      "Funky Buddha has closed. For a high-energy night of hip-hop, RnB and house, try Reign London, or BEAT London for house music from 1am.",
     bestFor: "This venue has closed",
     status: "closed",
     closedMessage:
-      "Funky Buddha has closed, and Itzel has opened at the same Berkeley Street address. For a high-energy night of hip-hop, RnB and house, try BEAT London for a proper dance floor or Reign London for shows and production.",
+      "Funky Buddha has closed, and Itzel has opened at the same Berkeley Street address. For a high-energy night of hip-hop, RnB and house, try Reign London for shows and production, or BEAT London for house music from 1am.",
   },
   {
     slug: "99-regent-street",
@@ -351,28 +363,69 @@ export const clubs: Club[] = [
   },
   {
     slug: "beat-london",
+    metaTitle: "BEAT London Tonight: Opening Times, 1am to 6am, and Tables",
+    ogTitle: "BEAT London Tonight: Opening Times, 1am to 6am, and Tables",
     metaDescription:
-      "BEAT London on Margaret Street, Fitzrovia: open Thursday to Saturday with hip-hop, RnB, commercial and house on a serious sound system. Tables from £1,000.",
+      "BEAT London opens 1am to 6am on Friday, Saturday and select Thursdays at 48 Margaret Street, Fitzrovia. House music, 18+, tables from £1,000.",
     name: "BEAT London",
-    tagline: "High-energy nightclub with serious sound",
+    tagline: "After-hours house music on Margaret Street, 1am to 6am",
     description:
-      "BEAT lives up to its name. Based on Margaret Street, this club is built around its sound system, and it shows. The bass hits different here. The music policy leans towards high-energy sets, the crowd is young and up for it, and the atmosphere is pure nightclub. No gimmicks, no shows: just great music and a proper party.",
-    location: "Margaret Street",
+      "BEAT London opens at 1am and closes at 6am, on Friday, Saturday and select Thursdays. It is an after-hours house music club at 48 Margaret Street in Fitzrovia, also known as BEAT Club, and the nearest tube is Oxford Circus. Entry is by table booking only, with tables from £1,000 minimum spend. There is no guestlist and there are no tickets, and you need to be 18 or over with photo ID.",
+    location: "48 Margaret Street, Fitzrovia, London W1W 8SE",
     area: "Fitzrovia",
-    musicPolicy: ["Hip-Hop", "RnB", "Commercial", "House"],
-    dressCode: "Smart casual. No sportswear. Smart trainers can work with the right outfit.",
-    dressCodeNotes: "More relaxed than some Mayfair venues but still keep it smart.",
+    musicPolicy: ["House"],
+    dressCode: "Smart casual, no sportswear.",
+    dressCodeNotes: "Trainers only if clean and smart, and that is at the door's discretion.",
     tableMinimum: "£1,000",
-    openNights: ["Thursday", "Friday", "Saturday"],
-    openingTime: "22:00",
+    openNights: ["Friday", "Saturday"],
+    selectNights: ["Thursday"],
+    openingTime: "01:00",
     closingTime: "06:00",
-    vibe: "High-energy, music-focused, proper nightclub",
+    hoursLabel: "1am to 6am",
+    vibe: "After-hours house music club",
     insiderTip:
-      "BEAT's sound system is the star. Get near the speakers and you'll feel it in your chest.",
+      "Doors are at 1am, so book dinner late, have a drink nearby, and get your table confirmed before you set off.",
     whatToExpect:
-      "A no-nonsense nightclub experience. The room is dark, the sound is loud, and the crowd is there to dance. Tables are available but the dance floor is the main attraction. If you want a pure nightclub experience without the bells and whistles, BEAT delivers.",
-    bestFor: "Those who prioritise music and dancing over everything else",
+      "BEAT is an after-hours club, so the night there starts when the doors open at 1am and runs until 6am. The music is house and the capacity is about 250. The venue's own account is that it has one of London's finest sound systems, and that it opened in 1966 as The Speakeasy Club, known as The Speak, which hosted Jimi Hendrix, The Beatles, Bob Marley and David Bowie, as well as King Crimson's debut. It says the building has since been extensively renovated. BEAT has members, and non-members can book a table.",
+    bestFor: "Groups who want a table, house music and a night that runs until 6am",
     status: "open",
+    hoursTable: [
+      { night: "Friday", doors: "1am", closes: "6am" },
+      { night: "Saturday", doors: "1am", closes: "6am" },
+      { night: "Thursday (select nights only)", doors: "1am", closes: "6am" },
+      { night: "Sunday to Wednesday", doors: "Closed", closes: "Closed" },
+    ],
+    guide: [
+      {
+        heading: "Is BEAT London Open Tonight?",
+        paragraphs: [
+          "On a Friday or a Saturday, yes: the doors are at 1am and the club closes at 6am. On a Thursday it depends, because BEAT opens on select Thursdays rather than every week, so message us before you plan a night around one. It does not open from Sunday to Wednesday.",
+          "There is no earlier door, so arriving before 1am will not get you in any sooner. The time that matters is when your table is confirmed, not when you leave the house.",
+        ],
+      },
+      {
+        heading: "What to Do Before 1am",
+        paragraphs: [
+          "Because the doors are at 1am, a night at BEAT starts somewhere else. People plan dinner or a bar first, and the simplest version is one of each: a later dinner table than usual, then drinks until it is time to go.",
+          "Somewhere around Oxford Circus or Fitzrovia keeps you close to Margaret Street when the doors open, and Mayfair is a short walk away if you would rather start there. Dress for the door from the start of the evening, as you will not want to change on the way, and keep your photo ID with you. The night runs until 6am, so it is worth eating properly and working out how you will get home.",
+        ],
+      },
+      {
+        heading: "How to Book BEAT London for Tonight",
+        paragraphs: [
+          "Entry is by table booking, so the booking is the way in. Message us on WhatsApp with the night and the size of your group, and we will tell you what is available and confirm the table. On the day itself, the earlier you message the better.",
+          "Tables start from £1,000 minimum spend, spent on drinks, and VIP tables start from £2,000. Bottles start from £750. These prices are as of November 2026. BEAT has members, but you do not need to be one: non-members can book a table. There are no tickets to buy and no guestlist to join.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "What time does BEAT London open?", answer: "BEAT London opens at 1am on Friday, Saturday and select Thursdays." },
+      { question: "What time does BEAT London close?", answer: "BEAT London closes at 6am on every night it opens." },
+      { question: "Is BEAT London open on Thursdays?", answer: "On select Thursdays only, not every week. Message us and we will check whether it is open on the Thursday you have in mind." },
+      { question: "Can I get into BEAT London before 1am?", answer: "No. The doors are at 1am, so plan dinner or a bar first." },
+      { question: "Can I book a table at BEAT London for tonight?", answer: "Message us on WhatsApp with your group size and we will tell you what is available tonight. Tables start from £1,000 minimum spend, spent on drinks." },
+      { question: "How old do you have to be to get into BEAT London?", answer: "BEAT London is 18+, and you need photo ID." },
+    ],
   },
 
   {
@@ -492,6 +545,22 @@ export function getClosedClubs(): Club[] {
 
 export function getClubBySlug(slug: string): Club | undefined {
   return clubs.find((c) => c.slug === slug);
+}
+
+/** Open venues that run this night only some weeks, e.g. BEAT London on select Thursdays. */
+export function getSelectClubsByNight(night: string): Club[] {
+  return clubs.filter(
+    (c) =>
+      c.status === "open" &&
+      (c.selectNights ?? []).map((n) => n.toLowerCase()).includes(night.toLowerCase())
+  );
+}
+
+/** "Friday, Saturday and select Thursdays" when a venue has select nights, otherwise its open nights. */
+export function openNightsLabel(club: Club): string {
+  const select = (club.selectNights ?? []).map((n) => `select ${n}s`);
+  if (!select.length) return club.openNights.join(", ");
+  return `${club.openNights.join(", ")} and ${select.join(" and ")}`;
 }
 
 export function getClubsByNight(night: string): Club[] {

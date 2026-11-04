@@ -187,13 +187,13 @@ export default function NightlifeAreasPage() {
           <div className="bg-dark-card border border-dark-border rounded-lg p-5">
             <div className="space-y-4">
               <div className="text-gray-300 space-y-3 leading-relaxed">
-                <p>North of Oxford Street, in the creative district of Fitzrovia, BEAT London offers something different from the central Mayfair clubs. It&apos;s a slight detour from the main circuit, but worth the trip for anyone who wants a more relaxed, musically-driven experience.</p>
+                <p>North of Oxford Street, in the creative district of Fitzrovia, BEAT London offers something different from the central Mayfair clubs: an after-hours house music club with doors at 1am, a short walk from Mayfair.</p>
                 <p>Fitzrovia has its own identity: younger, more casual, with a media and creative industry crowd. The walk from Mayfair crosses Oxford Street and enters a neighbourhood that feels distinctly different from the polished streets to the south.</p>
               </div>
               <div className="border-t border-dark-border pt-3">
                 <h3 className="text-gold font-semibold mb-2">Clubs in This Area</h3>
                 <div className="space-y-2">
-                  <div><Link href="/clubs/beat-london" className="text-white font-medium hover:text-gold">BEAT London</Link>: <span className="text-dark-muted text-sm">The most relaxed venue on the Mayfair circuit. Smart casual dress code, designer trainers acceptable. Music-focused programming in a Fitzrovia setting.</span></div>
+                  <div><Link href="/clubs/beat-london" className="text-white font-medium hover:text-gold">BEAT London</Link>: <span className="text-dark-muted text-sm">House music from 1am to 6am in Fitzrovia, by table booking. Smart casual, no sportswear; trainers only if clean and smart, at the door&apos;s discretion.</span></div>
                 </div>
               </div>
               <div className="border-t border-dark-border pt-3">

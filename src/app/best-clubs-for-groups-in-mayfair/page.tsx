@@ -97,9 +97,9 @@ const groupRecommendations: GroupRecommendation[] = [
       {
         name: "BEAT London",
         slug: "beat-london",
-        why: "Pure party energy on Margaret Street, just north of Mayfair, with a younger, high-energy crowd. BEAT does not overthink it: the music is loud, the lights are dynamic, and the atmosphere is built for groups who want to dance, which makes it a smart choice for larger groups.",
+        why: "An after-hours house music club on Margaret Street, just north of Mayfair, with doors at 1am and a capacity of about 250. Plan dinner or a bar first, then keep the group together at one table until 6am.",
         guestlistOrTables:
-          "BEAT doesn't run a guestlist: entry is by table booking, so book one table for the whole group. Ideal for groups of 8 to 12 who want a table and a proper dance floor.",
+          "BEAT doesn't run a guestlist: entry is by table booking, so book one table for the whole group.",
         approxGroupCost:
           "Tables from £1,000 min spend.",
         bestNight: "Friday or Saturday.",

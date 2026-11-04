@@ -50,7 +50,7 @@ const faqs = [
   {
     question: "What is the age range at Mayfair clubs?",
     answer:
-      "Most Mayfair clubs attract a 23 to 35 crowd, though it varies by venue. BEAT skews younger, with an early-twenties crowd. Scotch of St James, Maddox, and Dear Darling draw a more mature 28 to 40 crowd. Most venues are strictly 18 plus; 99 Regent Street is 19 plus with physical photo ID, Maddox is 20 plus, and Cirque Le Soir is 21 plus at weekends.",
+      "Most Mayfair clubs attract a 23 to 35 crowd, though it varies by venue. Scotch of St James, Maddox, and Dear Darling draw a more mature 28 to 40 crowd. Most venues are strictly 18 plus; 99 Regent Street is 19 plus with physical photo ID, Maddox is 20 plus, and Cirque Le Soir is 21 plus at weekends.",
   },
 ];
 
@@ -105,19 +105,12 @@ export default function WhereToGoOutPage() {
             Don&apos;t want to read the whole guide? Fair enough. If you need a
             solid Mayfair night with zero research, go to{" "}
             <Link
-              href="/clubs/beat-london"
-              className="text-gold hover:text-gold-light"
-            >
-              BEAT London
-            </Link>{" "}
-            on a Saturday or{" "}
-            <Link
               href="/clubs/reign-london"
               className="text-gold hover:text-gold-light"
             >
               Reign London
             </Link>{" "}
-            on a Thursday. Both deliver every time. For what is open and
+            on a Thursday. It delivers every time. For what is open and
             available right now, message us on WhatsApp.
           </p>
           <WhatsAppCTA size="sm" />

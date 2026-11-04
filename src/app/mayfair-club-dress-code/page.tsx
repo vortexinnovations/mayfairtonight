@@ -233,12 +233,12 @@ const clubDressCodes: ClubDressCode[] = [
     ],
     doesnt: [
       "Sportswear or tracksuits",
-      "Trainers or very casual footwear",
+      "Trainers that are not clean and smart",
       "Baggy or ill-fitting clothing",
       "Basic t-shirts without layers",
     ],
     insiderTip:
-      "BEAT, on Margaret Street just north of Mayfair, attracts a younger, fashion-aware crowd. The dress code is not as strict as Tape or Scotch but you still need to look like you have put thought into your outfit. Style matters more than price tags.",
+      "BEAT, on Margaret Street in Fitzrovia, a short walk from Mayfair, is smart casual with no sportswear. Trainers only if clean and smart, and that is at the door's discretion.",
   },
 ];
 
@@ -271,7 +271,7 @@ const faqs = [
   {
     question: "Will I get turned away for wearing a polo shirt?",
     answer:
-      "It depends on the venue. A high-quality polo shirt can work at Selene and BEAT on quieter nights. It will not pass at Tape London, Scotch, Maddox, or Reign. A collared shirt is always the safer choice: it costs you nothing extra and opens every door.",
+      "It depends on the venue. A high-quality polo shirt can work at Selene on quieter nights. It will not pass at Tape London, Scotch, Maddox, or Reign. A collared shirt is always the safer choice: it costs you nothing extra and opens every door.",
   },
 ];
 

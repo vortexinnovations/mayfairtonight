@@ -23,7 +23,7 @@ The music policy blended hip-hop, RnB and funky house, which is where the club g
 ## Where to Go Instead
 
 - **Itzel**, at the old Funky Buddha address on Berkeley Street, open Thursday to Saturday. It is a new venue with its own programming, so ask us what is on the night you want.
-- **[BEAT London](/clubs/beat-london)** for a high-energy night of hip-hop, RnB and house on a proper dance floor with serious sound, on Margaret Street in Fitzrovia, just north of Mayfair.
+- **[BEAT London](/clubs/beat-london)** for house music from 1am to 6am, by table booking, on Margaret Street in Fitzrovia, just north of Mayfair.
 - **[Reign London](/clubs/reign-london)** on Piccadilly for hip-hop and commercial music with shows and big production, open Tuesday, Thursday, Friday and Saturday.
 - **[Tape London](/clubs/tape-london)** on Hanover Square if you want hip-hop and RnB in Mayfair's most exclusive room, open Tuesday, Friday, Saturday and Sunday.
 

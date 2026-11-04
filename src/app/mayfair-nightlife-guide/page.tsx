@@ -30,7 +30,7 @@ const faqs = [
   {
     question: "What age group goes to Mayfair clubs?",
     answer:
-      "Most Mayfair clubs attract 23 to 40 year olds. Venues like Maddox, Scotch of St James, and Dear Darling skew older and more sophisticated. BEAT London attracts a younger crowd. Tape London is ageless: it's about status and connections, not age.",
+      "Most Mayfair clubs attract 23 to 40 year olds. Venues like Maddox, Scotch of St James, and Dear Darling skew older and more sophisticated. Tape London is ageless: it's about status and connections, not age.",
   },
   {
     question: "How do I get on the guestlist at Mayfair clubs?",
@@ -541,7 +541,6 @@ export default function MayfairNightlifeGuidePage() {
               <p className="text-sm text-gray-300">
                 <Link href="/clubs/tape-london" className="text-white hover:text-gold">Tape</Link>{" "}→{" "}
                 <Link href="/clubs/cirque-le-soir" className="text-white hover:text-gold">Cirque Le Soir</Link>{" "}→{" "}
-                <Link href="/clubs/beat-london" className="text-white hover:text-gold">BEAT London</Link>{" "}→{" "}
                 <Link href="/clubs/rumour-london" className="text-white hover:text-gold">Rumour</Link>
               </p>
             </div>
@@ -590,7 +589,6 @@ export default function MayfairNightlifeGuidePage() {
                 Maximum Party Energy
               </h3>
               <p className="text-sm text-gray-300">
-                <Link href="/clubs/beat-london" className="text-white hover:text-gold">BEAT London</Link>{" "}→{" "}
                 <Link href="/clubs/reign-london" className="text-white hover:text-gold">Reign</Link>{" "}→{" "}
                 <Link href="/clubs/99-regent-street" className="text-white hover:text-gold">99 Regent Street</Link>{" "}→{" "}
                 <Link href="/clubs/cirque-le-soir" className="text-white hover:text-gold">Cirque Le Soir</Link>

@@ -92,8 +92,8 @@ export default function ItineraryPage() {
                 <p className="text-sm text-gray-300">Start with drinks near Berkeley Square, then head south towards Piccadilly. Keep it to two cocktails: the night is long.</p>
               </div>
               <div>
-                <p className="text-gold font-semibold mb-1">11:00pm: <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">Reign London</Link>, <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">BEAT London</Link>{" "}or <Link href="/clubs/rumour-london" className="text-gold hover:text-gold-light">Rumour</Link></p>
-                <p className="text-sm text-gray-300">Reign London and BEAT London both play hip-hop alongside commercial and house. Reign London on Piccadilly adds shows and big production; BEAT London, just north of Oxford Circus, is built around its sound system for a proper dance floor. Rumour (formerly Tabu), at 1 Dover Street a few minutes from Green Park, is one intimate room of red velvet booths playing open-format hip hop, RnB and house, and it fills early by design. Pick based on your mood.</p>
+                <p className="text-gold font-semibold mb-1">11:00pm: <Link href="/clubs/reign-london" className="text-gold hover:text-gold-light">Reign London</Link>{" "}or <Link href="/clubs/rumour-london" className="text-gold hover:text-gold-light">Rumour</Link></p>
+                <p className="text-sm text-gray-300">Reign London on Piccadilly plays hip-hop alongside commercial and house, with shows and big production. Rumour (formerly Tabu), at 1 Dover Street a few minutes from Green Park, is one intimate room of red velvet booths playing open-format hip hop, RnB and house, and it fills early by design. Pick based on your mood. If you want a later night, BEAT London, just north of Oxford Circus, opens at 1am with house music until 6am, by table booking.</p>
               </div>
               <div>
                 <p className="text-gold font-semibold mb-1">1:00am: Late night at <Link href="/clubs/tape-london" className="text-gold hover:text-gold-light">Tape London</Link>{" "}(if you can get in)</p>
@@ -104,7 +104,7 @@ export default function ItineraryPage() {
                   <div><span className="text-dark-muted">Dress code:</span> <span className="text-gray-300">Smart sharp. No trainers. Fitted trousers, good shoes, collared shirt or sharp knitwear.</span></div>
                   <div><span className="text-dark-muted">Budget (no table):</span> <span className="text-gray-300">£100-180 per person including cocktails and club drinks.</span></div>
                   <div><span className="text-dark-muted">Best for:</span> <span className="text-gray-300">Hip-hop lovers, birthday nights, mixed groups.</span></div>
-                  <div><span className="text-dark-muted">Book ahead:</span> <span className="text-gray-300">Guestlist at Reign, a table at BEAT (it has no guestlist), or a booth at Rumour (its guestlist is for ladies only). Table at Tape if going late.</span></div>
+                  <div><span className="text-dark-muted">Book ahead:</span> <span className="text-gray-300">Guestlist at Reign, a booth at Rumour, or a table at BEAT for later (it has no guestlist) (its guestlist is for ladies only). Table at Tape if going late.</span></div>
                 </div>
               </div>
             </div>
@@ -179,8 +179,8 @@ export default function ItineraryPage() {
                 <p className="text-sm text-gray-300">Gather the group at a bar near Piccadilly Circus or Regent Street. Get everyone together before heading to the main venue. Large groups are easier to manage when you arrive as one unit.</p>
               </div>
               <div>
-                <p className="text-gold font-semibold mb-1">11:00pm: <Link href="/clubs/99-regent-street" className="text-gold hover:text-gold-light">99 Regent Street</Link>{" "}or <Link href="/clubs/beat-london" className="text-gold hover:text-gold-light">BEAT London</Link></p>
-                <p className="text-sm text-gray-300">99 Regent Street (formerly Cuckoo Club), entered from Swallow Street two minutes from Piccadilly Circus, has two floors of around 200 each: open-format hip hop and RnB upstairs, house downstairs, with both floors running on Friday and Saturday. Its guestlist takes mixed groups, and tables from £600 cover entry for the whole group. BEAT London, just north of Oxford Circus, suits a big group: high-energy hip-hop, RnB, commercial and house, a proper dance floor, and a smart-casual door that is easier for a large party. For big groups, consider a table to guarantee everyone gets in.</p>
+                <p className="text-gold font-semibold mb-1">11:00pm: <Link href="/clubs/99-regent-street" className="text-gold hover:text-gold-light">99 Regent Street</Link></p>
+                <p className="text-sm text-gray-300">99 Regent Street (formerly Cuckoo Club), entered from Swallow Street two minutes from Piccadilly Circus, has two floors of around 200 each: open-format hip hop and RnB upstairs, house downstairs, with both floors running on Friday and Saturday. Its guestlist takes mixed groups, and tables from £600 cover entry for the whole group. BEAT London, just north of Oxford Circus, is the option for later: house music from 1am to 6am, by table booking. For big groups, consider a table to guarantee everyone gets in.</p>
               </div>
               <div>
                 <p className="text-gold font-semibold mb-1">1:30am: Late-night options</p>
@@ -191,7 +191,7 @@ export default function ItineraryPage() {
                   <div><span className="text-dark-muted">Dress code:</span> <span className="text-gray-300">Elegant at 99 Regent Street, with physical photo ID for everyone at its 19+ door. Smart casual at BEAT, no sportswear. Standard Mayfair smart at Reign. Brief your group in advance: one person in trainers can hold everyone up.</span></div>
                   <div><span className="text-dark-muted">Budget (no table):</span> <span className="text-gray-300">£80-140 per person. Tables recommended for 8+ people.</span></div>
                   <div><span className="text-dark-muted">Best for:</span> <span className="text-gray-300">Birthdays, stag/hen nights, work socials, reunion groups.</span></div>
-                  <div><span className="text-dark-muted">Book ahead:</span> <span className="text-gray-300">Guestlist or table at 99 Regent Street, or a table at BEAT, which has no guestlist. Backup guestlist at Reign.</span></div>
+                  <div><span className="text-dark-muted">Book ahead:</span> <span className="text-gray-300">Guestlist or table at 99 Regent Street, then a table at BEAT if you are going on after 1am: it has no guestlist. Backup guestlist at Reign.</span></div>
                 </div>
               </div>
             </div>

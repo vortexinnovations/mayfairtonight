@@ -544,14 +544,13 @@ export default function MayfairVIPPage() {
                   >
                     BEAT London
                   </Link>
-                  <span className="text-gold text-sm ml-2">Young & Energetic</span>
+                  <span className="text-gold text-sm ml-2">After Hours</span>
                 </h4>
                 <p className="text-sm text-gray-300 mb-2">
-                  A younger, fashion-conscious crowd with plenty of energy.
-                  Tables are available at accessible price points and the
-                  atmosphere is lively without being overwhelming. Good music,
-                  good crowd, and a solid VIP offering for those who want
-                  premium without the exclusivity pressure.
+                  An after-hours house music club in Fitzrovia, open from 1am to
+                  6am on Friday, Saturday and select Thursdays. Entry is by table
+                  booking, with tables from £1,000 minimum spend and VIP tables
+                  from £2,000.
                 </p>
               </div>
             </div>

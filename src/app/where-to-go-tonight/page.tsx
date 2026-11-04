@@ -45,11 +45,6 @@ const recommendations: Recommendation[] = [
         slug: "rumour-london",
         why: "Formerly Tabu. One intimate room of red velvet booths on Dover Street, open-format hip hop, RnB and house until 4am, and no photos or video on the dance floor.",
       },
-      {
-        name: "BEAT London",
-        slug: "beat-london",
-        why: "Built around the sound system, just north of Oxford Street. If the music matters more than the scene, go here.",
-      },
     ],
   },
   {
@@ -72,6 +67,11 @@ const recommendations: Recommendation[] = [
         name: "Selene London",
         slug: "selene-london",
         why: "Refined house and deep house in an elegant setting just north of Oxford Circus. Moonlit luxury with a quality sound.",
+      },
+      {
+        name: "BEAT London",
+        slug: "beat-london",
+        why: "After-hours house music from 1am to 6am, just north of Oxford Street, by table booking.",
       },
     ],
   },

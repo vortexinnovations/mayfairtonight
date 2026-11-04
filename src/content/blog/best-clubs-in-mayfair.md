@@ -77,7 +77,7 @@ We book tables and guestlist across Mayfair every week. We know which clubs deli
 
 ### 10. BEAT London: The Sound System
 
-[BEAT](/clubs/beat-london) is a pure nightclub experience. No gimmicks, no shows, just a serious sound system and a crowd that's there to dance. The bass hits different here. It sits on Margaret Street in Fitzrovia, a short walk north of Mayfair.
+[BEAT](/clubs/beat-london) is an after-hours house music club, open from 1am to 6am by table booking. The venue's own account is that it has one of London's finest sound systems. It sits on Margaret Street in Fitzrovia, a short walk north of Mayfair.
 
 **Best for:** Music-first people who want to dance, not pose.
 
