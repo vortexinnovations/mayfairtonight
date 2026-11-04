@@ -476,7 +476,7 @@ export const clubs: Club[] = [
     whatToExpect: "Libertine has permanently closed. For a similar high-energy experience, check out BEAT London or Reign London.",
     bestFor: "This venue has permanently closed",
     status: "closed",
-    closedMessage: "Libertine has permanently closed, and Selene now operates in its place. Looking for a similar experience? Try Selene London, BEAT London for high-energy hip-hop and serious sound, or Reign London for a glamorous, production-heavy night.",
+    closedMessage: "Libertine has permanently closed, and Selene now operates in its place. Looking for a similar experience? Try Selene London, BEAT London for after-hours house music from 1am, or Reign London for a glamorous, production-heavy night.",
     alternatives: ["selene-london", "beat-london", "reign-london"],
   },
   {
