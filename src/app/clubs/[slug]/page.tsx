@@ -218,6 +218,9 @@ export default async function ClubPage({
                     </tbody>
                   </table>
                 </div>
+                {club.hoursNote && (
+                  <p className="text-gray-300 leading-relaxed mt-3">{club.hoursNote}</p>
+                )}
               </section>
             )}
 
@@ -412,7 +415,7 @@ export default async function ClubPage({
                     addressLocality: "London",
                     addressCountry: "GB",
                   },
-                  openingHours: club.openNights.map(
+                  openingHours: (club.schemaDays ?? club.openNights).map(
                     (night) =>
                       `${night.substring(0, 2)} ${club.openingTime}-${club.closingTime}`
                   ),

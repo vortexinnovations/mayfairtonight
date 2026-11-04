@@ -43,6 +43,10 @@ export interface Club {
   hoursLabel?: string;
   /** A plain night-by-night hours table on the club page. */
   hoursTable?: { night: string; doors: string; closes: string }[];
+  /** One line under the hours table. */
+  hoursNote?: string;
+  /** Calendar days for structured data, when the doors open on the morning after the night named. Defaults to openNights. */
+  schemaDays?: string[];
   /** Extra sections on the club page, for venues with a dedicated search lane. */
   guide?: { heading: string; paragraphs: string[] }[];
   /** Questions shown on the club page and sent as FAQPage structured data. */
@@ -379,6 +383,7 @@ export const clubs: Club[] = [
     tableMinimum: "£1,000",
     openNights: ["Friday", "Saturday"],
     selectNights: ["Thursday"],
+    schemaDays: ["Saturday", "Sunday"],
     openingTime: "01:00",
     closingTime: "06:00",
     hoursLabel: "1am to 6am",
@@ -395,6 +400,7 @@ export const clubs: Club[] = [
       { night: "Thursday (select nights only)", doors: "1am", closes: "6am" },
       { night: "Sunday to Wednesday", doors: "Closed", closes: "Closed" },
     ],
+    hoursNote: "Nights run into the next morning, so a Friday night at BEAT means doors at 1am on Saturday morning.",
     guide: [
       {
         heading: "Is BEAT London Open Tonight?",
@@ -413,17 +419,17 @@ export const clubs: Club[] = [
       {
         heading: "How to Book BEAT London for Tonight",
         paragraphs: [
-          "Entry is by table booking, so the booking is the way in. Message us on WhatsApp with the night and the size of your group, and we will tell you what is available and confirm the table. On the day itself, the earlier you message the better.",
+          "Entry is by table booking, so the booking is the way in. Message us on WhatsApp with the night and the size of your group, and we will tell you what is available and confirm the table. Last-minute tables are often possible, subject to availability. On the day itself, the earlier you message the better.",
           "Tables start from £1,000 minimum spend, spent on drinks, and VIP tables start from £2,000. Bottles start from £750. These prices are as of November 2026. BEAT has members, but you do not need to be one: non-members can book a table. There are no tickets to buy and no guestlist to join.",
         ],
       },
     ],
     faqs: [
-      { question: "What time does BEAT London open?", answer: "BEAT London opens at 1am on Friday, Saturday and select Thursdays." },
+      { question: "What time does BEAT London open?", answer: "BEAT London opens at 1am on Friday, Saturday and select Thursdays. Nights run into the next morning, so a Friday night means doors at 1am on Saturday morning." },
       { question: "What time does BEAT London close?", answer: "BEAT London closes at 6am on every night it opens." },
       { question: "Is BEAT London open on Thursdays?", answer: "On select Thursdays only, not every week. Message us and we will check whether it is open on the Thursday you have in mind." },
       { question: "Can I get into BEAT London before 1am?", answer: "No. The doors are at 1am, so plan dinner or a bar first." },
-      { question: "Can I book a table at BEAT London for tonight?", answer: "Message us on WhatsApp with your group size and we will tell you what is available tonight. Tables start from £1,000 minimum spend, spent on drinks." },
+      { question: "Can I book a table at BEAT London for tonight?", answer: "Last-minute tables are often possible, subject to availability. Message us on WhatsApp with your group size and we will tell you what is available tonight. Tables start from £1,000 minimum spend, spent on drinks." },
       { question: "How old do you have to be to get into BEAT London?", answer: "BEAT London is 18+, and you need photo ID." },
     ],
   },
