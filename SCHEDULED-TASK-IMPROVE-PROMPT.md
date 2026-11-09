@@ -68,7 +68,26 @@ SITE  /mayfair-vip-nightlife                      447 / 6, pos 8.3
 SITE  /best-clubs-for-groups-in-mayfair           515 / 4, pos 15.5
 ```
 
-The homepage is excluded. When the queue is exhausted, run `ppm --queries mayfairtonight` (top pages, last 90 days) and take the highest-impression page not improved in the last 90 days.
+The homepage is excluded. As of 2026-11-09 every BLOG entry above is handled (improved or skipped); the SITE entries still wait for a local run, which takes the first unhandled one.
+
+**Blog queue, refilled 2026-11-09** (for runs that can only use the content API, such as the cloud routine; a local run may still take a SITE entry above first). Built after the Monday strategist run from 90 days of Search Console impressions (8 August to 7 November 2026): live `/blog/` posts only, nothing improved or skipped in the last 60 days, each page's main query (or its slug where Search Console reports no query) run through `ppm --check mayfairtonight "<query>" --except <url>` with every `stop` dropped. Impressions are small: the blog's traffic sits on the posts improved in October, and the real demand is on the site pages. Take the FIRST entry not already handled:
+
+```
+BLOG  /blog/where-to-eat-after-clubbing-mayfair          173 / 2, pos 14.5  check: caution (4 related posts: keep the late dinner angle)
+BLOG  /blog/friday-night-mayfair                          33 / 1, pos 7     check: caution
+BLOG  /blog/shepherd-market-after-dark                    27 / 0, pos 5.3   check: go     
+BLOG  /blog/thursday-night-mayfair                        25 / 0, pos 9.9   check: caution
+BLOG  /blog/tuesday-night-out-mayfair                     22 / 0, pos 8     check: caution
+BLOG  /blog/mount-street-after-dark                       18 / 0, pos 5.5   check: caution
+BLOG  /blog/mayfair-vs-shoreditch-vs-chelsea-nightlife    14 / 0, pos 12.5  check: go      (comparison post)
+BLOG  /blog/albemarle-street-after-dark                   13 / 0, pos 8.9   check: caution
+BLOG  /blog/hip-hop-nights-mayfair                         9 / 0, pos 7.1   check: caution
+BLOG  /blog/curzon-street-after-dark                       6 / 0, pos 8.8   check: caution
+BLOG  /blog/berkeley-square-after-dark                     5 / 0, pos 4.4   check: caution
+BLOG  /blog/hanover-square-after-dark                      5 / 0, pos 7.2   check: caution
+```
+
+Dropped as `stop` (another site owns the search, or a stronger page here already covers it): best-cocktail-bars-before-clubbing-mayfair, best-clubs-in-mayfair, scotch-of-st-james-guide, mayfair-private-members-clubs, clubs-with-live-entertainment-london, saturday-night-london-guide, late-night-clubs-mayfair, date-night-mayfair-clubs, mayfair-nightlife-guide. When this blog queue is exhausted, run `ppm --queries mayfairtonight --days 90` and take the highest-impression `/blog/` post whose latest `improvements` entry is more than 60 days old (a local run may take any page, blog or site, not improved in the last 90 days). If nothing qualifies, record `ppm --report mayfairtonight skipped "blog queue exhausted: every live post improved in the last 60 days" --type improvement` and stop.
 
 **Duplicate check:** before improving a page, check it is not a near-copy of a stronger page on this site (search the repo titles and `ppm --urls mayfairtonight`). If it is, do NOT improve it: record it with `ppm --report mayfairtonight skipped "possible-duplicate of <stronger URL>" "<the evidence>" --url <its live URL> --type improvement` and take the next entry. Consolidation is a human decision.
 
