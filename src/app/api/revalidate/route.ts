@@ -20,6 +20,7 @@ const IMPLICIT_TAG_PREFIX = "_N_T_";
 const ROUTE_TAGS = [
   "/blog/[slug]/page", // every post page ("Keep Reading" shows the newest posts)
   "/blog/page",
+  "/page", // the home page ("Latest guides" lists the six newest posts)
 ].map((route) => IMPLICIT_TAG_PREFIX + route);
 
 // The cached post list the sitemap renders from (lib/blog.ts getListingPosts).

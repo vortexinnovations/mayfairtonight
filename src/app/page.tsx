@@ -10,6 +10,7 @@ import eventsData from "@/data/events.json";
 import { getTodayString, getDayOfWeek, formatDate } from "@/lib/utils";
 import Link from "next/link";
 import { heroImages, clubImages, sectionImages } from "@/data/images";
+import { getAllPosts } from "@/lib/blog";
 
 export const metadata: Metadata = {
   title: "What's On Tonight in Mayfair: Clubs Open Tonight London",
@@ -24,7 +25,7 @@ export const metadata: Metadata = {
   },
 };
 
-export default function HomePage() {
+export default async function HomePage() {
   const today = getTodayString();
   const dayOfWeek = getDayOfWeek();
   const todayFormatted = formatDate(today);
@@ -39,6 +40,10 @@ export default function HomePage() {
   );
 
   const hasEvents = tonightEvents.length > 0;
+
+  // The six newest posts, from the same merged list as the blog index (files
+  // plus database posts). Refreshed by /api/revalidate on every publish.
+  const latestPosts = (await getAllPosts()).slice(0, 6);
 
   return (
     <>
@@ -295,6 +300,38 @@ export default function HomePage() {
           </p>
         </div>
       </section>
+
+      {/* Latest blog posts */}
+      {latestPosts.length > 0 && (
+        <section className="max-w-6xl mx-auto px-4 mt-12">
+          <h2 className="text-xl font-semibold text-white mb-4">Latest guides</h2>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
+            {latestPosts.map((post) => (
+              <div
+                key={post.slug}
+                className="relative bg-dark-card border border-dark-border rounded-lg p-4 hover:border-gold/30 transition-colors"
+              >
+                <p className="text-xs text-dark-muted mb-1">
+                  {new Date(post.date + "T12:00:00").toLocaleDateString("en-GB", {
+                    day: "numeric",
+                    month: "long",
+                    year: "numeric",
+                  })}
+                </p>
+                <h3 className="font-semibold text-white">
+                  <Link
+                    href={`/blog/${post.slug}`}
+                    className="hover:text-gold transition-colors after:absolute after:inset-0"
+                  >
+                    {post.title}
+                  </Link>
+                </h3>
+                <p className="text-xs text-dark-muted mt-1 line-clamp-2">{post.excerpt}</p>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
 
       {/* Booking CTA with background image */}
       <section className="relative mt-12 py-16 overflow-hidden">
