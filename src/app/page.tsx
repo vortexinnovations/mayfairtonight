@@ -25,6 +25,10 @@ export const metadata: Metadata = {
   },
 };
 
+// The page shows today's date and the clubs open tonight, so it cannot stay
+// frozen at the last build: regenerate at most once an hour.
+export const revalidate = 3600;
+
 export default async function HomePage() {
   const today = getTodayString();
   const dayOfWeek = getDayOfWeek();
