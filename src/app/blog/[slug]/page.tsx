@@ -6,6 +6,7 @@ import Image from "next/image";
 import { getAllSlugs, getPostWithHtml, getAllPosts } from "@/lib/blog";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
+import { ArticlePreferredSourcePrompt } from "@/components/PreferredSourceButton";
 import { fitTitle } from "@/lib/seo";
 
 // Posts are prerendered at build and refreshed by /api/revalidate when the
@@ -171,6 +172,8 @@ export default async function BlogPost({
           </p>
           <WhatsAppCTA size="lg" />
         </div>
+
+        <ArticlePreferredSourcePrompt />
 
         {/* Related posts */}
         {relatedPosts.length > 0 && (

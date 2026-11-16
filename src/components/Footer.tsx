@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getOpenClubs } from "@/data/clubs";
+import { PreferredSourceButton } from "./PreferredSourceButton";
 
 export default function Footer() {
   return (
@@ -15,6 +16,12 @@ export default function Footer() {
               The insider guide to Mayfair&apos;s nightlife. Clubs, guestlists,
               dress codes, and everything you need for a night out.
             </p>
+            <div className="mt-6">
+              <PreferredSourceButton placement="footer" />
+              <p className="mt-2.5 text-xs text-dark-muted">
+                See us first in Google Search, Discover &amp; AI Mode.
+              </p>
+            </div>
           </div>
 
           {/* Column 2 — Mayfair Guides */}

@@ -5,12 +5,12 @@ const CSP = "frame-ancestors 'self'; base-uri 'self'; object-src 'none'";
 // Watch only, nothing is blocked: browsers log what a full policy would stop.
 const CSP_REPORT_ONLY = [
   "default-src 'self'",
-  "script-src 'self' 'unsafe-inline' https://challenges.cloudflare.com",
+  "script-src 'self' 'unsafe-inline' https://challenges.cloudflare.com https://news.google.com",
   "style-src 'self' 'unsafe-inline'",
   "img-src 'self' data: blob: https:",
   "font-src 'self' data:",
-  "connect-src 'self' https://challenges.cloudflare.com",
-  "frame-src https://challenges.cloudflare.com https://www.google.com https://maps.google.com",
+  "connect-src 'self' https://challenges.cloudflare.com https://londonnightguide.com",
+  "frame-src https://challenges.cloudflare.com https://www.google.com https://maps.google.com https://news.google.com",
   "media-src 'self' https:",
   "form-action 'self'",
 ].join("; ");

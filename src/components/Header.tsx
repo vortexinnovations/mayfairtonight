@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useState } from "react";
+import { PreferredSourceButton } from "./PreferredSourceButton";
 
 const navLinks = [
   { href: "/", label: "Tonight" },
@@ -33,6 +34,12 @@ export default function Header() {
           <Link href="/" className="text-gold font-bold text-xl tracking-tight">
             MAYFAIR<span className="text-white">TONIGHT</span>
           </Link>
+
+          {/* Preferred Sources pill: sits beside the nav once the row has room
+              for the logo, the pill and all seven links */}
+          <div className="hidden min-[1100px]:block ml-auto mr-6">
+            <PreferredSourceButton placement="header" />
+          </div>
 
           {/* Desktop nav */}
           <nav className="hidden md:flex items-center gap-6">
@@ -129,6 +136,12 @@ export default function Header() {
                   </Link>
                 ))}
               </div>
+            </div>
+            <div className="border-t border-dark-border pt-4 mt-1 flex flex-col items-center gap-2.5">
+              <PreferredSourceButton placement="menu" />
+              <p className="text-xs text-dark-muted">
+                See us first in Google Search &amp; AI Mode
+              </p>
             </div>
           </nav>
         </div>
