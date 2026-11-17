@@ -460,7 +460,7 @@ export const clubs: Club[] = [
     insiderTip:
       "Last entry is 2am, an hour before closing, so do not leave it late. As of November 2026, entry is free for mixed groups before 11:30pm; otherwise guestlist and entry are by request, and any door charge is confirmed when you book.",
     whatToExpect:
-      "Two rooms. The Main Room has the DJ and the bar: it is open to everyone and it is where guests dance and mingle. The VIP King's Room is a more exclusive space where many VIP guests spend their time, with a private-party feel. Tables are bookable in both rooms, and the minimum spend is confirmed when you book. The resident, DJ Tiempo, usually plays house and Latin, and DJ Dan usually plays more commercial sets. As of November 2026, champagne starts from £500 and the signature packages from £1,100; prices can change and are confirmed when you book.",
+      "Two rooms. The Main Room has the DJ and the bar: it is open to everyone and it is where guests dance and mingle. The VIP King's Room is a more exclusive space where many VIP guests spend their time, with a private-party feel. Tables are bookable in both rooms, and the minimum spend is confirmed when you book. The resident, DJ Tiempo, usually plays house and Latin, and DJ Dan usually plays more commercial sets. Each room has its own menu. As of November 2026, the signature packages start from £1,100 in both rooms; in the Main Room champagne starts from £350 (Moët) and spirits from £550, and in the King's Room champagne starts from £500 and spirits from £650. Prices can change and are confirmed when you book.",
     bestFor: "A late night in Chelsea on any night but Tuesday and Sunday, with house and Latin music and a table in the Main Room or the King's Room",
     status: "open",
     hoursTable: [
@@ -498,7 +498,7 @@ export const clubs: Club[] = [
         heading: "How to Book The Rex Rooms for Tonight",
         paragraphs: [
           "Message us on WhatsApp with the night and the size of your group, and we will tell you what is available. Tables are bookable in the Main Room and in the VIP King's Room, and the minimum spend is confirmed when you book. On the day itself, the earlier you message the better.",
-          "As of November 2026, entry is free for mixed groups before 11:30pm. Otherwise guestlist and entry are by request, and any door charge is confirmed when you book. Champagne starts from £500 and the signature packages from £1,100; prices can change and are confirmed when you book.",
+          "As of November 2026, entry is free for mixed groups before 11:30pm. Otherwise guestlist and entry are by request, and any door charge is confirmed when you book. Each room has its own drinks menu: packages from £1,100 in both rooms, champagne from £350 and spirits from £550 in the Main Room, and champagne from £500 and spirits from £650 in the King's Room, as of November 2026. Prices can change and are confirmed when you book.",
         ],
       },
     ],
