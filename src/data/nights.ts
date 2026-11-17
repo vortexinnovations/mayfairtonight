@@ -25,7 +25,7 @@ export const nights: NightInfo[] = [
     vibe: "Intimate, theatrical, surprisingly lively",
     bestFor: "Those who want a real nightclub experience without the weekend crowds",
     recommendation:
-      "Cirque Le Soir is your best option on a Monday: full circus performers, hip-hop and RnB, and a genuinely great atmosphere. Book a table to guarantee entry. It's one of London's most underrated Monday nights. Outside Mayfair, The Rex Rooms on the King's Road in Chelsea runs Industry Mondays, 11:30pm to 3am, with last entry at 2am.",
+      "Cirque Le Soir is your best option on a Monday: full circus performers, hip-hop and RnB, and a genuinely great atmosphere. Book a table to guarantee entry. It's one of London's most underrated Monday nights. Outside Mayfair, The Rex Rooms on the King's Road in Chelsea runs Industry Mondays, 11pm to 3am, with last entry at 2am.",
   },
   {
     slug: "tuesday",
@@ -55,7 +55,7 @@ export const nights: NightInfo[] = [
     vibe: "Midweek buzz, sociable, less crowded than weekends",
     bestFor: "Midweek party people, sociable groups, those who want big-club energy without weekend crowds",
     recommendation:
-      "Wednesday is brilliant in Mayfair. Cirque Le Soir runs its full circus-nightclub experience on Wednesdays, one of the best midweek nights in London. The Box opens for something edgier and theatrical. Rumour on Dover Street and 99 Regent Street by Piccadilly Circus both open from 11pm to 4am: Wednesday is one of Rumour's relaxed nights and the easiest for its ladies' guestlist, and 99 opens one of its two floors. Note: Reign London is closed on Wednesdays, and BEAT London and Maddox open from Thursday. Outside Mayfair, The Rex Rooms on the King's Road in Chelsea runs House Wednesday, 11:30pm to 3am, with last entry at 2am.",
+      "Wednesday is brilliant in Mayfair. Cirque Le Soir runs its full circus-nightclub experience on Wednesdays, one of the best midweek nights in London. The Box opens for something edgier and theatrical. Rumour on Dover Street and 99 Regent Street by Piccadilly Circus both open from 11pm to 4am: Wednesday is one of Rumour's relaxed nights and the easiest for its ladies' guestlist, and 99 opens one of its two floors. Note: Reign London is closed on Wednesdays, and BEAT London and Maddox open from Thursday. Outside Mayfair, The Rex Rooms on the King's Road in Chelsea runs House Wednesday, 11pm to 3am, with last entry at 2am.",
   },
   {
     slug: "thursday",
