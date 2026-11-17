@@ -434,8 +434,8 @@ export const clubs: Club[] = [
     ],
   },
 
-  // The Rex Rooms (owner facts, 2026-11-17): in Chelsea, not Mayfair. Table minimum
-  // spends are not confirmed, so tableMinimum stays empty ("confirmed when you book").
+  // The Rex Rooms (owner facts, 2026-11-17): in Chelsea, not Mayfair. Tables from
+  // £1,000 minimum spend in both rooms; no separate King's Room figure.
   {
     slug: "rex-rooms",
     metaTitle: "The Rex Rooms Tonight: Opening Times and Last Entry",
@@ -451,7 +451,7 @@ export const clubs: Club[] = [
     musicPolicy: ["House", "Latin", "Commercial"],
     dressCode: "Smart and stylish. Avoid sportswear.",
     dressCodeNotes: "The door has the final say. Entry is 18+ with photo ID.",
-    tableMinimum: "",
+    tableMinimum: "£1,000",
     openNights: ["Monday", "Wednesday", "Thursday", "Friday", "Saturday"],
     openingTime: "23:00",
     closingTime: "03:00",
@@ -460,7 +460,7 @@ export const clubs: Club[] = [
     insiderTip:
       "Last entry is 2am, an hour before closing, so do not leave it late. As of November 2026, the doors open at 11pm and mixed groups who arrive before 11:30pm get in free; otherwise guestlist and entry are by request, and any door charge is confirmed when you book.",
     whatToExpect:
-      "Two rooms. The Main Room has the DJ and the bar: it is open to everyone and it is where guests dance and mingle. The VIP King's Room is a more exclusive space where many VIP guests spend their time, with a private-party feel. Tables are bookable in both rooms, and the minimum spend is confirmed when you book. The resident, DJ Tiempo, usually plays house and Latin, and DJ Dan usually plays more commercial sets. Each room has its own menu. As of November 2026, the signature packages start from £1,100 in both rooms; in the Main Room champagne starts from £350 (Moët) and spirits from £550, and in the King's Room champagne starts from £500 and spirits from £650. Prices can change and are confirmed when you book.",
+      "Two rooms. The Main Room has the DJ and the bar: it is open to everyone and it is where guests dance and mingle. The VIP King's Room is a more exclusive space where many VIP guests spend their time, with a private-party feel. Tables are bookable in both rooms, from £1,000 minimum spend. The resident, DJ Tiempo, usually plays house and Latin, and DJ Dan usually plays more commercial sets. Each room has its own menu. As of November 2026, the signature packages start from £1,100 in both rooms; in the Main Room champagne starts from £350 (Moët) and spirits from £550, and in the King's Room champagne starts from £500 and spirits from £650. Prices can change and are confirmed when you book.",
     bestFor: "A late night in Chelsea on any night but Tuesday and Sunday, with house and Latin music and a table in the Main Room or the King's Room",
     status: "open",
     hoursTable: [
@@ -497,7 +497,7 @@ export const clubs: Club[] = [
       {
         heading: "How to Book The Rex Rooms for Tonight",
         paragraphs: [
-          "Message us on WhatsApp with the night and the size of your group, and we will tell you what is available. Tables are bookable in the Main Room and in the VIP King's Room, and the minimum spend is confirmed when you book. On the day itself, the earlier you message the better.",
+          "Message us on WhatsApp with the night and the size of your group, and we will tell you what is available. Tables are bookable in the Main Room and in the VIP King's Room, from £1,000 minimum spend. On the day itself, the earlier you message the better.",
           "As of November 2026, doors open at 11pm, and mixed groups who arrive before 11:30pm, in the first half hour, get in free. Otherwise guestlist and entry are by request, and any door charge is confirmed when you book. Each room has its own drinks menu: packages from £1,100 in both rooms, champagne from £350 and spirits from £550 in the Main Room, and champagne from £500 and spirits from £650 in the King's Room, as of November 2026. Prices can change and are confirmed when you book.",
         ],
       },
@@ -510,6 +510,7 @@ export const clubs: Club[] = [
       { question: "Is The Rex Rooms in Mayfair?", answer: "No. The Rex Rooms is in Chelsea, at 151 King's Road, London SW3 5TX. The nearest tubes are Sloane Square and South Kensington." },
       { question: "How old do you have to be to get into The Rex Rooms?", answer: "The Rex Rooms is 18+, and you need photo ID." },
       { question: "Is entry free at The Rex Rooms?", answer: "As of November 2026, doors open at 11pm, and mixed groups who arrive before 11:30pm, in the first half hour, get in free. Otherwise guestlist and entry are by request, and any door charge is confirmed when you book." },
+      { question: "How much is a table at The Rex Rooms?", answer: "Tables are from £1,000 minimum spend, in the Main Room or the VIP King's Room. Message us on WhatsApp with the night and your group size and we will confirm the table." },
     ],
   },
 
