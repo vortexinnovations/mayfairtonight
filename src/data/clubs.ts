@@ -434,6 +434,85 @@ export const clubs: Club[] = [
     ],
   },
 
+  // The Rex Rooms (owner facts, 2026-11-17): in Chelsea, not Mayfair. Table minimum
+  // spends are not confirmed, so tableMinimum stays empty ("confirmed when you book").
+  {
+    slug: "rex-rooms",
+    metaTitle: "The Rex Rooms Tonight: Opening Times and Last Entry",
+    ogTitle: "The Rex Rooms Tonight: Opening Times and Last Entry",
+    metaDescription:
+      "The Rex Rooms, 151 King's Road, Chelsea (not Mayfair): open Monday and Wednesday to Saturday, 11:30pm to 3am, last entry 2am. Closed Tuesday and Sunday.",
+    name: "The Rex Rooms",
+    tagline: "Chelsea, not Mayfair: King's Road nights from 11:30pm to 3am, last entry 2am",
+    description:
+      "The Rex Rooms opens at 11:30pm and closes at 3am on Monday, Wednesday, Thursday, Friday and Saturday, with last entry at 2am. It is closed on Tuesday and Sunday. It is in Chelsea, not Mayfair: the address is 151 King's Road, London SW3 5TX, on the site of the former 151 Club, and it opened in March 2025. The nearest tubes are Sloane Square and South Kensington. Entry is 18+ with photo ID, and the music is house and Latin, with commercial sets.",
+    location: "151 King's Road, Chelsea, London SW3 5TX",
+    area: "Chelsea",
+    musicPolicy: ["House", "Latin", "Commercial"],
+    dressCode: "Smart and stylish. Avoid sportswear.",
+    dressCodeNotes: "The door has the final say. Entry is 18+ with photo ID.",
+    tableMinimum: "",
+    openNights: ["Monday", "Wednesday", "Thursday", "Friday", "Saturday"],
+    openingTime: "23:30",
+    closingTime: "03:00",
+    hoursLabel: "11:30pm to 3am, last entry 2am",
+    vibe: "Two rooms, house and Latin, King's Road",
+    insiderTip:
+      "Last entry is 2am, an hour before closing, so do not leave it late. As of November 2026, entry is free for mixed groups before 11:30pm; otherwise guestlist and entry are by request, and any door charge is confirmed when you book.",
+    whatToExpect:
+      "Two rooms. The Main Room has the DJ and the bar: it is open to everyone and it is where guests dance and mingle. The VIP King's Room is a more exclusive space where many VIP guests spend their time, with a private-party feel. Tables are bookable in both rooms, and the minimum spend is confirmed when you book. The resident, DJ Tiempo, usually plays house and Latin, and DJ Dan usually plays more commercial sets. As of November 2026, champagne starts from £500 and the signature packages from £1,100; prices can change and are confirmed when you book.",
+    bestFor: "A late night in Chelsea on any night but Tuesday and Sunday, with house and Latin music and a table in the Main Room or the King's Room",
+    status: "open",
+    hoursTable: [
+      { night: "Monday (Industry Mondays)", doors: "11:30pm", closes: "3am" },
+      { night: "Tuesday", doors: "Closed", closes: "Closed" },
+      { night: "Wednesday (House Wednesday)", doors: "11:30pm", closes: "3am" },
+      { night: "Thursday", doors: "11:30pm", closes: "3am" },
+      { night: "Friday (Scandi Fridays)", doors: "11:30pm", closes: "3am" },
+      { night: "Saturday (Brazilian Saturdays)", doors: "11:30pm", closes: "3am" },
+      { night: "Sunday", doors: "Closed", closes: "Closed" },
+    ],
+    hoursNote: "Last entry is 2am on every night it opens. Nights run past midnight, so a Friday night means 11:30pm on Friday to 3am on Saturday morning.",
+    guide: [
+      {
+        heading: "Is The Rex Rooms Open Tonight?",
+        paragraphs: [
+          "On a Monday, Wednesday, Thursday, Friday or Saturday, yes: the doors are at 11:30pm, last entry is 2am and the club closes at 3am. On a Tuesday or a Sunday, no: The Rex Rooms is closed on both.",
+          "The time that matters most is last entry. The night runs until 3am, but the door closes to new arrivals at 2am, so plan to arrive well before then.",
+        ],
+      },
+      {
+        heading: "The Rex Rooms Is in Chelsea, Not Mayfair",
+        paragraphs: [
+          "The Rex Rooms is not a Mayfair club. It is at 151 King's Road in Chelsea, London SW3 5TX, on the site of the former 151 Club, and the nearest tubes are Sloane Square and South Kensington. We list it here because people planning a night in Mayfair often ask about it.",
+          "Plan it as a Chelsea night of its own rather than a stop between Mayfair clubs, and keep your photo ID with you: entry is 18+.",
+        ],
+      },
+      {
+        heading: "Which Night to Go",
+        paragraphs: [
+          "Each night has its own name: Industry Mondays, House Wednesday, Thursday, Scandi Fridays and Brazilian Saturdays. The music is house and Latin, with commercial sets: the resident, DJ Tiempo, usually plays house and Latin, and DJ Dan usually plays more commercial sets.",
+        ],
+      },
+      {
+        heading: "How to Book The Rex Rooms for Tonight",
+        paragraphs: [
+          "Message us on WhatsApp with the night and the size of your group, and we will tell you what is available. Tables are bookable in the Main Room and in the VIP King's Room, and the minimum spend is confirmed when you book. On the day itself, the earlier you message the better.",
+          "As of November 2026, entry is free for mixed groups before 11:30pm. Otherwise guestlist and entry are by request, and any door charge is confirmed when you book. Champagne starts from £500 and the signature packages from £1,100; prices can change and are confirmed when you book.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "What time does The Rex Rooms open?", answer: "The Rex Rooms opens at 11:30pm on Monday, Wednesday, Thursday, Friday and Saturday." },
+      { question: "What time does The Rex Rooms close?", answer: "The Rex Rooms closes at 3am on every night it opens." },
+      { question: "What time is last entry at The Rex Rooms?", answer: "Last entry is 2am, an hour before the club closes." },
+      { question: "Is The Rex Rooms open on Sunday or Tuesday?", answer: "No. The Rex Rooms is closed on Tuesday and Sunday. It opens on Monday and Wednesday to Saturday." },
+      { question: "Is The Rex Rooms in Mayfair?", answer: "No. The Rex Rooms is in Chelsea, at 151 King's Road, London SW3 5TX. The nearest tubes are Sloane Square and South Kensington." },
+      { question: "How old do you have to be to get into The Rex Rooms?", answer: "The Rex Rooms is 18+, and you need photo ID." },
+      { question: "Is entry free at The Rex Rooms?", answer: "As of November 2026, entry is free for mixed groups before 11:30pm. Otherwise guestlist and entry are by request, and any door charge is confirmed when you book." },
+    ],
+  },
+
   {
     slug: "maison-close",
     name: "Maison Close",

@@ -111,6 +111,14 @@ export const clubImages: Record<
     card: IMG("fe4414_0901bc84893644f297dce6bab32eedf0.jpg"),
     interior: IMG("fe4414_091285b805994cfc8a1f60f2da0dcb9c.jpg"),
   },
+  "rex-rooms": {
+    // The owner's own photos (2026-11-17); Rex Rooms pages only.
+    hero: IMG("rex-rooms-chelsea-velvet-booths.jpg"),
+    card: IMG("rex-rooms-chelsea-bar.jpg"),
+    interior: IMG("rex-rooms-chelsea-bar.jpg"),
+    heroAlt: "Purple velvet booths beneath sculpted dark-wood arches at The Rex Rooms, 151 King's Road, Chelsea, with silver ice buckets on the tables",
+    interiorAlt: "The bar at The Rex Rooms, Chelsea: a hand-carved wooden counter lit from within, over a black-and-white wave floor",
+  },
   "maison-close": {
     hero: IMG("maison-close-479.jpg"),
     card: IMG("maison-close-215.jpg"),

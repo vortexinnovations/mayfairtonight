@@ -73,6 +73,11 @@ const recommendations: Recommendation[] = [
         slug: "beat-london",
         why: "After-hours house music from 1am to 6am, just north of Oxford Street, by table booking.",
       },
+      {
+        name: "The Rex Rooms",
+        slug: "rex-rooms",
+        why: "In Chelsea, not Mayfair: 151 King's Road. House Wednesday, and house and Latin across the week, 11:30pm to 3am, last entry 2am. Closed Tuesday and Sunday.",
+      },
     ],
   },
   {
