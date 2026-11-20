@@ -2,6 +2,7 @@ import { safeJsonLd } from "@/lib/safe-output";
 import type { Metadata } from "next";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import LeadRefTracker from "@/components/LeadRefTracker";
 import { WHATSAPP_TELEPHONE } from "@/lib/whatsapp";
 import "./globals.css";
 
@@ -51,6 +52,7 @@ export default function RootLayout({
         <Header />
         <main className="pb-20 md:pb-0">{children}</main>
         <Footer />
+        <LeadRefTracker />
 
         {/* Organization Schema (no business address: the service has no premises) */}
         <script
