@@ -205,6 +205,23 @@ const rankedClubs: RankedClub[] = [
     music: "House, Commercial, Deep House",
     nights: "Thu, Fri, Sat, Sun",
   },
+  {
+    rank: 11,
+    name: "Bisou Mayfair",
+    slug: "bisou",
+    category: "New in 2026",
+    verdict:
+      "Bisou is a bar and nightclub that opened in 2026 at 9 Swallow Street, the lane it shares with 99 Regent Street. It describes itself as an audiophile space: the music is house, and the room runs on a Void Acoustics sound system tuned to it. It opens on Thursday, Friday and Saturday from 11pm until late. It sits last on this page because it is new to the guide, not as a judgement on it.",
+    strengths: [
+      "House music on a Void Acoustics sound system tuned to the room",
+      "Open Thursday, Friday and Saturday, from 11pm until late",
+      "Guestlist by request",
+      "Tables from £1,000 minimum spend",
+    ],
+    bestFor: "A house music night on Swallow Street",
+    music: "House",
+    nights: "Thu, Fri, Sat",
+  },
 ];
 
 const faqs = [

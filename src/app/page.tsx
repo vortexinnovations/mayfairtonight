@@ -106,7 +106,7 @@ export default async function HomePage() {
                       <div className="relative aspect-[3/2] overflow-hidden rounded-t-xl">
                         <Image
                           src={clubImages[event.clubSlug || ""]?.card || sectionImages.crowdEnergy}
-                          alt={`${club.name} nightclub Mayfair`}
+                          alt={clubImages[club.slug]?.cardAlt ?? `${club.name} nightclub Mayfair`}
                           fill
                           className="object-cover group-hover:scale-105 transition-transform duration-500"
                           sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
@@ -134,7 +134,7 @@ export default async function HomePage() {
                     <div className="relative aspect-[3/2] overflow-hidden rounded-t-xl">
                       <Image
                         src={clubImages[club.slug]?.card || sectionImages.crowdEnergy}
-                        alt={`${club.name} nightclub Mayfair`}
+                        alt={clubImages[club.slug]?.cardAlt ?? `${club.name} nightclub Mayfair`}
                         fill
                         className="object-cover group-hover:scale-105 transition-transform duration-500"
                         sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"

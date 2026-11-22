@@ -2,6 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import WhatsAppCTA from "./WhatsAppCTA";
 import { tablesFrom } from "@/data/clubs";
+import { clubImages } from "@/data/images";
 
 interface ClubCardProps {
   slug: string;
@@ -40,7 +41,7 @@ export default function ClubCard({
             <div className="relative w-20 h-20 sm:w-24 sm:h-24 rounded-lg overflow-hidden">
               <Image
                 src={imageSrc}
-                alt={`${name} nightclub`}
+                alt={clubImages[slug]?.cardAlt ?? `${name} nightclub`}
                 fill
                 className="object-cover hover:scale-105 transition-transform duration-300"
                 sizes="96px"

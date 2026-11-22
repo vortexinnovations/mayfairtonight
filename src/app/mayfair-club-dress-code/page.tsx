@@ -497,6 +497,25 @@ export default function MayfairDressCodePage() {
               </div>
             ))}
           </div>
+
+          <div className="bg-dark-card border border-dark-border rounded-xl p-5 mt-6">
+            <h3 className="text-xl font-semibold text-white mb-2">
+              <Link href="/clubs/bisou" className="hover:text-gold transition-colors">
+                Bisou Mayfair
+              </Link>
+            </h3>
+            <p className="text-sm text-gray-300 leading-relaxed">
+              Bisou, the bar and nightclub that opened in 2026 at 9 Swallow
+              Street, publishes no dress code, so we give it no strictness
+              rating. Our guidance, as the service that books it: dress smart,
+              as for any Mayfair club, with no sportswear. The door has the
+              final say. Our{" "}
+              <Link href="/clubs/bisou" className="text-gold hover:text-gold-light">
+                Bisou page
+              </Link>{" "}
+              has its nights and opening time.
+            </p>
+          </div>
         </section>
 
         {/* What Gets You Turned Away */}

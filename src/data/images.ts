@@ -37,9 +37,10 @@ export const heroImages = {
 // ── CLUB-SPECIFIC IMAGES ────────────────────────────────────
 
 // heroAlt / interiorAlt: optional alt text naming the room, for venues whose photos show a named space.
+// cardAlt: alt text for a card image that is not a photo of the club itself (the default alt names the club).
 export const clubImages: Record<
   string,
-  { hero: string; card: string; interior: string; heroAlt?: string; interiorAlt?: string }
+  { hero: string; card: string; interior?: string; heroAlt?: string; interiorAlt?: string; cardAlt?: string; photoNote?: string }
 > = {
   "tape-london": {
     hero: IMG("Tape-1.jpg"),
@@ -118,6 +119,17 @@ export const clubImages: Record<
     interior: IMG("rex-rooms-chelsea-bar.jpg"),
     heroAlt: "Purple velvet booths beneath sculpted dark-wood arches at The Rex Rooms, 151 King's Road, Chelsea, with silver ice buckets on the tables",
     interiorAlt: "The bar at The Rex Rooms, Chelsea: a hand-carved wooden counter lit from within, over a black-and-white wave floor",
+  },
+  // Bisou: there are no photos of the club yet (2026-11-22). Both images are
+  // general club photographs with no venue identifiable, and the alt text says
+  // so. Never use the maison-close-* files here: same address, different club.
+  bisou: {
+    hero: IMG("fe4414_23971aa95d054304b70968e4b8c2aaa3.jpg"),
+    card: IMG("fe4414_25ff700f6f0a4725aeb1d7343720970d.jpg"),
+    heroAlt: "A crowd on a dance floor under blue light, some holding up phones: a general club photograph",
+    cardAlt: "A DJ at the decks under red light: a general club photograph",
+    photoNote:
+      "There are no photographs of Bisou on this page yet. The image at the top is a general club photograph, not the room at 9 Swallow Street.",
   },
   "maison-close": {
     hero: IMG("maison-close-479.jpg"),

@@ -241,7 +241,7 @@ export default function ItineraryPage() {
                 <h3 className="text-gold font-semibold mb-2">Club Clusters</h3>
                 <ul className="text-sm space-y-1">
                   <li>• <strong>Dover Street area:</strong>{" "}Scotch, Dear Darling, Maddox (all within 5 min), with Rumour on Dover Street itself; Selene is a short walk north across Oxford Street</li>
-                  <li>• <strong>Piccadilly and Swallow Street:</strong>{" "}Reign London, next to Piccadilly Circus, and 99 Regent Street, entered from Swallow Street two minutes from the station</li>
+                  <li>• <strong>Piccadilly and Swallow Street:</strong>{" "}Reign London, next to Piccadilly Circus, 99 Regent Street, entered from Swallow Street two minutes from the station, and Bisou Mayfair, also on Swallow Street</li>
                   <li>• <strong>Soho border:</strong>{" "}Cirque Le Soir, The Box (10 min walk from Mayfair core)</li>
                 </ul>
               </div>

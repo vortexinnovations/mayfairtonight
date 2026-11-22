@@ -64,6 +64,11 @@ const recommendations: Recommendation[] = [
         why: "Formerly Cuckoo Club. The downstairs floor plays house, darker and more dance-focused, with hip hop and RnB upstairs. Both floors run on Friday and Saturday.",
       },
       {
+        name: "Bisou Mayfair",
+        slug: "bisou",
+        why: "A bar and nightclub at 9 Swallow Street with a Void Acoustics sound system tuned to the room. House music on Thursday, Friday and Saturday, from 11pm until late. Closed Sunday to Wednesday.",
+      },
+      {
         name: "Selene London",
         slug: "selene-london",
         why: "Refined house and deep house in an elegant setting just north of Oxford Circus. Moonlit luxury with a quality sound.",

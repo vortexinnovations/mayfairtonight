@@ -135,6 +135,16 @@ export default async function ClubPage({
               {club.name} Has Permanently Closed
             </h2>
             <p className="text-gray-300 leading-relaxed">{club.closedMessage}</p>
+            {club.nowAtAddress && (
+              <p className="mt-3">
+                <Link
+                  href={`/clubs/${club.nowAtAddress.slug}`}
+                  className="text-gold font-medium hover:text-gold-light"
+                >
+                  {club.nowAtAddress.text} →
+                </Link>
+              </p>
+            )}
             <div className="mt-4">
               <WhatsAppCTA size="md" />
               <p className="text-dark-muted text-sm mt-2">
@@ -178,6 +188,9 @@ export default async function ClubPage({
             About {club.name}
           </h2>
           <p className="text-gray-300 leading-relaxed">{club.description}</p>
+          {images?.photoNote && (
+            <p className="text-dark-muted text-sm mt-3">{images.photoNote}</p>
+          )}
 
           {images?.interior && (
             <div className="relative aspect-video overflow-hidden rounded-xl mt-6">
@@ -416,10 +429,23 @@ export default async function ClubPage({
                     addressLocality: "London",
                     addressCountry: "GB",
                   },
-                  openingHours: (club.schemaDays ?? club.openNights).map(
-                    (night) =>
-                      `${night.substring(0, 2)} ${club.openingTime}-${club.closingTime}`
-                  ),
+                  // A club that publishes no closing time: its days and opening time only.
+                  ...(club.closingTime
+                    ? {
+                        openingHours: (club.schemaDays ?? club.openNights).map(
+                          (night) =>
+                            `${night.substring(0, 2)} ${club.openingTime}-${club.closingTime}`
+                        ),
+                      }
+                    : {
+                        openingHoursSpecification: {
+                          "@type": "OpeningHoursSpecification",
+                          dayOfWeek: (club.schemaDays ?? club.openNights).map(
+                            (night) => `https://schema.org/${night}`
+                          ),
+                          opens: club.openingTime,
+                        },
+                      }),
                   ...(club.tableMinimum ? { priceRange: `Tables from ${club.tableMinimum}` } : {}),
                   servesCuisine: club.musicPolicy.join(", "),
                 }

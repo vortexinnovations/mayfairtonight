@@ -90,6 +90,15 @@ const houseClubs: GenreClub[] = [
     djs: "Residents who understand the Selene brand. Music supports the atmosphere rather than dominating it.",
   },
   {
+    name: "Bisou Mayfair",
+    slug: "bisou",
+    description:
+      "Bisou, at 9 Swallow Street, opened in 2026 and plays house. It describes itself as an audiophile space, and the room runs on a Void Acoustics sound system tuned to it. It opens on Thursday, Friday and Saturday from 11pm until late.",
+    style: "House",
+    bestNight: "Thursday, Friday or Saturday: its only nights",
+    djs: "We list no DJs for Bisou. The music policy is house on every night it opens.",
+  },
+  {
     name: "99 Regent Street",
     slug: "99-regent-street",
     description:
@@ -176,6 +185,7 @@ const musicGrid = [
   { name: "99 Regent Street", slug: "99-regent-street", hiphop: true, house: true, commercial: false, eclectic: false },
   { name: "BEAT London", slug: "beat-london", hiphop: false, house: true, commercial: false, eclectic: false },
   { name: "Maddox", slug: "maddox", hiphop: false, house: true, commercial: false, eclectic: false },
+  { name: "Bisou Mayfair", slug: "bisou", hiphop: false, house: true, commercial: false, eclectic: false },
   { name: "Selene London", slug: "selene-london", hiphop: false, house: true, commercial: false, eclectic: false },
   { name: "Scotch of St James", slug: "scotch-of-st-james", hiphop: false, house: true, commercial: false, eclectic: true },
   { name: "Dear Darling Mayfair", slug: "dear-darling", hiphop: false, house: true, commercial: false, eclectic: true },

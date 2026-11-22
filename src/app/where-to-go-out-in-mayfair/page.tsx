@@ -237,6 +237,22 @@ export default function WhereToGoOutPage() {
                   Saturday.
                 </p>
               </div>
+              <div className="bg-dark-card border border-dark-border rounded-lg p-4">
+                <h3 className="text-white font-semibold mb-1">
+                  <Link
+                    href="/clubs/bisou"
+                    className="hover:text-gold transition-colors"
+                  >
+                    Bisou Mayfair
+                  </Link>
+                  <span className="text-gold text-sm ml-2">New in 2026</span>
+                </h3>
+                <p className="text-sm text-gray-300">
+                  A bar and nightclub at 9 Swallow Street with a Void Acoustics
+                  sound system tuned to the room. House music on Thursday,
+                  Friday and Saturday, from 11pm until late.
+                </p>
+              </div>
             </div>
             <p className="text-dark-muted text-sm mt-3">
               Full breakdown:{" "}

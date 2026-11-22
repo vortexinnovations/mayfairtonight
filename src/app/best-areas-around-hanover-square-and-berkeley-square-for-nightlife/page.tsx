@@ -147,6 +147,7 @@ export default function NightlifeAreasPage() {
                 <h3 className="text-gold font-semibold mb-2">Clubs in This Area</h3>
                 <div className="space-y-2">
                   <div><Link href="/clubs/99-regent-street" className="text-white font-medium hover:text-gold">99 Regent Street</Link>: <span className="text-dark-muted text-sm">Formerly Cuckoo Club, entered from Swallow Street. Two floors: hip hop and RnB in the main room upstairs, house downstairs. Wednesday to Saturday, 11pm to 4am, 19+ with photo ID.</span></div>
+                  <div><Link href="/clubs/bisou" className="text-white font-medium hover:text-gold">Bisou Mayfair</Link>: <span className="text-dark-muted text-sm">At 9 Swallow Street, opened in 2026. A bar and nightclub playing house, Thursday to Saturday from 11pm until late.</span></div>
                   <div><Link href="/clubs/reign-london" className="text-white font-medium hover:text-gold">Reign London</Link>: <span className="text-dark-muted text-sm">Large venue with live entertainment and dramatic production. Professional door, reliable guestlist. The biggest room in this part of Mayfair.</span></div>
                 </div>
               </div>
@@ -237,7 +238,7 @@ export default function NightlifeAreasPage() {
               <ul className="text-sm text-gray-300 space-y-1">
                 <li>• <strong>Green Park</strong>: Best for Berkeley Square, Dear Darling and Rumour on Dover Street</li>
                 <li>• <strong>Bond Street</strong>: Best for Hanover Square, Tape London, Dover Street clubs</li>
-                <li>• <strong>Piccadilly Circus</strong>: Best for Reign, 99 Regent Street (two minutes) and the Soho border</li>
+                <li>• <strong>Piccadilly Circus</strong>: Best for Reign, 99 Regent Street (two minutes), Bisou Mayfair on Swallow Street and the Soho border</li>
                 <li>• <strong>Oxford Circus</strong>: Best for BEAT London, Selene and the northern approach to Mayfair</li>
               </ul>
               <p className="text-xs text-dark-muted mt-2">All stations close around midnight on most nights. Friday and Saturday Night Tube services run on some lines: check before you go.</p>

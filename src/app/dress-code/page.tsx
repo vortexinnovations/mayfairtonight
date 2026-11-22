@@ -48,6 +48,11 @@ const faqs = [
       "Tape London has the strictest door in Mayfair. It's a members club with an invite-only policy most nights, and the dress code reflects that: think designer labels and serious style. Maddox and Selene London also enforce strict smart dress codes given their refined venues.",
   },
   {
+    question: "What is the dress code at Bisou Mayfair?",
+    answer:
+      "Bisou, the bar and nightclub at 9 Swallow Street in Mayfair, publishes no dress code. Our guidance, as the service that books it, is to dress smart, as for any Mayfair club, with no sportswear. The door has the final say. Bisou opens on Thursday, Friday and Saturday from 11pm until late.",
+  },
+  {
     question: "Does BEAT London have a strict dress code?",
     answer:
       "BEAT London, in Fitzrovia, is smart casual with no sportswear. Trainers only if clean and smart, at the door's discretion.",

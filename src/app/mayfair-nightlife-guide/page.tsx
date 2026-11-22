@@ -552,7 +552,8 @@ export default function MayfairNightlifeGuidePage() {
               <p className="text-sm text-gray-300">
                 <Link href="/clubs/maddox" className="text-white hover:text-gold">Maddox</Link>{" "}→{" "}
                 <Link href="/clubs/selene-london" className="text-white hover:text-gold">Selene</Link>{" "}→{" "}
-                <Link href="/clubs/99-regent-street" className="text-white hover:text-gold">99 Regent Street (downstairs)</Link>
+                <Link href="/clubs/99-regent-street" className="text-white hover:text-gold">99 Regent Street (downstairs)</Link>{" "}→{" "}
+                <Link href="/clubs/bisou" className="text-white hover:text-gold">Bisou Mayfair</Link>
               </p>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">

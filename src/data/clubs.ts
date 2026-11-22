@@ -13,6 +13,7 @@ export interface Club {
   /** Nights the venue opens only some weeks. Kept out of openNights so "open tonight" lists and structured data do not claim them. */
   selectNights?: string[];
   openingTime: string;
+  /** Empty when the club publishes no closing time: nothing then states one, on the page or in structured data. */
   closingTime: string;
   vibe: string;
   insiderTip: string;
@@ -22,6 +23,8 @@ export interface Club {
   closedMessage?: string;
   /** Closed venues only: slugs of open venues on this site to suggest first. */
   alternatives?: string[];
+  /** Closed venues only: a different club that has since opened at the same address, linked in the closed notice. */
+  nowAtAddress?: { slug: string; text: string };
   /**
    * Open venues that changed name: the old name people still search for. Shown in the page
    * title, as a "Formerly X" line under the H1 and as alternateName in structured data.
@@ -514,6 +517,92 @@ export const clubs: Club[] = [
     ],
   },
 
+  // Bisou (the club's own site and the owner, 2026-11-22). The club publishes
+  // no closing time, age limit or dress code: closingTime stays empty, hours
+  // read "11pm until late", and the dress line is our guidance, not its rule.
+  // No DJs, events, entry prices or capacity. There are no photos of it yet.
+  {
+    slug: "bisou",
+    metaTitle: "Bisou Mayfair Tonight: Opening Times and Which Nights",
+    ogTitle: "Bisou Mayfair Tonight: Opening Times and Which Nights",
+    metaDescription:
+      "Bisou Mayfair, 9 Swallow Street: open Thursday, Friday and Saturday from 11pm until late, closed Sunday to Wednesday. House music, tables from £1,000.",
+    name: "Bisou Mayfair",
+    tagline: "Swallow Street house music: Thursday to Saturday, 11pm until late",
+    description:
+      "Bisou opens on Thursday, Friday and Saturday, from 11pm until late, and is closed from Sunday to Wednesday. It is a bar and nightclub at 9 Swallow Street, Mayfair, London W1B 4DF, on the short lane between Regent Street and Piccadilly, and it opened in 2026. The nearest tube is Piccadilly Circus. The music is house, guestlist is by request, tables start from £1,000 minimum spend, and you need valid photo ID. People also search for it as Bisou London and Bisou Club Mayfair.",
+    location: "9 Swallow Street, Mayfair, London W1B 4DF",
+    area: "Mayfair",
+    musicPolicy: ["House"],
+    dressCode:
+      "No dress code is published by the club. Our guidance: dress smart, as for any Mayfair club, with no sportswear.",
+    dressCodeNotes: "The door has the final say. Bring valid photo ID: a passport or a driving licence.",
+    tableMinimum: "£1,000",
+    openNights: ["Thursday", "Friday", "Saturday"],
+    openingTime: "23:00",
+    closingTime: "",
+    hoursLabel: "11pm until late",
+    vibe: "Bar and nightclub, house music, audiophile sound",
+    insiderTip:
+      "The club publishes no closing time, so do not plan the end of your night around one. Message us before you set off and we will confirm the night, and bring valid photo ID.",
+    whatToExpect:
+      "Bisou calls itself a bar and nightclub and describes itself as an audiophile space: the room runs on a Void Acoustics sound system tuned to it, and the music is house. Guestlist is by request through us, and any entry charge is confirmed when you book. Tables start from £1,000 minimum spend.",
+    bestFor: "A house music night in Mayfair on a Thursday, Friday or Saturday, from 11pm",
+    status: "open",
+    nearby: ["99-regent-street"],
+    hoursTable: [
+      { night: "Thursday", doors: "11pm", closes: "Late" },
+      { night: "Friday", doors: "11pm", closes: "Late" },
+      { night: "Saturday", doors: "11pm", closes: "Late" },
+      { night: "Sunday to Wednesday", doors: "Closed", closes: "Closed" },
+    ],
+    hoursNote:
+      "Bisou gives its hours as 11pm until late and publishes no closing time, so none is shown here.",
+    guide: [
+      {
+        heading: "Is Bisou Open Tonight?",
+        paragraphs: [
+          "On a Thursday, Friday or Saturday, yes: the doors open at 11pm and the night runs until late. From Sunday to Wednesday, no: Bisou is closed.",
+          "The club publishes no closing time. If you need to know how late a particular night runs, message us and we will tell you what the club confirms.",
+        ],
+      },
+      {
+        heading: "Which Nights Bisou Opens",
+        paragraphs: [
+          "Three nights a week: Thursday, Friday and Saturday. The music is house on each of them. We list no DJs or themed nights for Bisou, because we only publish what the club or our own bookings confirm.",
+          "Thursday is the first night of its week. If you are choosing between nights across Mayfair, our Thursday, Friday and Saturday pages show every club that opens on each.",
+        ],
+      },
+      {
+        heading: "Where Bisou Is",
+        paragraphs: [
+          "Bisou is at 9 Swallow Street, Mayfair, London W1B 4DF. Swallow Street is the short lane between Regent Street and Piccadilly, and the nearest tube is Piccadilly Circus. It opened in 2026, at the address that was most recently Maison Close, which has closed.",
+          "99 Regent Street (formerly Cuckoo Club), which we also book, has its entrance on Swallow Street too, so both clubs are on the same lane.",
+        ],
+      },
+      {
+        heading: "How to Book Bisou for Tonight",
+        paragraphs: [
+          "Message us on WhatsApp with the night and the size of your group, and say whether you want a table or the guestlist. Guestlist is by request, and any entry charge is confirmed when you book. Tables start from £1,000 minimum spend. On the day itself, the earlier you message the better.",
+          "Bring valid photo ID, a passport or a driving licence. The club publishes no age limit and no dress code, and the door has the final say.",
+        ],
+      },
+    ],
+    faqs: [
+      { question: "What time does Bisou Mayfair open?", answer: "Bisou opens at 11pm on Thursday, Friday and Saturday." },
+      { question: "What time does Bisou close?", answer: "The club publishes no closing time: its hours are 11pm until late. Message us and we will tell you what the club confirms for your night." },
+      { question: "What nights is Bisou open?", answer: "Thursday, Friday and Saturday. Bisou is closed from Sunday to Wednesday." },
+      { question: "Is Bisou open on Sunday?", answer: "No. Bisou is closed on Sunday, Monday, Tuesday and Wednesday. It opens on Thursday, Friday and Saturday from 11pm." },
+      { question: "Where is Bisou Mayfair?", answer: "At 9 Swallow Street, Mayfair, London W1B 4DF, on the short lane between Regent Street and Piccadilly. The nearest tube is Piccadilly Circus." },
+      { question: "Is there a guestlist at Bisou?", answer: "Yes, by request through us. Any entry charge is confirmed when you book." },
+      { question: "How much is a table at Bisou?", answer: "Tables start from £1,000 minimum spend. Message us on WhatsApp with the night and your group size and we will confirm the table." },
+      { question: "How old do you have to be to get into Bisou?", answer: "The club publishes no age limit. Bring valid photo ID, a passport or a driving licence; the door has the final say." },
+      { question: "What is the dress code at Bisou Mayfair?", answer: "The club publishes no dress code. Our guidance is to dress smart, as for any Mayfair club, with no sportswear. The door has the final say." },
+      { question: "What music does Bisou play?", answer: "House. Bisou describes itself as an audiophile space, with a Void Acoustics sound system tuned to the room." },
+      { question: "What was at 9 Swallow Street before Bisou?", answer: "Most recently Maison Close, which has closed. The address was also Sibylla's, the 1966 club part-owned by George Harrison. Bisou opened there in 2026." },
+    ],
+  },
+
   {
     slug: "maison-close",
     name: "Maison Close",
@@ -532,12 +621,13 @@ export const clubs: Club[] = [
     vibe: "Intimate, French-inspired, art-meets-nightclub",
     insiderTip: "Maison Close has closed.",
     whatToExpect:
-      "Maison Close has closed. For house music in an intimate, dressed-up room in or near Mayfair, try Maddox, Selene London or Scotch of St James.",
+      "Maison Close has closed. A new club, Bisou, has since opened at the same address, 9 Swallow Street. For house music in or near Mayfair, try Bisou, Maddox, Selene London or Scotch of St James.",
     bestFor: "This venue has closed",
     status: "closed",
     closedMessage:
-      "Maison Close has closed. For house music in an intimate, dressed-up room, try Maddox for dinner upstairs and house music downstairs, Selene London for refined house and commercial sets, or Scotch of St James for a small, storied St James's club with elegant parties.",
-    alternatives: ["maddox", "selene-london", "scotch-of-st-james"],
+      "Maison Close has closed. A new club, Bisou, has since opened at the same address, 9 Swallow Street: a house music bar and nightclub, open Thursday to Saturday from 11pm until late. Other rooms for house music: Maddox for dinner upstairs and house music downstairs, Selene London for refined house and commercial sets, or Scotch of St James for a small, storied St James's club with elegant parties.",
+    nowAtAddress: { slug: "bisou", text: "Bisou Mayfair: opening times and how to book" },
+    alternatives: ["bisou", "maddox", "selene-london", "scotch-of-st-james"],
   },
 
   // ─── PERMANENTLY CLOSED VENUES (kept for SEO) ──────────────

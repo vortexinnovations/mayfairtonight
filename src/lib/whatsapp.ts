@@ -25,10 +25,10 @@ export const NO_GUESTLIST_CLUBS = new Set(["The Box", "Scotch of St James", "BEA
 export function getClubBookingLink(clubName: string): string {
   if (NO_GUESTLIST_CLUBS.has(clubName)) {
     return getWhatsAppLink(
-      `Hi, I'd like to book a table at ${clubName} tonight. Here are my details:\n\nDate:\nGroup size:\nAny special requests:`,
+      `Hi, I found you on mayfairtonight.com and I'd like to book a table at ${clubName} tonight. Here are my details:\n\nDate:\nGroup size:\nAny special requests:`,
     );
   }
-  const message = `Hi, I'd like to book at ${clubName} tonight. Here are my details:\n\nDate:\nGroup size:\nTable or guestlist:\nAny special requests:`;
+  const message = `Hi, I found you on mayfairtonight.com and I'd like to book at ${clubName} tonight. Here are my details:\n\nDate:\nGroup size:\nTable or guestlist:\nAny special requests:`;
   return getWhatsAppLink(message);
 }
 

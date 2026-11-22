@@ -97,6 +97,14 @@ const clubInsights: Record<
     guestlistTip:
       "The Box doesn't run a guestlist: entry is by table booking, from £1,000, and we book the tables. Dress creatively: this isn't a standard Mayfair door.",
   },
+  bisou: {
+    crowd:
+      "Bisou opened in 2026, so we make no claims about its regulars yet. It describes itself as an audiophile space with house music on a Void Acoustics sound system. Bring valid photo ID: the club publishes no age limit, and the door has the final say.",
+    bestNight:
+      "Thursday, Friday and Saturday are its only nights, each from 11pm until late. Thursday is the first night of its week. It is closed from Sunday to Wednesday.",
+    guestlistTip:
+      "Guestlist is by request through us, and any entry charge is confirmed when you book. Tables start from £1,000 minimum spend.",
+  },
   "selene-london": {
     crowd:
       "Refined, well-dressed professionals. Cocktail enthusiasts and house music lovers. An older, more discerning crowd than the party clubs. Couples and small groups.",
@@ -260,7 +268,7 @@ export default function MayfairNightclubsPage() {
                   </span>
                   <span>|</span>
                   <span>
-                    Hours: {club.openingTime} to {club.closingTime}
+                    Hours: {club.hoursLabel ?? `${club.openingTime} to ${club.closingTime}`}
                   </span>
                   <span>|</span>
                   <span>
