@@ -208,10 +208,10 @@ export const clubs: Club[] = [
     insiderTip:
       "Bring physical photo ID: the door is 19+. Both floors run on Friday and Saturday; on Wednesday and Thursday one floor opens, so ask us which room is on before you go.",
     whatToExpect:
-      "Two floors of around 200 each, joined by a staircase. Upstairs is the main room, where most of the tables sit, playing open-format hip hop and RnB; downstairs is darker and more dance-focused, with house. Dark panelling, warm low lighting, banquette seating and a long bar set the tone. Tables start from £600 minimum spend, spent on drinks rather than charged on top, and cover entry for the whole group; the minimum rises with the night, the group size and the position, and VIP and larger tables are on request. Guestlist is by request and mixed groups are welcome, with entry from free to about £50 depending on the night and arrival time, and we confirm names and the night's terms before you go. Membership exists at the venue but its details are not published; we book tables and guestlist for non-members, and private events and corporate hire are arranged through us, with terms on request.",
+      "Two floors of around 200 each, joined by a staircase. Upstairs is the main room, where most of the tables sit, playing open-format hip hop and RnB; downstairs is darker and more dance-focused, with house. Dark panelling, warm low lighting, banquette seating and a long bar set the tone. Tables start from £600 minimum spend, spent on drinks rather than charged on top, and cover entry for the whole group; the minimum rises with the night, the group size and the position, and VIP and larger tables are on request. Guestlist is by request and mixed groups are welcome, with entry from free to about £50 depending on the night and arrival time, and we confirm names and the night's terms before you go. Membership exists at the venue but its details are not published; we book tables and guestlist for non-members, and private events and corporate hire are arranged through us, with terms on request. Bisou Mayfair, a house music bar and nightclub that opened in 2026, is also on Swallow Street, at number 9.",
     bestFor: "Mixed groups who want hip hop and house under one roof, with tables from £600",
     status: "open",
-    nearby: ["rumour-london", "dear-darling", "maddox", "tape-london"],
+    nearby: ["bisou", "rumour-london", "dear-darling", "maddox", "tape-london"],
   },
   {
     slug: "scotch-of-st-james",
