@@ -11,7 +11,7 @@ import { fitTitle } from "@/lib/seo";
 export const metadata: Metadata = {
   title: fitTitle("Mayfair Nightlife Blog: Club Guides, Nights Out and Tips"),
   description:
-    "The insider blog for Mayfair nightlife. Club guides, what to expect, how to get in, best nights by genre, and tips from people who go out in Mayfair every week.",
+    "The insider blog for Mayfair nightlife. Club guides, what to expect, how to get in, best nights by genre, and tips for a better night out in Mayfair.",
   alternates: { canonical: "https://mayfairtonight.com/blog" },
   openGraph: {
     title: "Mayfair Nightlife Blog: Insider Tips & Club Guides",

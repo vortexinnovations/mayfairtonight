@@ -27,7 +27,7 @@ There is also the heritage. Mayfair and St James's were dancing to this sound de
 
 ## Where the Classic Sound Actually Lives
 
-The most reliable home for it is Scotch of St James, the small two-floor room tucked into Mason's Yard with sixty years of musical history in its walls. The resident DJs there move through soulful house, classic disco, funk and old-school R&B with genuine record knowledge, and the basement floor wraps the bass around you in a way that suits these records perfectly. Guests we book there tell us the selectors are happy to let a long disco cut play out, and the floor stays with it, which tells you everything about the crowd.
+The most reliable home for it is Scotch of St James, the small two-floor room tucked into Mason's Yard with sixty years of musical history in its walls. The resident DJs there move through soulful house, classic disco, funk and old-school R&B with genuine record knowledge, and the basement floor wraps the bass around you in a way that suits these records perfectly. The selectors are happy to let a long disco cut play out, and the floor stays with it, which tells you everything about the crowd.
 
 Maddox Club is the second stop. Its programming leans deep and soulful rather than chart-driven, and its midweek sessions in particular drift happily into funk and disco territory as the night matures. The dancefloor is the focal point of the room, so the music is treated as the main event rather than background for the tables.
 

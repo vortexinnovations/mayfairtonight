@@ -73,8 +73,7 @@ export default function WhereToGoOutPage() {
         </h1>
         <p className="text-gray-300 text-lg mb-0 max-w-3xl">
           Thirteen clubs. One square mile. Too many options. This guide cuts
-          through the noise: honest insider recommendations from people who
-          are out in Mayfair every week.
+          through the noise with honest insider recommendations.
         </p>
       </HeroImage>
 

@@ -360,9 +360,9 @@ export default function BestCelebrityClubsPage() {
             </table>
           </div>
           <p className="text-sm text-dark-muted mt-4">
-            Need help getting in? Message us on WhatsApp. We have relationships
-            with every venue on this list and can advise on the best route for
-            your group, including table pricing.
+            Need help getting in? Message us on WhatsApp. We arrange VIP tables
+            and guestlist places at London clubs and can advise on the best
+            route for your group, including table pricing.
           </p>
         </section>
 

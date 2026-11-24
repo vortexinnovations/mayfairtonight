@@ -275,8 +275,8 @@ export default async function HomePage() {
             .
           </p>
           <p>
-            Updated daily with tonight&apos;s events, guest DJs, and special
-            parties. Check back every evening for the latest, or{" "}
+            Tonight&apos;s list follows each club&apos;s regular opening nights.
+            Check back every evening, or{" "}
             <Link href="/this-weekend" className="text-gold hover:text-gold-light">
               see what&apos;s on this weekend
             </Link>

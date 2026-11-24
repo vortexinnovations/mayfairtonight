@@ -17,7 +17,7 @@ The difference between a legendary Saturday and a disappointing one usually come
 
 ## The Mistake Most People Make
 
-Showing up to a Mayfair club at midnight on a Saturday with no booking, wearing trainers, in a group of six guys. We see it every single weekend. The outcome is always the same: they stand in the cold while everyone with a booking walks past them.
+Showing up to a Mayfair club at midnight on a Saturday with no booking, wearing trainers, in a group of six guys. The outcome is always the same: they stand in the cold while everyone with a booking walks past them.
 
 Don't be that group. Book ahead.
 

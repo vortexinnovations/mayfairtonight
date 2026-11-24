@@ -16,7 +16,7 @@ featured: false
 By the [Mayfair Tonight team](/about#how-we-write)
 Last updated: 8 October 2026
 
-Thursday night in Mayfair is the only weeknight that genuinely behaves like a weekend, and it is also the one most people misread. Our bookings team sees the same pattern every week: by 10pm the streets are busier than most cities manage on a Saturday, the cars start lining the kerbs around the smaller clubs, and the smoking areas fill up in a way that you simply do not see on a Monday or a Tuesday. If you want a proper Mayfair night out without paying the Friday tax, Thursday night in Mayfair is when you go.
+Thursday night in Mayfair is the only weeknight that genuinely behaves like a weekend, and it is also the one most people misread. By 10pm the streets are busier than most cities manage on a Saturday, the cars start lining the kerbs around the smaller clubs, and the smoking areas fill up in a way that you simply do not see on a Monday or a Tuesday. If you want a proper Mayfair night out without paying the Friday tax, Thursday night in Mayfair is when you go.
 
 ## Why Thursday Has Become the New Friday in W1
 

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Best Nightclubs in Mayfair: Ranked",
     description:
-      "Honest, insider-ranked guide to the best nightclubs in Mayfair. No sponsored placements: just the best clubs right now.",
+      "Honest, insider-ranked guide to the best nightclubs in Mayfair: the clubs worth your night right now, and how to book them.",
     url: "https://mayfairtonight.com/best-nightclubs-in-mayfair",
   },
 };
@@ -273,8 +273,7 @@ export default function BestNightclubsPage() {
         </p>
         <p className="text-gray-300 text-lg mb-0 max-w-3xl">
           An honest, opinionated ranking of every nightclub worth going to in
-          Mayfair. No sponsored placements. No paid features. Just genuine picks
-          from people who are out in Mayfair every week.
+          Mayfair.
         </p>
       </HeroImage>
 

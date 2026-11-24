@@ -15,13 +15,13 @@ By the [Mayfair Tonight team](/about#how-we-write)
 
 *Last updated: 8 October 2026*
 
-Friday night in Mayfair is a different animal to any other night of the week. Our bookings team sees it every week: the energy shifts remarkably quickly between 10pm and midnight. The streets around Berkeley Square fill up fast, the queues start building from about 10:30pm, and by the time you're inside, the dance floors are already packed. If you're planning a Friday night in Mayfair, this guide covers exactly what to expect and where to go.
+Friday night in Mayfair is a different animal to any other night of the week. The energy shifts remarkably quickly between 10pm and midnight. The streets around Berkeley Square fill up fast, the queues start building from about 10:30pm, and by the time you're inside, the dance floors are already packed. If you're planning a Friday night in Mayfair, this guide covers exactly what to expect and where to go.
 
 ## Why Friday Hits Different in Mayfair
 
 The difference between a Friday and, say, a [Tuesday in Mayfair](/blog/tuesday-night-out-mayfair) is not just the crowd size. It's the energy. Fridays pull in a mix of City workers winding down, groups celebrating the end of the week, and international visitors who've specifically planned their London night out for Friday. As [Time Out's London nightlife coverage](https://www.timeout.com/london/nightlife) has consistently noted, Mayfair remains one of London's premier destinations for a proper night out, and Friday is when that reputation earns itself.
 
-Tape London shows the difference clearly. Guests we book there tell us the Friday room is a world away from its Tuesday nights: the main room is typically shoulder-to-shoulder by 11:30pm, the music leans heavier into hip-hop and Afrobeats, and the tables are usually fully booked. On a Tuesday, you can walk around freely until well past midnight. On a Friday, that window closes fast.
+Tape London shows the difference clearly. The Friday room is a world away from its Tuesday nights: the main room is typically shoulder-to-shoulder by 11:30pm, the music leans heavier into hip-hop and Afrobeats, and the tables are usually fully booked. On a Tuesday, you can walk around freely until well past midnight. On a Friday, that window closes fast.
 
 ## The Venues That Define Friday Night
 
@@ -54,7 +54,7 @@ Timing is everything on a Friday night in Mayfair. Here's the breakdown:
 - **10:30pm - 11:30pm**: The main wave arrives. Queues start building and door staff become more selective. Groups without a booking or guestlist will find this increasingly difficult.
 - **After midnight**: If you're not already inside or don't have a table booked, it's a coin flip. Some venues stop guestlist entry entirely by 12:30am.
 
-Guests we book see both sides of this. Arriving at 10pm on a Friday feels like having the place to yourself. Arriving at midnight feels like trying to get into a sold-out concert. Plan accordingly.
+Arriving at 10pm on a Friday feels like having the place to yourself. Arriving at midnight feels like trying to get into a sold-out concert. Plan accordingly.
 
 ## What to Wear on a Friday Night
 
