@@ -5,40 +5,13 @@ metaDescription: "Where to hear disco, funk and soul in Mayfair. The rooms that 
 excerpt: "Mayfair has a quiet sideline in disco, funk and soul. Here is where the classic sound actually lives, which nights to aim for, and what to expect."
 date: "2026-06-10"
 updated: "2026-06-10"
-author: "Henry Ashcroft"
 category: "Music Guides"
 tags: ["mayfair", "disco", "funk and soul", "music guides"]
 readingTime: "6 min read"
 featured: false
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Disco and Funk Nights in Mayfair: Where the Classic Sound Lives",
-  "datePublished": "2026-06-10",
-  "dateModified": "2026-06-10",
-  "author": {
-    "@type": "Person",
-    "name": "Henry Ashcroft",
-    "url": "https://mayfairtonight.com/about-the-editor/",
-    "jobTitle": "Mayfair Area Specialist"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Mayfair Tonight",
-    "url": "https://mayfairtonight.com"
-  },
-  "image": "/gallery/images/maison-close-305.jpg",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://mayfairtonight.com/blog/disco-funk-nights-mayfair"
-  }
-}
-</script>
-
-By [Henry Ashcroft](/about-the-editor), Mayfair Area Specialist
+By the [Mayfair Tonight team](/about#how-we-write)
 
 *Last updated: 10 June 2026*
 

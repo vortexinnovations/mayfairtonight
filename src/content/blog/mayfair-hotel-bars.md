@@ -5,40 +5,13 @@ metaDescription: "A guide to Mayfair's finest hotel bars, from the Connaught Bar
 excerpt: "Mayfair's hotel bars are some of the most elegant rooms in London. Where to drink in style after dark, from legendary martinis to art deco glamour."
 date: "2026-06-13"
 updated: "2026-06-13"
-author: "Henry Ashcroft"
 category: "Night Guides"
 tags: ["mayfair", "hotel bars", "bars", "cocktails"]
 readingTime: "6 min read"
 featured: false
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Mayfair Hotel Bars: Where to Drink in Style After Dark",
-  "datePublished": "2026-06-13",
-  "dateModified": "2026-06-13",
-  "author": {
-    "@type": "Person",
-    "name": "Henry Ashcroft",
-    "url": "https://mayfairtonight.com/about-the-editor/",
-    "jobTitle": "Mayfair Area Specialist"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Mayfair Tonight",
-    "url": "https://mayfairtonight.com"
-  },
-  "image": "/gallery/images/maison-close-445.jpg",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://mayfairtonight.com/blog/mayfair-hotel-bars"
-  }
-}
-</script>
-
-By [Henry Ashcroft](/about-the-editor), Mayfair Area Specialist
+By the [Mayfair Tonight team](/about#how-we-write)
 
 *Last updated: 13 June 2026*
 

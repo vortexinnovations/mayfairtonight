@@ -8,14 +8,15 @@ import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
 import { ArticlePreferredSourcePrompt } from "@/components/PreferredSourceButton";
 import { fitTitle } from "@/lib/seo";
+import { AUTHOR } from "@/lib/organization";
 
 // Posts are prerendered at build and refreshed by /api/revalidate when the
 // content API writes; this is a daily safety net on top.
 export const revalidate = 86400;
 
 // Content-API posts carry no byline in their Markdown (the API refuses one), so
-// the template shows the same byline the file posts write into their bodies.
-const DB_POST_BYLINE = { name: "Henry Ashcroft", role: "Mayfair Area Specialist" };
+// the template shows the team byline the file posts write into their bodies.
+// The database's author_name and author_role columns are never read.
 
 export async function generateStaticParams() {
   return (await getAllSlugs()).map((slug) => ({ slug }));
@@ -134,11 +135,10 @@ export default async function BlogPost({
 
         {post.source === "db" && (
           <p className="text-gray-300 leading-relaxed mb-4">
-            By{" "}
-            <Link href="/about-the-editor" className="text-gold hover:text-gold-light underline">
-              {DB_POST_BYLINE.name}
+            By the{" "}
+            <Link href="/about#how-we-write" className="text-gold hover:text-gold-light underline">
+              Mayfair Tonight team
             </Link>
-            , {DB_POST_BYLINE.role}
           </p>
         )}
 
@@ -246,11 +246,7 @@ export default async function BlogPost({
             description: post.metaDescription,
             datePublished: post.date,
             dateModified: post.updated || post.date,
-            author: {
-              "@type": "Organization",
-              name: "Mayfair Tonight",
-              url: "https://mayfairtonight.com",
-            },
+            author: AUTHOR,
             publisher: {
               "@type": "Organization",
               name: "Mayfair Tonight",

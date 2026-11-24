@@ -39,6 +39,9 @@ const nextConfig: NextConfig = {
       // Renamed venues (October 2026): Cuckoo Club is now 99 Regent Street, Tabu is now Rumour.
       { source: "/clubs/cuckoo-club", destination: "/clubs/99-regent-street", permanent: true },
       { source: "/clubs/tabu-london", destination: "/clubs/rumour-london", permanent: true },
+      // The editor persona is retired (November 2026): articles are credited to
+      // the team, and the old author page moves to the about page.
+      { source: "/about-the-editor", destination: "/about", permanent: true },
     ];
   },
   async rewrites() {

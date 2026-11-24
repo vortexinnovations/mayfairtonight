@@ -5,40 +5,13 @@ metaDescription: "A guide to Mayfair's private members' clubs: what they are, wh
 excerpt: "Behind some of Mayfair's plainest doors are its most exclusive rooms. A guide to the private members' club, the institution that defines the district after dark."
 date: "2026-07-23"
 updated: "2026-07-23"
-author: "Henry Ashcroft"
 category: "Location Guides"
 tags: ["mayfair", "members clubs", "nightlife", "evening guide"]
 readingTime: "8 min read"
 featured: false
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Mayfair's Private Members' Clubs: A Guide to the World Behind the Doors",
-  "datePublished": "2026-07-23",
-  "dateModified": "2026-07-23",
-  "author": {
-    "@type": "Person",
-    "name": "Henry Ashcroft",
-    "url": "https://mayfairtonight.com/about-the-editor/",
-    "jobTitle": "Mayfair Area Specialist"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Mayfair Tonight",
-    "url": "https://mayfairtonight.com"
-  },
-  "image": "https://mayfairtonight.com/gallery/images/maison-close-313.jpg",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://mayfairtonight.com/blog/mayfair-private-members-clubs"
-  }
-}
-</script>
-
-By [Henry Ashcroft](/about-the-editor), Mayfair Area Specialist
+By the [Mayfair Tonight team](/about#how-we-write)
 
 *Last updated: 23 July 2026*
 

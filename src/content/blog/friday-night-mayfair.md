@@ -5,40 +5,13 @@ metaDescription: "Your guide to Friday night in Mayfair. Discover which clubs ar
 excerpt: "Everything you need to know about a Friday night out in Mayfair, from the best venues to arrival times and what the crowds are actually like."
 date: "2026-05-08"
 updated: "2026-10-08"
-author: "Henry Ashcroft"
 category: "Night Guides"
 tags: ["mayfair", "friday night", "london nightlife", "night out"]
 readingTime: "6 min read"
 featured: false
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Friday Night in Mayfair: Where to Go and What to Expect",
-  "datePublished": "2026-05-08",
-  "dateModified": "2026-05-08",
-  "author": {
-    "@type": "Person",
-    "name": "Henry Ashcroft",
-    "url": "https://mayfairtonight.com/about-the-editor/",
-    "jobTitle": "Mayfair Area Specialist"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Mayfair Tonight",
-    "url": "https://mayfairtonight.com"
-  },
-  "image": "/gallery/images/fe4414_7dbdf5ed43004438868b9407b4e14146.jpg",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://mayfairtonight.com/blog/friday-night-mayfair"
-  }
-}
-</script>
-
-By [Henry Ashcroft](/about-the-editor), Mayfair Area Specialist
+By the [Mayfair Tonight team](/about#how-we-write)
 
 *Last updated: 8 May 2026*
 

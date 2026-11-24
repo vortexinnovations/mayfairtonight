@@ -7,16 +7,13 @@ date: "2026-05-11"
 updated: "2026-10-08"
 datePublished: "2026-05-11"
 dateModified: "2026-05-11"
-author: "Henry Ashcroft"
-authorRole: "Mayfair Area Specialist"
-authorUrl: "https://mayfairtonight.com/about-the-editor/"
 category: "Night Guides"
 tags: ["mayfair", "thursday night mayfair", "mayfair nightlife", "weeknight clubs", "thursday w1"]
 readingTime: "7 min read"
 featured: false
 ---
 
-By [Henry Ashcroft](/about-the-editor), Mayfair Area Specialist
+By the [Mayfair Tonight team](/about#how-we-write)
 Last updated: 11 May 2026
 
 Thursday night in Mayfair is the only weeknight that genuinely behaves like a weekend, and it is also the one most people misread. Our bookings team sees the same pattern every week: by 10pm the streets are busier than most cities manage on a Saturday, the cars start lining the kerbs around the smaller clubs, and the smoking areas fill up in a way that you simply do not see on a Monday or a Tuesday. If you want a proper Mayfair night out without paying the Friday tax, Thursday night in Mayfair is when you go.
@@ -110,28 +107,3 @@ Skip the queue, secure your table, and get insider access. Message us on WhatsAp
 
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Thursday Night in Mayfair: Where to Go and What to Expect",
-  "datePublished": "2026-05-11",
-  "dateModified": "2026-05-11",
-  "author": {
-    "@type": "Person",
-    "name": "Henry Ashcroft",
-    "url": "https://mayfairtonight.com/about-the-editor/",
-    "jobTitle": "Mayfair Area Specialist"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Mayfair Tonight",
-    "url": "https://mayfairtonight.com"
-  },
-  "image": "https://mayfairtonight.com/gallery/images/fe4414_e5143a18baea4dfa84451c05a37c8e18.jpg",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://mayfairtonight.com/blog/thursday-night-mayfair"
-  }
-}
-</script>

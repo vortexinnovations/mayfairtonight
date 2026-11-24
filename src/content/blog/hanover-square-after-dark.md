@@ -5,40 +5,13 @@ metaDescription: "Hanover Square at night: the Georgian square behind Oxford Str
 excerpt: "Behind the Oxford Street crowds sits one of London's oldest squares. After dark, Hanover Square empties into something quiet, historic and quietly grand."
 date: "2026-07-14"
 updated: "2026-07-14"
-author: "Henry Ashcroft"
 category: "Location Guides"
 tags: ["mayfair", "hanover square", "evening guide", "history"]
 readingTime: "7 min read"
 featured: false
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Hanover Square After Dark: One of Mayfair's Oldest Corners at Night",
-  "datePublished": "2026-07-14",
-  "dateModified": "2026-07-14",
-  "author": {
-    "@type": "Person",
-    "name": "Henry Ashcroft",
-    "url": "https://mayfairtonight.com/about-the-editor/",
-    "jobTitle": "Mayfair Area Specialist"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Mayfair Tonight",
-    "url": "https://mayfairtonight.com"
-  },
-  "image": "/gallery/images/maison-close-581.jpg",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://mayfairtonight.com/blog/hanover-square-after-dark"
-  }
-}
-</script>
-
-By [Henry Ashcroft](/about-the-editor), Mayfair Area Specialist
+By the [Mayfair Tonight team](/about#how-we-write)
 
 *Last updated: 14 July 2026*
 

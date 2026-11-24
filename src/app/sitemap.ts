@@ -25,7 +25,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/about-the-editor`,
+      url: `${baseUrl}/about`,
+      lastModified: "2026-11-24",
       changeFrequency: "monthly" as const,
       priority: 0.5,
     },

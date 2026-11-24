@@ -5,40 +5,13 @@ metaDescription: "Curzon Street at night: the historic cinema and grand houses a
 excerpt: "Running through the heart of Mayfair, Curzon Street is the district's quiet spine. After dark it offers a rare thing in W1: a proper evening with a cinema at its heart."
 date: "2026-07-20"
 updated: "2026-07-20"
-author: "Henry Ashcroft"
 category: "Location Guides"
 tags: ["mayfair", "curzon street", "evening guide", "cinema"]
 readingTime: "7 min read"
 featured: false
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Curzon Street After Dark: An Evening on Mayfair's Quiet Spine",
-  "datePublished": "2026-07-20",
-  "dateModified": "2026-07-20",
-  "author": {
-    "@type": "Person",
-    "name": "Henry Ashcroft",
-    "url": "https://mayfairtonight.com/about-the-editor/",
-    "jobTitle": "Mayfair Area Specialist"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Mayfair Tonight",
-    "url": "https://mayfairtonight.com"
-  },
-  "image": "/gallery/images/maison-close-553.jpg",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://mayfairtonight.com/blog/curzon-street-after-dark"
-  }
-}
-</script>
-
-By [Henry Ashcroft](/about-the-editor), Mayfair Area Specialist
+By the [Mayfair Tonight team](/about#how-we-write)
 
 *Last updated: 20 July 2026*
 

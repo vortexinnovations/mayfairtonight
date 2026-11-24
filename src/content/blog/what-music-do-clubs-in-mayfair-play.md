@@ -5,40 +5,13 @@ metaDescription: "What music do clubs in Mayfair actually play? The open-format 
 excerpt: "Before committing a night to W1, most people want to know one thing: what will the DJ actually play? Here is the honest answer, hour by hour."
 date: "2026-06-11"
 updated: "2026-06-11"
-author: "Henry Ashcroft"
 category: "Music Guides"
 tags: ["mayfair", "music guides", "open format", "club music"]
 readingTime: "6 min read"
 featured: false
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "What Music Do Clubs in Mayfair Actually Play?",
-  "datePublished": "2026-06-11",
-  "dateModified": "2026-06-11",
-  "author": {
-    "@type": "Person",
-    "name": "Henry Ashcroft",
-    "url": "https://mayfairtonight.com/about-the-editor/",
-    "jobTitle": "Mayfair Area Specialist"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Mayfair Tonight",
-    "url": "https://mayfairtonight.com"
-  },
-  "image": "/gallery/images/maison-close-440.jpg",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://mayfairtonight.com/blog/what-music-do-clubs-in-mayfair-play"
-  }
-}
-</script>
-
-By [Henry Ashcroft](/about-the-editor), Mayfair Area Specialist
+By the [Mayfair Tonight team](/about#how-we-write)
 
 *Last updated: 11 June 2026*
 

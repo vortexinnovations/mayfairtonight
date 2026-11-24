@@ -5,40 +5,13 @@ metaDescription: "Berkeley Square at night: the plane trees and garden at dusk, 
 excerpt: "Mayfair's grandest garden square turns quiet and glamorous after dark. How to spend an evening around Berkeley Square, from dusk under the planes to a mews pint."
 date: "2026-07-13"
 updated: "2026-07-13"
-author: "Henry Ashcroft"
 category: "Location Guides"
 tags: ["mayfair", "berkeley square", "evening guide", "bars"]
 readingTime: "7 min read"
 featured: false
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Berkeley Square After Dark: An Evening on Mayfair's Grandest Square",
-  "datePublished": "2026-07-13",
-  "dateModified": "2026-07-13",
-  "author": {
-    "@type": "Person",
-    "name": "Henry Ashcroft",
-    "url": "https://mayfairtonight.com/about-the-editor/",
-    "jobTitle": "Mayfair Area Specialist"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Mayfair Tonight",
-    "url": "https://mayfairtonight.com"
-  },
-  "image": "/gallery/images/maison-close-997.jpg",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://mayfairtonight.com/blog/berkeley-square-after-dark"
-  }
-}
-</script>
-
-By [Henry Ashcroft](/about-the-editor), Mayfair Area Specialist
+By the [Mayfair Tonight team](/about#how-we-write)
 
 *Last updated: 13 July 2026*
 

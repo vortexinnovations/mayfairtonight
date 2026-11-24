@@ -5,40 +5,13 @@ metaDescription: "Mount Street at night: the terracotta facades after the boutiq
 excerpt: "By day it is Mayfair's most elegant shopping street. After six, Mount Street becomes something better: a glowing, quiet stage for one of the district's loveliest evenings."
 date: "2026-07-13"
 updated: "2026-07-13"
-author: "Henry Ashcroft"
 category: "Location Guides"
 tags: ["mayfair", "mount street", "evening guide", "bars"]
 readingTime: "7 min read"
 featured: false
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Mount Street After Dark: Mayfair's Prettiest Street in the Evening",
-  "datePublished": "2026-07-13",
-  "dateModified": "2026-07-13",
-  "author": {
-    "@type": "Person",
-    "name": "Henry Ashcroft",
-    "url": "https://mayfairtonight.com/about-the-editor/",
-    "jobTitle": "Mayfair Area Specialist"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Mayfair Tonight",
-    "url": "https://mayfairtonight.com"
-  },
-  "image": "/gallery/images/maison-close-548.jpg",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://mayfairtonight.com/blog/mount-street-after-dark"
-  }
-}
-</script>
-
-By [Henry Ashcroft](/about-the-editor), Mayfair Area Specialist
+By the [Mayfair Tonight team](/about#how-we-write)
 
 *Last updated: 13 July 2026*
 

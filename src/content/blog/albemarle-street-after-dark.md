@@ -5,40 +5,13 @@ metaDescription: "Albemarle Street at night: the Royal Institution, the lit gall
 excerpt: "Running from Piccadilly into the heart of Mayfair, Albemarle Street carries two centuries of art dealing and science. After dark it is one of W1's most quietly civilised walks."
 date: "2026-07-20"
 updated: "2026-07-20"
-author: "Henry Ashcroft"
 category: "Location Guides"
 tags: ["mayfair", "albemarle street", "evening guide", "galleries"]
 readingTime: "7 min read"
 featured: false
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Albemarle Street After Dark: Mayfair's Street of Galleries and Science",
-  "datePublished": "2026-07-20",
-  "dateModified": "2026-07-20",
-  "author": {
-    "@type": "Person",
-    "name": "Henry Ashcroft",
-    "url": "https://mayfairtonight.com/about-the-editor/",
-    "jobTitle": "Mayfair Area Specialist"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Mayfair Tonight",
-    "url": "https://mayfairtonight.com"
-  },
-  "image": "https://mayfairtonight.com/gallery/images/maison-close-181.jpg",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://mayfairtonight.com/blog/albemarle-street-after-dark"
-  }
-}
-</script>
-
-By [Henry Ashcroft](/about-the-editor), Mayfair Area Specialist
+By the [Mayfair Tonight team](/about#how-we-write)
 
 *Last updated: 20 July 2026*
 

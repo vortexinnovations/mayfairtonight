@@ -5,7 +5,6 @@ metaDescription: "A night-by-night guide to hip-hop nights in Mayfair. Find out 
 excerpt: "Mayfair's hip-hop scene runs on a schedule. Here's when the best sets happen, which rooms to head for, and what to expect night by night."
 date: "2026-05-04"
 updated: "2026-05-04"
-author: "Henry Ashcroft"
 category: "Music Guides"
 tags: ["mayfair", "hip-hop nights", "london nightlife", "rap music", "W1 clubs"]
 readingTime: "6 min read"
@@ -14,33 +13,7 @@ datePublished: "2026-05-04"
 dateModified: "2026-05-04"
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Hip-Hop Nights in Mayfair: When and Where to Hear Rap in W1",
-  "datePublished": "2026-05-04",
-  "dateModified": "2026-05-04",
-  "author": {
-    "@type": "Person",
-    "name": "Henry Ashcroft",
-    "url": "https://mayfairtonight.com/about-the-editor/",
-    "jobTitle": "Mayfair Area Specialist"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Mayfair Tonight",
-    "url": "https://mayfairtonight.com"
-  },
-  "image": "/gallery/images/Tape-18.jpg",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://mayfairtonight.com/blog/hip-hop-nights-mayfair"
-  }
-}
-</script>
-
-By [Henry Ashcroft](/about-the-editor), Mayfair Area Specialist
+By the [Mayfair Tonight team](/about#how-we-write)
 
 *Last updated: 4 May 2026*
 

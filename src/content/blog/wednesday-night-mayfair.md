@@ -5,40 +5,13 @@ metaDescription: "Your guide to Wednesday night in Mayfair. What is actually ope
 excerpt: "Wednesday is Mayfair's quietest midweek night, but there is still a scene if you know where to look. Here is what to expect and how to plan it."
 date: "2026-06-08"
 updated: "2026-06-08"
-author: "Henry Ashcroft"
 category: "Night Guides"
 tags: ["mayfair", "wednesday night", "london nightlife", "midweek"]
 readingTime: "6 min read"
 featured: false
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Wednesday Night in Mayfair: Where to Go and What to Expect",
-  "datePublished": "2026-06-08",
-  "dateModified": "2026-06-08",
-  "author": {
-    "@type": "Person",
-    "name": "Henry Ashcroft",
-    "url": "https://mayfairtonight.com/about-the-editor/",
-    "jobTitle": "Mayfair Area Specialist"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Mayfair Tonight",
-    "url": "https://mayfairtonight.com"
-  },
-  "image": "/gallery/images/fe4414_acdf2a4fa9c84dbc97b1bc7d35e637e6.jpg",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://mayfairtonight.com/blog/wednesday-night-mayfair"
-  }
-}
-</script>
-
-By [Henry Ashcroft](/about-the-editor), Mayfair Area Specialist
+By the [Mayfair Tonight team](/about#how-we-write)
 
 *Last updated: 8 June 2026*
 

@@ -158,6 +158,10 @@ export default function Footer() {
             London&apos;s best nightlife.
           </p>
           <p className="text-xs text-dark-muted mt-2">
+            <Link href="/about" className="hover:text-gold transition-colors">
+              About
+            </Link>
+            {" · "}
             <Link href="/contact" className="hover:text-gold transition-colors">
               Book a Table
             </Link>

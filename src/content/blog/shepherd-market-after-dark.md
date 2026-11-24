@@ -5,40 +5,13 @@ metaDescription: "Shepherd Market at night: the lantern-lit lanes, centuries-old
 excerpt: "Tucked between Curzon Street and Piccadilly is the pocket of Mayfair that still feels like a village. How to spend an evening in Shepherd Market after dark."
 date: "2026-07-07"
 updated: "2026-07-07"
-author: "Henry Ashcroft"
 category: "Location Guides"
 tags: ["mayfair", "shepherd market", "evening guide", "bars"]
 readingTime: "6 min read"
 featured: false
 ---
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Shepherd Market After Dark: An Evening in Mayfair's Hidden Village",
-  "datePublished": "2026-07-07",
-  "dateModified": "2026-07-07",
-  "author": {
-    "@type": "Person",
-    "name": "Henry Ashcroft",
-    "url": "https://mayfairtonight.com/about-the-editor/",
-    "jobTitle": "Mayfair Area Specialist"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "Mayfair Tonight",
-    "url": "https://mayfairtonight.com"
-  },
-  "image": "/gallery/images/maison-close-130.jpg",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://mayfairtonight.com/blog/shepherd-market-after-dark"
-  }
-}
-</script>
-
-By [Henry Ashcroft](/about-the-editor), Mayfair Area Specialist
+By the [Mayfair Tonight team](/about#how-we-write)
 
 *Last updated: 7 July 2026*
 
