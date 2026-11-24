@@ -11,9 +11,9 @@ readingTime: "8 min read"
 
 ## Why Most Mayfair Club Lists Are Useless
 
-Every "best clubs in Mayfair" article online reads like it was written by someone who's never been past the door. They list the same venues with the same generic descriptions pulled from press releases. No opinions. No honesty. No help.
+Most "best clubs in Mayfair" articles online list the same venues with the same generic descriptions pulled from press releases. No opinions. No honesty. No help.
 
-We book tables and guestlist across Mayfair every week. We know which clubs deliver and which ones coast on reputation. This is the honest list.
+We book tables and guestlist across Mayfair every week. This is the honest list.
 
 ## The Ranking
 
