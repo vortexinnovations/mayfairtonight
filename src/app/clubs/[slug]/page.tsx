@@ -399,14 +399,19 @@ export default async function ClubPage({
         </section>
       </article>
 
-      {/* Schema */}
+      {/* Schema: the club is what this page is about. The page carries our URL;
+          the club gets no URL of ours. Opening hours only with a confirmed
+          closing time (a club that publishes none gets no hours). */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: safeJsonLd(
-            isClosed
+          __html: safeJsonLd({
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            "@id": `https://mayfairtonight.com/clubs/${club.slug}`,
+            url: `https://mayfairtonight.com/clubs/${club.slug}`,
+            about: isClosed
               ? {
-                  "@context": "https://schema.org",
                   "@type": "NightClub",
                   name: club.name,
                   description: `${club.name} has permanently closed.`,
@@ -418,7 +423,6 @@ export default async function ClubPage({
                   },
                 }
               : {
-                  "@context": "https://schema.org",
                   "@type": "NightClub",
                   name: club.name,
                   ...(previousName ? { alternateName: previousName } : {}),
@@ -429,7 +433,6 @@ export default async function ClubPage({
                     addressLocality: "London",
                     addressCountry: "GB",
                   },
-                  // A club that publishes no closing time: its days and opening time only.
                   ...(club.closingTime
                     ? {
                         openingHours: (club.schemaDays ?? club.openNights).map(
@@ -437,38 +440,12 @@ export default async function ClubPage({
                             `${night.substring(0, 2)} ${club.openingTime}-${club.closingTime}`
                         ),
                       }
-                    : {
-                        openingHoursSpecification: {
-                          "@type": "OpeningHoursSpecification",
-                          dayOfWeek: (club.schemaDays ?? club.openNights).map(
-                            (night) => `https://schema.org/${night}`
-                          ),
-                          opens: club.openingTime,
-                        },
-                      }),
+                    : {}),
                   ...(club.tableMinimum ? { priceRange: `Tables from ${club.tableMinimum}` } : {}),
-                  servesCuisine: club.musicPolicy.join(", "),
-                }
-          ),
+                },
+          }),
         }}
       />
-
-      {!isClosed && club.faqs && (
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: safeJsonLd({
-              "@context": "https://schema.org",
-              "@type": "FAQPage",
-              mainEntity: club.faqs.map((faq) => ({
-                "@type": "Question",
-                name: faq.question,
-                acceptedAnswer: { "@type": "Answer", text: faq.answer },
-              })),
-            }),
-          }}
-        />
-      )}
 
       {!isClosed && <StickyBookingBar variant="club" clubName={club.name} />}
     </>

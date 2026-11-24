@@ -2,7 +2,7 @@
 title: "Best Clubs Near Piccadilly and Leicester Square: Where to Go After Dinner"
 metaTitle: "Best Clubs Near Piccadilly & Leicester Square"
 metaDescription: "The best nightclubs near Piccadilly and Leicester Square in London. Walking distance from the West End, where to go after dinner or a show."
-date: "2026-03-02"
+date: "2026-03-25"
 excerpt: "Finished dinner in the West End? Just seen a show? Here are the best clubs within walking distance of Piccadilly and Leicester Square."
 category: "Location Guides"
 tags: ["Piccadilly clubs", "Leicester Square nightlife", "West End clubs", "after dinner"]

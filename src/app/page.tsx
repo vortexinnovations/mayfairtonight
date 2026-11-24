@@ -22,7 +22,16 @@ export const metadata: Metadata = {
     description:
       "Live guide to tonight's best clubs in Mayfair. Which clubs are open, music policy, events, and instant table bookings.",
     url: "https://mayfairtonight.com",
+    siteName: "Mayfair Tonight",
   },
+};
+
+// The site's name for Google Search (site names use the home page's WebSite markup).
+const WEBSITE_SCHEMA = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: "Mayfair Tonight",
+  url: "https://mayfairtonight.com",
 };
 
 // The page shows today's date and the clubs open tonight, so it cannot stay
@@ -51,6 +60,7 @@ export default async function HomePage() {
 
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: safeJsonLd(WEBSITE_SCHEMA) }} />
       <HeroImage src={heroImages.homepage} alt="Mayfair nightclub atmosphere">
         <div className="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4 mb-6">
           <div>
@@ -185,36 +195,6 @@ export default async function HomePage() {
           </div>
         )}
 
-        {/* Event Schema Markup */}
-        {hasEvents && (
-          <script
-            type="application/ld+json"
-            dangerouslySetInnerHTML={{
-              __html: safeJsonLd(
-                tonightEvents.map((event) => ({
-                  "@context": "https://schema.org",
-                  "@type": "Event",
-                  name: `${event.eventName} at ${event.clubName}`,
-                  startDate: `${event.date}T${event.openingTime}:00`,
-                  location: {
-                    "@type": "Place",
-                    name: event.clubName,
-                    address: {
-                      "@type": "PostalAddress",
-                      addressLocality: "London",
-                      addressCountry: "GB",
-                    },
-                  },
-                  description: event.description,
-                  organizer: {
-                    "@type": "Organization",
-                    name: event.clubName,
-                  },
-                }))
-              ),
-            }}
-          />
-        )}
       </section>
 
       {/* Internal links section */}

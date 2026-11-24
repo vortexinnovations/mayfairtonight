@@ -2,7 +2,7 @@
 title: "Dinner and Clubbing in Mayfair: The Best Dinner-to-Dance Venues"
 metaTitle: "Dinner and Clubbing in Mayfair: Best Venues"
 metaDescription: "The best venues in Mayfair for dinner and clubbing in one night. Restaurants that transition into nightclubs, no venue-hopping required."
-date: "2026-02-28"
+date: "2026-03-25"
 excerpt: "The best nights in Mayfair start at the table. These venues do dinner and nightclub under one roof, a seamless transition from fork to dance floor."
 category: "Club Guides"
 tags: ["dinner and clubbing", "dinner to dance", "restaurant clubs", "Mayfair dining"]

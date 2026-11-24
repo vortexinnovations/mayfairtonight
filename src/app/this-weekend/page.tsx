@@ -1,4 +1,3 @@
-import { safeJsonLd } from "@/lib/safe-output";
 import { Metadata } from "next";
 import Link from "next/link";
 import ClubCard from "@/components/ClubCard";
@@ -139,39 +138,6 @@ export default function WeekendPage() {
           </p>
           <WhatsAppCTA size="lg" />
         </div>
-
-        {/* Event schema for weekend events */}
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: safeJsonLd(
-              eventsData
-                .filter((e) =>
-                  [weekend.friday, weekend.saturday, weekend.sunday].includes(e.date)
-                )
-                .map((event) => ({
-                  "@context": "https://schema.org",
-                  "@type": "Event",
-                  name: `${event.eventName} at ${event.clubName}`,
-                  startDate: `${event.date}T${event.openingTime}:00`,
-                  location: {
-                    "@type": "Place",
-                    name: event.clubName,
-                    address: {
-                      "@type": "PostalAddress",
-                      addressLocality: "London",
-                      addressCountry: "GB",
-                    },
-                  },
-                  description: event.description,
-                  organizer: {
-                    "@type": "Organization",
-                    name: event.clubName,
-                  },
-                }))
-            ),
-          }}
-        />
       </article>
 
       <StickyBookingBar />

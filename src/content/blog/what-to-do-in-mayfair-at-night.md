@@ -2,7 +2,7 @@
 title: "What to Do in Mayfair at Night: Beyond the Obvious"
 metaTitle: "What to Do in Mayfair at Night: Full Guide"
 metaDescription: "What to do in Mayfair at night: nightclubs, cocktail bars, late-night dining, and how to plan an evening in London's most exclusive neighbourhood."
-date: "2026-02-20"
+date: "2026-03-25"
 excerpt: "Mayfair after dark is a different world. Here's everything worth doing once the sun goes down, from cocktail bars to world-class clubs to late-night dining."
 category: "Guides"
 tags: ["Mayfair at night", "things to do Mayfair", "nightlife", "evening guide"]

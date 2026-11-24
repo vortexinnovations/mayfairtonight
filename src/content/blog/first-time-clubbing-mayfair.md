@@ -2,7 +2,7 @@
 title: "First Time Going Out in Mayfair? Here's What You Need to Know"
 metaTitle: "First Time Clubbing in Mayfair: Tips"
 metaDescription: "Going clubbing in Mayfair for the first time? Everything you need to know: dress code, how to get in, what to expect, how much it costs, and which clubs are best for first-timers."
-date: "2026-03-18"
+date: "2026-03-25"
 excerpt: "Mayfair nightlife can be intimidating if you've never been. Don't worry. Here's everything you need to know so you walk in confident and have a brilliant night."
 category: "Guides"
 tags: ["first time", "Mayfair guide", "nightlife tips", "beginners"]

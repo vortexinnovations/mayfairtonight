@@ -13,7 +13,7 @@ featured: false
 
 By the [Mayfair Tonight team](/about#how-we-write)
 
-*Last updated: 8 May 2026*
+*Last updated: 8 October 2026*
 
 Friday night in Mayfair is a different animal to any other night of the week. Our bookings team sees it every week: the energy shifts remarkably quickly between 10pm and midnight. The streets around Berkeley Square fill up fast, the queues start building from about 10:30pm, and by the time you're inside, the dance floors are already packed. If you're planning a Friday night in Mayfair, this guide covers exactly what to expect and where to go.
 

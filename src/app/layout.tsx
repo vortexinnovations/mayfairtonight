@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import LeadRefTracker from "@/components/LeadRefTracker";
-import { WHATSAPP_TELEPHONE } from "@/lib/whatsapp";
+import { ORGANIZATION } from "@/lib/organization";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -58,26 +58,7 @@ export default function RootLayout({
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
-            __html: safeJsonLd({
-              "@context": "https://schema.org",
-              "@type": "Organization",
-              name: "Mayfair Tonight",
-              description: "The insider guide to Mayfair nightlife: club listings, guestlist guides, dress codes, and instant table bookings via WhatsApp.",
-              url: "https://mayfairtonight.com",
-              telephone: WHATSAPP_TELEPHONE,
-              image: "https://mayfairtonight.com/gallery/images/fe4414_dfa2530f4b3842c6ad4531f28893fd4f.jpg",
-              logo: "https://mayfairtonight.com/icon.svg",
-              areaServed: {
-                "@type": "City",
-                name: "London",
-              },
-              contactPoint: {
-                "@type": "ContactPoint",
-                contactType: "reservations",
-                telephone: WHATSAPP_TELEPHONE,
-                availableLanguage: "English",
-              },
-            }),
+            __html: safeJsonLd({ "@context": "https://schema.org", ...ORGANIZATION }),
           }}
         />
       </body>

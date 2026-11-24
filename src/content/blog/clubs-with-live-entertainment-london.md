@@ -2,7 +2,7 @@
 title: "London Clubs with Live Entertainment: Shows, Performers, and Showclubs"
 metaTitle: "London Clubs with Live Entertainment 2026"
 metaDescription: "The best London nightclubs with live entertainment, shows, and performers. From circus acts to aerial shows: clubs where the entertainment is part of the night."
-date: "2026-03-08"
+date: "2026-03-25"
 excerpt: "Some clubs just play music. These clubs put on a show. Fire breathers, aerial acrobats, live singers: the London venues where entertainment is the main event."
 category: "Club Guides"
 tags: ["live entertainment", "showclubs", "performances", "London nightlife"]
