@@ -45,9 +45,6 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <head>
-        <link rel="icon" href="/favicon.ico" sizes="any" />
-      </head>
       <body className="min-h-screen bg-dark text-white antialiased">
         <Header />
         <main className="pb-20 md:pb-0">{children}</main>

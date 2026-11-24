@@ -6,7 +6,8 @@ export default function robots(): MetadataRoute.Robots {
       {
         userAgent: "*",
         allow: "/",
-        disallow: ["/api/", "/_next/"],
+        // Never /_next/: it serves the CSS, JavaScript and /_next/image pictures Google renders with.
+        disallow: ["/api/"],
       },
     ],
     sitemap: "https://mayfairtonight.com/sitemap.xml",

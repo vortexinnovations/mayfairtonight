@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
-import { getOpenClubs, tablesFrom } from "@/data/clubs";
+import { getClosedClubs, getOpenClubs, tablesFrom } from "@/data/clubs";
 import ClubCard from "@/components/ClubCard";
 import WhatsAppCTA from "@/components/WhatsAppCTA";
 import StickyBookingBar from "@/components/StickyBookingBar";
@@ -77,6 +77,22 @@ export default function ClubsPage() {
             </Link>
           ))}
         </div>
+      </section>
+
+      <section className="max-w-6xl mx-auto px-4 pt-10">
+        <h2 className="text-lg font-semibold text-white mb-2">Closed Venues</h2>
+        <p className="text-dark-muted text-sm mb-3">
+          These clubs have closed. Each page suggests open alternatives.
+        </p>
+        <ul className="flex flex-wrap gap-x-6 gap-y-2 text-sm">
+          {getClosedClubs().map((club) => (
+            <li key={club.slug}>
+              <Link href={`/clubs/${club.slug}`} className="text-gold hover:text-gold-light">
+                {club.name}
+              </Link>
+            </li>
+          ))}
+        </ul>
       </section>
       <StickyBookingBar />
     </>
