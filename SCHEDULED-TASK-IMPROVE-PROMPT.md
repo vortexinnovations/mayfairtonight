@@ -26,6 +26,7 @@ This prompt runs in three places. Paths and commands above and below are written
 5. **Keep each page's primary query in its title and meta title.** You may sharpen a title; the query the page ranks for must stay.
 6. **Never link a nightclub's own website.** Internal links are root-relative with NO trailing slash (`/clubs/tape-london`, `/nights/friday`, `/blog/{slug}`).
 7. **Blog posts:** improved only if `ppm <payload>` exits 0 and prints `OK`; never fall back to editing the Markdown file. **Site pages:** if `npx tsc --noEmit` or `npm run build` fails, revert the file and stop.
+8. **House style (owner, 25 November 2026):** write "Cirque Le Soir" with a capital L (URLs and slugs keep `cirque-le-soir`); no hyphen used as a dash (" - " between words), no en or em dash, ranges "X to Y" (£500 to £1,000). The API refuses dashes.
 
 ## STEP 1: PICK THE PAGE
 
@@ -114,7 +115,7 @@ Find where the page's words live:
 Then:
 - Check every fact against a citable source or the portfolio's own venue data (`C:\websites\clubsinlondon\content\clubs\*.ts` has hours, nights, minimums, guestlist and dress code per venue; mfnights' booking pages in `src/data/bookingContent.json`). Where sources conflict, prefer the more specific and recent one and say which you used in the report. Do not state prices or hours without "as of {Month Year}" where the page's format allows it.
 - Make the page answer the query it ranks for in its first paragraph, cut first-person persona claims, remove closed venues from recommendations, and add genuinely useful specifics. Keep the existing structure, metadata keys, slugs and component props.
-- Edit only string content unless the template itself is wrong. No em dashes in anything you write; British English.
+- Edit only string content unless the template itself is wrong. No em dashes or hyphens used as dashes in anything you write; British English.
 - Verify: `npx tsc --noEmit` and `npm run build` must pass (the build regenerates the gitignored `src/data/file-posts.json`; if it changes `next-env.d.ts`, restore it). Then commit ONLY the files you meant to change: `Improve: <page> (facts verified, cleanup)`, push to master, confirm LOCAL==REMOTE SHA, and wait for the Vercel deploy to succeed.
 - Fetch the live page and confirm a distinctive new sentence is present.
 - Bookkeeping (the API did not publish this page, so record it yourself once the deploy is live): `ppm --report mayfairtonight success "<change 1>" "<change 2>" ... --url <the live URL> --type improvement`. It checks the page answers 200, writes the improvement report and moves the site in the rotation. Never write these records any other way.
@@ -141,7 +142,7 @@ Fix every dry-run error. The post is improved ONLY if the second command exits 0
 ## DEFINITION OF DONE (all true)
 
 - [ ] One existing page improved; URL unchanged; nothing new created
-- [ ] No closed venue presented as open; no first-person persona claims; no em dashes
+- [ ] No closed venue presented as open; no first-person persona claims; no em dashes or hyphens used as dashes
 - [ ] Facts match the sources named above; conflicts recorded in the report
 - [ ] Site page: tsc and build passed, only intended files committed, deploy succeeded, records written by hand. Blog post: `ppm` printed `OK`
 - [ ] The new text is confirmed on the live page
