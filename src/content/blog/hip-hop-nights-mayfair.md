@@ -50,7 +50,7 @@ As [Time Out's guide to London clubs](https://www.timeout.com/london/clubs) note
 
 ## What Sets Mayfair Hip-Hop Apart
 
-The hip-hop you hear in Mayfair is different from what you would find in Shoreditch or Brixton. Mayfair DJs tend to play a more polished mix - think Drake, Future, Metro Boomin, Central Cee, and classic Jay-Z and Kanye rather than the underground or grime-heavy sets you would hear east of the city. This is not a criticism. It is a deliberate programming choice that fits the Mayfair crowd.
+The hip-hop you hear in Mayfair is different from what you would find in Shoreditch or Brixton. Mayfair DJs tend to play a more polished mix: think Drake, Future, Metro Boomin, Central Cee, and classic Jay-Z and Kanye rather than the underground or grime-heavy sets you would hear east of the city. This is not a criticism. It is a deliberate programming choice that fits the Mayfair crowd.
 
 If you want pure underground hip-hop or grime, Mayfair is not the neighbourhood for that. But if you want high-quality mainstream and classic hip-hop played on excellent sound systems in well-run rooms, W1 is hard to beat. For a broader look at [what's on tonight in London](/where-to-go-tonight), check our live guide.
 

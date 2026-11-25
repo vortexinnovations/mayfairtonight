@@ -417,21 +417,21 @@ export default function GirlsGuestlistPage() {
           </h2>
           <div className="space-y-3">
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">
-              <p className="text-gold font-medium text-sm">7:00 - 9:00 PM</p>
+              <p className="text-gold font-medium text-sm">7:00 to 9:00 PM</p>
               <h3 className="text-white font-medium">Pre-Drinks</h3>
               <p className="text-sm text-gray-300 mt-1">
                 Start at a Mayfair bar or restaurant. The bars along Bruton Street and around Shepherd Market are ideal for pre-drinks before heading to the clubs. Keep it civilised: arriving noticeably drunk is the fastest way to get turned away.
               </p>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">
-              <p className="text-gold font-medium text-sm">10:00 - 11:00 PM</p>
+              <p className="text-gold font-medium text-sm">10:00 to 11:00 PM</p>
               <h3 className="text-white font-medium">Arrival</h3>
               <p className="text-sm text-gray-300 mt-1">
                 Arrive at the club between 10:30 and 11:00 PM. This is the sweet spot: guestlist is open, the queue is manageable, and you get settled before the room fills up. Have your names ready and check in confidently.
               </p>
             </div>
             <div className="bg-dark-card border border-dark-border rounded-lg p-4">
-              <p className="text-gold font-medium text-sm">11:30 PM - 1:00 AM</p>
+              <p className="text-gold font-medium text-sm">11:30 PM to 1:00 AM</p>
               <h3 className="text-white font-medium">Peak Hours</h3>
               <p className="text-sm text-gray-300 mt-1">
                 The main room fills, the music peaks, and the energy is at its highest. This is the golden window. The dance floor is packed, the atmosphere is electric, and the DJs play their best sets.

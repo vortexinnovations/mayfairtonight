@@ -1,6 +1,6 @@
 ---
 title: "Friday Night in Mayfair: Where to Go and What to Expect"
-metaTitle: "Friday Night in Mayfair - Where to Go 2026"
+metaTitle: "Friday Night in Mayfair: Where to Go 2026"
 metaDescription: "Your guide to Friday night in Mayfair. Discover which clubs are open, what to expect at the door, and how to plan your evening in London W1."
 excerpt: "Everything you need to know about a Friday night out in Mayfair, from the best venues to arrival times and what the crowds are actually like."
 date: "2026-05-08"
@@ -50,8 +50,8 @@ Skip the queue, secure your table, and get insider access. Message us on WhatsAp
 
 Timing is everything on a Friday night in Mayfair. Here's the breakdown:
 
-- **9:30pm - 10:30pm**: Doors open at most venues. The smart move is arriving in this window, especially if you're on a [guestlist](/mayfair-nightclubs). The queue will be minimal and you'll get your pick of positions inside.
-- **10:30pm - 11:30pm**: The main wave arrives. Queues start building and door staff become more selective. Groups without a booking or guestlist will find this increasingly difficult.
+- **9:30pm to 10:30pm**: Doors open at most venues. The smart move is arriving in this window, especially if you're on a [guestlist](/mayfair-nightclubs). The queue will be minimal and you'll get your pick of positions inside.
+- **10:30pm to 11:30pm**: The main wave arrives. Queues start building and door staff become more selective. Groups without a booking or guestlist will find this increasingly difficult.
 - **After midnight**: If you're not already inside or don't have a table booked, it's a coin flip. Some venues stop guestlist entry entirely by 12:30am.
 
 Arriving at 10pm on a Friday feels like having the place to yourself. Arriving at midnight feels like trying to get into a sold-out concert. Plan accordingly.

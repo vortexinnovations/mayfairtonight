@@ -1,7 +1,7 @@
 ---
 title: "Late-Night Clubs in Mayfair: Where to Go Past 3AM"
 metaTitle: "Late-Night Clubs in Mayfair Open Past 3AM"
-metaDescription: "Discover the late-night clubs in Mayfair that stay open past 3AM. Tape London, The Box, Reign London and more - your guide to London's after-hours scene."
+metaDescription: "Discover the late-night clubs in Mayfair that stay open past 3AM. Tape London, The Box, Reign London and more: your guide to London's after-hours scene."
 excerpt: "Not ready to call it a night? These are the Mayfair clubs that keep going well past 3AM, from hip-hop to cabaret."
 date: "2026-04-21"
 updated: "2026-10-08"

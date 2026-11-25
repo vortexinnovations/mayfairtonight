@@ -61,13 +61,13 @@ The one thing that does not change: no sportswear, no shorts, no flip-flops. May
 
 A Tuesday night out in Mayfair follows a different timeline to the weekend. Most people start later and end later. Here is a rough guide:
 
-**9pm to 10:30pm** - Pre-drinks at a Mayfair bar or restaurant. The venues around [Mayfair nightclubs](/mayfair-nightclubs) have plenty of options within walking distance.
+**9pm to 10:30pm**: Pre-drinks at a Mayfair bar or restaurant. The venues around [Mayfair nightclubs](/mayfair-nightclubs) have plenty of options within walking distance.
 
-**10:30pm to 11:30pm** - Arrive at the club. Queues are minimal on Tuesdays, so there is no need to rush. This is the ideal window to settle in.
+**10:30pm to 11:30pm**: Arrive at the club. Queues are minimal on Tuesdays, so there is no need to rush. This is the ideal window to settle in.
 
-**11:30pm to 2am** - The main event. The dance floor peaks around midnight and holds steady. Music builds from warm-up sets into heavier rotation.
+**11:30pm to 2am**: The main event. The dance floor peaks around midnight and holds steady. Music builds from warm-up sets into heavier rotation.
 
-**2am onwards** - The crowd thins slightly, but the committed stay. Some venues run until 3am or later on Tuesdays. Check [where to go tonight](/where-to-go-tonight) for the latest on closing times.
+**2am onwards**: The crowd thins slightly, but the committed stay. Some venues run until 3am or later on Tuesdays. Check [where to go tonight](/where-to-go-tonight) for the latest on closing times.
 
 ## Frequently Asked Questions
 
